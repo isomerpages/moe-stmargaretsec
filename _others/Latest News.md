@@ -238,290 +238,264 @@ Joanna, you're an inspiration for everyone to be actively engaged in sports!
 
 Tsai Gin-tzu, who was in our school String Ensemble, completed her education at St. Margaret’s Secondary School in 2015. A resilient student who has had to overcome obstacles to follow her heart, she went on to pursue her passion for music at the Nanyang Academy of Fine Arts (NAFA). We rejoice with her– she has not just graduated but clinched the ‘Best Graduate 2021’ Award! 
 
-  
-
 Her desire to learn continuously is evident in her desire to delve deeper into music through the Master's Programme she will enrol in. Congratulations and all the best to you, Gin-tzu!
 
-  
+<img src="/images/Tsai%20Gin-tzu%20-%20St%20Margarets%20Secondary%20School.jpg" style="width:70%"/>
+<br>
 
-![Tsai Gin-tzu - St Margarets Secondary School.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/Tsai%20Gin-tzu%20-%20St%20Margarets%20Secondary%20School.jpg)  
-  
+------------
 
-NJC International Humanities Symposium 2021
--------------------------------------------
+### NJC International Humanities Symposium 2021
 
-This year’s International Humanities Symposium (IHS) took place on 16 Jul. Participants came from more than 30 schools both from Singapore and overseas. In total, over 70 video presentations were submitted. You can view all the projects here: https://go.gov.sg/e-ihs2021 The theme of the symposium: Since the start of 2020, humanity has been grappling with severe challenges: a pandemic, climate change, and social and political upheavals. Against this backdrop of global challenges, the 4th e-International Humanities Symposium 2021: Humanity – Challenges, Adaptation and Innovation, offers students a critical lens to examine the underlying forces, and to showcase their creativity by suggesting new innovative ideas or modifications to existing strategies to address the chosen situation. This will not only heighten the participants’ global awareness, but also nurture them to become invested citizens of tomorrow. We are pleased to share that our team was conferred the **Most Creative Presentation Award**. Great job, girls. ![NJC International Humanities Symposium.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/NJC%20International%20Humanities%20Symposium.jpg)
+This year’s International Humanities Symposium (IHS) took place on 16 Jul. Participants came from more than 30 schools both from Singapore and overseas. In total, over 70 video presentations were submitted. You can view all the projects here: https://go.gov.sg/e-ihs2021 The theme of the symposium: Since the start of 2020, humanity has been grappling with severe challenges: a pandemic, climate change, and social and political upheavals. Against this backdrop of global challenges, the 4th e-International Humanities Symposium 2021: Humanity – Challenges, Adaptation and Innovation, offers students a critical lens to examine the underlying forces, and to showcase their creativity by suggesting new innovative ideas or modifications to existing strategies to address the chosen situation. This will not only heighten the participants’ global awareness, but also nurture them to become invested citizens of tomorrow. We are pleased to share that our team was conferred the **Most Creative Presentation Award**. Great job, girls. 
 
-NUS Geography Challenge 2021
-----------------------------
+<img src="/images/NJC%20International%20Humanities%20Symposium.jpg" style="width:80%"/>
+<br>
 
-The National University of Singapore Geography Challenge (NUS GC) is an annual non-profit Geography-centered competition jointly organised by the NUS Department of Geography and the NUS Geographical Society. During the  NUS GC 2021, our students were empowered and inspired not only as  Singaporean citizens, but also as world citizens in thinking critically about the larger picture to protect Singapore’s immediate future and the decades ahead – towards SG100. Our students also explored potential solutions and opportunities to promote active citizenry as well as ensure Singapore will continue to be the passport to the world. The resilience our students showed in competing in this challenge helped them clinch a Silver and 2 Bronze awards in the Top Performing Individual category and emerged as Top 2 in the Team category. Well done, girls! ![NUS Geography Challenge 2.png](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/NUS%20Geography%20Challenge%202.png)
+----------------
 
-𝟮𝟬𝟮𝟭 𝗟𝗲𝗲 𝗞𝘂𝗮𝗻 𝗬𝗲𝘄 𝗔𝘄𝗮𝗿𝗱 𝗳𝗼𝗿 𝗢𝘂𝘁𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗡𝗼𝗿𝗺𝗮𝗹 𝗖𝗼𝘂𝗿𝘀𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀
--------------------------------------------------------------------------------------------------------------------
+### NUS Geography Challenge 2021
+
+The National University of Singapore Geography Challenge (NUS GC) is an annual non-profit Geography-centered competition jointly organised by the NUS Department of Geography and the NUS Geographical Society. During the  NUS GC 2021, our students were empowered and inspired not only as  Singaporean citizens, but also as world citizens in thinking critically about the larger picture to protect Singapore’s immediate future and the decades ahead – towards SG100. Our students also explored potential solutions and opportunities to promote active citizenry as well as ensure Singapore will continue to be the passport to the world. The resilience our students showed in competing in this challenge helped them clinch a Silver and 2 Bronze awards in the Top Performing Individual category and emerged as Top 2 in the Team category. Well done, girls! 
+
+<img src="/images/NUS%20Geography%20Challenge%202.png" style="width:80%"/>
+<br>
+
+----------------
+
+### 𝟮𝟬𝟮𝟭 𝗟𝗲𝗲 𝗞𝘂𝗮𝗻 𝗬𝗲𝘄 𝗔𝘄𝗮𝗿𝗱 𝗳𝗼𝗿 𝗢𝘂𝘁𝘀𝘁𝗮𝗻𝗱𝗶𝗻𝗴 𝗡𝗼𝗿𝗺𝗮𝗹 𝗖𝗼𝘂𝗿𝘀𝗲 𝗦𝘁𝘂𝗱𝗲𝗻𝘁𝘀
 
 Ashleigh Ng Shi Ya and Halfia (graduated 2020) have received the 2021 Lee Kuan Yew Award for Outstanding Normal Course Students. The award, based on their GCE O-Level and N-level Examination results respectively, is presented to top Normal (Academic) and Normal (Technical) students,. This achievement is an acknowledgement of their diligence and resilience in overcoming the challenges they faced.
 
-  
-
 Congratulations, Ashleigh and Halfia!
 
-  
+/images/LKY2021%20.png<img src="/images/LKY2021%20.png" style="width:80%"/>
+<br>
 
-![LKY2021 .png](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/LKY2021%20.png)  
+----------------
 
-  
-
-𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻 新蕾爱拍客
------------------------------------------------------------------------------------------------------------
+### 𝗖𝗵𝗶𝗻𝗲𝘀𝗲 𝗖𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗪𝗿𝗶𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗣𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻 新蕾爱拍客
 
 In April this year, 8 students from the Mother Tongue DOTS Programme participated in the annual Chinese Creative Writing with Photography Competition (新蕾爱拍客). The competition was organised by the Singapore Hokkien Huay Kuan and LianHe ZaoBao to promote Chinese literary writing among students. Participants were required to submit a photograph together with a write-up based on the themes “The New Normal” or “Our Cultural Heritage”. We are delighted to share that 2 of our students, Jade Palimarmo from S2-1 and Suzanna Tan from S3-5, won the Merit Award for their work!
 
 | A | B |
 | --- | --- |
-| ![1 Suzanna.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/1%20Suzanna.jpg) | ![2 Suzanna 2.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/2%20Suzanna%202.jpg)  
- |
-| ![3 Jade.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/3%20Jade.jpg)  
- | ![4 Jade 2.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/4%20Jade%202.jpg)  
- |
+| ![](/images/1%20Suzanna.jpg) | ![2 Suzanna 2.jpg](images/2%20Suzanna%202.jpg) |
+| ![3 Jade.jpg](/images/3%20Jade.jpg) | ![4 Jade 2.jpg](/images/4%20Jade%202.jpg) |
 
-𝗧𝗮𝗺𝗶𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻𝘀
-----------------------------------------------------
+---------------------
 
-We are pleased to share the following Tamil Language achievements by our students: - Ministry of Education Naanum Oru Padaipaali: Certificate of Achievement - Kavimalai - Poetry Workshop cum Poetry Writing Competition 2021: Consolation Prize - Secondary 4 - Short Story Writing Competition by Association of Singapore Tamil Writers: Third Prize - Short Story Writing Competition by Raffles Institution: First Prize Well done, girls! ![01 Naanum Oru.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/01%20Naanum%20Oru.jpg) ![02 Kavimalai.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/02%20Kavimalai.jpg)  
-![03 Tamil Literary Comp.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/03%20Tamil%20Literary%20Comp.jpg)  
-![04 RI - Short Story.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/04%20RI%20-%20Short%20Story.jpg)
+### 𝗧𝗮𝗺𝗶𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻𝘀
 
-Track Record of Resilience
---------------------------
+We are pleased to share the following Tamil Language achievements by our students: - Ministry of Education Naanum Oru Padaipaali: Certificate of Achievement - Kavimalai - Poetry Workshop cum Poetry Writing Competition 2021: Consolation Prize - Secondary 4 - Short Story Writing Competition by Association of Singapore Tamil Writers: Third Prize - Short Story Writing Competition by Raffles Institution: First Prize Well done, girls!
+
+<img src="/images/01%20Naanum%20Oru.jpg" style="width:60%"/>
+<br>
+<img src="/images/02%20Kavimalai.jpg" style="width:60%"/>
+<br>
+<img src="/images/03%20Tamil%20Literary%20Comp.jpg" style="width:60%"/>
+<br>
+<img src="/images/04%20RI%20-%20Short%20Story.jpg" style="width:60%"/>
+<br>
+
+------------------
+
+### Track Record of Resilience
 
 Our Secondary Four student, Tan Leyin was featured on [SchoolBag](https://www.schoolbag.edu.sg/story/track-record-of-resilience) for not allowing hurdles to stand in the way of her goals. She exemplifies our school's value of resilience and is a great inspiration to us all!
 
-  
-
 Head over to the link above to read more about Leyin's story!
 
-  
+<img src="/images/Tan%20Le%20Yin.jpg" style="width:60%"/>
+<br>
 
-![Tan Le Yin.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Tan%20Le%20Yin.jpg)  
+--------
 
-SSSC Sportsmanship Award
-------------------------
+### SSSC Sportsmanship Award
 
 Every year, the Singapore Schools Sports Council recognises outstanding sportsmen who have exhibited great sportsmanship during the National School Games by conferring on them the SSSC Sportsmanship Award.  
-
-  
 
 We are truly honored to have 2 recipients of the award. They are : 
 
 Ng Yu Ning Natalie from S4-5 for Badminton and Koh Tze Ting Kirstin from S4-5 for Bowling.         
 
-  
-
 Congratulations!  
 
-![SCSS - SMSS recipients 2021.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/SCSS%20-%20SMSS%20recipients%202021.jpeg)  
+<img src="/images/SCSS%20-%20SMSS%20recipients%202021.jpeg" style="width:80%"/>
+<br>
 
-  
+----------------
 
-North West Community Development Council Award 2021
----------------------------------------------------
+### North West Community Development Council Award 2021
 
 Our collaboration with the North West Community Development Council (CDC) aims to bless others via community outreach and environmental efforts. We are grateful that our involvement has been acknowledged with the North West CDC School Partners Award (Gold).  
 
-  
+<img src="/images/St%20Margarets%20Secondary%20School.jpg" style="width:80%"/>
+<br>
 
-![St. Margarets Secondary School.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/St.%20Margarets%20Secondary%20School.jpg)  
+----------------
 
-  
-
-North West Community Development Council's Outstanding All-Rounder Student Award 2021
--------------------------------------------------------------------------------------
+### North West Community Development Council's Outstanding All-Rounder Student Award 2021
 
 The Outstanding All Rounder Student (OARS) Award is presented by the North West Community Development Council (CDC). The award aims to recognise students in the district who have excelled not only academically but also in their CCA and contributions to the community.
 
-  
-
 We are happy to announce that the 2021 award has been given to Koh Tze Ting Kirstin.
 
-  
+------------
 
-Destination Imagination 2022
-----------------------------
+### Destination Imagination 2022
 
 Destination Imagination (DI) is a global educational nonprofit organisation dedicated to inspiring the next generation of innovators, leaders and creative problem solvers. This year, our school sent a team of Secondary 2 students to take part in the Singapore Chapter’s Service Learning Challenge. The group chose to raise greater awareness on ways to manage and cope with stress focused on the graduating cohort who will be sitting for the national examinations at the end of the year. As part of the challenge, the students were also tasked with various challenges that required them to think creatively on their feet when presented with issues to solve. They were also tasked to present a skit to showcase their project and findings . 
 
-  
-
 We are proud to announce that our girls emerged 2nd in the Service Challenge. Great job, girls!
 
-  
+----------------
 
-  
-
-  
-
-  
-  
-
-Pioneer Brigader Brooch Award 2021
-----------------------------------
+### Pioneer Brigader Brooch Award 2021
 
 This is the highest local award presented to a member of the Girls’ Brigade. Awardees are selected based on their exemplary character, leadership qualities and their contribution to society. This year, we would like to congratulate Grace Chee Yan Ting of S4-2, Low Yan Ting, Natasha of S4-2 and Ho Jia Hui Gracia of S4-5 for being conferred this esteemed award.   
 
-  
+-----------------
 
-NPCC Awards
------------
+### NPCC Awards
 
 The National Police Cadet Corps Badge, or SPF-NPCC Badge in short, is the highest award given annually to the top five percent of graduating cadets who have shown outstanding leadership and commitment to the corps during their term of service.  
 
-  
-
 This year, we would like to congratulate Bhumi Gupta and Isabel Jade Huang Yen Chen of S4-3 for attaining this prestigious award. Great job, girls!
-
-  
 
 The Best Unit Cadet Award is given to the cadet who has made outstanding contributions to her school’s unit. This year, we would like to congratulate Fay Toh Xue Qi of S4-5 for attaining this award.  
 
-  
-
 Well done Fay!  
 
-![NPCC SPF .jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/NPCC%20SPF%20.jpeg)  
+<img src="/images/NPCC%20SPF%20.jpeg" style="width:80%"/>
+<br>
 
-  
+----------------
 
-National School Games 2021 - Badminton
---------------------------------------
+### National School Games 2021 - Badminton
 
 After several rounds of intense competition, our badminton players have done us proud by emerging 4th in the 'B' Division South Zone Badminton Championships 2021. Well done, girls! 
 
-  
+<img src="/images/NSG%20-%20Badminton.jpeg" style="width:80%"/>
+<br>
 
-![NSG - Badminton.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/NSG%20-%20Badminton.jpeg)  
+----------------
 
-National School Games 2021 - Bowling
-------------------------------------
+
+### National School Games 2021 - Bowling
 
 Our bowlers rose to the challenge and won the 3rd school ranking in the 'B' Division Bowling Championships 2021. To add to the glory, one of bowlers attained the 4th ranking in the 'B' Division (Singles) and she is also ranked 9th in the  'B' Division (All Events). We thank our bowlers for their dedication and passion for the game. Great job, ladies!
 
-  
+-----------------  
 
-Singapore Youth Festival Arts Presentation 2021 - String Ensemble
------------------------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2021 - String Ensemble
 
 Our String Ensemble showcased their talent  at this year's SYF Arts Presentation by  performing two contrasting pieces - Serenade for Strings Op. 20, Movement I by Edward Elgar and Rumanian Folk Dances, Movement V & VI by Bela Bartok.
 
-  
-
 For their stellar performance, the String Ensemble achieved the Certificate of Distinction. Well done, girls!
 
-  
+<img src="/images/WhatsApp%20Image%202021-04-29%20at%20140204%201.jpeg" style="width:80%"/>
+<br>
 
-![WhatsApp Image 2021-04-29 at 14.02.04 1.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/String%20Ensemble/WhatsApp%20Image%202021-04-29%20at%2014.02.04%201.jpeg)  
+----------------
 
-  
-
-Singapore Youth Festival Arts Presentation 2021 - Concert Band
---------------------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2021 - Concert Band
 
 For this year’s SYF performance, the senior’s team from our concert band presented 'And Then The Oceans Glows', composed by Satoshi Yagisawa. The piece consisted of 3 sectional themes: "Shining Morning Ocean", "Wind Stormy Ocean" and "Large Mother Ocean." 
 
-  
-
 We are proud to announce that our Concert Band has been awarded a Certificate of Distinction for their performance. Great job, girls!
 
-  
+<img src="/images/WhatsApp%20Image%202021-04-14%20at%20163217.jpeg" style="width:80%"/>
+<br>
 
-![WhatsApp Image 2021-04-14 at 16.32.17.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/Symphonic%20Band/WhatsApp%20Image%202021-04-14%20at%2016.32.17.jpeg)  
+----------------
 
-Singapore Youth Festival Arts Presentation 2021 - Indian Dance
---------------------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2021 - Indian Dance
 
 Our Indian Dance students’ Singapore Youth Festival submission comprised of a contemporary Indian classical piece. This joyful and exuberant performance allowed them to express how blessed they felt at being able to learn dance; as well as to showcase their devotion and dedication to the art form.
 
-  
-
 This beautiful dance piece was choreographed by their dance instructor and the students’ many hours of rehearsal and hard work paid off when they received a well-deserved Certificate of Distinction for their performance. Well done, girls!
 
-  
+--------------  
 
-Singapore Youth Festival Arts Presentation 2021 - Chinese Dance
----------------------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2021 - Chinese Dance
 
 Our Chinese Dance presented a dance that portrays the strength and grace of women. It is set against a dreamlike landscape of the ladies racing in the wind and dancing among the clouds. 
 
-  
-
 For this novel interpretation of the martial arts-inspired dance, the Chinese Dance Group was awarded a Certificate of Distinction in this year's Singapore Youth Festival Arts Presentation. Excellent work, girls!
 
-  
+---------------
 
-Singapore Youth Festival Arts Presentation 2021 - Malay Dance
--------------------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2021 - Malay Dance
 
 Our Malay Dance students presented a dance titled Fitrah Za’Rah at the Singapore Youth Festival Arts Presentation 2021. This dance symbolizes the purity and innocence of youth, celebrates friendship and enhances the bonds of love among the students. They glow with grace and radiance!
 
-  
+We are pleased to announce that our Malay Dance was awarded a Certificate of  Distinction in this year's SYF Arts Presentation. Well done, girls! 
 
-We are pleased to announce that our Malay Dance was awarded a Certificate of  Distinction inthis year's SYF Arts Presentation. Well done, girls! 
+------------------
 
-  
-
-12th Goodtalk (Global Village) International Children & Youth Bilingual Speech Conference
------------------------------------------------------------------------------------------
+### 12th Goodtalk (Global Village) International Children & Youth Bilingual Speech Conference
 
 In January of this year, 5 girls from SMSS DOTS (Chinese) participated in the 12th Global Village Children & Youths Bilingual Speech Competition. At the Preliminary round of this competition, 3 of them achieved the Bronze Award while 2 of them achieved the Most Promising Speech Award. 
 
-  
-
 Well done, girls!
 
-  
+-----------------  
 
-Queen's Commonwealth Essay Competition 2020
--------------------------------------------
+### Queen's Commonwealth Essay Competition 2020
 
 This year's competition attracted nearly 13,000 entries on the theme: Climate Action and the Commonwealth. 130 volunteer judges, drawn from 40 different countries across the Commonwealth, assessed the entries. The final judging decision was done by an expert panel of authors, journalists and poets; which included writer Anthony Horowitz, written word poet Suli Breaks, journalist Matthew Parris, novelist Wendy Holden, award-winning author Zalika Reid-Benta; and the Commonwealth Writer's Prize winner and poet, Sia Figiel. 
 
-  
-
 We are pleased to announce that 5 of our girls won the Gold Award, 13 achieved the Silver Award and 7 students clinched the Bronze Award. Congratulations to our budding young writers for exemplifying our school values of learning continuously and taking pride in their endeavours!  
   
+--------------
 
-National Primary and Secondary School Essay Competition 2020
-------------------------------------------------------------
+### National Primary and Secondary School Essay Competition 2020
 
 We are proud to share that one of our #DOTScl girls has achieved a Merit Award for her essay for the National Primary and Secondary School Essay Competition.  《2020年，我们的战疫故事》全国中小学征文大赛. 
 
-  
-
 The National Primary and Secondary School Essay Competition is co-organised by the Singapore Middle School Chinese Teachers' Association and the Committee to Promote Chinese Language Learning.
 
-  
+--------------  
 
-2020 NUS Geography Challenge
-----------------------------
+### 2020 NUS Geography Challenge
 
 The National University of Singapore Geography Challenge (NUS GC) is an annual non-profit Geography-centered competition jointly organised by the NUS Department of Geography and the NUS Geographical Society. The challenge hopes to spark interest in the dynamic discipline of Geography among secondary school students. 
 
-  
-
 Our school sent four students to take part in the challenge. We are pleased to share that one girl clinched the Gold Award and two girls received Bronze Award. Well done, girls!
 
-![Optimized-2020 NUS Geog Challenge v1.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/Optimized-2020%20NUS%20Geog%20Challenge%20v1.jpeg)  
+<img src="/images/Optimized-2020%20NUS%20Geog%20Challenge%20v1.jpeg" style="width:80%"/>
+<br>
 
-Singapore Police Force - National Police Cadet Corps (SPC-NPCC) Badge 2020
---------------------------------------------------------------------------
+----------------
+
+
+### Singapore Police Force - National Police Cadet Corps (SPC-NPCC) Badge 2020
 
 This is the pinnacle award given annually to the top five percent of graduating cadets who have shown outstanding leadership and commitment to the corps during their term of service.
 
-  
-
 This year, we would like to congratulate Station Inspector from Secondary 4-5 for clinching this prestigious award. Well done!
 
-![Optimized-NPCC SPF 2.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/Optimized-NPCC%20SPF%202.jpeg)![Optimized-NPCC SPF 1.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/Optimized-NPCC%20SPF%201.jpeg)![Optimized-NPCC SPF 3.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/Student%20Achievements/Optimized-NPCC%20SPF%203.jpeg)  
+<table>
+	<tr>
+		<td rowspan="2" width="54%">
+			<img src="/images/Optimized-NPCC%20SPF%202.jpeg"/>
+		</td>
+		<td>
+			<img src="/images/Optimized-NPCC%20SPF%201.jpeg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/Optimized-NPCC%20SPF%203.jpeg"/>
+		</td>
+	</tr>
+</table>
+		
+		
+
+
+
 
 The North West Outstanding School Partner Award
 -----------------------------------------------
