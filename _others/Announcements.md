@@ -67,6 +67,7 @@ Please refer to the press release accessible at [https://go.gov.sg/stvaccine](h
 For more information on the vaccination exercise, please visit [https://www.moe.gov.sg/faqs-covid-19-infection](https://www.moe.gov.sg/faqs-covid-19-infection) and [https://www.vaccine.gov.sg/faq](https://www.vaccine.gov.sg/faq).
 
 <img src="/images/Attachment%203%20-%20Infographic%20-%20What%20to%20Expect%20During%20Vaccination%20Day.jpg" style="width:80%"/>
+<br>
 
 --------------
 
