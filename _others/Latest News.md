@@ -491,146 +491,64 @@ This year, we would like to congratulate Station Inspector from Secondary 4-5 fo
 		</td>
 	</tr>
 </table>
-		
-		
 
+----------------------
 
-
-
-The North West Outstanding School Partner Award
------------------------------------------------
+### The North West Outstanding School Partner Award
 
 We are proud to announce that our school has been awarded The North West Outstanding School Partner Award (Silver) for our commendable efforts in serving the community.
 
-  
+<img src="/images/NWCDC%202020%20Silver.jpg" style="width:80%"/>
+<br>
 
-![NWCDC 2020 Silver.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NWCDC%202020%20Silver.jpg)  
+----------------
 
-  
-
-𝟭𝟮𝘁𝗵 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗬𝗼𝘂𝘁𝗵 𝗙𝗼𝗿𝘂𝗺
-------------------------------------------------------------------------
+### 𝟭𝟮𝘁𝗵 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗬𝗼𝘂𝘁𝗵 𝗙𝗼𝗿𝘂𝗺
 
 Some of our students participated in the 12th International Science Youth Forum last week. They took part in dialogue sessions and master classes with Nobel Laureates and eminent scientists. In addition, they interacted with students from several other countries, including Estonia, Poland, UK, USA, Korea and Thailand. It was a fruitful and eye-opening learning experience for all.
 
-  
+<table>
+	<tr>
+		<td width="53%"><img src="/images/ISYF%201%20(640x427).jpg"/></td>
+		<td><img src="/images/ISYF%202%20(640x480).jpg"/></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td width="50%"><img src="/images/ISYF%206%20(640x480).jpg"/></td>
+		<td><img src="/images/ISYF%205%20(640x480).jpg"/></td>
+	</tr>
+</table>
 
-![ISYF 1 (640x427).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/ISYF%201%20(640x427).jpg)![ISYF 2 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/ISYF%202%20(640x480).jpg)  
+------------
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![ISYF 6 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/ISYF%206%20(640x480).jpg)![ISYF 5 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/ISYF%205%20(640x480).jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-𝟭𝟭𝘁𝗵 𝗚𝗹𝗼𝗯𝗮𝗹 𝗩𝗶𝗹𝗹𝗮𝗴𝗲 𝗖𝗵𝗶𝗹𝗱𝗿𝗲𝗻 & 𝗬𝗼𝘂𝘁𝗵𝘀 𝗕𝗶𝗹𝗶𝗻𝗴𝘂𝗮𝗹 𝗦𝗽𝗲𝗲𝗰𝗵 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻
----------------------------------------------------------------------------------------------------------------------------
+### 𝟭𝟭𝘁𝗵 𝗚𝗹𝗼𝗯𝗮𝗹 𝗩𝗶𝗹𝗹𝗮𝗴𝗲 𝗖𝗵𝗶𝗹𝗱𝗿𝗲𝗻 & 𝗬𝗼𝘂𝘁𝗵𝘀 𝗕𝗶𝗹𝗶𝗻𝗴𝘂𝗮𝗹 𝗦𝗽𝗲𝗲𝗰𝗵 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻
 
 6 girls from SMSS DOTS (Chinese) participated in the 11th Global Village Children & Youths Bilingual Speech Competition and did well! 3 girls achieved the Silver Award in the preliminary round, and 2 girls advanced to the finals. In the finals, participants had to work with a counterpart from China to present a 3-minute bilingual speech. We are delighted to share that we achieved a Gold Award and a Silver Award in the finals!
 
-  
+<table>
+	<tr>
+		<td><img src="/images/Goodtalk%203%20(640x351).jpg"/></td>
+		<td><img src="/images/Goodtalk%204%20(640x339).jpg"/></td>
+	</tr>
+</table>
+<table>
+	<tr>
+		<td width="59%"><img src="/images/Goodtalk%206%20(640x429).jpg"/></td>
+		<td><img src="/images/Goodtalk%207%20(640x626).jpg"/></td>
+	</tr>
+</table>
 
-![Goodtalk 3 (640x351).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Goodtalk%203%20(640x351).jpg)![Goodtalk 4 (640x339).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Goodtalk%204%20(640x339).jpg)  
+<img src="/images/Goodtalk%202%20(640x435).jpg" style="width:60%"/>
+<br>
 
-  
+--------
 
-  
-  
-  
-  
-  
-  
-  
-  
-![Goodtalk 6 (640x429).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Goodtalk%206%20(640x429).jpg)![Goodtalk 7 (640x626).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Goodtalk%207%20(640x626).jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Goodtalk 2 (640x435).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Goodtalk%202%20(640x435).jpg)  
-
-𝟮𝟬𝟮𝟬 𝗡𝗼𝘃𝗶𝗰𝗲𝘀 𝗙𝗲𝗻𝗰𝗶𝗻𝗴 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀
------------------------------------------------------------------
+### 𝟮𝟬𝟮𝟬 𝗡𝗼𝘃𝗶𝗰𝗲𝘀 𝗙𝗲𝗻𝗰𝗶𝗻𝗴 𝗖𝗵𝗮𝗺𝗽𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀
 
 Our SMSS fencers competed in their individual events at the 2020 Novices Fencing Championships last weekend. It is the first time our Sec 2 fencers are competing. We are happy to share that we obtained a bronze medal in the Individual Sabre event. We were placed within the Top 8 positions in two events and in the Individual Foil event too. Looking forward to the team events in Feb!
 
-  
-
 ![Novices 1 (640x432).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%201%20(640x432).jpg)![Novices 2 (640x489).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%202%20(640x489).jpg)  
-
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 ![Novices 3 (640x407).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%203%20(640x407).jpg)  
 
 Singapore Schools Sports Council Colours Awards 2019
