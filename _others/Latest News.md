@@ -25,180 +25,96 @@ Congratulations girls! We hope that you continue to make use of your mathematica
 
 In May 2022, a group of students from the Humanities DOTS participated in an eco-guide programme in partnership with Housing and Development Board (HDB) to design, plan and implement an online workshop and virtual tour for the public . This workshop is part of "Community Week" organised by HDB to promote neigbourliness among Punggol residents. Students were able to apply the skills and knowledge gained through the on-site training with HDB to create meaningful activities for participants and take them on a 360 virtual tour of eco-friendly initiatives along Eco-Trail. 
 
-  
-
 We are pleased to share that our girls were recognised with the Friends of Our Heartlands - Individual Bronze Award. The school was also awarded the Friends of Heartlands - School Silver Award for sustained partnership with HDB.
-
-  
 
 May you continue to #letitshine in your community.
 
-![HDB Community Week 2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/HDB%20Community%20Week%202022.jpeg)  
+<img src="/images/HDB%20Community%20Week%202022.jpeg" style="width:80%"/>
+<br>
 
-  
+----------------
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-St. Margaret’s School Commemorative Pin Designers
--------------------------------------------------
+### St. Margaret’s School Commemorative Pin Designers
 
 Leading up to the launch of the 180th Anniversary #letitshine180 activities, students were given the opportunity to design enamel pins which would be made and given out to students and classes who participated actively in the various #letitshine180 activities. The designers of the selected designs were each presented with a set of the limited edition enamel pins for contributing their designs. We would like to thank the girls for their creative contributions!
 
-  
+<img src="/images/Pin%20Designers.jpeg" style="width:80%"/>
+<br>
 
-![Pin Designers.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/Pin%20Designers.jpeg)
+--------------
 
-IDE Maker Competition 2022
---------------------------
+### IDE Maker Competition 2022
 
 The school sent two teams to participate in the IDE Maker Competition 2022 through Science DOTS. The theme of the competition was about making public transport more convenient and sustainable for commuters with the use of MicroBits and coding. 
 
-  
-
 One team created a seat counting system which will display the number of seats available per carriage. Another team created a prototype for an automated bus ramp to improve the movement of passengers with wheelchairs while boarding and alighting the bus. 
-
-  
 
 Through this experience, the students have learnt the value of "Patience" and the importance of mental resilience to not give in to the fear of failing. 
 
-  
-
 We are pleased to share that one of the teams emerged third in the National Secondary Category. Congratulations!
-
-  
 
 May you continue to #letitshine as you innovate and search for solutions to help others. 
 
-  
+<img src="/images/IDEMaker2022.jpeg" style="width:80%"/>
+<br>
 
-![IDEMaker2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/IDEMaker2022.jpeg)  
+------------
 
-  
-
-11th International Biomedical Quiz
-----------------------------------
+### 11th International Biomedical Quiz
 
 On 6 April, 10 Secondary 4 students participated in the 11th International Biomedical Quiz organised by Anglo-Chinese Junior College Science and Mathematics Council. The theme for the quiz was Oncology, which is the study of cancer. We are pleased to announce that one team was awarded Silver medal and another team was awarded the Merit medal for their effort.
 
-  
+<img src="/images/Biomedical%20Quiz%202022.jpeg" style="width:80%"/>
+<br>
 
-![Biomedical Quiz 2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/Biomedical%20Quiz%202022.jpeg)  
+-------------
 
-ignITE Challenge 2022
----------------------
+### ignITE Challenge 2022
 
 In Term 2, some students from Secondary 2-7 and Secondary 3-9 took part in the ignITE Skills Challenge organised by the Institute of Technical Education. The ignITE Skills Challenge is an annual competition that introduces participants to technical skills in a fun and engaging way. 
 
-  
-
 The students attended webinars on the use of digital mood boards and make-up apps to create creative make-up looks like the ones seen on advertisements and billboards. They also learnt how to operate drones and design warehousing layouts that leverage on the advantages of drones. During the competition, they had to think creatively and critically to solve the problems. 
-
-  
 
 After more than a month of preparation and competitions, we are pleased to announce that 4 teams made it to the finals of the Challenge and finished in the top 9 places for 2 different categories.  
 
-  
-
 May you continue to #ignitethespark and #letitshine as you learn to think critically to solve problems.
 
-  
+<img src="/images/ignITE2022.jpeg" style="width:80%"/>
+<br>
 
-![ignITE2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/ignITE2022.jpeg)  
+-----------
 
-  
-
-  
-
-Media Challenge 2022
---------------------
+### Media Challenge 2022
 
 In Semester 1, 4 teams of students took part in Republic Polytechnic’s Media Challenge 2022. The theme for the challenge was “Harnessing Digital & Social Media for Youth Engagement and Involvement in Humanitarian Causes by Singapore Red Cross”. Through the online workshops conducted by Republic Polytechnic, the students learnt photography skills and the various causes that the Singapore Red Cross are supporting. 
 
-  
-
 For the challenge, the teams had to produce several digital artifacts such as an article, Instagram posts and a TiktTok video. Then, shortlisted teams pitched their ideas in an online video meeting. 
-
-  
 
 We are happy to announce that one of our teams has won the Commendation Award.
 
-  
-
 Congratulations!  
 
-  
+<img src="/images/Media%20Challenge%202022.jpeg" style="width:80%"/>
+<br>
 
-![Media Challenge 2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/Media%20Challenge%202022.jpeg)  
+------------
 
-  
-
-  
-
-Destination Imagination
------------------------
+### Destination Imagination
 
 Destination Imagination is a competition which seeks to encourage its participants to find solutions for challenges that are present around them. As part of the competition, the team was also tasked with various challenges that required them to think creatively on their feet as they came up with ways to solve issues presented. We are pleased to announce that after four months of preparation, the team won the second place in the Service Learning Category. 
 
-  
+<img src="/images/DestinationImgination2022.jpeg" style="width:80%"/>
+<br>
 
-![DestinationImgination2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/DestinationImgination2022.jpeg) 
+-----------------
 
-The GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference
-----------------------------------------------------------------------------------------
+### The GoodTalk (Global Village) International Children & Youth Bilingual Speech Conference
 
 The 13th “Global Village” Children & Youths Bilingual Speech Conference was organized by Goodtalk Culture Communication Co. Ltd, sponsored by China Education Association for International Exchange (CEAIE) and Goodtalk Youths & Children Cultural Communication Centre.  
 
-  
-
 The aim of the event is to provide a chance for students in Singapore and China to learn Chinese and English and gain a better understanding of each other’s culture.
 
-  
-
 Based on this year’s theme, “2025”, students submitted video recordings of their feelings and what they gained during the pandemic.
-
-  
 
 Through their creativity and hard work, our students were awarded the following prizes:
 
@@ -206,168 +122,119 @@ Through their creativity and hard work, our students were awarded the following 
 *   1st in Preliminary Round
 *   Bronze Award in Finals
 
-![GoodTalk2022.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/GoodTalk2022.jpeg)  
-  
+<img src="/images/GoodTalk2022.jpeg" style="width:80%"/>
+<br>
 
-  
+------------
 
-Unity Scientific Innovation Challenge with Singapore Polytechnic & Energy Research Institute @ NTU (USPE) 2022 Finals
----------------------------------------------------------------------------------------------------------------------
+### Unity Scientific Innovation Challenge with Singapore Polytechnic & Energy Research Institute @ NTU (USPE) 2022 Finals
 
 The Unity Scientific Innovation Challenge is a collaboration with Singapore Polytechnic and Unity Secondary School (Singapore) for the yearly USPE Programme that encourages and ignites Secondary school students' curiosity and creativity in applying scientific principles to develop smart solutions for a better future.
 
-  
-
 The theme for 2022’s challenge is “Smart Solutions for a Better Future”. Students will have to look into smart technologies without compromising on improving energy efficiency and/or promoting the use of renewable energy, and discuss how the innovative approach/product meets consumers’ needs and how their proposal meets the National Agenda of being a smart nation. 
-
-  
 
 Through their creativity and hard work in coming up with a proposal and video presentation about using piezoelectric energy to harvest electricity and infrared wireless charging to charge devices, our students were awarded the following prizes: 2021 Team Merit and Best Speaker Award
 
-  
+-------------------
 
-North West Outstanding School Partner Gold Award
-------------------------------------------------
+### North West Outstanding School Partner Gold Award
 
 For the second year running, St. Margaret’s Secondary School has been presented with the North West Outstanding School Partner Gold Award by the North West Community Development Council – an award that recognises our school’s efforts, dedication and determination in serving the community.
 
-  
-
 “We learn to serve our God, our State, our School In service free for neighbour, home and friend”
-
-  
 
 Indeed, just like the lyrics of our school song above, our staff and students’ willingness and cheerfulness in serving the community is in the spirit of our school motto of Charity, Patience and Devotion.
 
-  
-
 May our students continue to go forth and be a blessing to our community!
 
-![NWCDC Gold Award.png](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Announcements/2022/NWCDC%20Gold%20Award.png)  
+<img src="/images/NWCDC%20Gold%20Award.png" style="width:80%"/>
+<br>
 
+--------------
   
-
-SLS Avatar Competition 2021
----------------------------
+### SLS Avatar Competition 2021
 
 While most students were enjoying their school holidays, Lim Sher Min (S4-4) ventured out of her comfort zone and picked up her digital pen to put her creativity juices to work.
-
-  
 
 On TikTok, she came across the SLS (Student Learning Space) Avatar Competition organised by the SLS Design and Development Team at MOE.
 
 As President of the Creative Arts Club, Sher Min is no stranger to creating digital designs. She has, however, never digitally drawn an avatar before.
 
-  
-
 She shared, “I drew an avatar of an explorer as I felt that it best reflects the process of learning, which was the theme I selected. Learning is an adventure that students embark on, exploring new realms and constantly discovering new things. My avatar had a hat and vest, complete with a magnifying glass, symbolising curiosity and a hunger to find out more.”
 
-  
-
 “I enjoyed my time devoted to drawing and fine tuning my first avatar until I was finally happy to submit it. It was a pleasant surprise when I learnt that I was one of the winners of the competition.”
-
-  
 
 We rejoice with Sher Min whose avatar was selected as one of the 24 winning designs out of more than 8,500 entries for the competition.
 
 Congratulations Sher Min! 
 
-![SLS Avatar.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/SLS%20Avatar.jpg)  
+<img src="/images/SLS%20Avatar.jpg" style="width:50%"/>
+<br>
 
-  
+----------------
 
-Singapore Remote Sensing Workshop 2021
---------------------------------------
+### Singapore Remote Sensing Workshop 2021
 
 The inaugural “SG Remote Sensing Workshop: Observing the Earth from Space” was organised by The Office for Space Technology and Industry (OSTIn), Singapore’s national space office. Held from 22 November to 3 December 2021 at NUS, it gave students a hands-on experience with satellite imagery. Participants had to work with students from different schools on an issue and come up with solutions to overcome them. Our students, Ng Meiying and Priscilla Tan (from Secondary 4-4) had the privilege of participating in the programme.
 
-  
-
 Priscilla was grateful for the opportunity as she “got to interact with different students who shared a common interest in Geography." She was able to learn new skills and was amazed by how far a Geography topic can be extended. As for Meiying, the experience proved to be very fruitful and “if given the opportunity to go again, I would definitely take up the chance".
-
-  
 
 The group achieved the 'Best Overall' Award! Their teacher-in-charge, Ms Priscilla Lim, shared that the workshop was quite intense and there was a lot of information about statistics that the students had to handle and digest. The girls were open to learning and demonstrated the determination to give of their best despite the challenges they faced.
 
-  
-
 Our heartiest congratulations to Priscilla and Meiying!
 
-  
+<img src="/images/Remote%20Sensing.jpg" style="width:80%"/>
+<br>
 
-![Remote Sensing.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/Remote%20Sensing.jpg)  
+----------------
 
-  
-
-Green Plan Challenge
---------------------
+### Green Plan Challenge
 
 Amidst the busyness and demands of the year, Rachel Sonsun (S4-4) has shown what it means to “let one’s light shine” through her service to the community during the Green Plan Challenge held at Punggol.
 
-  
-
 Rachel’s role as a Green Coach was to provide teams with a short introduction about the Treelodge when they arrived at her station situated at Treelodge@Punggol. Following this, they would be required to complete 2 tasks based on her introduction. 
-
-  
 
 Rachel’s willingness to carve out time to serve the community through creating awareness of biodiversity and Singapore’s sustainability efforts is truly inspiring. Rachel’s key takeaway from her participation in this Challenge was that it allowed her to interact with people from various walks of life. She was also gratified to see their eagerness to learn more about their estate. Truly, Rachel’s contribution to the success of this event embodies the St. Margaret’s vision of “a community of learners growing and glowing for God”, and fulfils our school mission of “serving God, the community and the country”.
 
-  
+<img src="/images/Awards%202022.jpg" style="width:80%"/>
+<br>
 
-![Awards 2022.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2022/Awards%202022.jpg)  
+----------------
 
-  
-
-Art Competitions 2021
----------------------
+### Art Competitions 2021
 
 We would like to rejoice together with two of our students, Heather Yap Kai Shuen (S4-4) and Sarah Lim Li En (S3-1), for their recent achievements at national art competitions. 
 
-  
-
 At the Live On Festival 2021, an event which encourages participants to express their thoughts on organ donation and transplantation through art and writing, Heather was presented with the Distinction award for her artwork, titled 'A Spark of Light'. You may view Heather’s artwork and read more about her inspiration and the idea behind it through [this link](https://www.liveon.gov.sg/gallery.html?Topic=BridgeofHope,InSearchofHope&Institution=StMargaretsSecondarySchool).
-
-  
 
 Sarah was presented with a Merit Award for her artwork, titled 'The Wonders Of Imagination', at the recent 13 – 19 Art Prize Competition organized by The Rice Company Limited (TRCL) to support The Business Times Budding Artists Fund. Sarah’s artwork is currently on display in the gallery of 10 Square Youth @ Orchard Central. Additionally, an online version of this artwork, together with her artist’s statement, is also available for viewing at [here](https://trcl.sg/product/the-wonders-of-imagination).
 
-  
-
 Aside from receiving well-deserved awards for their pieces of artwork, Heather’s and Sarah’s vibrant paintings carry a message of hope and joy to bless the viewers, thus espousing our school values of taking pride and showing care. Well done Heather and Sarah!
 
-  
+<img src="/images/Heather%20Yap.jpg" style="width:80%"/>
+<br>
+<img src="/images/Sarah%20Li.jpg" style="width:80%"/>
+<br>
 
-![Heather Yap.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/Heather%20Yap.jpg)
+----------------
 
-  
-![Sarah Li.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/Sarah%20Li.jpg)
-
-  
-
-  
-
-Strategic Partnership-Co-curricular Activity (SP-CCA) Track and Field Competitions 2021
----------------------------------------------------------------------------------------
+### Strategic Partnership-Co-curricular Activity (SP-CCA) Track and Field Competitions 2021
 
 SP-CCA  is an official MOE-SportSG Programme which welcomes students from different backgrounds. This programme is conducted by certified coaches from the ActiveSG Athletics Club and serves as a platform for students to discover their interests regardless of their experience.
 
-  
-
 One of our Secondary 2 girls, Joanna Ho, participated in this external CCA and represented our school in various track and field events. Her resilience and perseverance helped her emerge as the overall champion for the 'C' Division Track and Field Competition. 
-
-  
 
 Joanna, you're an inspiration for everyone to be actively engaged in sports!
 
-  
 
-![Joanna Ho Wing Wai 02.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/Joanna%20Ho%20Wing%20Wai%2002.jpeg)
+<img src="/images/Joanna%20Ho%20Wing%20Wai%2002.jpeg" style="width:50%"/>
+<br> 
+<img src="/images/Joanna%20Ho%20Wing%20Wai.jpg" style="width:60%"/>
+<br>
 
-  
-![Joanna Ho Wing Wai.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/2021/Joanna%20Ho%20Wing%20Wai.jpg)  
+--------------
 
-NAFA Celebrating Excellence - Best Graduate 2021
-------------------------------------------------
+### NAFA Celebrating Excellence - Best Graduate 2021
 
 Tsai Gin-tzu, who was in our school String Ensemble, completed her education at St. Margaret’s Secondary School in 2015. A resilient student who has had to overcome obstacles to follow her heart, she went on to pursue her passion for music at the Nanyang Academy of Fine Arts (NAFA). We rejoice with her– she has not just graduated but clinched the ‘Best Graduate 2021’ Award! 
 
