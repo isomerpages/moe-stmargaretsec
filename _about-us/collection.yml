@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart.md
       - Contact Us.md
