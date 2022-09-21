@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our History.md
       - Illustrious Members of Our St Margaret's Family.md
       - St Margaret's Secondary School in the News.md
       - St Margaret's Secondary School's Videos.md
