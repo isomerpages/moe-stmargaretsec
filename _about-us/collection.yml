@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Mathematics.md
       - Organisation Chart/Mother Tongue.md
       - Organisation Chart/Humanities.md
       - Organisation Chart/Aesthetics, Craft and Technology.md
