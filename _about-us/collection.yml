@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Aesthetics, Craft and Technology.md
       - Organisation Chart/Physical Education and Co Curricular Activities.md
       - Organisation Chart/Information and Communications Technology.md
       - Organisation Chart/Character and Citizenship Education.md
