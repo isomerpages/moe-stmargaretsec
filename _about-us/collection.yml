@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Song and Hymn.md
       - Our History.md
       - Illustrious Members of Our St Margaret's Family.md
       - St Margaret's Secondary School in the News.md
