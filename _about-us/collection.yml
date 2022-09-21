@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - St Margaret's Secondary School's Videos.md
       - School Management Committee.md
       - Organisation Chart/Organisation Chart.md
       - Organisation Chart/English Language, Literature and Drama.md
