@@ -548,184 +548,153 @@ Some of our students participated in the 12th International Science Youth Forum 
 
 Our SMSS fencers competed in their individual events at the 2020 Novices Fencing Championships last weekend. It is the first time our Sec 2 fencers are competing. We are happy to share that we obtained a bronze medal in the Individual Sabre event. We were placed within the Top 8 positions in two events and in the Individual Foil event too. Looking forward to the team events in Feb!
 
-![Novices 1 (640x432).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%201%20(640x432).jpg)![Novices 2 (640x489).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%202%20(640x489).jpg)  
-![Novices 3 (640x407).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novices%203%20(640x407).jpg)  
+<table>
+	<tr>
+		<td width="53%"><img src="/images/Novices%201%20(640x432).jpg"/></td>
+		<td><img src="/images/Novices%202%20(640x489).jpg"/></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="/images/Novices%203%20(640x407).jpg" style="width:60%"/></td>
+	</tr>
+</table>
 
-Singapore Schools Sports Council Colours Awards 2019
-----------------------------------------------------
+-------------
+
+### Singapore Schools Sports Council Colours Awards 2019
 
 This award recognises the students' sporting achievements and display of good sporting character and values. We are pleased to announce the following:  
-
+<br>
 Judo: Colours Award (Best Sportsgirl) and Colours Award (Distinction)
-
+<br>
 Fencing: 20 Colours Awards
-
+<br>
 Gymnastics: 6 Colours Awards
-
+<br>
 Ten-pin Bowling: 13 Colours Awards
 
-  
+--------------
 
-  
-
-Plain English Speaking Award 2019
----------------------------------
+### Plain English Speaking Award 2019
 
 A group of debaters participated in the Plain English Speaking Award organised by YMCA Singapore. This is a prestigious oratorical competition that tests the students' ability to speak proficiently and confidently. They have to think critically on the spot too. We are proud to announce that one of the girls was awarded the 1st Runner Up Prize in the Senior Category.
 
-  
+<img src="/images/PESA%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![PESA (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/PESA%20(640x480).jpg)  
-  
+----------------  
 
-University of New South Wales (UNSW) REACH Assessments
-------------------------------------------------------
+### University of New South Wales (UNSW) REACH Assessments
 
 Reach Assessments are annual progression assessments which provide an external, objective benchmark of learner progress. We are pleased to share the following results:
 
-  
-
 Science: 9 Outstanding Awards
-
+<br>
 Mathematics: 10 Exemplary Awards and 71 Outstanding Awards
-
+<br>
 Writing: 6 Exemplary Awards and 12 Outstanding Awards
-
+<br>
 English:  6 Exemplary Awards and 21 Outstanding Awards
 
-  
+-----------
 
-  
-
-Inter-Unit Drill Competition 2019 Organised by the National Police Cadets Corps
--------------------------------------------------------------------------------
+### Inter-Unit Drill Competition 2019 Organised by the National Police Cadets Corps
 
 The drill competition is organized annually for all NPCC Units The competition aims to assess cadets’ proficiency in drills using a pre-determined set of competition criteria. It also hopes to instil the qualities of innovation and enterprise in the cadets. We are pleased to share that our NPCC unit was placed among the top 20 teams this year.
 
-  
-  
+------------
 
-Toy Design Competition 2019
----------------------------
+### Toy Design Competition 2019
 
 The Toy Design Competition organised by Singapore Polytechnic aims to promote design activities and design thinking among local schools. 
-
+<br>
 Secondary school participants competed by designing toys in different categories. This annual competition provides an excellent opportunity for secondary school students to unleash their creativity through designing their dream toys. om 1819 onwards, including Sir Stamford Raffles' coming to Singapore and the opening of Jewel Changi. 
 
 We are pleased to share that our team was awarded the Commendation Prize for this competition. Well done, girls!
 
-  
+<table>
+	<tr>
+		<td colspan="2"><img src="/images/Toy%20Design%20(640x480).jpg" style="width:80%"/> </td>
+	</tr>
+	<tr>
+		<td><img src="/images/Toy%20Design%201%20(480x640).jpg"/></td>
+		<td><img src="/images/Toy%20Design%202%20(480x640).jpg"/></td>
+	</tr>
+</table>
 
-![Toy Design (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Toy%20Design%20(640x480).jpg)
+--------------
 
-  
-![Toy Design 1 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Toy%20Design%201%20(480x640).jpg)![Toy Design 2 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Toy%20Design%202%20(480x640).jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-Rakan Bahasa
-------------
+### Rakan Bahasa
 
 Two of our students were appointed by the Malay Language Council Singapore as Rakan Bahasa (Friends of the Language), in other words, junior language ambassadors. This initiative by MLCS aims to encourage students who excel in the Malay Language to spread the love of the language to their peers, friends and families. The students took part in the NewsMaker competition and acted as student-docents at the Asian Civilisations Museum during the launch of Bulan Bahasa or the Malay Language Month. 
 
-  
+<img src="/images/MLCS%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![MLCS (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/MLCS%20(640x480).jpg)  
+----------  
 
-  
-
-Periyar Sayings Recital Competition 2019
-----------------------------------------
+### Periyar Sayings Recital Competition 2019
 
 A team of students took part in the competition organised by the Periyar Community Service of Singapore to create interest in the Tamil Language and to showcase students' talent. We are pleased to share that two of our students attained the 2nd and 3rd Prizes for the competition. Keep the Tamil Language alive, girls!
 
-  
+<img src="/images/Periyar%20(640x360).jpg" style="width:80%"/>
+<br>
 
-![Periyar (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Periyar%20(640x360).jpg)
+----------------  
 
-  
-  
-
-Energy Innovation Challenge 2019
---------------------------------
+### Energy Innovation Challenge 2019
 
 This competition aims to interest, excite and enable students to understand and experience the part engineering plays in energy innovation. The challenge is an annual event that provides students from Secondary Schools, Junior Colleges, Polytechnics and ITEs  the opportunity for Innovation. It also allows them to work with professional engineering and business mentors to design or invent a product. We are pleased to share that one of our teams attained a Merit Award for the Secondary School Category for their project on the Oculi Watch. Do continue to ignite your passion for the sciences!
 
-  
+--------------
 
-National Schools Literature Festival 2019
------------------------------------------
+### National Schools Literature Festival 2019
 
-A group of Literature students participated in the National Schools Literature Festival. It is the biggest literary festival for students in Singapore, and it has provided them with a powerful platform to develop their passion and love for Literature.
-
-  
+A group of Literature students participated in the National Schools Literature Festival. It is the biggest literary festival for students in Singapore, and it has provided them with a powerful platform to develop their passion and love for Literature.  
 
 The Upper Secondary students participated in debates, while the Lower Secondary students participated in a choral reading competition. We are pleased to announce that the Secondary 4 team for the Unseen Debate and the Lower Secondary Choral Reading team emerged as winners for their team events. Well done, girls!
 
-  
+<img src="/images/National%20Schools%20Lit%20Fest%20(640x360).jpg" style="width:80%"/>
+<br>
 
-![National Schools Lit Fest (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/National%20Schools%20Lit%20Fest%20(640x360).jpg)  
+----------------
 
-  
-
-Baden-Powell Award
-------------------
+### Baden-Powell Award
 
 The Baden-Powell Award (BPA) is an award given in recognition of a Girl Guide’s leadership potential and proficiency in planning. It is the highest badge awarded by the Chief Commissioner of GGS. It represents the Guide’s commitment to the Ten Guide Laws & the Guide Promise. We are pleased to announce that two Guides attained the award for the year 2018 and four Guides attained the award for the year 2019. Congratulations!
 
-  
-![BPA (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/BPA%20(640x360).jpg)  
+<img src="/images/BPA%20(640x360).jpg" style="width:80%"/>
+<br>
 
-MOE History Challenge 2019
---------------------------
+----------------
+
+### MOE History Challenge 2019
 
 A team of girls took part in this challenge to showcase their passion for history by taking part in a challenging test which required disciplinary thinking, in depth knowledge of the subject and applied conceptual understanding across different periods and contexts in history. We are pleased to announce that one of the girls has qualified for the MOE's History Talent Development Programme. We wish her all the best as she embarks on this journey of development.
-
   
-![MOE History (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/MOE%20History%20(640x360).jpg)  
+<img src="/images/MOE%20History%20(640x360).jpg" style="width:80%"/>
+<br>
 
-National Schools Games - Inter-school South Zone Basketball Championships 2019
-------------------------------------------------------------------------------
+----------------
 
-We are pleased to announce that our 'C' Division Basketball team was placed 4th in the event. We thank the coach, the teachers in-charge and all who helped the girls to achieve this result. Well done, girls!![C Div Basketball (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/C%20Div%20Basketball%20(640x480).jpg)  
+### National Schools Games - Inter-school South Zone Basketball Championships 2019
 
-National Schools Games - South Zone Inter-school Netball Championships 2019
----------------------------------------------------------------------------
+We are pleased to announce that our 'C' Division Basketball team was placed 4th in the event. We thank the coach, the teachers in-charge and all who helped the girls to achieve this result. Well done, girls!
+
+<img src="/images/C%20Div%20Basketball%20(640x480).jpg" style="width:80%"/>
+<br>
+
+----------------
+
+### National Schools Games - South Zone Inter-school Netball Championships 2019
 
 The 'C' division netballers have done very well and we are pleased to share that they clinched the 3rd position. Great job girls!
 
-  
+<img src="/images/C%20Div%20Netball%20(640x360).jpg" style="width:80%"/>
+<br>
 
-![C Div Netball (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/C%20Div%20Netball%20(640x360).jpg)
+----------------
 
-  
-
-Chinese Language Competitions
------------------------------
+### Chinese Language Competitions
 
 In February, our Secondary 3 Higher Chinese Language students submitted their Chinese poems based on the theme 'Metamorphosis' for the National Poetry Competition. We are pleased to announce that they have achieved 3 Merit Awards, 2 Third Prize Awards and the First Prize was also clinched by our student! 
 
@@ -733,388 +702,276 @@ In April, eight of our girls from the Chinese DOTS programme took part in the Ch
   
 In another competition in July, our Chinese DOTS girls took part in the preliminary round of the “My Story 2019 Public Speaking Competition”, jointly organised by the Speak Mandarin Campaign and Noontalk Media. We are happy to share that both girls made it into the Top 6. One of the girls also clinched the Best Story Award! Congratulations, girls!
 
-  
+<table>
+	<tr>
+		<td><img src="/images/Chinese%20Creative%20(640x360).jpg"/></td>
+		<td><img src="/images/Chinese%20My%20Story%20(640x360).jpg"/></td>
+	</tr>
+	<tr>
+		<td colspan="2"><img src="/images/Chinese%20Poetry%20(640x480).jpg" style="width:60%"/></td>
+	</tr>
+</table>
 
-![Chinese Poetry (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Chinese%20Poetry%20(640x480).jpg)
+---------------  
 
-  
-
-  
-![Chinese Creative (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Chinese%20Creative%20(640x360).jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-![Chinese My Story (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Chinese%20My%20Story%20(640x360).jpg)
-
-  
-
-National Schools Games - Tenpin Bowling Championships 2019
-----------------------------------------------------------
+### National Schools Games - Tenpin Bowling Championships 2019
 
 Our bowlers have displayed tenacity and resilience throughout the 4-day competition. We are proud to announce that our 'C' Division girls clinchedthe Third Place in the competition. Great job, girls!  
   
-![NSG Tenpin Bowling (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NSG%20Tenpin%20Bowling%20(640x360).jpg)  
+<img src="/images/NSG%20Tenpin%20Bowling%20(640x360).jpg" style="width:80%"/>
+<br>
 
-Tamil Language Competitions
----------------------------
+----------------
+
+### Tamil Language Competitions
 
 The Tamil Language Unit of the Ministry of Education organised the Budding Writers, Artistes and Poets Programme for all secondary schools and JC/CI offering Tamil Language. The programme aims to nurture in students the passion to create literary works in the Tamil Language. We are pleased to share that the girls clinched the Silver Award with 1 student winning the Budding Writer Award and 3 students, the Budding Artiste Award.
 
-  
-
 In another  Tamil Language Competition organised by the Tampines GRC IAECs, we are proud to share that one student clinched the first prize in the Oratorical Contest and Proverb Recital Category. Another student was awarded a consolation prize for the Oratorical Competition. Well done, girls!
-
   
+<img src="/images/TL%20Competitions_T3W6%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![TL Competitions_T3W6 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/TL%20Competitions_T3W6%20(640x480).jpg)
+----------------
 
-  
-
-Girls' Brigade Awards
----------------------
+### Girls' Brigade Awards
 
 We are proud to announce that one of our GB girls was conferred the Pioneer Brigader Brooch, the highest award a secondary school GB girl can attain. We are also pleased to share that two of the teams were received the Bronze Awards for their participation in the Low Guat Tin Challenge 2019. Part of the Dr. Low Guat Tin Challenge 2019, “Code to Serve” showcased the hard work of the 120 teams who spent over 8 months attending coding workshops, innovating and designing digital solutions to improve the quality of the life of others. Well done, girls!  
 
-  
-![GB 1 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/GB%201%20(640x480).jpg)                                ![GB 2 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/GB%202%20(480x640).jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-     ![GB LGT Challenge (640x525).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/GB%20LGT%20Challenge%20(640x525).jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 
-ITE IgnITE Skills Challenge 2019
---------------------------------
+<table>
+	<tr>
+		<td width="63%">
+			<img src="/images/GB%201%20(640x480).jpg"/>
+		</td>
+		<td>
+			<img src="/images/GB%202%20(480x640).jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="/images/GB%20LGT%20Challenge%20(640x525).jpg" style="width:60%"/>
+		</td>
+	</tr>
+</table>
+ 
+-----------
+
+### ITE IgnITE Skills Challenge 2019
 
 We are pleased to share that 3 teams from Sec 2/7 made it to the finals in the challenge and one of the teams emerged 2nd Runner-up for the Data Visualisation Challenge. Good job girls!  
   
-![ITE Ignite (640x490).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/ITE%20Ignite%20(640x490).jpg)  
+<img src="/images/ITE%20Ignite%20(640x490).jpg" style="width:80%"/>
+<br>
 
-Singapore Sports School Para Games 2019
----------------------------------------
+----------------
+
+### Singapore Sports School Para Games 2019
 
 We are proud to share that one of our students emerged the champion in the Women 100 metres run. She has shown resilience and determination in finishing the race well. Congratulations!
 
-  
+<table>
+	<tr>
+		<td colspan="2">
+			<img src="/images/Le%20Yin%20Para%20Games%20(640x360).jpg"/>
+		</td>
+		<td colspan="2">
+			<img src="/images/Le%20Yin%20Para%20Games%203.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="/images/Le%20Yin%20Para%20Games%202%20(480x640).jpg"/>
+		</td>
+		<td>
+			<img src="/images/Le%20Yin%20Para%20Games%204%20(480x640).jpg"/>
+		</td>
+		<td>
+			<img src="/images/Le%20Yin%20Para%20Games%205%20(480x640).jpg"/>
+		</td>
+		<td>
+			<img src="/images/Le%20Yin%20Para%20Games%206%20(480x640).jpg"/>
+		</td>
+	</tr>
+</table>
 
-![Le Yin Para Games (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%20(640x360).jpg)![Le Yin Para Games 3.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%203.jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-![Le Yin Para Games 2 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%202%20(480x640).jpg)![Le Yin Para Games 4 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%204%20(480x640).jpg)![Le Yin Para Games 5 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%205%20(480x640).jpg)      ![Le Yin Para Games 6 (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Le%20Yin%20Para%20Games%206%20(480x640).jpg)  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-Tamil Language Competitions
----------------------------
+### Tamil Language Competitions
 
 We are pleased to share that our team won the Challenge Trophy in the Tamil Language Inter-school Competition 2019 organised by Raffles Institution. In the competition, one girl was 1st in the Oratorical Competition (Upper Secondary Category) and 2nd in the Essay Writing Competition. Another girl was 3rd in the Oratorical Competition (Lower Secondary Category). In addition, in the Drama Competition, our lower secondary students emerged champions.
 
-![TL Competitions (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/TL%20Competitions%20(640x480).jpg)
+<img src="/images/TL%20Competitions%20(640x480).jpg" style="width:80%"/>
+<br>
 
-  
+----------------
 
-Mathematics Challenge 2019
---------------------------
+### Mathematics Challenge 2019
 
 Our Secondary Four girls did very well in the challenge organised by Ngee Ann Polytechnic. We emerged 2nd Runner-up in the competition. Our teams garnered the 2nd and 3rd positions in the Session 1 Quiz and emerged champions in Session 1A Alpha Blast. Good work, girls!
 
-  
+<img src="/images/Math%20Challenge%20NP%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![Math Challenge NP (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Math%20Challenge%20NP%20(640x480).jpg)
+----------------
 
-  
-
-Singapore Secondary School Debating Championships 2019
-------------------------------------------------------
+### Singapore Secondary School Debating Championships 2019
 
 Our school debaters have done very well! They emerged Champions in Division II!. In addition, three of the debaters won accolades- they were acknowledged as the Top 16th,6th and Top Speaker of the Finals! Excellent job, girls!
 
-  
+<img src="/images/Debates%20(640x351).jpg" style="width:80%"/>
+<br>
 
-![Debates (640x351).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Debates%20(640x351).jpg)
+---------------- 
 
-  
-
-Singapore Youth Festival Arts Presentation 2019
------------------------------------------------
+### Singapore Youth Festival Arts Presentation 2019
 
 Our students have excelled in the various CCA competitions, a testament to the perseverance and hard work of our students, their teachers and coaches. We are pleased to announce that our performing arts CCAs have done very well in the Singapore Youth Festival Arts Presentation 2019. To God Be The Glory!
 
-![Slide5 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide5%20(640x360).jpg)
+<img src="/images/Slide5%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide1%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide2%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide6%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide7%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide8%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide3%20(640x360).jpg" style="width:80%"/>
+<br>
+<img src="/images/Slide4%20(640x360).jpg" style="width:80%"/>
+<br>
 
-![](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)![Slide1 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide1%20(640x360).jpg)  
-![Slide2 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide2%20(640x360).jpg)  
-![Slide6 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide6%20(640x360).jpg)  
-![Slide7 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide7%20(640x360).jpg)  
-![Slide8 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide8%20(640x360).jpg)  
-![Slide3 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide3%20(640x360).jpg)![](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif)![Slide4 (640x360).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Slide4%20(640x360).jpg)  
+------------
 
-Global Village Children and Youth Bilingual Speech Conference 2019 - Beijing Finals
------------------------------------------------------------------------------------
+### Global Village Children and Youth Bilingual Speech Conference 2019 - Beijing Finals
 
 Two of our girls represented Singapore to take part in the  conference during the March holidays. We are proud to announce that they have been awarded the Global Youth Ambassador Award and Global Youth Contributor Award. Excellent job, girls!
 
-  
+<img src="/images/Global%20Youth%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![Global Youth (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Global%20Youth%20(640x480).jpg)
+----------------
 
-  
-
-National School Games 2019 - Judo
----------------------------------
+### National School Games 2019 - Judo
 
 We are pleased to share that our girl achieved the Third Position for B Division Girls Under 57kg Event in Judo. Great work, girl!
 
-  
+<img src="/images/NSG%20-%20Judo%20(480x640).jpg" style="width:60%"/>
+<br>
 
-![NSG - Judo (480x640).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NSG%20-%20Judo%20(480x640).jpg)  
+----------------
 
-Destination Imagination 2019
-----------------------------
+### Destination Imagination 2019
 
 Congratulations to our Sec 2 team who won the Service Learning Challenge for the Middle-Level Category. Excellent results, girls!
 
-  
+<img src="/images/DI%20-%20Service%20Learning%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![DI - Service Learning (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/DI%20-%20Service%20Learning%20(640x480).jpg)
+----------------
 
-  
-
-National School Games 2019 – Rhythmic Gymnastics
-------------------------------------------------
+### National School Games 2019 – Rhythmic Gymnastics
 
 We are pleased to share that our gymnasts attained the Third Position in the 'B' Division Three Hoops Two Balls Group event at the National Schools Games. Fantastic job, girls!
 
-  
-![NSG - RG1_1 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NSG%20-%20RG1_1%20(640x480).jpg)  
+<img src="/images/NSG%20-%20RG1_1%20(640x480).jpg" style="width:80%"/>
+<br>
 
-2019 Rhythmic Gymnastics National Championships
------------------------------------------------
+----------------
+
+### 2019 Rhythmic Gymnastics National Championships
 
 We are pleased to share that our gymnasts have achieved the 6th position for the Level 5A Ribbon Individual Event and the 5th position for the Level 6 Clubs Individual Event. Well done, girls!
-
   
+<img src="/images/NSG%20-%20RG1%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![NSG - RG1 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NSG%20-%20RG1%20(640x480).jpg)
+----------------
 
-  
-
-Girl Guides Competitions
-------------------------
+### Girl Guides Competitions
 
 During the World Thinking Day Carnival on 23 February 2019, our Secondary Two Girl Guides took charge of setting up the carnival booth for bead bracelets and henna art. The girls received the Best Carnival Booth Award! 
 
-  
+<img src="/images/GG%20-%20Carnival%20and%20Camp%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![GG - Carnival and Camp (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/GG%20-%20Carnival%20and%20Camp%20(640x480).jpg)
+----------------
 
-  
-
-National Schools Games 2019 - Fencing
--------------------------------------
+### National Schools Games 2019 - Fencing
 
 We are proud to announce that our fencers were placed 4th for the B Division and 5th for the C Division. One of our fencers attained a Top 8 Position in the Epee Individual Girls'  Event. Well done, girls!
 
-  
+<img src="/images/NSG%20-%20Fencing%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![NSG - Fencing (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/NSG%20-%20Fencing%20(640x480).jpg)
+----------------
 
-  
-
-Malay Language Competitions
----------------------------
+### Malay Language Competitions
 
 A group of five students participated In the Malay Scrabble Competition, Piala Cendekia Sahibba, organised by Woodgrove Secondary School., We came in fourth in the South Zone and will be representing our school in the nationals to be held later in the year. All the best  in the coming competition. 
 
-  
-
 Another group of our students took part in the “Rentas Pantas” Competition organised by the NTU Malay Language and Cultural Society and enjoyed the competition and interaction with the other competitors from different schools.
 
-  
+<img src="/images/MTL%20-%20Malay%201%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![MTL - Malay 1 (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/MTL%20-%20Malay%201%20(640x480).jpg)
+----------------  
 
-  
-
-Unity Scientific Innovation Challenge with SP & ERI@N USPE 2019
----------------------------------------------------------------
+### Unity Scientific Innovation Challenge with SP & ERI@N USPE 2019
 
 This national science competition taps on participants' intellectual curiosity and creativity in applying scientific principles to develop an innovative solution to various challenges. We are proud to announce that two of our teams have won awards in the competition. One team was given the Best Presentation Award, whilst the other team achieved the Most Innovative Solution Award. Excellent job, girls!
 
-  
-![Unity Science (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Unity%20Science%20(640x480).jpg)  
-  
-  
+<img src="/images/Unity%20Science%20(640x480).jpg" style="width:80%"/>
+<br>
 
-National Schools Games Basketball 2019
---------------------------------------
+----------------
+
+### National Schools Games Basketball 2019
 
 Our Basketball players put up a good fight and emerged Third in the South Zone Girls 'B' Division. Great job, girls!
 
-  
+<img src="/images/Basketball%20B%20Div%203rd%20(640x480).jpg" style="width:80%"/>
+<br>
 
-![Basketball B Div 3rd (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Basketball%20B%20Div%203rd%20(640x480).jpg)  
+----------------
 
-  
-
-National Schools Ten Pin Bowling Championship 2019
---------------------------------------------------
+### National Schools Ten Pin Bowling Championship 2019
 
 We are pleased to announce that one of the school bowlers came in Second for the Girls' Single Event. Well done!
 
-  
-![Bowling (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Bowling%20(640x480).jpg)  
-  
+<img src="/images/Bowling%20(640x480).jpg" style="width:80%"/>
+<br>
 
-Red Cross Youth First Aid Championship 2019
--------------------------------------------
+----------------
+
+### Red Cross Youth First Aid Championship 2019
 
 This year our cadets achieved commendable results in the event. Our senior cadets performed exceptionally well and the team was awarded a Gold. The junior cadets gave of their best and the team was awarded a  Silver. Good job!
 
-  
-![RCY 1st Aid (640x480).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/RCY%201st%20Aid%20(640x480).jpg)  
-  
+<img src="/images/RCY%201st%20Aid%20(640x480).jpg" style="width:80%"/>
+<br>
 
-Global Village Children and Youth Bilingual Speech Conference 2019
-------------------------------------------------------------------
+----------------
+
+### Global Village Children and Youth Bilingual Speech Conference 2019
 
 The conference aims to promote understanding and appreciation of the Chinese language and culture as well as intercultural friendship through interactive activities and games between participants from China and Singapore. The highlight of the speech conference saw participants delivering a speech titled "China in My Eyes." Participants from Singapore delivered their speeches in Mandarin, while those from China delivered theirs in English. Those who advanced to the Grand Finals had to give a combined bilingual speech with a Chinese or Singapore counterpart.
 
-  
-
 Four of our Sec 2 students took part in the conference and we are proud to announce that one of them achieved First Prize for the Singapore Station Finals. She has also won an opportunity to compete in China with other winners from Australia, UK and USA. We wish her all the best in the forthcoming competition.
 
+<table>
+	<tr>
+		<td><img src="/images/20190212_073837-Optimized.jpg"/></td>
+		<td><img src="/images/Bilingual%208-Optimized.jpg"/></td>
+	</tr>
+</table>
   
-
-![20190212_073837-Optimized.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/20190212_073837-Optimized.jpg)![Bilingual 8-Optimized.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Bilingual%208-Optimized.jpg)  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-Singapore Novices Fencing Championship 2019
--------------------------------------------
+### Singapore Novices Fencing Championship 2019
 
 From 26th to 28th January, our fencers participated in the Singapore Novices Championships 2019. Despite some initial disappointments, our fencers fought on and fought well. We are pleased to announce that our fencers have achieved commendable results in the following events:
 
-  
 
 *   Foil Team Event - 1st  
     
@@ -1128,5 +985,9 @@ From 26th to 28th January, our fencers participated in the Singapore Novices Cha
     
 *   Foil Individual Event - 3rd
 
-  
-![Novice 3-Optimized.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novice%203-Optimized.jpeg)![Novice 7-Optimized.jpeg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/News/Novice%207-Optimized.jpeg)
+<table>
+	<tr>
+		<td width="57%"><img src="/images/Novice%203-Optimized.jpeg"/></td>
+		<td><img src="/images/Novice%207-Optimized.jpeg"/></td>
+	</tr>
+</table>
