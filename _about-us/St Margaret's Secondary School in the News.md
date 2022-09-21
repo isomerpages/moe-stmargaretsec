@@ -19,7 +19,7 @@ description: ""
 | 20/12/2019   | AEIS  | [新加坡N水准成绩放榜，中四女生人文科取得特优佳绩](http://www.iaeis.com/media_centre/show/14290.html)  
 [(Secondary 4 girl scores distinction in Humanities at the GCE N-Level Examinations)](http://www.iaeis.com/media_centre/show/14290.html) |
 | 19/12/2019 | 联合早报  <br> Lian He Zao Bao | [N水准会考成绩放榜 76.6%学生符合升上中五资格 <br> (N-level results: 78% of students qualify for Secondary 5)](https://www.8world.com/news/singapore/article/n-level-results-1004676) |
-| 19/08/2019  | 联合早报 <br> Lian He Zao Bao  | [首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品](/about-us/goog_1739958327) < broken link > <br> [(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)](https://www.zaobao.com.sg/news/singapore/story20190819-981999) (Subscriber's content)  |
+| 19/08/2019  | 联合早报 <br> Lian He Zao Bao  | [首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品](/about-us/goog-1739958327) < broken link > <br> [(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)](https://www.zaobao.com.sg/news/singapore/story20190819-981999) (Subscriber's content)  |
 | 19/12/2017 | Straits Times  | [Double delight as St. Margaret's twins do equally well](https://www.straitstimes.com/singapore/double-delight-as-st-margarets-twins-do-equally-well)   |
 | 20/11/2017 | Straits Times | [St. Margaret's - 175 years in the making](https://www.straitstimes.com/singapore/education/st-margarets-175-years-in-the-making) |
 | 11/02/2017 | Straits Times | [St. Margaret's School Celebrates 175th Anniversary](https://www.todayonline.com/singapore/st-margarets-school-celebrates-175th-anniversary)  |
