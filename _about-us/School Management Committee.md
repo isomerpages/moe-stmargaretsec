@@ -19,3 +19,4 @@ description: ""
 | Mdm Lee Chin Chin | St. Margaret's Primary School Parents' Representative  |
 | Canon Barry Leong  | Chaplain, St. John's Chapel (SJCp)  |
 | Rev Bertram Cheong | Chaplain, Chapel of Christ the King (CCK)  |
+| | |
