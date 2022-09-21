@@ -13,28 +13,28 @@ description: ""
 | :---: | :---: |
 | Ms Susan Toh | Ms Chrystine Woon |
 
+<br>
+
 | Head of Department | Head of Department | Head of Department |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [English Language, Literature and Drama](/about-us/organisation-chart/english-language-literature-and-drama) | [Science](/about-us/organisation-chart/science) | [Mathematics](/about-us/organisation-chart/mathematics) |
 | Mrs Shamini Rajandran | Mr Jason Chew  | Mrs Tan Sok Mun |
 
 | Head of Department | Head of Department | Head of Department |
-| --- | --- | --- |
+| :---: | :---: | :---: |
 | [Mother Tongue](/about-us/organisation-chart/mother-tongue) | [Humanities](/about-us/organisation-chart/humanities) | [Aesthetics, Craft andTechnology](/about-us/organisation-chart/aesthetics-craft-and-technology) |
 | Mrs Chong-Yeo Chiu Peng  | Ms Delia Foo  | Mrs Tham Chuan Chuan  |
 
 
 | Head of Department | Head of Department | Head of Department |
-|---|---|---|
+| :---: | :---: | :---: |
 | Student Development | [Character and Citizenship Education](/about-us/organisation-chart/character-and-citizenship-education) | [Information and Communications Technology](/about-us/organisation-chart/information-and-communications-technology)  |
 | Mr Lim Bing Hui | Mrs Foo Kar Hiang   | Mdm Azizah Rabunam |
 
-| Head of Department  
- | School Staff Developer |
-| --- | --- |
-|  **Corporate Communications** | **Ms Esther Wong Teck Yen**   |
-| **Mdm Premela d/o Prabakaran** |   
- |
+| Head of Department | School Staff Developer |
+| :---: | :---: |
+|  Corporate Communications | Ms Esther Wong Teck Yen   |
+| Mdm Premela d/o Prabakaran | |
 
   
 
