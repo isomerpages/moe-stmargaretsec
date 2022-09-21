@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Character and Citizenship Education.md
       - Organisation Chart/School Administration Team.md
       - Organisation Chart/.keep
       - Organisation Chart.md
