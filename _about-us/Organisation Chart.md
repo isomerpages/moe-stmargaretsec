@@ -121,7 +121,7 @@ English Language, Literature and Drama | Lower Secondary Science |
 
 <br>
 
-**[School Administration Team](/about-us/organisation-chart/school-administration-team)**  
+<h5 align="center"><a href="/about-us/organisation-chart/school-administration-team">School Administration Team</a></h5>
 
 
 | Administration Manager 1 | Administration Manager 2 |
