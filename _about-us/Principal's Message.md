@@ -31,4 +31,4 @@ Ms Linda Lim
 Principal  
 St. Margaret’s Secondary School
 
-![ebanner 2.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/About%20Us/ebanner%202.jpg)
+![ebanner 2.jpg](/images/ebanner%202.jpg)
