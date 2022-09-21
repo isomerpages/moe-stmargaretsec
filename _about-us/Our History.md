@@ -21,36 +21,25 @@ In the early years, the enrolment comprised only twenty students but the school 
 
 As the number of pupils increased, the school relocated several times before finally settling at 134 Sophia Road in 1861, with a boarding house built in its grounds. It was named the Chinese Girls' School.
 
-  
-
 In 1900, The Church of England Zenanah Missionary Society took over the management of the school which was renamed the CEZMS School. At that time, there was still no consciousness on the part of the public that education was beneficial to girls as well as to boys. By providing education for girls, the school helped to change the attitude of Singapore parents.
-
-  
 
 In 1928, more academic subjects were introduced. The school also had its first Science laboratory.
 
-  
-
 [Back to Top](/about-us/our-history#top)
 
-
-The War Years
--------------
+## The War Years
 
 The Second World War did much damage to the school building. When regular teaching resumed, the Bishop of Singapore changed the name from CEZMS School to St. Margaret's School, after Queen Margaret of Scotland.
 
-[Back to Top](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/about-us/our-history#top)
+[Back to Top](/about-us/our-history#top)
 
-The Recovery
-------------
+## The Recovery
 
 The school soon recovered from its wartime setbacks and set about consolidating its curriculum. Extra-mural activities like netball, swimming and the Girl Guides were organised for the first time.
 
 [Back to Top](/about-us/our-history#top)
 
-
-The Growth
-----------
+## The Growth
 
 In tune with the changes in Singapore, the school endeavored to provide students with a broad based education - in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required.
 
@@ -64,5 +53,6 @@ In December 2000, the school celebrated its homecoming to a brand new campus wit
 
 On 26 July 2002, 160 years since the founding of the school, St. Margaret's Secondary School's new campus at Farrer Road was officially declared open by Dr Tony Tan, then the Deputy Prime Minister and Minister for Defence.
 
-  
 [Back to Top](/about-us/our-history#top)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
