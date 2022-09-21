@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Organisation Chart/Mother Tongue.md
       - Organisation Chart/Humanities.md
       - Organisation Chart/Aesthetics, Craft and Technology.md
       - Organisation Chart/Physical Education and Co Curricular Activities.md
