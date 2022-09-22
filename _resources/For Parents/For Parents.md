@@ -12,4 +12,4 @@ third_nav_title: For Parents
 [Leave of Absence](/resources/for-parents/leave-of-absence) <br>
 [Group Personal Accident Insurance for Students](/resources/for-parents/group-personal-accident-insurance-for-students) <br>
 [Parent Support Group](/resources/for-parents/st-margarets-parent-support-group-psg) <br>
-[Useful Links](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/resources/for-parents/useful-links)
+[Useful Links](/resources/for-parents/useful-links)
