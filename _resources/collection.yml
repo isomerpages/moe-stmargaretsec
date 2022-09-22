@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/2022 Class Timetable.md
       - For Students/2022 Examinations Timetable.md
       - For Students/School Rules.md
       - For Students/Bookshop Information.md
