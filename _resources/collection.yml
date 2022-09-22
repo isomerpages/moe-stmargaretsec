@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Parents/For Parents.md
       - For Parents/Monthly Principal's Letter.md
       - For Parents/2022 Parent Teacher Meeting (PTM).md
       - For Parents/Parents Gateway (PG).md
