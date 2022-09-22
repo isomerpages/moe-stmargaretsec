@@ -260,7 +260,9 @@ third_nav_title: Student Achievements
 | _Choir_ |
 | --- |
 | Singapore International Choral Festival – Silver Diploma |
+| |
 
 | _Symphonic Band_ |
 | --- |
 | Singapore International Band Festival – Silver |
+| |
