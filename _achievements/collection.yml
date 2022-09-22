@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Student Achievements/Clubs Awards.md
       - Student Achievements/.keep
       - Staff Awards.md
