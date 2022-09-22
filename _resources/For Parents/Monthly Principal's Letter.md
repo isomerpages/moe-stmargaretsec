@@ -21,19 +21,19 @@ August 2022
 July 2022
 ---------
 
-[Principal's Letter - July 2022](/files/Principals%20Letter%20July_final.pdf)   
+[Principal's Letter - July 2022](/files/Principals%20Letter%20July_final.pdf) <br>
 [St. Margaret's Secondary School Achievements in May and June 2022](/files/SMSS%20Achievements%20-%20June.pdf)
 
 May 2022
 --------
 
-[Principal's Letter - May 2022](/files/Principals%20Letter_May%202022_final.pdf)  
+[Principal's Letter - May 2022](/files/Principals%20Letter_May%202022_final.pdf) <br>
 [St. Margaret's Secondary School Achievements in April 2022](/files/SMSS%20Achievements%20-%20May.pdf)  
 
 April 2022
 ----------
 
-[Principal's Letter - April 2022](/files/Principals%20Letter%20April%202022_final.pdf)   
+[Principal's Letter - April 2022](/files/Principals%20Letter%20April%202022_final.pdf) <br>
 [St. Margaret's Secondary School Achievements in March 2022](/files/SMSS%20Achievements%20-%20Mar.pdf)   
 
 March 2022
@@ -44,11 +44,11 @@ March 2022
 February 2022
 -------------
 
-[Principal's Letter - February 2022](/files/Principals%20Letter%20-%20Feb.pdf)  
+[Principal's Letter - February 2022](/files/Principals%20Letter%20-%20Feb.pdf) <br>
 [St. Margaret's Secondary School Achievement in January 2022](/files/SMSS%20Achievements%20-%20Feb.pdf)  
 
 January 2022
 ------------
 
-[Principal's Letter - January 2022](/files/Principals%20Letter%20Jan_2022.pdf)   
+[Principal's Letter - January 2022](/files/Principals%20Letter%20Jan_2022.pdf) <br>
 [St. Margaret's Secondary School Achievements in November and December 2021](/files/SMSS%20Achievements%20-%20Jan.pdf)
