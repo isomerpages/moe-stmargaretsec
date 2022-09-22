@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/Bookshop Information.md
       - For Students/Support for Students.md
       - For Students/Useful Links.md
       - For Students/.keep
