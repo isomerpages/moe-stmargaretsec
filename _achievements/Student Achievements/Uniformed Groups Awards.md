@@ -211,7 +211,9 @@ third_nav_title: Student Achievements
 | NPCC Inter-Unit Air Rifle Shooting Competition - 2<sup>nd</sup> |
 | SPF - NPCC Badge - 1 winner  |
 | 10th Uniformed Groups Bowling Championships <br> \- (Individual) - 1<sup>st</sup> <br> \- (Team) - 2<sup>nd</sup> and 3<sup>rd</sup> |
+| |
 
 | _Red Cross Youth_ |
 | --- |
 | Unit Excellence Award - Bronze |
+| |
