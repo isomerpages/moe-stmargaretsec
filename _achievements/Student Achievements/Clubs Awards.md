@@ -16,27 +16,19 @@ third_nav_title: Student Achievements
 
 | _Debate Club_ |
 | --- |
-| Singapore Secondary School Debating Championships 2019 <br>\- Division II Grand Finals – Champions - 5 students  <br>\- Top 16th Speaker Overall - 1 student  <br>\- Top 6th Speaker Overall - Best Speaker of the Finals - 1 student |
-| Debate Association Debate Championships 2019  <br>\- Silver Division – Champion - 5 students  <br>\- Silver Division – Best Speaker - 1 student  <br>\- Gold Division – Top 4th Speaker - 1 student  <br>\- Silver Division – Top 8th Speaker - 1 student  <br>\- Silver Division – Top 20th Speaker - 1 student |
+| Singapore Secondary School Debating Championships 2019 <br>\- Division II Grand Finals – Champions - 5 students  <br>\- Top 16<sup>th</sup> Speaker Overall - 1 student  <br>\- Top 6<sup>th</sup> Speaker Overall - Best Speaker of the Finals - 1 student |
+| Debate Association Debate Championships 2019  <br>\- Silver Division – Champion - 5 students  <br>\- Silver Division – Best Speaker - 1 student  <br>\- Gold Division – Top 4<sup>th</sup> Speaker - 1 student  <br>\- Silver Division – Top 8<sup>th</sup> Speaker - 1 student  <br>\- Silver Division – Top 20<sup>th</sup> Speaker - 1 student |
 
 2018
 ----
 
 | _Debate Club_ |
 | --- |
-| Hwa Chong British Parliamentary Debates 2018 Organised by Hwa Chong Junior College Debate Wing  <br>\- High School Category – 3rd \- 2 students  |
-| Thoburn Cup 2018 Organised Anglo-Chinese Junior College <br>
-
-\- Certificate of Participation - 5 students  |
+| Hwa Chong British Parliamentary Debates 2018 Organised by Hwa Chong Junior College Debate Wing  <br>\- High School Category – 3<sup>rd</sup> \- 2 students  |
+| Thoburn Cup 2018 Organised Anglo-Chinese Junior College <br> \- Certificate of Participation - 5 students  |
 | Thoburn Cup 2018 (Debate Club) - Round 3 vs PLMGS (win) - 5 students  |
-| Hwa Chong Institution Debate Invitationals 2018  
-\- Grand Finals – 2nd - 3 students  
-\- Best 2nd Speaker   
-\- Best 3rd Speaker |
-| River Valley High School U-16s Novice Debate Championships 2018  
-\- Won 2 out of 3 Preliminary Rounds - 5 students  
-
- |
+| Hwa Chong Institution Debate Invitationals 2018  <br>\- Grand Finals – 2nd - 3 students  <br>\- Best 2<sup>nd</sup> Speaker   <br>\- Best 3rd Speaker |
+| River Valley High School U-16s Novice Debate Championships 2018  <br>\- Won 2 out of 3 Preliminary Rounds - 5 students |
 | Raffles Debate Academy U-14 Debate Tournament organised by Raffles Junior College  
 \- Silver Division - Champions - 5 students  
 \- Silver Division - Top Speaker  
