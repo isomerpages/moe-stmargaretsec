@@ -234,5 +234,5 @@ Disciplinary Procedure
 *   When the offence tarnishes the school’s reputation
 
 The school may consider expulsion for recalcitrant serious offenders.
-
+<br>
 Please note that disciplinary action will be taken for any other infractions subject to the discretion of the school.
