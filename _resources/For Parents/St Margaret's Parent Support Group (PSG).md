@@ -6,7 +6,6 @@ third_nav_title: For Parents
 ---
 <img src="/images/psg%203.jpg" style="width:80%"/>
 
-<br><br>
 <h2 align="center"> Who We Are  <br> PSG Mission </h2>
 
 To promote a partnership between the school and parents by meeting the needs of the students, teachers and parents.  
