@@ -93,130 +93,62 @@ third_nav_title: Student Achievements
 
 | _Fencing_ |
 | --- |
-| 2019 National School Games  
-\- ‘B’ Division Girls Overall - 4th  
-\- Epee Individual Girl’s Event - Top 8  
-\- ‘C’ Division Girls Overall - 5th |
-| 2019 Singapore Novices Championships  
-\- Foil Team Event - 1st  
-\- Foil Team Event - 3rd  
-\- Epee Team Event - 3rd  
-\- Sabre Team Event - 2nd  
-\- Foil Individual Event - 3rd  
-\- Epee Individual Event - 2nd |
-
-  
-  
+| 2019 National School Games <br> \- ‘B’ Division Girls Overall - 4<sup>th  </sup> <br> \- Epee Individual Girl’s Event - Top 8 <br>\- ‘C’ Division Girls Overall - 5<sup>th</sup> |
+| 2019 Singapore Novices Championships <br> \- Foil Team Event - 1<sup>st</sup> <br> \- Foil Team Event - 3<sup>rd</sup> <br>\- Epee Team Event - 3<sup>rd</sup> <br> \- Sabre Team Event - 2<sup>nd</sup> <br>\- Foil Individual Event - 3<sup>rd</sup> <br>\- Epee Individual Event - 2<sup>nd</sup>|
+| |  
 
 | _Netball_ |
 | --- |
-| National School Games 2019 South Zone Inter-school Netball Championships  
-\- ‘C’ Division – 3rd Placing - 12 students  
- |
-| National School Games Netball 2019   
-\- South Zone ‘B’ Division - 3rd Position |
-
-  
-  
+| National School Games 2019 South Zone Inter-school Netball Championships <br> \- ‘C’ Division – 3<sup>rd</sup> Placing - 12 students |
+| National School Games Netball 2019  <br> \- South Zone ‘B’ Division - 3<sup>rd</sup> Position |
+| |
 
 | _Rhythmic Gymnastics_ |
 | --- |
-| 2019 National School Games  
-\- ‘B’ Division - Three Hoops Two Ball Group Event - 3rd |
-| 2019 Rhythmic Gymnastics National Championships  
-\- Level 5A Ribbon Individual Event - 6th  
-\- Level 6 Clubs Individual Event - 5th  
- |
-
-  
-  
+| 2019 National School Games  <br> \- ‘B’ Division - Three Hoops Two Ball Group Event - 3<sup>rd</sup> |
+| 2019 Rhythmic Gymnastics National Championships <br> \- Level 5A Ribbon Individual Event - 6<sup>th</sup> <br>\- Level 6 Clubs Individual Event - 5<sup>th</sup> |
+| |
 
 | _Others_ |
 | --- |
-| Singapore Schools Sports Council Colours Awards 2019  
-\- Colours Award - 1 student  
-\- Colours Award (Distinction) - 1 student  
-\- Colours Award (Best Sportsboy/Sportsgirl) - Judo - 1 student  
-  
-\- Colours Award - Fencing - 20 students  
-\- Colours Award - Gymnastics - 6 students  
-  
-\- Colours Award - Tenpin Bowling - 14 students  
- |   
- |  |  |  |
-| Singapore Sports Schools Para Games 2019  
-\- Women 100m Run CP Standing - 1st  |
-| Judo National School Games 2019  
-\- ‘B’ Division - Girls Under 57kg Event - 3rd |
+| Singapore Schools Sports Council Colours Awards 2019 <br> \- Colours Award - 1 student <br> \- Colours Award (Distinction) - 1 student <br> \- Colours Award (Best Sportsboy/Sportsgirl) - Judo - 1 student <br> \- Colours Award - Fencing - 20 students <br> \- Colours Award - Gymnastics - 6 students <br> \- Colours Award - Tenpin Bowling - 14 students | 
+| Singapore Sports Schools Para Games 2019 <br> \- Women 100m Run CP Standing - 1<sup>st</sup> |
+| Judo National School Games 2019 <br> \- ‘B’ Division - Girls Under 57kg Event - 3<sup>rd</sup> |
+| |
 
-  
-
-2018                                                                                                                              
-----------------------------------------------------------------------------------------------------------------------------------
+2018
+-----
 
 | _Badminton_ |
 | --- |
-| 2018 SSSC Badminton Zonal 'B' and 'C' Division Girls - South Zone 'C' Division - 3rd  
- |
-
-  
-  
+| 2018 SSSC Badminton Zonal 'B' and 'C' Division Girls - South Zone 'C' Division - 3<sup>rd</sup> |
 
 | _Basketball_ |
 | --- |
 | Overseas Family School Invitational Under-16 Girls Basketball Tournament - Champions  |
-| SSSC South Zone 'C' Division Basketball Championships 2018 - South Division - Girls 4th  |
-| 2018 SSSC Basketball Zonal 'B' Division Girls - South Zone 'C' Division - 3rd  
- |
-
-  
-  
+| SSSC South Zone 'C' Division Basketball Championships 2018 - South Division - Girls 4<sup>th</sup>  |
+| 2018 SSSC Basketball Zonal 'B' Division Girls - South Zone 'C' Division - 3<sup>rd</sup> |
+| |
 
 | _Bowling_ |
 | --- |
-| National Schools Tenpin Bowling Championships 2018  
-\- 'C- Division Girls Overall - 4th  |
-| National Schools Tenpin Bowling Championships 2018  
-\- Overall School - 3rd  
-\- Double Event - 3rd  
- |  |  |
-| National Age Group 2018 Girls Under-15 Championships   
-\- Single Event - 1st |   |   |
-
-  
- 
+| National Schools Tenpin Bowling Championships 2018 <br> \- 'C- Division Girls Overall - 4<sup>th</sup> |
+| National Schools Tenpin Bowling Championships 2018 <br> \- Overall School - 3<sup>rd</sup> <br>\- Double Event - 3<sup>rd</sup> |
+| National Age Group 2018 Girls Under-15 Championships   <br> \- Single Event - 1<sup>st</sup> | 
+| | 
 
 | _Fencing_ |
 | --- |
-| 2018 National School Games   
-\- 'C' Division Girls Epee Individual Event - 2nd  
-\- 'C' Division Girls Epee Individual Event - 3rd \- 'C' Division Girls Overall Team - 2nd - 'B' Division Girls Overall Team  - 4th |   
- |   
- |
-| 2018 Singapore Novices Championship\- Women Epee Foil Individual - 3rd position  
-\- Women Foil Individual - 3rd position  
-\- Women Foil Individual - 2nd position  
-\- Women Sabre Team - 3rd position  
-\- Women Epee Team - 2nd position  
-\- Women Foil Team - 1st position |
-
-  
-  
+| 2018 National School Games  <br> \- 'C' Division Girls Epee Individual Event - 2<sup>nd</sup> <br> \- 'C' Division Girls Epee Individual Event - 3<sup>rd</sup> <br> \- 'C' Division Girls Overall Team - 2<sup>nd</sup> <br>- 'B' Division Girls Overall Team  - 4<sup>th</sup> | 
+| 2018 Singapore Novices Championship<br> \- Women Epee Foil Individual - 3<sup>rd</sup> position  <br> \- Women Foil Individual - 3<sup>rd</sup> position <br> \- Women Foil Individual - 2<sup>nd</sup> position <br> \- Women Sabre Team - 3<sup>rd</sup> position <br> \- Women Epee Team - 2<sup>nd</sup> position  <br> \- Women Foil Team - 1<sup>st</sup> position |
+| |
 
 | _Netball_ |
 | --- |
-| Deloitte Pesta Sukan 2018   
-\- Schools 'B' Division – 3rd (11 students) |
-| 2018 SSSC Netball Zonal 'B' & 'C' Division Girls  
-\- South Zone 'C' Division - 3rd position  
-\- South Zone 'B' Division - 4th position  
-\- Team Managers - 4 students  
-  
-Sneakers Netball Challenge  
-\- 'C' Division 4th  
-\- 'B' Division 3rd  
-  
- |
+| Deloitte Pesta Sukan 2018   <br> \- Schools 'B' Division – 3<sup>rd</sup> (11 students) |
+| 2018 SSSC Netball Zonal 'B' & 'C' Division Girls <br> \- South Zone 'C' Division - 3<sup>rd</sup> position <br> \- South Zone 'B' Division - 4<sup>th</sup> position <br> \- Team Managers - 4 students  |
+| Sneakers Netball Challenge  <br> \- 'C' Division 4<sup>th</sup> <br> \- 'B' Division 3<sup>rd</sup> |
+| |
 
   
   
