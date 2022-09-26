@@ -122,56 +122,28 @@ third_nav_title: Student Achievements
 | University of New South Wales (UNSW) Global Mathematics Assessment | Distinction - 38 students  |
 | University of New South Wales International Science Competition 2018 | Certificate of Distinction - 6 students  |
 | National Schools Literature Festival 2018 | Lower Secondary: Book Parade – 3<sup>rd</sup> - 6 students <br> Lower Secondary: Book Trailer – 2<sup>nd</sup> - 9 students <br> Upper Secondary: Unseen Debate – 1<sup>st</sup> - 4 students <br> Upper Secondary: Set Text Debate – 1<sup>st</sup> - 4 students |
-| 
-
-2018 National On-The-Spot Chinese Story Writing Competition 
-
- | Merit Award – Top 15 Finalists  
- |
-| Toy Design Competition 2018 Organised by Singapore Polytechnic  | Toy Design Category (Automata) Commendation Award - 3 students  
-Toys Design (Playground) Commendation Award - 2 students  
- |
+| 2018 National On-The-Spot Chinese Story Writing Competition <br> | Merit Award – Top 15 Finalists |
+| Toy Design Competition 2018 Organised by Singapore Polytechnic  | Toy Design Category (Automata) Commendation Award - 3 students <br> Toys Design (Playground) Commendation Award - 2 students |
 | Singapore Story Maps Challenge 2018 Organised by National Library Board |  Top 10 Teams and Merit Award - 4 students |
 | Bitara Kata App Competition Organised by Malay Language Centre of Singapore. | Certificate of Participation - 5 students |
-| Pesta Pantun Competition organised by the NUS Malay Language Society  
- | Qualified for Semi-finals - 4 students |
-| Poetry Recital Competition 2018 organised by Kavimaalai Singapore |  1st |
-| Tamil Language Inter-school Competition organised by Raffles Institution  
-\- Oratorical (Upper Secondary Category)  
- | 4th  |
-| \- Essay Writing Competition | 4th  |
-| Tamil News Writing Competition 2018 organised by the Association of Singapore Tamil Writers |  2nd |
-| 11th International Model United Nations Conference Hosted and organised by Anglo-Chinese School (Independent) | Best Newcomer Delegation - 8 students  
-Verbal Commendation - 1 student |
-| Healthy Sandwich Making Competition Organised by SMSS F&N Unit    | Champions - S2-6  
-2nd \- S2-7  
-3rd \- S2-5  
- |
-| Ignite Skills Challenge 2018 Organised by the Institute of Technical Education  | Mad for Mocktail - Champions - 3 students  
-Flower Power - Finalists - 3 students  
- |
-| Destination Imagination – Inside Impact Service Learning Challenge Competition 2018 | Middle Level Category – 2nd  |
+| Pesta Pantun Competition organised by the NUS Malay Language Society | Qualified for Semi-finals - 4 students |
+| Poetry Recital Competition 2018 organised by Kavimaalai Singapore |  1<sup>st</sup> |
+| Tamil Language Inter-school Competition organised by Raffles Institution <br>\- Oratorical (Upper Secondary Category) | 4<sup>th</sup>  |
+| \- Essay Writing Competition | 4<sup>th</sup>  |
+| Tamil News Writing Competition 2018 organised by the Association of Singapore Tamil Writers |  2<sup>nd</sup> |
+| 11th International Model United Nations Conference Hosted and organised by Anglo-Chinese School (Independent) | Best Newcomer Delegation - 8 students <br> Verbal Commendation - 1 student |
+| Healthy Sandwich Making Competition Organised by SMSS F&N Unit | Champions - S2-6 <br> 2<sup>nd</sup> \- S2-7 <br> 3<sup>rd</sup> \- S2-5 |
+| Ignite Skills Challenge 2018 Organised by the Institute of Technical Education  | Mad for Mocktail - Champions - 3 students <br>Flower Power - Finalists - 3 students |
+| Destination Imagination – Inside Impact Service Learning Challenge Competition 2018 | Middle Level Category – 2<sup>nd</sup>  |
 | 2018 A\*STAR Science Award (Upper Secondary)   | 2 students  |
-| ProveIt! Contest
-
-Organised by the National Library Board  | Finals - 2nd  |
-| Sorkalam - National Tamil Debate 2018 | Grand Finals – 2nd
-
-Semi Finals – Best SpeakerQuarter Finals – Winner  
-1st Preliminary Round – Best Speaker  
-2nd Preliminary Round – Best Speaker  |
-| International Biomedical Quiz 2018 | Category 1 Individual – Silver  
-Category 1 Individual – Gold  |
-| NUS Geography Challenge 2018  
- | Top 50 Schools Finalists (Preliminary Round) - 4 students  
-Bronze Award - 2 students |
-
- 
+| ProveIt! Contest <br> Organised by the National Library Board  | Finals - 2<sup>nd</sup>  |
+| Sorkalam - National Tamil Debate 2018 | Grand Finals – 2<sup>nd</sup><br>Semi Finals – Best SpeakerQuarter Finals – Winner  <br> 1<sup>st</sup> Preliminary Round – Best Speaker <br> 2<sup>nd</sup> Preliminary Round – Best Speaker  |
+| International Biomedical Quiz 2018 | Category 1 Individual – Silver <br> Category 1 Individual – Gold  |
+| NUS Geography Challenge 2018 | Top 50 Schools Finalists (Preliminary Round) - 4 students  <br> Bronze Award - 2 students |
+| | |
 
 2017
 ----
-
-  
 
 | Name of Competition/Award(s) | Recognition |
 | --- | --- |
