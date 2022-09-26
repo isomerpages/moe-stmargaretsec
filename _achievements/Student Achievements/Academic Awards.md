@@ -108,20 +108,8 @@ third_nav_title: Student Achievements
 | Unity Scientific Innovation Challenge with SP & ERI@N USPE 2019 | Best Presentation Award - 4 students  <br> Most Innovative Solution Award - 4 students |
 | | |
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
 2018
 ----
-
- 
 
 | Name of Competition/Award(s) | Recognition |
 | --- | --- |
