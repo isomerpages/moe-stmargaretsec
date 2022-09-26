@@ -113,31 +113,15 @@ third_nav_title: Student Achievements
 
 | Name of Competition/Award(s) | Recognition |
 | --- | --- |
-| “Global Village” Children and Youth Bilingual Speech Conference 2018/2019  | Singapore Station Final – 1st - 1 student  
-Certificate of Participation - 3 students  
- |
+| “Global Village” Children and Youth Bilingual Speech Conference 2018/2019  | Singapore Station Final – 1<sup>st</sup> - 1 student  <br> Certificate of Participation - 3 students |
 | Future Problem Solving Programme | Honourable Mention - 6 students |
 | Green Wave Environmental Care Competition 2018 Organised by Sembcorp Marine  | Certificate of Participation - 8 students  |
 | 2018 Media Computing Competition Animation Competition  | Bronze Award  |
-| University of New South Wales (UNSW) Global English Assessment - English Comprehension  
- | High Distinction - 1 student  
-Distinction - 16 students   |
-| University of New South Wales (UNSW) Global English Assessment - Writing  | Top Scorer for Secondary 2 in Singapore  
-High Distinction - 2 students  
-Distinction - 11 students |
+| University of New South Wales (UNSW) Global English Assessment - English Comprehension | High Distinction - 1 student <br> Distinction - 16 students   |
+| University of New South Wales (UNSW) Global English Assessment - Writing  | Top Scorer for Secondary 2 in Singapore  <br> High Distinction - 2 students  <br> Distinction - 11 students |
 | University of New South Wales (UNSW) Global Mathematics Assessment | Distinction - 38 students  |
 | University of New South Wales International Science Competition 2018 | Certificate of Distinction - 6 students  |
-| National Schools Literature Festival 2018 | 
-
-Lower Secondary: Book Parade – 3rd - 6 students
-
-Lower Secondary: Book Trailer – 2nd - 9 students  
-
-Upper Secondary: Unseen Debate – 1st - 4 students  
-
-Upper Secondary: Set Text Debate – 1st - 4 students  
-
- |
+| National Schools Literature Festival 2018 | Lower Secondary: Book Parade – 3<sup>rd</sup> - 6 students <br> Lower Secondary: Book Trailer – 2<sup>nd</sup> - 9 students <br> Upper Secondary: Unseen Debate – 1<sup>st</sup> - 4 students <br> Upper Secondary: Set Text Debate – 1<sup>st</sup> - 4 students |
 | 
 
 2018 National On-The-Spot Chinese Story Writing Competition 
