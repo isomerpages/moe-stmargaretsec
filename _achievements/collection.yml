@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - School Achievements/School Awards by External Organisations.md
       - School Achievements/.keep
       - Student Achievements/Student Achievements.md
       - Student Achievements/Lee Kuan Yew Award Winners.md
