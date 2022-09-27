@@ -147,144 +147,41 @@ third_nav_title: Student Achievements
 
 | Name of Competition/Award(s) | Recognition |
 | --- | --- |
-| 10th International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students |
+| 10<sup>th</sup> International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students |
 | Community Problem Solving Competition 2017  | Certificate of Honourable Mention - 6 students |
 | Singapore National Youth Championship 2017  | Under 15 Champion for 2 Consecutive Years (2016 & 2017) - 1 student |
-| Historical Scene Investigation Challenge 2017  | 5th position - 4 students  
- |
+| Historical Scene Investigation Challenge 2017  | 5<sup>th</sup> position - 4 students |
 | National Financial Literacy Competition 2017  | Cash Flow Game - Top 20   |
-| Republic Polytechnic – Marketing Innovation Challenge 2017  | 
-Merit Award (for Top 5 teams) and Finalists Finalists (top 20 teams)
-
-  
-
-
- |
-| Media Computing Competition 2017  
- | Game Category – Silver Award  |
-| 
-
-University of New South Wales Mathematics Competition
-
- | 
-
-High Distinctions - 6 students
-
-Distinctions - 23 students
-
-  
-
-
- |
-| All Singapore Secondary Mathematics Competition for Normal Course Students 2017  | 1st in Lower Secondary Normal Technical Individual Category  |
-| Singapore Mathematical Society Singapore Mathematical Olympiad 2017  
- | Honourable Mention Singapore Mathematical Olympiad (Junior Section)  |
-| University of New South Wales (UNSW) Science Assessment 2017  | 
-
-Distinction - 1 student
-
-Distinction - 11 students
-
- |
+| Republic Polytechnic – Marketing Innovation Challenge 2017  | Merit Award (for Top 5 teams) and Finalists Finalists (top 20 teams) |
+| Media Computing Competition 2017 | Game Category – Silver Award  |
+| University of New South Wales Mathematics Competition | High Distinctions - 6 students <br> Distinctions - 23 students |
+| All Singapore Secondary Mathematics Competition for Normal Course Students 2017  | 1<sup>st</sup> in Lower Secondary Normal Technical Individual Category  |
+| Singapore Mathematical Society Singapore Mathematical Olympiad 2017 | Honourable Mention Singapore Mathematical Olympiad (Junior Section)  |
+| University of New South Wales (UNSW) Science Assessment 2017  | Distinction - 1 student <br> Distinction - 11 students |
 | Tamil Representative Council Academic Excellence Award  | Excelled in 2016 GCE ‘NA’ Level Examinations with Distinction in Tamil Language  |
-| University of New South Wales (UNSW) English Assessment – Writing 2017  | 
-
-High Distinction – Medal Winner
-
-High Distinction - 2 students
-
-Distinction - 4 students
-
- |
-| University of New South Wales (UNSW) English Assessment – Comprehension 2017  | 
-
-Distinction - 19 students
-
-High Distinction - 1 student  |
-| Tampines Indian Executive Committees Tamil Language Inter-school Competitions 2017 | 
-
-Oratorical Competition – 1st Prize
-
-Singing Competition – Consolation  |
-| Periyar Community Service of Singapore Tamil Language Inter-school Competitions 2017 
-
- | 
-
-Reading Competition - 1st Prize 
-
-Consolation - 2 students
-
- |
+| University of New South Wales (UNSW) English Assessment – Writing 2017  | High Distinction – Medal Winner <br> High Distinction - 2 students<br>Distinction - 4 students |
+| University of New South Wales (UNSW) English Assessment – Comprehension 2017  | Distinction - 19 students <br> High Distinction - 1 student  |
+| Tampines Indian Executive Committees Tamil Language Inter-school Competitions 2017 | Oratorical Competition – 1<sup>st</sup> Prize <br> Singing Competition – Consolation  |
+| Periyar Community Service of Singapore Tamil Language Inter-school Competitions 2017  | Reading Competition - 1<sup>st</sup> Prize <br> Consolation - 2 students |
 | Inter-school Chinese Essay Writing Competition 2017 By Tua Pek Kong Keng Management Council and Boon Lay Community Club  | Merit Award |
-| 编采比赛/ Create Your Own Newspaper Competition organised by the Committee to Promote Chinese Language Learning | 3rd Prize - 4 students  |
+| 编采比赛/ Create Your Own Newspaper Competition organised by the Committee to Promote Chinese Language Learning | 3<sup>rd</sup> Prize - 4 students  |
 | Inter-schools Story-telling/ Writing Programme  | Work selected and published in “Equatorial Wind” - 3 students |
-| Royal Commonwealth Essay Writing Competition  | 
-
-Senior Category - Bronze
-
-Junior Category - Gold  |
-| Anugerah Mendaki 2017 Award  | 
-
-For excelling in 2016 GCE O Level Exams
-
-Nooha Rashanah 2016 S4-6
-
-Ummul Sharmeen Farha Binte Abdul Wahid 2016 S4-4  |
-| National Arts Council – National Music Competition 2017   | Indian Musical Instrument – Venna Solo Immediate Category - 2nd Prize   |
+| Royal Commonwealth Essay Writing Competition  | Senior Category - Bronze <br> Junior Category - Gold  |
+| Anugerah Mendaki 2017 Award  | For excelling in 2016 GCE O Level Exams <br> Nooha Rashanah 2016 S4-6 <br> Ummul Sharmeen Farha Binte Abdul Wahid 2016 S4-4  |
+| National Arts Council – National Music Competition 2017   | Indian Musical Instrument – Venna Solo Immediate Category - 2<sup>>nd</sup> Prize   |
 | Budding Artiste – Script Writing Competition   | Silver Award - 1 student |
-| Budding Writers – Short Story Writing Competition   | 
-
-Silver Award - 1 student
-
-Certificate of Participation - 1 student  |
-| Association of Singapore Tamil Writers - Kamban Poetry Competition 2017 | 
-
-1st Prize - 1 student
-
-Certificate of Participation - 1 student
-
- |
+| Budding Writers – Short Story Writing Competition   | Silver Award - 1 student <br> Certificate of Participation - 1 student  |
+| Association of Singapore Tamil Writers - Kamban Poetry Competition 2017 | 1<sup>st</sup> Prize - 1 student <br>Certificate of Participation - 1 student |
 | Singapore Polytechnic Toy Design Competition 2017   | Toy Design Category (Automata) - Commendation  |
-| National Schools Literature Festival 2017  | Book Trailer - 1st - 6 students |
-|   | Choral Poetry - 2nd - 10 students  
- |
-|   | Set Text Debate – 1st -  4 students |
-| 39th International C.B. Paul Science Quiz 2017  | Category 2 Individual Honourable Mention: 1 student  |
-|   | 
-
-Category 2 Individual Science Talent Award 
-
-(Top Scorer) Category 2 Individual Gold: 1 student
-
- |
-| NUS Geography Challenge 2017  | Semi-Finalist, Preliminary Round – Bronze: 1 student  |
-|   | Semi-Finalist, Preliminary Round – Silver: 1 student    |
-|  ITE IgnITE Skills Challenge 2017 | 
-
-Creative 3D Modelling – 1st Runner-up
-
-Derma Rouge – Finalists     |
-|   | Get Rich $ in ASEAN - Finalists    |
-| Tirukkural Vizha 2017 Literary Competitions organised by Tamil Language and Cultural Society  | 2nd   |
-| Inter-school Tamil Language Competitions organised by Raffles Institution  | Essay Writing Competition – Consolation  |
-|   | Monologue Competition – 4th   |
-|   | 
-
-Oratorical Competition (Upper Secondary Category) 
-
-\- 4th  |
-|   | 
-
-Oratorical Competition (Lower Secondary Category) 
-
-\- 1st  |
-| Global Village - Children and Youth Bilingual Speech Competition 2016/2017  
- | 1st and 3rd placings in the final round  
- |
-| 9th International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students  |
-| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  |
-|   | Fine Arts Challenge - Middle Level Champion  
- |
+| National Schools Literature Festival 2017  | Book Trailer - 1<sup>st</sup> - 6 students <br><br> Choral Poetry - 2<sup>nd</sup> - 10 students <br> <br>Set Text Debate – 1<sup>st</sup> -  4 students |
+| 39<sup>th</sup> International C.B. Paul Science Quiz 2017  | Category 2 Individual Honourable Mention: 1 student  <br><br> Category 2 Individual Science Talent Award <br><br> (Top Scorer) Category 2 Individual Gold: 1 student |
+| NUS Geography Challenge 2017  | Semi-Finalist, Preliminary Round – Bronze: 1 student  <br> <br>Semi-Finalist, Preliminary Round – Silver: 1 student |
+|  ITE IgnITE Skills Challenge 2017 | Creative 3D Modelling – 1st Runner-up <br> Derma Rouge – Finalists  <br> Get Rich $ in ASEAN - Finalists    |
+| Tirukkural Vizha 2017 Literary Competitions organised by Tamil Language and Cultural Society  | 2<sup>nd</sup>   |
+| Inter-school Tamil Language Competitions organised by Raffles Institution  | Essay Writing Competition – Consolation  <br> <br>Monologue Competition – 4<sup>th</sup>   <br><br> Oratorical Competition (Upper Secondary Category) <br> \- 4<sup>th</sup>  <br><br> Oratorical Competition (Lower Secondary Category) <br>\- 1st  |
+| Global Village - Children and Youth Bilingual Speech Competition 2016/2017  | 1<sup>st</sup> and 3<sup>rd</sup> placings in the final round |
+| 9<sup>th</sup> International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students  |
+| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  <br><br> Fine Arts Challenge - Middle Level Champion  |
 |   | Engineering Challenge - Middle Level 2nd position  
  |
 | Destination Imagination (Humanities)  | 1st  |
