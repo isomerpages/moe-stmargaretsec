@@ -13,3 +13,4 @@ St. Margaret’s Secondary School congratulates the following student who has re
 | Name of Student | Award |
 | --- | --- |
 | Jolyn Ho | Merit Award |
+| | |
