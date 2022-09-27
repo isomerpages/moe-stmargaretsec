@@ -181,27 +181,26 @@ third_nav_title: Student Achievements
 | Inter-school Tamil Language Competitions organised by Raffles Institution  | Essay Writing Competition – Consolation  <br> <br>Monologue Competition – 4<sup>th</sup>   <br><br> Oratorical Competition (Upper Secondary Category) <br> \- 4<sup>th</sup>  <br><br> Oratorical Competition (Lower Secondary Category) <br>\- 1st  |
 | Global Village - Children and Youth Bilingual Speech Competition 2016/2017  | 1<sup>st</sup> and 3<sup>rd</sup> placings in the final round |
 | 9<sup>th</sup> International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students  |
-| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  <br><br> Fine Arts Challenge - Middle Level Champion <br> Engineering Challenge - Middle Level 2<sup>nd</sup> position |
+| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  <br><br> Fine Arts Challenge - Middle Level Champion <br><br> Engineering Challenge - Middle Level 2<sup>nd</sup> position |
 | Destination Imagination (Humanities)  | 1<sup>st</sup>  |
 | Destination Imagination (English Language) | 1<sup>st</sup> |
 | Destination Imagination (Mathematics) | 2<sup>nd</sup> |
+| | |
 
 2016
 ----
 
-| Name of Competition/Award(s) | Recognition![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif) |
+| Name of Competition/Award(s) | Recognition |
 | --- | --- |
 | Innovation Awards 2016      | Certificate of Participation - 15 students  |
 | Innovation Awards 2016   | Silver - Team  |
-| St. Margaret’s School 175th Anniversary Logo Design | 5 Finalists  |
-| Commonwealth Essay Competition  | Junior Category - Bronze: 10 students, Silver: 6 students, Gold: 3 students   
-Senior Category - Bronze: 1 student, Silver: 3 students  |
+| St. Margaret’s School 175<sup>th</sup> Anniversary Logo Design | 5 Finalists  |
+| Commonwealth Essay Competition  | Junior Category - Bronze: 10 students, Silver: 6 students, Gold: 3 students   <br> Senior Category - Bronze: 1 student, Silver: 3 students  |
 | Media Computing Competition 2016 | Silver Award (Game Category)  |
 | 2016 University of New South Wales International Competitions and Assessments For Schools (English) | 3 Higher Distinctions, 3 Distinctions (Writing), 8 Distinctions (English) |
 | Most Improved Students in Normal Stream  | Most Improved Students in Normal Stream  |
 | Media Computing Competition (by CPDD, MOE) | Silver for Games Category  |
-| All Singapore Secondary Mathematics Competition   
-for Normal Course Students 2016 | 5th |
+| All Singapore Secondary Mathematics Competition  <br> for Normal Course Students 2016 | 5<sup>th</sup> |
 | Inter-school Story-telling and Writing Programme  | 3 students had works published in a magazine entitled “Editorial Wind”  |
 | Historical Scene Investigation Challenge and The Young Historians Award 2016 | Certificate of Participation  |
 | Anugerah Mendaki Award | 1 student |
@@ -209,38 +208,25 @@ for Normal Course Students 2016 | 5th |
 | 2016 University of New South Wales International Competitions and Assessments For Schools (Science) | 13 Distinctions  |
 | Tamil Pattimandra Kalai Kazhagam (Tamil Debate Committee) | TL Oratorical competition - Consolation |
 | Kavi Malai (Poetry Writing Competition)  | One of the top 10 out of 50 students  |
-| Raffles Institution Inter School Tamil Language Competitions | Essay Writing Competition - Merit   
-Poetry Writing Competition - Merit   
-Oratorical Competition (Upper Sec Category) - Merit Oratorical Competition (Lower Sec Category) - Merit TL Quiz Competition - Merit |
+| Raffles Institution Inter School Tamil Language Competitions | Essay Writing Competition - Merit  <br> Poetry Writing Competition - Merit  <br> Oratorical Competition (Upper Sec Category) - Merit  <br> Oratorical Competition (Lower Sec Category) - Merit <br> TL Quiz Competition - Merit |
 | Asian Science & Math Olympiad (ASMO) 2016 | Gold Team Award, 1 individual Bronze Award, 4 individual Merit Awards and 6 Certificates of Participation  |
-| Singapore and Asian Schools Math Olympiad (SASMO)  
- | 2 bronze awards  
- |
-| National Schools Literature Festival 2016 | Set Text Debate - 1st   
-Unseen Poetry Debate - 1st    
-Book Trailer (Macbeth) - 3rd  |
-| National Junior College - Scholasticity 2016  | Individual MCQ Quiz for Science Category - 1st    
- Team Toss Up Category - 2nd  |
-| Destination Imagination Global Finals held in Knoxville, Tennessee  | 5th out of 53 teams  |
+| Singapore and Asian Schools Math Olympiad (SASMO)  | 2 bronze awards |
+| National Schools Literature Festival 2016 | Set Text Debate - 1<sup>st</sup> <br> Unseen Poetry Debate - 1<sup>st</sup> <br> Book Trailer (Macbeth) - 3<sup>rd</sup> |
+| National Junior College - Scholasticity 2016  | Individual MCQ Quiz for Science Category - 1<sup>st</sup> <br> Team Toss Up Category - 2<sup>nd</sup>  |
+| Destination Imagination Global Finals held in Knoxville, Tennessee  | 5<sup>th</sup> out of 53 teams  |
 | NUS Geography Challenge 2016  | Bronze  |
-| Piala Cendekia Sahibba 2016 Competition (for South Zone schools)  | 2nd  |
-| Destination Imagination (Singapore National Tournament 2016)  | Middle Level - Champion   
-Fine Arts Challenge   
-Middle Level - Champion   
-Service Level Challenge   
-Middle Level - Champion   
-Technical Challenge  |
-| Ngee Ann Polytechnic - Mathematics Challenge 2016  | Cliched top 3 prizes - 1st, 2nd and 3rd  |
+| Piala Cendekia Sahibba 2016 Competition (for South Zone schools)  | 2<sup>nd</sup>  |
+| Destination Imagination (Singapore National Tournament 2016)  | Middle Level - Champion   <br> Fine Arts Challenge  <br> Middle Level - Champion  <br> Service Level Challenge   <br> Middle Level - Champion   <br> Technical Challenge  |
+| Ngee Ann Polytechnic - Mathematics Challenge 2016  | Cliched top 3 prizes - 1<sup>st</sup>, 2<sup>nd</sup> and 3<sup>rd</sup>  |
 | 2016 A\*Star Science Award (Upper Secondary) | 2 students awarded cash prize of $500 and a 3-day Research Exposure Programme with A\*Star |
 | Creative Arts Programme organised by Gifted Education Branch, MOE  | Writing portfolio shortlisted  |
 | Japan International High School Arts Festival  | Artwork chosen to represent Singapore  |
+| | |
 
 2015
 ----
 
-| Name of Competition/Award(s)  
- | Recognition  
- |
+| Name of Competition/Award(s) | Recognition |
 | --- | --- |
 | Create Your Own Newspaper Competition  | 1 Merit Award  |
 | "I Love My Singapore" Creative Writing Competition  | 5 winning entries published in Essay Compilation Book   |
@@ -252,94 +238,64 @@ Technical Challenge  |
 | CB Paul Science Quiz | 1 Bronze and 3 Certificates of Merit |
 | Youth Entrepreneurship (YES) Challenge | Champion |
 | A\*Star Science Award (Upper Secondary)  | 2 students awarded cash prize of $1000 and a 3-day Research Exposure Programme with A\*Star |
-| Raffles Institution Tamil Language Poetry, Oratorical and Essay Writing Competition  | 
-Essay Writing Competition - 2 Merit Awards 
-
-Poetry Writing Competition - Merit Award 
-
-Oratorical Competition - 4th
-
- |
+| Raffles Institution Tamil Language Poetry, Oratorical and Essay Writing Competition  | Essay Writing Competition - 2 Merit Awards <br> Poetry Writing Competition - Merit Award <br> Oratorical Competition - 4<sup>th</sup> |
 | Radio Advertisement Competition | Merit Award |
 | aRWSome Apprenticeship | 2 students awarded a two-week attachment with Resort World Sentosa |
 | NUS Geography Challenge | Certificate of Achievement - Preliminary Round (Bronze)  |
 | SG50 POSB PAssion KidsWrite Programme | Recognition by POSB for invaluable role in the creation of the SG50 PAssion KidsWrite Book |
-| Sixth ‘Global Village’ Bilingual Youth Speech Competition | 2nd  |
-| Destination Imagination | Technical Challenge (team) – 1st |
+| Sixth ‘Global Village’ Bilingual Youth Speech Competition | 2<sup>nd</sup>  |
+| Destination Imagination | Technical Challenge (team) – 1<sup>st</sup> |
 | National Chinese Challenge | Individual Excellence Award  |
+| | |
 
 2014
 ----
 
-| Name of Competition/Award(s)  
- | Recognition  
- |
+| Name of Competition/Award(s) | Recognition |
 | --- | --- |
-| CB Paul Science Quiz  
- | 1 silver, 2 bronze and 2 Certificates of Merit  
- |
-| International Biomedical Olympiad  
- | 3 Honourable Mentions and 6 Merit Awards  
- |
+| CB Paul Science Quiz | 1 silver, 2 bronze and 2 Certificates of Merit |
+| International Biomedical Olympiad | 3 Honourable Mentions and 6 Merit Awards |
 | Destination Imagination Global Finals | Champions (Mathematics and Humanities teams) in local round |
-| Mathematics Challenge | 3rd |
+| Mathematics Challenge | 3<sup>rd</sup> |
 | Singapore Youth Festival Art Exhibition | Certificates of Recognition for both individual and group submissions |
 | Toy Design Competition | 1 Merit and 3 Commendation Awards |
-| Kavimalai Tamil Language Poetry Writing Competition | 3rd |
+| Kavimalai Tamil Language Poetry Writing Competition | 3<sup>rd</sup> |
 | MOE Tamil Creative Writing Competition | Consolation prize |
 | Raffles Institution Tamil Language Poetry, Oratorical and Essay Writing Competition | Consolation prizes |
 | National Chinese Challenge | Individual Excellent Award  |
-| Science First (Sci-Fi) Challenge | 2nd, 4th and Merit Awards  |
+| Science First (Sci-Fi) Challenge | 2<sup>nd</sup>, 4<sup>th</sup> and Merit Awards  |
 | Cleantech Park Core Art Competition | 2 Merit Awards |
-| All Singapore Secondary Mathematics Competition for Normal Course Students | 13th (Individual placing) and 5th (Team placing)  |
+| All Singapore Secondary Mathematics Competition for Normal Course Students | 13<sup>th</sup> (Individual placing) and 5<sup>th</sup> (Team placing)  |
 | Polytechnics Engineering and Science Competition (PESC)  | GreeniE Award for Sustainable Design |
+| | |
 
 2013
 ----
 
-| Name of Competition/Award(s)  
- | Recognition  
- |
+| Name of Competition/Award(s) | Recognition |
 | --- | --- |
-| CB Paul Science Quiz  
- | 1 gold, 1 silver  
- |
-| Singapore-China Children and Youths Bilingual Speech Competition  
- | 3rd  
- |
+| CB Paul Science Quiz <br> | 1 gold, 1 silver |
+| Singapore-China Children and Youths Bilingual Speech Competition | 3<sup>rd</sup> |
 | International Biomedical Olympiad | 4 Honourable Mentions, 13 Certificates of Merit and 3 Bronze Awards |
-| National Day Tamil Song-Writing Competition | 3rd |
-| Tamil Creative Writing Competition | 3rd  
- |
+| National Day Tamil Song-Writing Competition | 3<sup>rd</sup> |
+| Tamil Creative Writing Competition | 3<sup>rd</sup> |
 | Raffles Institution Tamil Language Oracy Competition  | Consolation prize |
 | Raffles Institution Tamil Language Poetry Competition | Consolation prize |
-| Association of Singapore Tamil Writers Tamil Language Poetry Recital Competition  
- | 2nd  
- |
-| Eco Design Competition | Silver, overall 2nd (1 team); Certificate of Merit (1 team) |
+| Association of Singapore Tamil Writers Tamil Language Poetry Recital Competition | 2<sup>nd</sup> |
+| Eco Design Competition | Silver, overall 2<sup>nd</sup> (1 team); Certificate of Merit (1 team) |
 | "Young Illustrator Awards" Art Competition | Top 20 |
-| Food Science and Nutrition Challenge | 2nd and 3rd |
+| Food Science and Nutrition Challenge | 2<sup>nd</sup> and 3<sup>rd</sup> |
 | “Do Your Part to Stamp Out Corruption” Poster-Slogan Competition | Merit Award |
-| Odyssey of the Mind Competition (Lower Secondary) | 
-2nd
-
-Qualified for World Finals in USA
-
- |
+| Odyssey of the Mind Competition (Lower Secondary) | 2<sup>nd</sup> <br> Qualified for World Finals in USA |
 | Singapore Polytechnic Science Spelling Bee | Merit Award |
 | National Earthquake Competition | Merit Award |
 | Clean Water Challenge | Merit Award |
-| Toy Design Competition | 3rd placing for 1 team, 2 Merit Awards and 4 Commendation Awards, (most number of winning entries in competition)  |
+| Toy Design Competition | 3<sup>rd</sup> placing for 1 team, 2 Merit Awards and 4 Commendation Awards, (most number of winning entries in competition)  |
 | Geospatial Challenge | Teams within top 10 and top 25 positions  |
 | Commonwealth Essay Competition | Senior Bronze Award |
 | Tale of S e-Book Competition | One student placed within top 50 winning authors |
-| National Microbiology Quiz | 5th |
-| Assumption Pathway School Challenge – Baking Competition  | 3rd |
-| Extravaganza Comic Competition | 
-
-1st (Ink Category)
-
-3rd (Graphite Category)
-
- |
+| National Microbiology Quiz | 5<sup>th</sup> |
+| Assumption Pathway School Challenge – Baking Competition  | 3<sup>rd</sup> |
+| Extravaganza Comic Competition | 1<sup>st</sup> (Ink Category) <br> 3<sup>rd</sup> (Graphite Category) |
 | National Secondary Schools Translation Competition | Outstanding Individual Award |
+| | |
