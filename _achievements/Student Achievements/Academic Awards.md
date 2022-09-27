@@ -181,12 +181,10 @@ third_nav_title: Student Achievements
 | Inter-school Tamil Language Competitions organised by Raffles Institution  | Essay Writing Competition – Consolation  <br> <br>Monologue Competition – 4<sup>th</sup>   <br><br> Oratorical Competition (Upper Secondary Category) <br> \- 4<sup>th</sup>  <br><br> Oratorical Competition (Lower Secondary Category) <br>\- 1st  |
 | Global Village - Children and Youth Bilingual Speech Competition 2016/2017  | 1<sup>st</sup> and 3<sup>rd</sup> placings in the final round |
 | 9<sup>th</sup> International Science Youth Forum @ Singapore  | Certificate of Participation - 3 students  |
-| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  <br><br> Fine Arts Challenge - Middle Level Champion  |
-|   | Engineering Challenge - Middle Level 2nd position  
- |
-| Destination Imagination (Humanities)  | 1st  |
-| Destination Imagination (English Language) | 1st |
-| Destination Imagination (Mathematics) | 2nd |
+| Destination Imagination National Tournament 2017  | Service Learning Challenge - Middle Level Champion  <br><br> Fine Arts Challenge - Middle Level Champion <br> Engineering Challenge - Middle Level 2<sup>nd</sup> position |
+| Destination Imagination (Humanities)  | 1<sup>st</sup>  |
+| Destination Imagination (English Language) | 1<sup>st</sup> |
+| Destination Imagination (Mathematics) | 2<sup>nd</sup> |
 
 2016
 ----
