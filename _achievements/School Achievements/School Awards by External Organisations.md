@@ -9,8 +9,9 @@ Friends of Our Heartlands
 
 <img src="/images/HDB.png" style="width:35%"/>
 
-**Awarded:<br>
-School Category - Silver Award (2022)**  
+**Awarded:**
+
+**School Category - Silver Award (2022)**  
   
 Presented by **Housing Development Board (HDB)**  
   
@@ -21,8 +22,9 @@ Schools Heritage Champion Awards
 
 <img src="/images/national_heritage_board_logo.jpg" style="width:45%"/>
 
-**Awarded: <br>
-School Heritage Champion Award 2019**
+**Awarded:**
+
+**School Heritage Champion Award 2019**
 
 Presented by **National Heritage Board (NHB)**
 
@@ -55,26 +57,33 @@ Singapore Centre for Chinese Language
 
 <img src="/images/Singapore%20Centre%20for%20Chinese%20Language%20Logo.png" style="width:70%"/>
 
-**Awarded: <br>
-Certificate of Appreciation - For Supporting Chinese Language Teachers' Professional Development Programme (3 years)**
+**Awarded:**
+
+**Certificate of Appreciation - For Supporting Chinese Language Teachers'**
+
+**Professional Development Programme (3 years)**
 
 Presented by **Singapore Centre for Chinese Language**
 
 North West Outstanding School Partner Award
 -------------------------------------------
 
-**Awarded: <br>
-Gold (2022, 2021, 2016, 2015)<br>
-Silver (2020, 2017, 2014)**
+**Awarded:**
+
+**Gold (2022, 2021, 2016, 2015)**
+
+**Silver (2020, 2017, 2014)**
 
 Presented by **North West Community Development Council**
 
 North West CDC Green Living Award
 ---------------------------------
 
-**Awarded:<br>
-Gold (2019, 2018, 2017, 2016, 2015)<br>
-Silver (2020, 2014, 2013)**
+**Awarded:**
+
+**Gold (2019, 2018, 2017, 2016, 2015)**
+
+**Silver (2020, 2014, 2013)**
 
 Presented by **North West Community Development Council and National Environment Agency**
 
@@ -92,16 +101,25 @@ School Green Awards        
 	</tr>
 </table>
 
-**Awarded:<br>
-Vanda Miss Joaquin Sustained Achievement Award (2021,2019, 2018) <br>
-Lotus Sustained Award in the SEC-Starhub School Green Awards (SGA) 2016<br>
-Lotus Sustained Award LSA7 Award in School Green Awards (SGA) 2016 <br>
-Lotus Sustained Achievement Award (2014-2017)<br>
-Sustained 3R Award (2015, 2014)<br> 
-School Green Day Participation Certificate (2014) <br>
-3R Award – Gold (2013) <br> 
-Sustained Achievement  Award (2007 - 2011) <br>
-Presented by Singapore Environment Council**
+**Awarded:**
+
+**Vanda Miss Joaquin Sustained Achievement Award (2021,2019, 2018)**
+
+**Lotus Sustained Award in the SEC-Starhub School Green Awards (SGA) 2016**
+
+**Lotus Sustained Award LSA7 Award in School Green Awards (SGA) 2016**
+
+**Lotus Sustained Achievement Award (2014-2017)**
+
+**Sustained 3R Award (2015, 2014)**
+
+**School Green Day Participation Certificate (2014)**
+
+**3R Award – Gold (2013)**
+
+**Sustained Achievement  Award (2007 - 2011)**
+
+Presented by **Singapore Environment Council**
 
 Outstanding School Award
 ------------------------
@@ -117,8 +135,9 @@ COMPASS Partners Award
 
 <img src="/images/Excellence%20in%20Partnership(Merit).jpg" style="width:35%"/>
 
-**Awarded: <br>
-Merit (2010 – 2014)**
+**Awarded:**
+
+**Merit (2010 – 2014)**
 
 Presented by **National Advisory Council, COMPASS (COMmunity and PArents in Support of Schools)**
 
@@ -127,22 +146,28 @@ Friend of SINGA Award
 
 <img src="/images/Friend_of_Singa_2014.jpg" style="width:35%"/>
 
-**Awarded: <br>
-Friend of Singa 2018 - 10-year Award<br>
-Most Appreciative Initiatives (2018)<br>
-Most Inspiring Social Etiquette Initiatives (2016)<br>
-Platinum (2014)<br>
-Gold (2013)<br>
-Silver (2011)**
+**Awarded:**
+
+**Friend of Singa 2018 - 10-year Award**
+
+**Most Appreciative Initiatives (2018)**
+
+**Most Inspiring Social Etiquette Initiatives (2016)**
+
+**Platinum (2014)**
+
+**Gold (2013)**
+
+**Silver (2011)**
 
 Presented by **Singapore Kindness Movement**
 
 National Arts Education Award
 -----------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/School%20Achievements/School%20Awards%20by%20External%20Organisations/NAEA%20logo%20blaze%202015.jpg)
+<img src="/images/NAEA%20logo%20blaze%202015.jpg" style="width:35%"/>
 
-**Awarded:**  
+**Awarded:**
 
 **Blaze (2015 - 2019)**
 
@@ -150,12 +175,10 @@ National Arts Education Award
 
 Presented by **National Arts Council**
 
-  
-
 CHERISH Award
 -------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/School%20Achievements/School%20Awards%20by%20External%20Organisations/CHERISH%20SILVER%20AWARD.jpg)  
+<img src="/images/CHERISH%20SILVER%20AWARD.jpg" style="width:35%"/>
 
 **Awarded:**
 
@@ -168,7 +191,7 @@ Presented by **National Advisory Council, COMPASS (COMmunity and PArents in�
 SINDA-MOE Partnership Award
 ---------------------------
 
-**Awarded in** **2015**
+**Awarded in 2015**
 
 People's Association Community Spirit Awards
 --------------------------------------------
@@ -200,7 +223,7 @@ Presented by **Compassion Fund Ltd**
 In-house IQC Assessment 2015
 ----------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/School%20Achievements/School%20Awards%20by%20External%20Organisations/Singapore%20Productivity%20Association.png)  
+<img src="/images/Singapore%20Productivity%20Association.png" style="width:35%"/>
 
 **Awarded:**
 
@@ -211,7 +234,7 @@ Presented by **Singapore Productivity Association**
 Young Champs’ Acknowledgement 2015
 ----------------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Achievements/School%20Achievements/School%20Awards%20by%20External%20Organisations/Young%20Champs.jpg)  
+<img src="/images/Young%20Champs.jpg" style="width:50%"/>
 
 **Awarded:**
 
