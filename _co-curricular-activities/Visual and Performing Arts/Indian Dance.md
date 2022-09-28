@@ -64,7 +64,7 @@ Achievements
 </table>
 
 
-![IndianDance1-iloveimg-converted.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/IndianDance1-iloveimg-converted.jpg)
+<img src="/images/IndianDance1-iloveimg-converted.jpg" style="width:80%"/>
 
 Photo Albums
 ------------
