@@ -87,8 +87,8 @@ Details of Post Secondary Pathways
 
 Students will find useful information and links in the summary below:  
 [Education Pathway N(A)](/files/Education%20Pathway%20-%20NA.pdf)  
-[Education Pathway N(T)](/files/Education%20Pathway%20-%20NT.pdf)&nbsp;  
-[Education Pathway 'O'](/files/Education%20Pathway%20-%20O.pdf)&nbsp;  
+[Education Pathway N(T)](/files/Education%20Pathway%20-%20NT.pdf);  
+[Education Pathway 'O'](/files/Education%20Pathway%20-%20O.pdf);  
 
 Photo Albums
 ------------
