@@ -42,8 +42,8 @@ Photo Albums
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmOozlVZKB03N2jcemA1E3-PT7PC9RwpXQyXzs1qiPIyrAZh6i8qmQa_J_luFzyEQkpewznetJlnN3/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-**Singapore Youth Festival Arts Presentation 2021**
+<p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQaWcieGx5P8qn6CJWwvIcTKbNPJrUGkLuRKpI0mNqzlsYGJ7EYx_pTI7e4kjiUi1cqKd8oUtsMoAgT/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-**Our Activities**
+<p align="center"><b>Our Activities</b></p>
