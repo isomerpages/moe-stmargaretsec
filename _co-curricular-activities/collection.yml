@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/English Drama.md
       - Visual and Performing Arts/Indian Dance.md
       - Visual and Performing Arts/Malay Dance.md
       - Visual and Performing Arts/Modern Dance.md
