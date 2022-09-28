@@ -21,7 +21,7 @@ Mrs Teo Sook Lee (IC)
 <br>
 Mdm Josephine Khaw
 <br>
-Mdm Yeo Shu Ling&nbsp;
+Mdm Yeo Shu Ling
 
 Achievements
 ------------
@@ -34,6 +34,7 @@ Achievements
 | 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2016 | Trinity College London Ensemble Grading Examination | Intermediate Ensemble - Certificate of Distinction |
 | 2015 | Singapore Youth Festival Central Judging | Certificate of Accomplishment |
+| | | |
 
 <img style="width:80%" src="/images/strings1_VR9cUn.jpg">
 
