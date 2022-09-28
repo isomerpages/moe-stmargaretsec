@@ -6,7 +6,7 @@ third_nav_title: School Achievements
 ---
 ### School Distinction Award
 
-<img src="/images/School%20Distinction%20Award.jpg" style="width:35%" align="left"/> <br clear="left">
+<img src="/images/School%20Distinction%20Award.jpg" style="width:25%" align="left"/> <br clear="left">
 
 **(Since 2018)**
 
@@ -24,7 +24,7 @@ For our effective processes and systems which led to desirable education outcome
 
 ### Character Development Award
 
-<img src="/images/Character%20Development%20Award%20(Outstanding).jpg" style="width:25%" align="left"/> <br clear="left">
+<img src="/images/Character%20Development%20Award%20(Outstanding).jpg" style="width:20%" align="left"/> <br clear="left">
 
 **(Since 2009)**
 
