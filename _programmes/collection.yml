@@ -2,5 +2,6 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curricular Activities.md
       - Sexuality Education.md
       - Education and Career Guidance.md
