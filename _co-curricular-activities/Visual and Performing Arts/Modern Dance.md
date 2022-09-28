@@ -17,7 +17,7 @@ CCA Schedule
 Teachers In-Charge
 ------------------
 
-Ms Grace Wee (IC)  
+Ms Grace Wee (IC)
 <br>
 Ms Wang Li
 <br>
