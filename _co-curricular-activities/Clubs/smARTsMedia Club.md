@@ -9,16 +9,16 @@ CCA Schedule
 
 | | Library Club | SmARTS Media | 
 | --- | --- | --- | 
-|  Training Day (s) | Tuesday  |  Tuesday | 
+| &nbsp;Training Day (s) | Tuesday&nbsp; | &nbsp;Tuesday | 
 | Training Time | 3.30pm-5.30pm | 3.30pm-5.30pm |  
-| Training Venue(s) | Design Studio | ICT Lab 2&3 |   
+| Training Venue(s) | Design Studio | ICT Lab 2&amp;3 |   
 
 Teachers In-Charge
 ------------------
 
 Ms Katherine Li (IC)
 <br>
-Mdm Suryati 
+Mdm Suryati&nbsp;
 <br>
 Ms Irnawaty
 <br>
@@ -28,21 +28,13 @@ Ms Sharon Ow (Lib Rep)
 <br>
 Mdm Nazlin (Lib Rep)
 
+<img style="width:70%" src="/images/Smartsmedia1-iloveimg-converted.jpg">
   
-
-![Smartsmedia1-iloveimg-converted.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/Smartsmedia1-iloveimg-converted.jpg)  
-  
-![library4.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/library4.jpg)  
-  
+<img src="/images/library4.jpg" style="width:70%">
 
 Photo Album
 -----------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR9OD8Fk0ETK4pvTxGCCNjm3q_demax1MstxBW2ETgaESgWVKHNBA5Pl2MkatbqxupclvMZ90-oQseM/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-  
-  
 
-3
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc33/.tn.5044310b3_32836.bmp.jpg)
-
-CCA Activities
+**CCA Activities**
