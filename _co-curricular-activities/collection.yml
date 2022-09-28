@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/.keep
       - Clubs/Agape Club.md
       - Clubs/Debate Club.md
       - Clubs/smARTsMedia Club.md
