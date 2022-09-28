@@ -7,74 +7,41 @@ third_nav_title: Visual and Performing Arts
 CCA Schedule
 ------------
 
-| Training Day(s) | Monday  
- | Friday  
- |   
- |   
- |
-| --- | --- | --- | --- | --- |
-| Training Time | 2.30pm-5.30pm  
- | 2.300pm-5.30pm  
- |   
- |   
- |
-| Training Venue(s) | Dance Studio  
-MPR 4 | Hall  
- |   
- |   
- |
-
-  
-  
+| | | |
+| --- | --- | --- |
+| Training Day(s) | Monday | Friday |  
+| Training Time | 2.30pm-5.30pm | 2.300pm-5.30pm | 
+| Training Venue(s) | Dance Studio<br>MPR 4 | Hall |   
+| | | |
 
 Teachers In-Charge
 ------------------
 
 Ms Grace Wee (IC)  
-
+<br>
 Ms Wang Li
-
+<br>
 Ms Joey Poh
-
-  
 
 Achievements
 ------------
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021  | Singapore Youth Festival Arts Presentation  | Certificate of Accomplishment  |
-| 2019 | Singapore Youth Festival Arts Presentation  
- | Certificate of Distinction |
-| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment  |
-| 2015 | Singapore Youth Festival Central Judging  | Certificate of Distinction  |
+| 2021&nbsp; | Singapore Youth Festival Arts Presentation&nbsp; | Certificate of Accomplishment&nbsp; |
+| 2019 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
+| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment&nbsp; |
+| 2015 | Singapore Youth Festival Central Judging&nbsp; | Certificate of Distinction&nbsp; |
 
-  
-  
-  
-  
-  
-  
-  
-  
-
-![moderndance6.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/moderndance6.jpg)
+<img src="/images/moderndance6.jpg" style="width:80%">
 
 Photo Albums
 ------------
 
-  
+  <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQeqM-Jpzo3PyQXmJrdY9muIAdvBsQ9DTklskIT4T74MnPKIc42-pnYfR-FjigNyf83PupGPSELGBZ-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+	
+**Singapore Youth Festival Arts Presentation 2021**
 
-5
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTSYThdMzEB1tEcisOC5Z_cEqG5evRhF3jLWIpM6FTxTUwa1xtHdi5SeM7rM9fTQ37DoFmEOeXdPN7w/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc32/.tn.fe90fed0a_31756.jpg.jpg)
-
-Singapore Youth Festival Arts Presentation 2021
-
- 
-
-2
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc32/.tn.88f2beea0_31754.bmp.jpg)
-
-CCA Activities
+**CCA Activities**
