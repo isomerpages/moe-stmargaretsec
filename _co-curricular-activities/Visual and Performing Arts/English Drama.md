@@ -28,24 +28,20 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021&nbsp; | Singapore Youth Festival Arts Presentation&nbsp; | Certificate of Distinction&nbsp; |
+| 2021 | Singapore Youth Festival Arts Presentation | Certificate of Distinction&nbsp; |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-| 2015&nbsp; | Singapore Youth Festival Central Judging&nbsp; | Certificate of Distinction&nbsp; |
+| 2015 | Singapore Youth Festival Central Judging | Certificate of Distinction |
 | | | |
 
-<img src="/images/drama2.jpg" style="width:80%">
+<img style="width:80%" src="/images/drama2.jpg">
 
 Photo Albums
 ------------
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSdgU00-OktKODcXk_tYJZSf80XLgJ4KCpmEooIHsZnlLe0hlaKI3R-D_4KkO1MFopUKaLE8lNWgHcv/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSdgU00-OktKODcXk_tYJZSf80XLgJ4KCpmEooIHsZnlLe0hlaKI3R-D_4KkO1MFopUKaLE8lNWgHcv/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 <p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
-&nbsp;
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRC-ENChmG5Z2catYXxaDgcoS8-xIXFA90magBFyZjU3wUq3u0Ng7A5hseqXxg0PPgUhVhJh8-duVqZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-3
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc31/.tn.deaf5d2c8_30735.bmp.jpg)
-
-CCA Activities
+<p align="center"><b>CCA Activities</b></p>
