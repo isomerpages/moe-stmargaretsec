@@ -34,7 +34,7 @@ Achievements
 	<tr>
 		<td> 2021&nbsp;</td>
 		<td> Singapore Youth Festival Arts Presentation </td>
-		<td> Certificate of Distinction&nbsp;</td>
+		<td> Certificate of Distinction </td>
 	</tr>
 	<tr>
 		<td> 2019 </td>
@@ -44,21 +44,21 @@ Achievements
 	<tr>
 		<td rowspan="2"> 2017 </td>
 		<td> Singapore Youth Festival Arts Presentation </td>
-		<td> Certificate of Distinction&nbsp;</td>
+		<td> Certificate of Distinction </td>
 	</tr>
 	<tr>
 		<td> SYF 2017 Celebrations: Youth Got Talent </td>
-		<td> Dance (Solo) Category - Audience Choice Award&nbsp; </td>
+		<td> Dance (Solo) Category - Audience Choice Award </td>
 	</tr>
 	<tr>
 		<td> 2016 </td>
-		<td> 6<sup>th</sup>&nbsp;International Youth Dance Festival&nbsp;</td>
-		<td> Gold&nbsp; </td>
+		<td> 6<sup>th</sup> International Youth Dance Festival </td>
+		<td> Gold </td>
 	</tr>
 	<tr>
 		<td> 2015 </td>
 		<td> Singapore Youth Festival Central Judging </td>
-		<td> Certificate of Distinction&nbsp;</td>
+		<td> Certificate of Distinction </td>
 	</tr>
 	<tr></tr>
 </tbody></table>
