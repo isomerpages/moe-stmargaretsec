@@ -11,6 +11,7 @@ CCA Schedule
 | --- | --- | --- | 
 | Training Time | 3.30pm-5.45pm | 3.30pm-5.45pm |   
 | Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
+| | | |
 
 Teachers In-Charge
 ------------------
