@@ -28,10 +28,11 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021&nbsp; | Singapore Youth Festival Arts Presentation&nbsp; | Certificate of Accomplishment&nbsp; |
+| 2021&nbsp; | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
-| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment&nbsp; |
-| 2015 | Singapore Youth Festival Central Judging&nbsp; | Certificate of Distinction&nbsp; |
+| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+| 2015 | Singapore Youth Festival Central Judging | Certificate of Distinction |
+| | | |
 
 <img src="/images/moderndance6.jpg" style="width:80%">
 
