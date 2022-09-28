@@ -26,15 +26,15 @@ Ms Norhayati
 Achievements
 ------------
 <table>
-	<tr>
+	<tbody><tr>
 		<th> Year </th>
 		<th> Name of Competition </th>
 		<th> Achievement </th>
 	</tr>
 	<tr>
-		<td> 2021 </td>
+		<td> 2021&nbsp;</td>
 		<td> Singapore Youth Festival Arts Presentation </td>
-		<td> Certificate of Distinction </td>
+		<td> Certificate of Distinction&nbsp;</td>
 	</tr>
 	<tr>
 		<td> 2019 </td>
@@ -44,41 +44,34 @@ Achievements
 	<tr>
 		<td rowspan="2"> 2017 </td>
 		<td> Singapore Youth Festival Arts Presentation </td>
-		<td> Certificate of Distinction </td>
+		<td> Certificate of Distinction&nbsp;</td>
 	</tr>
 	<tr>
 		<td> SYF 2017 Celebrations: Youth Got Talent </td>
-		<td> Dance (Solo) Category - Audience Choice Award  </td>
+		<td> Dance (Solo) Category - Audience Choice Award&nbsp; </td>
 	</tr>
 	<tr>
 		<td> 2016 </td>
-		<td> 6<sup>th</sup> International Youth Dance Festival </td>
-		<td> Gold  </td>
+		<td> 6<sup>th</sup>&nbsp;International Youth Dance Festival&nbsp;</td>
+		<td> Gold&nbsp; </td>
 	</tr>
 	<tr>
 		<td> 2015 </td>
 		<td> Singapore Youth Festival Central Judging </td>
-		<td> Certificate of Distinction </td>
+		<td> Certificate of Distinction&nbsp;</td>
 	</tr>
 	<tr></tr>
-</table>
+</tbody></table>
 
 
-<img src="/images/IndianDance1-iloveimg-converted.jpg" style="width:80%"/>
+<img style="width:80%" src="/images/IndianDance1-iloveimg-converted.jpg">
 
 Photo Albums
 ------------
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT0oWVyzOmHL5WX9_4yvCsKFwju89D2CREvhk6UDf-YVT_JV9hIibErXY-oLcvuNJ82EmObl3DATNKJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-5
+<p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc32/.tn.88bbf9165_31770.jpg.jpg)
-
-Singapore Youth Festival Arts Presentation 2021
-
- 
-
-3
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc32/.tn.9ee78b79e_31716.bmp.jpg)
-
-CCA Activities
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTGvNwl_b4vEG8R4KPttRd1NJJ3t1WX2zRuWh4jQsbhhDurddkrflIgN7wkBN3P5Qr5wpopuffdqCZp/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+ 
+<p align="center"><b>CCA Activities</b></p>
