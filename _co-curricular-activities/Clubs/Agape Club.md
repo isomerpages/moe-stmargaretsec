@@ -32,5 +32,5 @@ Mrs Lucy Seet
 <img style="width:80%" src="/images/Agape%20-%20Gift%20Packing%20for%20non-teaching%20staff.bmp"/>
 <p align="center">Gift packing for non-teaching staff  </p>
 
-<img style="width:80%" src="/images/Agape%20-%20Pizza%20making.bmp"/>
+<img style="width:60%" src="/images/Agape%20-%20Pizza%20making.bmp"/>
 <p align="center">Pizza-making</p>
