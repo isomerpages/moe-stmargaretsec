@@ -30,10 +30,11 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021 | Singapore Youth Festival Arts Presentation&nbsp;&nbsp; | Certificate of Distinction&nbsp; |
+| 2021 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
-| 2017 | Singapore Youth Festival Arts Presentation&nbsp; | Certificate of Accomplishment&nbsp; |
-| 2015 | Singapore Youth Festival Central Judging&nbsp; | Certificate of Distinction&nbsp; |
+| 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+| 2015 | Singapore Youth Festival Central Judging | Certificate of Distinction |
+| | | |
 
 <img src="/images/malaydance1.jpg" style="width:80%">
 
