@@ -7,39 +7,25 @@ third_nav_title: Clubs
 CCA Schedule
 ------------
 
-|   
- | Library Club | SmARTS Media |   
- |   
- |
-| --- | --- | --- | --- | --- |
-|  Training Day (s) | Tuesday  |  Tuesday |   |   |
-| Training Time | 3.30pm-5.30pm | 3.30pm-5.30pm |   
- |   
- |
+| | Library Club | SmARTS Media | 
+| --- | --- | --- | 
+|  Training Day (s) | Tuesday  |  Tuesday | 
+| Training Time | 3.30pm-5.30pm | 3.30pm-5.30pm |  
 | Training Venue(s) | Design Studio | ICT Lab 2&3 |   
- |   
- |
-
-  
-  
-  
-  
-  
-  
 
 Teachers In-Charge
 ------------------
 
 Ms Katherine Li (IC)
-
+<br>
 Mdm Suryati 
-
+<br>
 Ms Irnawaty
-
+<br>
 Ms Joyce Woon
-
+<br>
 Ms Sharon Ow (Lib Rep)
-
+<br>
 Mdm Nazlin (Lib Rep)
 
   
