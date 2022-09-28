@@ -6,11 +6,13 @@ third_nav_title: Visual and Performing Arts
 ---
 CCA Schedule
 ------------
+
 | | | |
 | --- | --- | --- | 
 | Training Day(s) | Tuesday | Friday | 
 | Training Time | 3.00pm-5.30pm | 2.pm-6.00pm |
-| Training Venue(s) | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&amp;4 | PAS | 
+| Training Venue(s) | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&4 | PAS | 
+| | |
 
 Teachers In-Charge
 ------------------
