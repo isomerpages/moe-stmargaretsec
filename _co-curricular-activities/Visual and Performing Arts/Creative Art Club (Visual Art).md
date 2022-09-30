@@ -42,11 +42,7 @@ Achievements
 Photo Albums
 ------------
 
-  
-
-2
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc35/.tn.04a3489ef_34517.jpg.jpg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8BBkhyeMYx-vS99RKjaA3nh_vl4LCltdwQKJvbiKQp5h-m7Lstz8jV-c8AG5vfO4tiWhSzY20F6hO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Art Awards 2022
 
