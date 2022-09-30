@@ -35,8 +35,9 @@ Achievements
 | 2018  | Singapore Youth Festival 2018 Art Exhibition  |   |
 |   | Logo Design Contest | *   Certificate of Recognition (Special Mention) - 1 student <br> *   Certificate of Recognition - 4 students <br> *   Consolation Prize - 1 student <br> *   Certificate of Participation - 40 students |
 |   | (2018年度张瘦石全国中小学书画展)  <br> 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition | *   Silver Award -1 student <br> *   Certificate of Merit - 2 students |   
+| | | |
 
-![creative_art_club2.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/creative_art_club2.jpg)
+<img style="width:80%" src="/images/creative_art_club2.jpg"/>
 
 Photo Albums
 ------------
