@@ -84,4 +84,4 @@ Photo Albums
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_1dDs60ETig97i0FDA6zyh3fgk3kY9bN2plZgzh04LYHpWWVBk6OgTLtxk-Esn8kV7lnurd148M2R/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-CCA Activities
+<p align="center"><b>CCA Activities</b></p>
