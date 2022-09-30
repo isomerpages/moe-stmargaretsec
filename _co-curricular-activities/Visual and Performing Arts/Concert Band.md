@@ -78,13 +78,9 @@ Achievements
 Photo Albums
 ------------
 
-  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWqlYKK7JmS_3AF5NwGh45b0vCOINEAx5lyWpxLBI-xEs2PJtjEQbdGBPt-yHXErKiX8hGRbB0GCIk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
-7
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc31/.tn.4cedc7166_30764.jpeg.jpg)
-
-Singapore Youth Festival Arts Presentation 2021
+<p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
  
 
