@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Visual and Performing Arts/Creative Art Club (Visual Art).md
       - Visual and Performing Arts/Concert Band.md
       - Visual and Performing Arts/English Drama.md
       - Visual and Performing Arts/Indian Dance.md
