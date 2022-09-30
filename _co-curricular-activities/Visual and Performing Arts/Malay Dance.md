@@ -43,10 +43,10 @@ Achievements
 Photo Albums
 ------------
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPnZFCfz4ZXYDQ1r9_sGXg-x8xFrFnCal5xQc-JT5Fq_YbZcFxCdaMyRzp30lc502lyfRgNbmYsGDO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRPnZFCfz4ZXYDQ1r9_sGXg-x8xFrFnCal5xQc-JT5Fq_YbZcFxCdaMyRzp30lc502lyfRgNbmYsGDO/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWH0rgECL9Jn0iNlieZq_p6YAtdVjbnyjEt4o9aCv7sRND_zYPGz4aDXn0hnDwbMniDGUhwh2hCCVI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQWH0rgECL9Jn0iNlieZq_p6YAtdVjbnyjEt4o9aCv7sRND_zYPGz4aDXn0hnDwbMniDGUhwh2hCCVI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <p align="center"><b>CCA Activities</b></p>
