@@ -44,28 +44,16 @@ Photo Albums
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS8BBkhyeMYx-vS99RKjaA3nh_vl4LCltdwQKJvbiKQp5h-m7Lstz8jV-c8AG5vfO4tiWhSzY20F6hO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-Art Awards 2022
+<p align="center"><b>Art Awards 2022</b></p>
 
- 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSVrqKvkh63bEzv1t-6kAJDNdIq272gbCJ8_5vKtcVnH-kiVav7qLI1SRYytWQ5UoOT2pQhgSD0eRKg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-4
+<p align="center"><b>Art Awards 2021</b></p>
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc33/.tn.6b5148fba_32840.jpg.jpg)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR88nLC5zdKTiMWYUgpkKmFsDrhx_do99fwcxJ2wJwUqz5Mh8JzVMxexj9H_sKpZ7hH8F0ze4bF7VDv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-Art Awards 2021
+<p align="center"><b>Art Awards 2018</b></p>
 
- 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTLPzQESFFCCFr5TiHJavs6AZ4J_gwyGCWPtbX0noZ1FXeMDNY_TJ-uUpD-Z2vIP4d-P1mjsRM6ZRMH/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-7
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc31/.tn.f0ac99d02_30796.jpg.jpg)
-
-Art Awards 2018
-
- 
-
-4
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc31/.tn.29aeda179_30740.bmp.jpg)
-
-CCA Activities
+<p align="center"><b>CCA Activities</b></p>
