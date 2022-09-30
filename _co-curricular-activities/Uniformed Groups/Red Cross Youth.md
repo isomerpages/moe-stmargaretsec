@@ -43,8 +43,8 @@ Achievements
 |   | *   Junior Category | Bronze  |
 | | | |
 
-![redcross1.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/redcross1.jpg)
+<img style="width:80%" src="/images/redcross1.jpg"/>
 
-![RCY - 1st Aid Competition 2020.bmp](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/CCAs/Red%20Cross%20Youth/RCY%20-%201st%20Aid%20Competition%202020.bmp)
+<img style="width:80%" src="/images/RCY%20-%201st%20Aid%20Competition%202020.jpg"/>
 
-First Aid Competition
+<p align="center"><b>First Aid Competition</b></p>
