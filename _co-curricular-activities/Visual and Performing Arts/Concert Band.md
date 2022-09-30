@@ -78,7 +78,7 @@ Achievements
 Photo Albums
 ------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWqlYKK7JmS_3AF5NwGh45b0vCOINEAx5lyWpxLBI-xEs2PJtjEQbdGBPt-yHXErKiX8hGRbB0GCIk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWqlYKK7JmS_3AF5NwGh45b0vCOINEAx5lyWpxLBI-xEs2PJtjEQbdGBPt-yHXErKiX8hGRbB0GCIk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 <p align="center"><b>Singapore Youth Festival Arts Presentation 2021</b></p>
 
