@@ -66,4 +66,5 @@ Our Alumnae in the Music Pathway
     <td width="300px"> <img src="/images/Tsai%20Gin-tzu%20-%20St%20Margarets%20Secondary%20School.jpg" alt="Tsai Gin-tzu - St Margarets Secondary School.jpg" style="width:245px; height:346px"></td>
     <td>Tsai Gin-tzu, who was in our school String Ensemble, completed her education at St. Margaret's Secondary School in 2015. A resilient student who has had to overcome obstacles to follow her heart, she went on to pursue her passion for music at the Nanyang Academy of Fine Arts (NAFA). We rejoice with her - she has not just graduated but clinched the 'Best Graduate 2021' Award!<br><br>Her desire to learn continuously is evident in her desire to delve deeper into music through the Master's Programme she will enrol in. <br><br>Congratulations and all the best to you, Gin-tzu!</td>
   </tr>
+	<tr></tr>
 </table>
