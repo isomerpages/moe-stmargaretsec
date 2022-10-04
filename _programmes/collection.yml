@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Aesthetic Development/.keep
       - Aesthetic Development.md
       - Co Curricular Activities.md
       - Sexuality Education.md
