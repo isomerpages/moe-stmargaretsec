@@ -34,28 +34,36 @@ Secondary 2 students who are interested in applying for the Enhanced Music Progr
 Performing Arts CCAs Supporting the Enhanced Music Programme
 ---------------
 
-| Choir | Concert Band | String Ensemble |
-| --- | --- | --- |
-| ![Choir.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/Aesthetics%20Development/.tn.Choir.jpg.mid.jpg)  
- | ![Band.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/Aesthetics%20Development/Band.jpg)  
- | ![Strings.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/Aesthetics%20Development/Strings.jpg)  
- |
+<table>
+	<tr>
+		<th> Choir </th>
+		<th> Concert Band </th>
+		<th> String Ensemble </th>
+	</tr>
+	<tr>
+		<td width="36%"><img src="/images/Choir.jpg"/></td>
+		<td width="32%"><img src="https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/Aesthetics%20Development/Band.jpg"/> < file exceeds 5mb ></td>
+		<td width="32%"><img src="/images/Strings.jpg"/></td>
+	</tr>
+	<tr><tr>
+</table>
 
-  
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
-
-  
-
-* * *
-
-  
-
-  
+< insert video here >
 
 Our Alumnae in the Music Pathway
 --------------------------------
 
-  
-  
-
+<table>
+  <tr>
+    <td><img src="/images/Grace.jpg" alt="Grace.jpg" style="width:119px; height:165px"></td>
+    <td>Grace Wong, an MOE Teaching Scholarship (Overseas) holder, pursued a Bachelor of Music (First-class honours) at the University of Birmingham in 2013-2016. She went on to read Musicology at the University of Oxford in 2016-2017, and has recently returned to join the teaching profession in Singapore.</td>
+  </tr>
+  <tr>
+    <td><img src="/images/Evengalinev1.jpg" alt="Evengalinev1.jpg" style="width:268px; height:168px"></td>
+    <td><br>Evangeline Anne Lim Shyan Ying, received the 2017 Teaching Award for a four-year Bachelor of Arts degree programme at the National Institute of Education, specialising in Music.<br></td>
+  </tr>
+  <tr>
+    <td width="300px"> <img src="/images/Tsai%20Gin-tzu%20-%20St%20Margarets%20Secondary%20School.jpg" alt="Tsai Gin-tzu - St Margarets Secondary School.jpg" style="width:245px; height:346px"></td>
+    <td>Tsai Gin-tzu, who was in our school String Ensemble, completed her education at St. Margaret's Secondary School in 2015. A resilient student who has had to overcome obstacles to follow her heart, she went on to pursue her passion for music at the Nanyang Academy of Fine Arts (NAFA). We rejoice with her - she has not just graduated but clinched the 'Best Graduate 2021' Award!<br><br>Her desire to learn continuously is evident in her desire to delve deeper into music through the Master's Programme she will enrol in. <br><br>Congratulations and all the best to you, Gin-tzu!</td>
+  </tr>
+</table>
