@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Aesthetic Development/GCE 'O' Level Drama Programme.md
       - Aesthetic Development/Enhanced Music Programme.md
       - Aesthetic Development/.keep
       - Aesthetic Development.md
