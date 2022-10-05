@@ -31,7 +31,7 @@ Target Group
 ------------
 
 **The main target group is Secondary One to Three students.**
-
+<br>
 However, end-of-year VIA trips can also involve graduating students. 
 
 Processes
