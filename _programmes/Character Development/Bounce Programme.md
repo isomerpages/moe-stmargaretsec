@@ -32,10 +32,6 @@ Another component within Bounce is the Gear-Up Programme which offers our studen
 Photo Album
 -----------
 
-6
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9Zgl7rikSEvkM9xBW28RKNOCFdbhyOL9DBL9jTDxNX0y_DOtcS0Xz1IkiKzcmX2VCFF0f11YCAy-L/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/catalog/pc34/.tn.51b43d752_33146.jpg.jpg)
-
-2020 Bounce Programme
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<p align="center"><b>2020 Bounce Programme</b></p>
