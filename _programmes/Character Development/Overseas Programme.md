@@ -15,18 +15,12 @@ Objectives
 
 To nurture global citizens who are equipped with life skills, knowledge and caring hearts, much thought is put into the planning of overseas programmes.
 
-  
-
 The school decides on the purpose of the trips and how it would enhance our objective of nurturing global citizens. The following are questions addressed in the course of our planning:
-
-  
 
 *   Would our students gain life skills and knowledge from the trip?
 *   Would our students be able to utilize such skills and knowledge in the future?
 *   Would our students be able to contribute to the betterment of a community from the trip?
-*   Would our students be better global citizens after the trip?
-
-  
+*   Would our students be better global citizens after the trip?  
 
 Students are chosen according to the following criteria:
 
@@ -36,9 +30,7 @@ Students are chosen according to the following criteria:
 Target Group
 ------------
 
-The main target group is Secondary One to Three students.  
-
-------------------------------------------------------------
+**The main target group is Secondary One to Three students.**
 
 However, end-of-year VIA trips can also involve graduating students. 
 
