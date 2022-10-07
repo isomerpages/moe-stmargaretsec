@@ -32,6 +32,6 @@ You may refer to the Admission Criteria for DSA Exercise for [Aesthetics](/admi
 
 You will be notified of the outcome via post/email by **12 September 2022**.
 
-**8\. How do applicants not studying in MOE Schools apply for DSA?**
+**8.**   **How do applicants not studying in MOE Schools apply for DSA?**
 
 Applicants not studying in MOE mainstream primary schools should apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE Website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
