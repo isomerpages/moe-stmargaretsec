@@ -2,6 +2,7 @@ collections:
   financial-matters:
     output: true
     order:
+      - Financial Matters.md
       - Financial Assistance Scheme.md
       - Scholarship and Awards/Scholarship and Awards.md
       - Scholarship and Awards/Edusave Awards.md
