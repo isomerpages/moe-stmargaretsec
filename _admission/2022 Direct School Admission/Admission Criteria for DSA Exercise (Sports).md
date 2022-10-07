@@ -20,8 +20,8 @@ Selection Process 
   <tr>
     <td>Badminton</td>
     <td>Friday<br>1 July 2022</td>
-    <td rowspan="7"><br>Member of school's sports CCA or Junior Sports Academy<br><br> OR<br><br><br>Has at least 2 years of playing experience in the relevant sport applied for<br><br> <br> </td>
-    <td rowspan="7"><br>Perform skills-based sport-specific tasks<br>Perform physical ability tests<br>Interview<br><br> </td>
+    <td rowspan="7"><br><br>Member of school's sports CCA or Junior Sports Academy<br><br> OR<br><br><br>Has at least 2 years of playing experience in the relevant sport applied for<br><br> <br> </td>
+    <td rowspan="7"><br><br><br>Perform skills-based sport-specific tasks<br>Perform physical ability tests<br>Interview<br><br> </td>
   </tr>
   <tr>
     <td>Basketball</td>
