@@ -4,4 +4,9 @@ permalink: /programmes/the-national-digital-literacy-programme-ndlp/important-co
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
+| To access/ find out more about ... | Contact/ Helpline |
+| --- | --- |
+| Edusave Balance | 6260 0777 | 
+| Financial assistance available |   Administrations Manager  <br> [Ms Lian Chuen Ann  <br> lian\_chuen\_ann@schools.gov.sg](mailto:lian_chuen_ann@schools.gov.sg)  <br><br> Administrative Executive <br> [Ms Mae See Toh Wai Theng <br> see\_toh\_wai\_theng@moe.edu.sg ](mailto:see_toh_wai_theng@moe.edu.sg) |
+| PLD Specifications <br> Procurement Matters |  HOD/ Information and Communications Technology <br>[Mdm Azizah Rabunam<br>azizah\_rabunam@moe.edu.sg](mailto:azizah_rabunam@moe.edu.sg) |
+|  Use of PLD in teaching and learning |  SH Teaching and Learning with Technology  <br> [Mrs Keira Lim <br> keira\_htay@moe.edu.sg](mailto:keira_htay@moe.edu.sg)  |
