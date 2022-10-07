@@ -2,5 +2,6 @@ collections:
   financial-matters:
     output: true
     order:
+      - Scholarship and Awards/Edusave Awards.md
       - Scholarship and Awards/St Margaret's Secondary School Awards.md
       - Scholarship and Awards/.keep
