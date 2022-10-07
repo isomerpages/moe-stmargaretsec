@@ -29,7 +29,7 @@ DSA-Sec talent areas offered by St. Margaret’s Secondary School
 </tbody>
 </table>
 
-You can view the listing of our [](https://stmargaretssec.moe.edu.sg/admission/goog_1320475773) [CCAs](https://stmargaretssec.moe.edu.sg/programmes/co-curricular-activities) and our students’ [CCA achievements](https://stmargaretssec.moe.edu.sg/achievements/student-achievements) for more details.  
+You can view the listing of our  [CCAs](/programmes/co-curricular-activities) and our students’ [CCA achievements](/achievements/student-achievements) for more details.  
 
   
 
@@ -47,26 +47,18 @@ For 2022, application for DSA-Sec can be submitted through the online DSA-Sec Po
 
 **NOTE:**
 
-Applicants do not need to submit supporting documents to complete their application, **except for Visual Arts** (please see selection criteria for Visual Arts).  After submitting your online application, you will receive confirmation of receipt of your DSA application. You may wish to print or download a copy of the confirmation for your future reference.
+Applicants <u>do not need</u> to submit supporting documents to complete their application, **except for Visual Arts** (please see selection criteria for Visual Arts).  After submitting your online application, you will receive confirmation of receipt of your DSA application. You may wish to print or download a copy of the confirmation for your future reference.
 
 Selection Process & Criteria
 ----------------------------
 
 **Only shortlisted applicants** will be notified via post/email to undergo the selection process. They will be given at least one week’s notice prior to their audition/trial date.  
 
-  
-
 Shortlisted applicants are expected to adhere to the given audition/trial date and time. Applicants who are absent will no longer be considered for admission via DSA.    
-
-  
 
 Shortlisted applicants may be required to present evidence of non-school-based activities and achievements during the interview.
 
-  
-
 **All auditions / trials / interviews will be conducted in-person from Friday 1 July to Friday 5 August 2022**. Please refer to the Aesthetics and Sports talent areas for details on the selection process and criteria  
-
-  
 
 General Procedure & Timeline
 ----------------------------
@@ -75,41 +67,22 @@ General Procedure & Timeline
 
 | Step | Description | Dates |
 | --- | --- | --- |
-| 1 | DSA-Sec Application Period | 
-5 May 2022 to 
-
-1 June 2022
-
- |
-| 2 | Auditions/ Trials/ Interviews for shortlisted applicants | 
-
-1 July 2022 to
-
-5 August 2022
-
- |
+| 1 | DSA-Sec Application Period | 5 May 2022 to <br> 1 June 2022 |
+| 2 | Auditions/ Trials/ Interviews for shortlisted applicants | 1 July 2022 to <br>5 August 2022 |
 | 3 | Application Outcome via post/email  | By 12 September 2022  |
 | 4 | Receipt of School Preference Form (through student's primary school)  | End October 2022  |
 | 5 | Submission of School Preference Form (through MOE online system OR completed hardcopy to student's primary school) | End October 2022  |
 | 6 | Releases of DSA-SEC Allocation Results  | End November 2022  |
-
-  
+| | | |  
 
 Contact Details
 ---------------
 
-Please refer to our [FAQ](https://stmargaretssec.moe.edu.sg/admission/2022-direct-school-admission-exercise-dsa-sec/frequently-asked-questions-about-the-direct-school-admission-exercise) if you require further information on DSA applications to SMSS.  
-
-  
+Please refer to our [FAQ](/admission/2022-direct-school-admission-exercise-dsa-sec/faq-about-dsa) if you require further information on DSA applications to SMSS.  
 
 For further queries, please contact:  
 
-  
-
-Administration Manager 
-
-Ms Doreen Owyong
-
-Tel: 6466 4525
-
+Administration Manager <br>
+Ms Doreen Owyong <br>
+Tel: 6466 4525 <br>
 Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
