@@ -4,7 +4,7 @@ permalink: /programmes/the-national-digital-literacy-programme-ndlp/personal-lea
 description: ""
 third_nav_title: National Digital Literacy
 ---
-<img src="/images/Lenova%20500e.png" style="width:60%"/>
+<img src="/images/Lenova%20500e.png" style="width:25%"/>
 
 <p align="center">Lenovo 500e Chromebook 2nd Gen (Enhanced Bundle)</p>
 
