@@ -1,0 +1,4 @@
+collections:
+  financial-matters:
+    output: true
+    order: []
