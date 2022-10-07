@@ -2,4 +2,5 @@ collections:
   memories:
     output: true
     order:
+      - 2001 to 2010.md
       - 2011 to 2017.md
