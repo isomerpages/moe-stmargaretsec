@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - National Digital Literacy/DMA Settings After School Hours.md
       - National Digital Literacy/Important Contact and Helplines.md
       - National Digital Literacy/More NDLP resources.md
       - National Digital Literacy/.keep
