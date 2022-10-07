@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Learning Community.md
       - Character Development/Character Development.md
       - Character Development/Values in Action (VIA).md
       - Character Development/Overseas Programme.md
