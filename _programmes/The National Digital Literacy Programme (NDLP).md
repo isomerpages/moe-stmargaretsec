@@ -11,6 +11,8 @@ Students who are Singapore citizens from lower-income families will enjoy furthe
 
 Click [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html) for more information about MOE NDLP. 
 
+<iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Qgf76jrMEkQ" title="NDLP Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Unboxing Day on 26 August 2021
 ------------------------------
 
