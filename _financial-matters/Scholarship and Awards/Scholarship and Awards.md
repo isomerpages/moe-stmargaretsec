@@ -18,4 +18,4 @@ The school has identified Netball, Tennis, Basketball and Fencing as its niche s
 
   
 
-Find out more about [Edusave Awards](/admission/financial-matters/scholarships-and-awards/edusave-awards) and [St. Margaret's Seocondary School Awards](/admission/financial-matters/scholarships-and-awards/st-margarets-secondary-school-awards).
+Find out more about [Edusave Awards](/admission/financial-matters/scholarships-and-awards/edusave-awards) and [St. Margaret's Secondary School Awards](/admission/financial-matters/scholarships-and-awards/st-margarets-secondary-school-awards).
