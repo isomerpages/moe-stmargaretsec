@@ -2,6 +2,8 @@ collections:
   admission:
     output: true
     order:
+      - 2022 Direct School Admission/Admission Criteria for DSA Exercise
+        (Sports).md
       - 2022 Direct School Admission/Frequently Asked Questions about the Direct
         School Admission Exercise.md
       - 2022 Direct School Admission/.keep
