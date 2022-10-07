@@ -66,7 +66,7 @@ Sports Talent Areas
 <tbody>
   <tr>
     <td>Badminton</td>
-    <td rowspan="7">Students from the Sports CCAs will work towards participation in the National School Games and national age group competitions. <br><br>Students also serve the community through various Values-In-Action programmes/events.</td>
+    <td rowspan="7"><br>Students from the Sports CCAs will work towards participation in the National School Games and national age group competitions. <br><br>Students also serve the community through various Values-In-Action programmes/events.</td>
   </tr>
   <tr>
     <td>Basketball</td>
