@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - 2022 Direct School Admission/.keep
       - Financial Matters.md
       - PSLE Scoring.md
