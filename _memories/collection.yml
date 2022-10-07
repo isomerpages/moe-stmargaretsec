@@ -1,0 +1,4 @@
+collections:
+  memories:
+    output: true
+    order: []
