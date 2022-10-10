@@ -6,5 +6,12 @@ links:
     collection: about-us
   - title: Events
     collection: events
-  - title: Menu Title
-    collection: 180th-anniversary-celebrations
+  - title: Resources
+    collection: resources
+  - title: Achievements
+    collection: achievements
+  - title: Programmes
+    url: /programmes
+    sublinks:
+      - title: c
+        url: /permalink
