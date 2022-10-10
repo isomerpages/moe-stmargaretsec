@@ -16,7 +16,16 @@ description: ""
 	<tr>
 		<td colspan="3"><img src="/images/title_border.png" style="position: relative; top:-60px"/><br>
 			<p style="position:relative; top:-175px; font-size:32px" align="center"><b>We'd love to have your photos and stories</b><br><br> which we will feature on this website! <br> <b>How to send in entries:</b></p>
+		</td>
 	</tr>
+	<tr>
+		<td width="49%">Step 1<img src="/images/graphic1.png"/></td>
+		<td width="2%" rowspan="2"><img src="/images/dot_divider.png"/></td>
+		<td width="49%">Step 2<img src="/images/graphic2.png"/></td>
+	</tr>
+	<tr>
+		<td> <p align="center"> Entries should be at most <br> 200 words in length.</p> </td>
+		<td> <p align="center"> Send us <br> your fond memories of <br> your time at St. Margaret's at <br> <a href="mailto:memories@stmargs.edu.sg">memories@stmargs.edu.sg</a></p> </td>
 </table>
 
 
