@@ -2,6 +2,7 @@ collections:
   memories:
     output: true
     order:
+      - Memories.md
       - Before 1960.md
       - 1960 to 1970.md
       - 1971 to 1980.md
