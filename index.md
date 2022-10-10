@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: St. Margaret's Secondary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.svg
 permalink: /
 notification: Welcome to St. Margaret's Secondary School
 sections:
@@ -33,3 +33,4 @@ sections:
       image: /images/c01a75dec_466.jpg
       alt: Image alt text
 ---
+
