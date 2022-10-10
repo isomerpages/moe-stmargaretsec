@@ -15,6 +15,8 @@ sections:
         - title: Latest News
           description: ""
           url: /others/latest-news
+      url: sites.google.com/moe.edu.sg/letitshine180/home
+      button: let it shine
   - infopic:
       image: /images/4f49f7039_467.jpg
       alt: Image alt text
