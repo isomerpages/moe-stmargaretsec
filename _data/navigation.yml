@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
   - title: About Us
     collection: about-us
   - title: Events
@@ -13,5 +11,19 @@ links:
   - title: Programmes
     url: /programmes
     sublinks:
-      - title: c
-        url: /permalink
+      - title: National Digital Literacy
+        url: /programmes/the-national-digital-literacy-programme-ndlp
+      - title: Learning Community
+        url: /programmes/learning-community
+      - title: Character Development
+        url: /programmes/character-development
+      - title: Aesthetics Development
+        url: /programmes/aesthetics-development
+      - title: Co-Curricular Activities
+        url: /programmes/co-curricular-activities
+      - title: Sexuality Education
+        url: /programmes/sexuality-education\
+      - title: Education and Career Guidance
+        url: /programmes/education-and-career-guidance\
+      - title: DOTS
+        url: https://sites.google.com/moe.edu.sg/smssdots/home
