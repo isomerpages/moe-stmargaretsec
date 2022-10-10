@@ -2,4 +2,5 @@ collections:
   180th-anniversary-celebrations:
     output: true
     order:
+      - Online Virtual Concert.md
       - Family Activity Box.md
