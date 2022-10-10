@@ -26,6 +26,7 @@ description: ""
 	<tr>
 		<td> <p align="center"> Entries should be at most <br> 200 words in length.</p> </td>
 		<td> <p align="center"> Send us <br> your fond memories of <br> your time at St. Margaret's at <br> <a href="mailto:memories@stmargs.edu.sg">memories@stmargs.edu.sg</a></p> </td>
+	</tr>
 </table>
 
 
