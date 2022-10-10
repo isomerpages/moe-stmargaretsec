@@ -15,7 +15,7 @@ description: ""
 <table style="border:3px solid rgb(168, 140, 37)">
 	<tr>
 		<td colspan="3"><img src="/images/title_border.png" style="position: relative; top:-60px"/><br>
-			<h5 style="position:relative; top:-200px" align="center">We'd love to have your photos and stories <br><br> which we will feature on this website! <br> How to send in entries:</h5><br>
+			<p style="position:relative; top:-175px; font-size:32px" align="center"><b>We'd love to have your photos and stories</b><br><br> which we will feature on this website! <br> <b>How to send in entries:</b></p>
 	</tr>
 </table>
 
