@@ -23,6 +23,7 @@ Be Responsible and Disciplined
 
 *   Students must be accountable for their attendance. All absences from school and school activities e.g. remedial lessons and CCAs must be covered by a medical certificate.
 *   Students should report to school before the following times to be in time for the morning assembly:
+
 | | |
 | --- | --- |
 | Mondays, Tuesdays, Thursdays and Fridays | 7.30am |
