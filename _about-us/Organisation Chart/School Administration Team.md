@@ -16,7 +16,7 @@ third_nav_title: Organisation Chart
 | Mrs | Sumitra Shasi Kumar  | Adjunct Corporate Support Officer |
 | Mr | Somasundram  | Adjunct Operations Support Officer |
 | Mdm | Chan Wai Lin | Operations Support Officer |
-| rMdm  | Kamisah Bte Nor  | Operations Support Officer |
+| Mdm  | Kamisah Bte Nor  | Operations Support Officer |
 | Mdm  | Sagaya Arockian | Operations Support Officer |
 | Mdm   | Pushpalatha  | Operations Support Officer (Lab Attendant) |
 | Mdm  | Suntharambal  | Operations Support Officer (Lab Attendant) |
