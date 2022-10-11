@@ -6,15 +6,19 @@ description: ""
 <table>
 	<tr>
 		<td>
-			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnHG5jtjD1mf3fTGy7xoErkPniZitksA-ShglFer0oIe_pile-4MeWZ4ezR3z2q-UZPf4-0ZUBpTtn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300px" allowfullscreen="true"></iframe> <p align="center">National Day Celebrations 8 August 2022</p>
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnHG5jtjD1mf3fTGy7xoErkPniZitksA-ShglFer0oIe_pile-4MeWZ4ezR3z2q-UZPf4-0ZUBpTtn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300px" allowfullscreen="true"></iframe> <p align="center">National Day Celebrations <br> 8 August 2022</p>
 		</td>
 		<td>
-			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZAETFDOoFqoD3IaDckKjAM6LNuKkmQx7rTC1VP1wKpmvp0ogjUHTyzHoXB0-5_g4RrfpgFOubc59c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true" ></iframe> <p align="center">Speech & Prize Giving Day 22 July 2022</p>
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQZAETFDOoFqoD3IaDckKjAM6LNuKkmQx7rTC1VP1wKpmvp0ogjUHTyzHoXB0-5_g4RrfpgFOubc59c/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true" ></iframe> <p align="center">Speech & Prize Giving Day <br> 22 July 2022</p>
 		</td>
 		<td>
-			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlNj8eV9sa5ZH2SOv3zk5YcPJx9sNHrF5bFNebFq_0etFWd7eBFTQ3Nde2vVLAP6j-fcWwZMjEKRbn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe> <p align="center">Racial Harmony Day 22 July 2022</p>
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlNj8eV9sa5ZH2SOv3zk5YcPJx9sNHrF5bFNebFq_0etFWd7eBFTQ3Nde2vVLAP6j-fcWwZMjEKRbn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe> <p align="center">Racial Harmony Day <br> 22 July 2022</p>
 		</td>
 	</tr>
 	<tr>
+		<td>
+			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQw9xw8BN-lcK7JmIKd0bsXkkuw_GuQCl_32F9uNBWOyS-sDzy1AyJysJz2U3HKW27-4phGMeoc0loG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe> <p align="center">Student Leaders' Commendation <bR>8 July 2022</p>
+		</td>
+		<td>
 	</tr>
 </table>
