@@ -3,7 +3,7 @@ url: https://stmargaretssec.moe.edu.sg
 favicon: /images/smss_logo_PMS3425U_01v4.jpg
 colors:
   primary-color: "#12530a"
-  secondary-color: "#000000"
+  secondary-color: "#2cbd77"
   media-colors:
     - title: media-color-one
       color: "#49759a"
