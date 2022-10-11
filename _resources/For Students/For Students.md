@@ -9,5 +9,5 @@ third_nav_title: For Students
 [School Rules](/resources/for-students/school-rules) <br>
 [Bookshop Information and Sale of Uniforms](/resources/for-students/bookshop-information) <br>
 [Support for Students](/resources/for-students/support-for-students) <br>
-[SMSS Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home) <br>
+[SMSS Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home) < broken link > <br>
 [Useful Links](/resources/for-students/useful-links)
