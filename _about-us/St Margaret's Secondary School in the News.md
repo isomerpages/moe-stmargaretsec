@@ -7,8 +7,7 @@ description: ""
 | --- | --- | --- |
 | 20/04/2022 | ZB Schools <br> 早报校园  | [圣玛格烈中学母语双周活动用文字为学校庆生](https://www.zbschools.sg/news/school/stories-22002)  |
 | 23/02/2022 | 联合早报 <br> Lian He Zao Bao  | [圣玛格烈中学充满爱的新年寄语](https://www.zbschools.sg/news/school/stories-21324) |
-| 23/10/2021 | 联合早报  <br> Lian He Zao Bao   | [无法自己吃饭 走路难平衡 大脑障碍“逼”她夺冠](https://www.zaobao.com.sg/news/singapore/story20211023-1206134)   
-(subscriber's content) |
+| 23/10/2021 | 联合早报  <br> Lian He Zao Bao   | [无法自己吃饭 走路难平衡 大脑障碍“逼”她夺冠](https://www.zaobao.com.sg/news/singapore/story20211023-1206134) <br> (subscriber's content) |
 | 06/10/2021  | Facebook - NorthWest CDC   | [Cohesion – 3 Upcycling Projects to Try](https://m.facebook.com/story.php?story_fbid=229676342531075&id=100064661320759&sfnsn=mo)  |
 | 19/08/2021 | SchoolBag | [Track record of resilience](https://www.schoolbag.edu.sg/story/track-record-of-resilience)   |
 | 20/05/2021 | Channel News Asia | [Student Learning Space system used for home-based learning 'back on track' after slowdown: MOE](https://www.channelnewsasia.com/news/singapore/moe-student-learning-space-down-online-home-based-learning-14838502) |
