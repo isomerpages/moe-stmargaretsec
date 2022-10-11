@@ -4,7 +4,6 @@ permalink: /about-us/organisation-chart/
 description: ""
 third_nav_title: Organisation Chart
 ---
-
 | Principal |
 | :---: |
 | **Ms Linda Lim** |
@@ -89,8 +88,7 @@ third_nav_title: Organisation Chart
 
 | Level Head | Level Head |
 | :---: | :---: |
-| Lower Secondary  
-English Language, Literature and Drama | Lower Secondary Science |
+| Lower Secondary <br> English Language, Literature and Drama | Lower Secondary Science |
 | **Mrs Elizabeth Yang** | **Mrs Kok-Ong Lin Jin** |
 
 <br>
