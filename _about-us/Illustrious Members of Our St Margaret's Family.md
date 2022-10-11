@@ -6,10 +6,12 @@ description: ""
 ## Inductees to the Singapore Women’s Hall of Fame
 
 
-<a href="/files/01A%20Mrs%20Maria%20Dyer.pdf">
-	<img src="/images/Maria%20Dyer.jpg" style="width:70%"/>
-	<p align="center">read more</p>
-</a>
+<p align="center">
+	<a href="/files/01A%20Mrs%20Maria%20Dyer.pdf">
+		<img src="/images/Maria%20Dyer.jpg" style="width:70%"/>
+		read more
+	</a>
+</p>
 <br><br>
 <a  href="/files/02A%20Mrs%20Elizabeth%20Choy.pdf">
 	<img src="/images/Elizabeth%20Choy.jpg" style="width:70%"/>
