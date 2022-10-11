@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Resources.md
       - For Students/For Students.md
       - For Students/2022 Class Timetable.md
       - For Students/2022 Examinations Timetable.md
