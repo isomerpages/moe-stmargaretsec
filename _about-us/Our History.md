@@ -15,7 +15,7 @@ For many years, it was the only girls' school in Singapore.
 
 In the early years, the enrolment comprised only twenty students but the school soon became so highly reputed for its effective character-building that many young men in the region, some as far away as China, wrote to the school in search of suitable wives!
 
-[Back to Top](#top) <- testing
+[Back to Top](#top)
 
 ## The Changes
 
@@ -25,19 +25,19 @@ In 1900, The Church of England Zenanah Missionary Society took over the manageme
 
 In 1928, more academic subjects were introduced. The school also had its first Science laboratory.
 
-[Back to Top](/about-us/our-history#top)
+[Back to Top](#top)
 
 ## The War Years
 
 The Second World War did much damage to the school building. When regular teaching resumed, the Bishop of Singapore changed the name from CEZMS School to St. Margaret's School, after Queen Margaret of Scotland.
 
-[Back to Top](/about-us/our-history#top)
+[Back to Top](#top)
 
 ## The Recovery
 
 The school soon recovered from its wartime setbacks and set about consolidating its curriculum. Extra-mural activities like netball, swimming and the Girl Guides were organised for the first time.
 
-[Back to Top](/about-us/our-history#top)
+[Back to Top](#top)
 
 ## The Growth
 
@@ -53,6 +53,6 @@ In December 2000, the school celebrated its homecoming to a brand new campus wit
 
 On 26 July 2002, 160 years since the founding of the school, St. Margaret's Secondary School's new campus at Farrer Road was officially declared open by Dr Tony Tan, then the Deputy Prime Minister and Minister for Defence.
 
-[Back to Top](/about-us/our-history#top)
+[Back to Top](#top)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
