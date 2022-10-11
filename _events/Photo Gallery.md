@@ -30,5 +30,6 @@ description: ""
 		<td>
 			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSCaMem-LusbTvmmOPoRALJAZV7yeL5Zh-7159HGxsw_NS-VU_lpM-obv3Of_g3NcoDnHAEJP3n-zeT/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe> <p align="center"> Student Council Commendation <br> 22 April 2022</p>
 		</td>
+		<td> insert other albums here </td>
 	</tr>
 </table>
