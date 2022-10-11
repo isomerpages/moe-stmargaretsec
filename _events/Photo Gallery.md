@@ -13,6 +13,7 @@ description: ""
 		</td>
 		<td>
 			<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRlNj8eV9sa5ZH2SOv3zk5YcPJx9sNHrF5bFNebFq_0etFWd7eBFTQ3Nde2vVLAP6j-fcWwZMjEKRbn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="300" allowfullscreen="true"></iframe> <p align="center">Racial Harmony Day 22 July 2022</p>
+		</td>
 	</tr>
 	<tr>
 	</tr>
