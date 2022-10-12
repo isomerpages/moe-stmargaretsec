@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 
 | _Debate Club_ |
 | --- |
-| Thoburn Cup 2021 - organised by ACJC  <br> \- Champion - 5 students  <br> \- Top 10 speakers <br>   - 3<sup>rd</sup> \- 1 student  <br>    - 6<sup>th</sup> \- 1 student  <br>   - 7<sup>th</sup> \- 1 student |
+| Thoburn Cup 2021 - organised by ACJC  <br> \- Champion - 5 students  <br> \- Top 10 speakers <br>  - 3<sup>rd</sup> \- 1 student  <br>    - 6<sup>th</sup> \- 1 student  <br>   - 7<sup>th</sup> \- 1 student |
 | |
 
 2019
