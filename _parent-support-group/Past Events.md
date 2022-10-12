@@ -16,39 +16,27 @@ Health Week (21 - 24 May 2018)
 Valentine's Day Sale 2018
 -------------------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCGAVuSwVnizhYXyCfzoBcLULHh3hwcA8R8X64V74UY-f9H-gRQDPhdMYp_NaNiylNWOMkIqtV1m0m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCGAVuSwVnizhYXyCfzoBcLULHh3hwcA8R8X64V74UY-f9H-gRQDPhdMYp_NaNiylNWOMkIqtV1m0m/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Appreciation Tea (14 October 2017)
 ----------------------------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxlyo2VrzSBEChGH-mlHn0YMtkRHhMQnSIvVwtFouKjpzYPGCJCNq5lOCw4L4XO83Bq26yN01woOK1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQxlyo2VrzSBEChGH-mlHn0YMtkRHhMQnSIvVwtFouKjpzYPGCJCNq5lOCw4L4XO83Bq26yN01woOK1/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Health Week
 -----------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVvAWFJ-SnNtVNcSlY038d8TOauivvkyAitJQz0i3vS--Dqr68l8rKGolWBwOgnEJ-ueF3uDNCaTj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVvAWFJ-SnNtVNcSlY038d8TOauivvkyAitJQz0i3vS--Dqr68l8rKGolWBwOgnEJ-ueF3uDNCaTj/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Racial Harmony Day (25 July 2017)
 ---------------------------------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV3Ci-MYNzzqOwIWMcnUXIBJObfRUlF-5t8HoVjJM3_pVtsTvSTRL46Up_QlEsojzVdoAk2cj_N7rG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV3Ci-MYNzzqOwIWMcnUXIBJObfRUlF-5t8HoVjJM3_pVtsTvSTRL46Up_QlEsojzVdoAk2cj_N7rG/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 VIA
 ---
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/VIA/IMG-20170525-WA0029_1.jpg)
-
-#### IMG 20170525 WA0029 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/VIA/.tn.IMG-20170525-WA0029_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/VIA/.tn.IMG_20170524_135955_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/VIA/.tn.WhatsApp%20Image%202017-05-26%20at%202.59.36%20PM_1.jpeg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/VIA/.tn.WhatsApp%20Image%202017-06-28%20at%2010.08.30%20AM_1.jpeg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRDDAHz8ZYaBH2LOMRSfaHyARclqjjk1SxarQey1nHqJ7TGhyRv8mf-GyvxdV42YimUMe0pPXWgZkp4/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 175th Anniversary Funfair (3 June 2017)
 ---------------------------------------
