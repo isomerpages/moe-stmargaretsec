@@ -2,6 +2,6 @@ collections:
   parent-support-group:
     output: true
     order:
-      - St Margaret's Parent Support Group (PSG) (1).md
+      - St Margaret's Parent Support Group (PSG).md
       - Contact Us.md
       - Past Events.md
