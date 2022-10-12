@@ -83,7 +83,7 @@ third_nav_title: Student Achievements
 | National Schools Literature Festival 2019  | Upper Secondary Unseen Debate – Winner  <br> Category 2: Choral Reading – Bronze |
 | Energy Innovation Challenge 2019 organised by Institution of Engineers, Singapore (IES) and Science Centre Singapore  | Category 1 (Secondary Section) – Merit Award |
 | Baden-Powell Award | Award Attained In 2018  <br> Award Attained In 2019  |
-| Periyar Sayings Recital Competition organised by Periyar Community Service of Singapore | Lower Secondary Category – 2<sup>nd</sup><br> Lower Secondary Category – 3<sup>rd</sup> <br>Lower Secondary Category – Certificate Of Participation |
+| Periyar Sayings Recital Competition organised by Periyar Community Service of Singapore | Lower Secondary Category – 2<sup>nd</sup><br>Lower Secondary Category – 3<sup>rd</sup> <br>Lower Secondary Category – Certificate Of Participation |
 | My Story 2019 Mandarin Public Speaking Competition Organised by Speak Mandarin Campaign and Noontalk Media | Top 6 Finalist & Best Story Award (Judges' Choice) - 1 student<br>Top 6 Finalist - Wee Yi Xuan S2-1 |
 | 全国新诗创作比赛 National Poetry Competition | 1<sup>st</sup> - 1 student <br>3<sup>rd</sup> - 2 students  <br>Merit Award - 3 students |
 | Peacemakers Conference 2019 | 2<sup>nd</sup>  - 2 students  <br> Certificate of Participation - 9 students |
