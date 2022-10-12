@@ -44,7 +44,7 @@ St. Margaret’s Secondary School has been awarded the Character Development Awa
 		<td style="border:0px" width="10%" rowspan="3"></td>
 	</tr>
 	<tr>
-		<td style="border:0px"> <p style="font-size:12px" align="center"> Express and Normal Academic </p></td>
+		<td style="border:0px"> <p style="font-size:10px" align="center"> Express and Normal Academic </p></td>
 		<td style="border:0px"></td>
 		<td style="border:0px"></td>
 		<td style="border:0px"></td>
