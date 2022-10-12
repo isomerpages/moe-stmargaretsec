@@ -131,7 +131,7 @@ third_nav_title: Student Achievements
 | Tamil Language Inter-school Competition organised by Raffles Institution <br>\- Oratorical (Upper Secondary Category) | 4<sup>th</sup>  |
 | \- Essay Writing Competition | 4<sup>th</sup>  |
 | Tamil News Writing Competition 2018 organised by the Association of Singapore Tamil Writers |  2<sup>nd</sup> |
-| 11th International Model United Nations Conference Hosted and organised by Anglo-Chinese School (Independent) | Best Newcomer Delegation - 8 students <br> Verbal Commendation - 1 student |
+| 11<sup>th</sup> International Model United Nations Conference Hosted and organised by Anglo-Chinese School (Independent) | Best Newcomer Delegation - 8 students <br> Verbal Commendation - 1 student |
 | Healthy Sandwich Making Competition Organised by SMSS F&N Unit | Champions - S2-6 <br> 2<sup>nd</sup> \- S2-7 <br> 3<sup>rd</sup> \- S2-5 |
 | Ignite Skills Challenge 2018 Organised by the Institute of Technical Education  | Mad for Mocktail - Champions - 3 students <br>Flower Power - Finalists - 3 students |
 | Destination Imagination – Inside Impact Service Learning Challenge Competition 2018 | Middle Level Category – 2<sup>nd</sup>  |
