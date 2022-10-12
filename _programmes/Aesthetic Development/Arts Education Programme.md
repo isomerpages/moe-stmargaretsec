@@ -26,8 +26,8 @@ Application to AEP 2022
 
 Please refer to the [slides](/files/AEP%20Information%20Slides%202022%20cao%2013%20Jan%202022v2.pdf) for more information.   
   
-[Arts Education Programme (Secondary) - Information](https://www.moe.gov.sg/programmes/aep-sec)  
+[Arts Education Programme (Secondary) - Information](https://www.moe.gov.sg/programmes/aep-sec)  < broken link >
   
-[Arts Education Programme (Secondary) - Application](https://form.gov.sg/#!/619c64d4a342eb0012e068bd)  
+[Arts Education Programme (Secondary) - Application](https://form.gov.sg/#!/619c64d4a342eb0012e068bd)  < broken link >
   
 [AEP Centres Infosheet](/files/AEP_Centres_Infosheet.pdf)
