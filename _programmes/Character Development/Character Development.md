@@ -12,7 +12,7 @@ St. Margaret’s Secondary School is a school rich in heritage, with a history s
 
 The school has a developmental programme that trains all students in leadership and moulds selected students in their roles as Student Leaders. Through workshops, conferences and camps, leaders are trained to facilitate and lead in projects.
 
-We offer exciting [CCAs](/programmes/ccas) including Tennis, Netball, Fencing, Girls’ Brigade, Girl Guides, and Agape Club.
+We offer exciting [CCAs](/programmes/co-curricular-activities/) including Tennis, Netball, Fencing, Girls’ Brigade, Girl Guides, and Agape Club.
 
 St. Margaret’s Secondary School has embarked on various Overseas Outreach Programmes involving arts and cultural exchanges as well as community service and learning opportunities. Long-term partnerships are forged with overseas institutions in various countries.
 
