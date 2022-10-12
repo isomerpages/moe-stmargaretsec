@@ -29,7 +29,7 @@ For queries on the EMP, please contact:
 Application for the Enhanced Music Programme (EMP)
 -------------------
 
-Secondary 2 students who are interested in applying for the Enhanced Music Programme (EMP) are required to approach their music teacher for information on the application process in Term 3 of the academic year. The selection exercise consists of aural tests and submission of a video recording of their performance of two contrasting music pieces of their choice on any instrument(s). More information on the EMP can be found on the [MOE website](https://go.gov.sg/spehttps://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Enhanced%20Music%20Programme%20(EMP)#:~:text=Elective%20Programme%20(MEP)-,Enhanced%20Music%20Programme%20(EMP),from%20teachers%20and%20industry%20professionals.cialmusicprogrammes?fbclid=IwAR2lBAN_mGHubzFK5TV4oW1OUmk9V3PzDDafmoCVEfOo4gUHkrDSxntt2EQ) and via the [MOE Facebook page](https://www.facebook.com/6788957003/posts/10160206090752004/?vh=e) .  
+Secondary 2 students who are interested in applying for the Enhanced Music Programme (EMP) are required to approach their music teacher for information on the application process in Term 3 of the academic year. The selection exercise consists of aural tests and submission of a video recording of their performance of two contrasting music pieces of their choice on any instrument(s). More information on the EMP can be found on the [MOE website](https://go.gov.sg/spehttps://www.moe.gov.sg/secondary/courses/express/electives/?term=MOE%20Special%20Music%20Programmes&subterm=Enhanced%20Music%20Programme%20(EMP)#:~:text=Elective%20Programme%20(MEP)-,Enhanced%20Music%20Programme%20(EMP),from%20teachers%20and%20industry%20professionals.cialmusicprogrammes?fbclid=IwAR2lBAN_mGHubzFK5TV4oW1OUmk9V3PzDDafmoCVEfOo4gUHkrDSxntt2EQ) < broken link > and via the [MOE Facebook page](https://www.facebook.com/6788957003/posts/10160206090752004/?vh=e) .  
 
 Performing Arts CCAs Supporting the Enhanced Music Programme
 ---------------
@@ -45,7 +45,7 @@ Performing Arts CCAs Supporting the Enhanced Music Programme
 		<td width="32%"><img src="https://stmargaretssec.moe.edu.sg/qql/slot/u168/Programmes/Aesthetics%20Development/Band.jpg"/> < file exceeds 5mb ></td>
 		<td width="32%"><img src="/images/Strings.jpg"/></td>
 	</tr>
-	<tr><tr>
+	<tr></tr>
 </table>
 
 < insert video here >
