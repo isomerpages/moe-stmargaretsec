@@ -9,4 +9,4 @@ description: ""
   
 [St. Margaret's Ex-Students' Association's Instagram Page](https://www.instagram.com/smesa1842/)   
   
-[Memories](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/memories)
+[Memories](/memories)
