@@ -9,9 +9,9 @@ Friends of Our Heartlands
 
 <img src="/images/HDB.png" style="width:35%"/>
 
-**Awarded:**
-
-**School Category - Silver Award (2022)**  
+**Awarded:
+<br>
+School Category - Silver Award (2022)**  
   
 Presented by **Housing Development Board (HDB)**  
   
@@ -22,9 +22,9 @@ Schools Heritage Champion Awards
 
 <img src="/images/national_heritage_board_logo.jpg" style="width:45%"/>
 
-**Awarded:**
-
-**School Heritage Champion Award 2019**
+**Awarded:
+<br>
+School Heritage Champion Award 2019**
 
 Presented by **National Heritage Board (NHB)**
 
@@ -59,9 +59,7 @@ Singapore Centre for Chinese Language
 
 **Awarded:**
 
-**Certificate of Appreciation - For Supporting Chinese Language Teachers'**
-
-**Professional Development Programme (3 years)**
+**Certificate of Appreciation - For Supporting Chinese Language Teachers' Professional Development Programme (3 years)**
 
 Presented by **Singapore Centre for Chinese Language**
 
@@ -92,12 +90,12 @@ School Green Awards        
 
 <table>
 	<tr>
-		<td><img src="/images/SEC.jpg"/></td>
-		<td><img src="/images/Green%20Awards.jpg"/></td>
+		<td><img src="/images/SEC.jpg" style="width:50%"/></td>
+		<td><img src="/images/Green%20Awards.jpg" style="width:50%"/></td>
 	</tr>
 	<tr>
-		<td><img src="/images/Vanda%20Miss%20Joaquin%20Sustained%20Achievement%20Award.jpg"/></td>
-		<td><img src="/images/logo_lotus_sustained_achievement_award.jpg"/></td>
+		<td><img src="/images/Vanda%20Miss%20Joaquin%20Sustained%20Achievement%20Award.jpg" style="width:75%"/></td>
+		<td><img src="/images/logo_lotus_sustained_achievement_award.jpg" style="width:75%"/></td>
 	</tr>
 </table>
 
