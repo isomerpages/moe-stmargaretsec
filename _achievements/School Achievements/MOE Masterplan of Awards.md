@@ -36,13 +36,15 @@ St. Margaret’s Secondary School has been awarded the Character Development Awa
 
 <table>
 	<tr>
-		<td style="border:0px" width="25%"><img src="/images/SAA_Academic%20Value%20Added.jpg"/></td>
-		<td style="border:0px" width="25%"><img src="/images/SAA_Uniformed%20Grp.jpg"/></td>
-		<td style="border:0px" width="25%"><img src="/images/SAA_aesthetics.jpg"/></td>
-		<td style="border:0px" width="25%"><img src="/images/SAA_Sports.jpg"/></td>
+		<td style="border:0px" width="10%" rowspan="3"></td>
+		<td style="border:0px" width="20%"><img src="/images/SAA_Academic%20Value%20Added.jpg"/></td>
+		<td style="border:0px" width="20%"><img src="/images/SAA_Uniformed%20Grp.jpg"/></td>
+		<td style="border:0px" width="20%"><img src="/images/SAA_aesthetics.jpg"/></td>
+		<td style="border:0px" width="20%"><img src="/images/SAA_Sports.jpg"/></td>
+		<td style="border:0px" width="10%" rowspan="3"></td>
 	</tr>
 	<tr>
-		<td style="border:0px"> <p style="font-size:10px" align="center"> Express and Normal Academic </p></td>
+		<td style="border:0px"> <p style="font-size:12px" align="center"> Express and Normal Academic </p></td>
 		<td style="border:0px"></td>
 		<td style="border:0px"></td>
 		<td style="border:0px"></td>
@@ -57,4 +59,5 @@ St. Margaret’s Secondary School has been awarded the Character Development Awa
 		<td colspan="4">
 			For our efforts in sustaining good academic and non-academic outcomes over a number of years, St. Margaret’s Secondary School has been awarded The Sustained Achievement Award in the following categories: Academic Value-Added (Express), and Academic Value-Added (Normal (Academic), Uniformed Group, Sports and Aesthetics.
 		</td>
+	</tr>
 </table>
