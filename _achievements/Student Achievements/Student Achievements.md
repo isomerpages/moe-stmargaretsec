@@ -24,4 +24,4 @@ Academic and Co-Curricular Awards
 *   [Sports and Games Awards](/achievements/student-achievements/sports-and-games-awards)
 *   [Visual and Performing Arts Awards](/achievements/student-achievements/visual-and-performing-arts-awards)
 *   [Uniformed Groups Awards](/achievements/student-achievements/uniformed-groups-awards)
-*   [Clubs Awards](/achievements/student-achievements/clubs-and-societies-awards)
+*   [Clubs Awards](/achievements/student-achievements/clubs-awards)
