@@ -41,170 +41,17 @@ VIA
 175th Anniversary Funfair (3 June 2017)
 ---------------------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/IMG_9580_1.jpg)
-
-#### IMG 9580 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9580_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9590_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9591_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9592_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9593_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9594_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Funfair/.tn.IMG_9595_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTz-2RunNTRJ9rRGgwY6xZDnE5tCmZMC2MkkVvaaoVZhKR-fiRMT8JNEdHYmtDUmhm6QaeIHslFEP4g/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Mother's Day Sale (11 and 12 May 2017)
 --------------------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/PSG_Mothers%20Day%20Sale%201.jpg)
-
-#### PSG Mothers Day Sale 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/.tn.PSG_Mothers%20Day%20Sale%201.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/.tn.PSG_Mothers%20Day%20Sale%202.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/.tn.PSG_Mothers%20Day%20Sale%203.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/.tn.PSG_Mothers%20Day%20Sale%204.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Mothers%20Day%20Sale/.tn.PSG_Mothers%20Day%20Sale%205.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
-
-  
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRbQOjvh8A7RtNRxkfd_b4NMR5tD3JZd94qNhFpnnbq7qdG9oHnRX8iaOx3wpCWF4QZeb3PouAIuFUj/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Cross Country 2017
 ------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/1.JPG)
-
-#### 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.1.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.10.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.11.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.12.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.13.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.14.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.15.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.16.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.17.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.18.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.19.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.2.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.3.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.4.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.5.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.6.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.7.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.8.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.9.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.1.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.10.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.11.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.12.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.13.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.14.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.15.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.16.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.17.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.18.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.19.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.2.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.3.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.4.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.5.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.6.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.7.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.8.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.9.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.1.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.10.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.11.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.12.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.13.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.14.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.15.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.16.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.17.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.18.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.19.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.2.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.3.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.4.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.5.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.6.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.7.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.8.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/X%20Country%202017/PSG%20at%20Cross%20Country/.tn.9.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRRi5p3QuUNWSmZIWR-Rid-7EMEmPeqp5ONfBhmCG7DlzD0KH1hevHUafVdu5ZP_6TwDggJuADAO6N5/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
   
 
 Valentine's Day Sale
@@ -212,229 +59,45 @@ Valentine's Day Sale
 
 Valentine's Day is not only a day for couples but celebrated by all who wish to show care. 
 
-  
-
 Our parents held a sale of small toys and such. The girls enjoyed buying the items and looked forward to presenting them to loved ones.
-
-  
 
 Looks like both the parent volunteers and the students had a good time!
 
   
-
-  
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/2017-02-13-PHOTO-00017810.jpg)
-
-#### 2017 02 13 PHOTO 00017810
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-13-PHOTO-00017810.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-13-PHOTO-00017812.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-13-PHOTO-00017815.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-14-PHOTO-00000183.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-14-PHOTO-00000184.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-14-PHOTO-00000185.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Valentines%20Day/.tn.2017-02-14-PHOTO-00000186.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_ZmLo-oGs41ahRPicVyIimfSpXfWqQ-UCCibd8DTExPdhojsDAs1YctTFoSvEuclMVGVQCOqLKPOH/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 PSG Lo Hei 2017
 ---------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/Lohei2017-1-min.JPG)
-
-#### Lohei2017 1 min
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-1-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-10-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-11-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-12-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-14-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-16-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-17-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-18-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-19-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-2-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-20-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-21-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-22-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-23-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-24-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-25-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-26-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-27-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-3-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-4-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-5-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-6-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-7-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-8-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-9-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-1-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-10-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-11-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-12-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-14-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-16-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-17-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-18-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-19-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-2-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-20-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-21-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-22-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-23-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-24-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-25-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-26-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-27-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-3-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-4-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-5-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-6-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-7-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-8-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-9-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-1-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-10-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-11-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-12-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-14-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-16-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-17-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-18-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-19-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-2-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-20-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-21-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-22-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-23-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-24-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-25-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-26-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-27-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-3-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-4-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-5-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-6-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-7-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-8-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Lo%20Hei%202017/.tn.Lohei2017-9-min.JPG.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLzNUye-rfW45zPwIUmyqy_vQKy8EaRpMuOFzVFA-Uqd5WJCIg4DYi9kn_2RcSgWA9ETYQ3KAi23iN/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
   
 
 Teachers' Day Sale
 ------------------
 
-![Teachers Day Sale.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/Teachers%20Day%20Sale[1].jpg)  
+<img src="https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/Teachers%20Day%20Sale[1].jpg" style="width:80%"/> < image exceeds 5MB >
 
 Prima Taste Cooking Workshop
 ----------------------------
 
-  
-
-![Prima Taste.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/Prima%20Taste.jpg)
+<img src="/images/Prima%20Taste.jpg" style="width:80%"/>
 
 Racial Harmony Day Celebration
 ------------------------------
 
-![Racial Harmony Day.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/Racial%20Harmony%20Day.jpg)
+<img src="/images/Racial%20Harmony%20Day.jpg" style="width:80%"/>
 
 Health Week
 -----------
 
-![1HEALTH WEEK (2).jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/1HEALTH%20WEEK%20(2).jpg)
+<img src="/images/1HEALTH%20WEEK%20(2).jpg" style="width:80%"/>
 
 Gardenia Tour
 -------------
 
-  
-
-![GARDENIA TOUR.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/GARDENIA%20TOUR.jpg)
+<img src="/images/GARDENIA%20TOUR.jpg" style="width:80%"/>
 
 Mother's Day Sale
 -----------------
 
-![MOTHERS DAY SALE.jpg](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/resize/MOTHERS%20DAY%20SALE.jpg)
+<img src="/images/MOTHERS%20DAY%20SALE.jpg" style="width:80%"/>
