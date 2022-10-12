@@ -9,4 +9,4 @@ description: ""
 [Co-Curricular Activities](/programmes/co-curricular-activities)  
 [Sexuality Education](/programmes/sexuality-education)  
 [Education and Career Guidance](/programmes/education-and-career-guidance)  
-[Development of Talents to Serve (DOTS)](/programmes/development-of-talents-to-serve-dots)
+[Development of Talents to Serve (DOTS)](https://sites.google.com/moe.edu.sg/smssdots/home)
