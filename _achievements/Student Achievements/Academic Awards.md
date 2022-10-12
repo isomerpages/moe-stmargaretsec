@@ -60,7 +60,7 @@ third_nav_title: Student Achievements
 | Indian Speech Competition 2020 organised by the Tamil Library Services, National Library Board  | Upper Secondary Category – 1<sup>st</sup> Prize - 1 student <br> Lower Secondary – 3<sup>rd</sup> Prize - 1 student |
 | International Mathematical Modelling Challenge  | Commendation - 4 students  |
 | Unity Science Innovation Challenge 2019 - 2020  | Merit - 4 students |
-| 12th International Science Youth Forum Organised by Hwa Chong Institution | Representing School and Singapore - 3 students  |
+| 12<sup>th</sup> International Science Youth Forum Organised by Hwa Chong Institution | Representing School and Singapore - 3 students  |
 | 11<sup>th</sup> Global Village Children & Youths Bilingual Speech Competition | Preliminary – Participation - 1 student <br> Preliminary – Silver - 3 students <br> Finals – Silver - 1 student <br> Finals – Gold - 1 student |
 | | |
 
