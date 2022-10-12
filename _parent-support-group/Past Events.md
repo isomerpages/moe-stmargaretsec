@@ -26,46 +26,12 @@ Appreciation Tea (14 October 2017)
 Health Week
 -----------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Health%20Week/IMG-20170525-WA0038_1.jpg)
-
-#### IMG 20170525 WA0038 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Health%20Week/.tn.IMG-20170525-WA0038_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Health%20Week/.tn.IMG-20170525-WA0039_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Health%20Week/.tn.IMG-20170525-WA0041_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVvAWFJ-SnNtVNcSlY038d8TOauivvkyAitJQz0i3vS--Dqr68l8rKGolWBwOgnEJ-ueF3uDNCaTj/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 Racial Harmony Day (25 July 2017)
 ---------------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/IMG-20170727-WA0005_1.jpg)
-
-#### IMG 20170727 WA0005 1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG-20170727-WA0005_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG-20170727-WA0012_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG-20170727-WA0013_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG-20170727-WA0022_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9582_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9583_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9585_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9586_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9587_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Racial%20Harmony%20Day%202017/.tn.IMG_9589_1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV3Ci-MYNzzqOwIWMcnUXIBJObfRUlF-5t8HoVjJM3_pVtsTvSTRL46Up_QlEsojzVdoAk2cj_N7rG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 VIA
 ---
