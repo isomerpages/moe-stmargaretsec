@@ -3,7 +3,6 @@ title: Past Events
 permalink: /resources/for-parents/st-margarets-parent-support-group-psg/past-events/
 description: ""
 ---
-
 Racial Harmony Day 2018
 -----------------------
 
@@ -17,31 +16,7 @@ Health Week (21 - 24 May 2018)
 Valentine's Day Sale 2018
 -------------------------
 
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/PSG%20PE1.jpg)
-
-#### PSG PE1
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE1.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE10.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE2.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE3.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE4.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE5.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE6.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE7.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE8.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Partners/St.%20Margarets%20Parent%20Support%20Group/Past%20Events/Valentine%20Day%20Sale/.tn.PSG%20PE9.jpg.jpg)
-
-![](https://stmargaretssec.moe.edu.sg/pix/spacer.gif)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRCGAVuSwVnizhYXyCfzoBcLULHh3hwcA8R8X64V74UY-f9H-gRQDPhdMYp_NaNiylNWOMkIqtV1m0m/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Appreciation Tea (14 October 2017)
 ----------------------------------
