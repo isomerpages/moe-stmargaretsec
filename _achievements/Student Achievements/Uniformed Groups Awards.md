@@ -180,7 +180,7 @@ third_nav_title: Student Achievements
 | _Girl Guides_ |
 | --- |
 | Puan Noor Aishah Honour Award <br> \- Company 1 - Silver <br> \- Company 2 - Silver |
-| Girl Guides Camp Challenge <br> 1<sup>st</sup> in South Division <br> \- Tent- pitching <br> \- Patrol Flag <br> \- Secret Game <br> \- Guess the Lyrics <br> \- Wide Game <br><br> 2nd in South Division <br> \- Patrol Identity  <br> \- Outdoor Cooking  <br>\- Ketupat Weaving <br><br> 3rd in South Division <br> \- Patrol Gadgets  <br> \- Telematch |
+| Girl Guides Camp Challenge <br> 1<sup>st</sup> in South Division <br> \- Tent- pitching <br> \- Patrol Flag <br> \- Secret Game <br> \- Guess the Lyrics <br> \- Wide Game <br><br> 2<sup>nd</sup> in South Division <br> \- Patrol Identity  <br> \- Outdoor Cooking  <br>\- Ketupat Weaving <br><br> 3<sup>rd</sup> in South Division <br> \- Patrol Gadgets  <br> \- Telematch |
 | |
 
 | _Red Cross Youth_ |
