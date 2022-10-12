@@ -230,4 +230,4 @@ Information For Parents
 
 *   Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
 
-  [Back to top](/programmes/sexuality-education#top)
+  [Back to top](#top)
