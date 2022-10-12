@@ -183,7 +183,7 @@ third_nav_title: Student Achievements
 
 | _Indian Dance_ |
 | --- |
-| 6th International Youth Dance Festival - Gold |
+| 6<sup>th</sup> International Youth Dance Festival - Gold |
 | |
 
 | _String Ensemble_ |
