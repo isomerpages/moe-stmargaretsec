@@ -26,7 +26,7 @@ Appreciation Tea (14 October 2017)
 Health Week
 -----------
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVvAWFJ-SnNtVNcSlY038d8TOauivvkyAitJQz0i3vS--Dqr68l8rKGolWBwOgnEJ-ueF3uDNCaTj/embed?start=false&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnVvAWFJ-SnNtVNcSlY038d8TOauivvkyAitJQz0i3vS--Dqr68l8rKGolWBwOgnEJ-ueF3uDNCaTj/embed?start=false&loop=true&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
 
 Racial Harmony Day (25 July 2017)
 ---------------------------------
