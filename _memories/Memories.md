@@ -10,7 +10,7 @@ description: ""
 <br>
 <img style="width:50%" src="/images/glory_tagline_text.png"/>
 
-<br><br>
+<br><br><br>
 
 <table style="border:3px solid rgb(168, 140, 37)">
 	<tr>
@@ -19,9 +19,9 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-		<td width="49%">Step 1<img src="/images/graphic1.png"/></td>
-		<td width="2%" rowspan="2"><img src="/images/dot_divider.png"/></td>
-		<td width="49%">Step 2<img src="/images/graphic2.png"/></td>
+		<td width="49%">Step 1<img src="/images/graphic1.png" style="width:60%"/></td>
+		<td width="4%" rowspan="2"><img src="/images/dot_divider.png"/></td>
+		<td width="49%">Step 2<img src="/images/graphic2.png"  style="width:70%"/></td>
 	</tr>
 	<tr>
 		<td> <p align="center"> Entries should be at most <br> 200 words in length.</p> </td>
