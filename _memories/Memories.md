@@ -19,9 +19,9 @@ description: ""
 		</td>
 	</tr>
 	<tr>
-		<td width="48%">Step 1<img src="/images/graphic1.png" style="width:60%"/></td>
-		<td width="4%" rowspan="2"><img src="/images/dot_divider.png"/></td>
-		<td width="48%">Step 2<img src="/images/graphic2.png"  style="width:70%"/></td>
+		<td width="49%">Step 1<img src="/images/graphic1.png" style="width:60%"/></td>
+		<td width="2%" rowspan="2"><img src="/images/dot_divider.png"/></td>
+		<td width="49%">Step 2<img src="/images/graphic2.png"  style="width:70%"/></td>
 	</tr>
 	<tr>
 		<td> <p align="center"> Entries should be at most <br> 200 words in length.</p> </td>
