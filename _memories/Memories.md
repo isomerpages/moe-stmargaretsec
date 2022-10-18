@@ -10,12 +10,12 @@ description: ""
 <br>
 <img style="width:50%" src="/images/glory_tagline_text.png"/>
 
-<br><br><br>
-
+<img src="/images/title_border.png" style="position: relative; top:130px; width:95%"/>
+<p style="position:relative; top:30px; font-size:32px" align="center"><b>We'd love to have your photos and stories</b></p>
 <table style="border:3px solid rgb(168, 140, 37)">
 	<tr>
-		<td colspan="3"><img src="/images/title_border.png" style="position: relative; top:-60px"/><br>
-			<p style="position:relative; top:-175px; font-size:32px" align="center"><b>We'd love to have your photos and stories</b><br><br> which we will feature on this website! <br> <b>How to send in entries:</b></p>
+		<td colspan="3">
+			<p style="position:relative; font-size:28px" align="center"><br><br> which we will feature on this website! <br> <b>How to send in entries:</b></p><br>
 		</td>
 	</tr>
 	<tr>
