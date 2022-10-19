@@ -80,7 +80,7 @@ description: ""
   <tr>
     <td>19/08/2019 </td>
     <td>联合早报Lian He Zao Bao </td>
-    <td><a href="/about-us/goog_1739958327">首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品</a> < broken link > <br><a href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
+    <td><a href="/about-us/goog-1739958327">首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品</a> < broken link > <br><br> <a href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
   </tr>
   <tr>
     <td>19/12/2017</td>
