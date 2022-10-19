@@ -3,12 +3,11 @@ title: Co Curricular Activities
 permalink: /programmes/co-curricular-activities/
 description: ""
 ---
-
 Objectives
 ----------
 
 Co-Curricular activities play a key role in the holistic development of our pupils. They aim to provide healthy recreational activities and at the same time imbibe correct values, build character and promote social integration through students’ continuous participation.
-
+does saving something help
 CCA Policy
 ----------
 
