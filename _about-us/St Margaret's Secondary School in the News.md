@@ -50,7 +50,7 @@ description: ""
   <tr>
     <td>24/02/2021<br></td>
     <td>联合早报<br>Lian He Zao Bao </td>
-    <td><a href="https://zbschools.sg/ink/studentsubmission/stories-17822">圣玛格烈中学创意体验课程辅助活动</a> <br><a href="https://zbschools.sg/ink/studentsubmission/stories-17822">(St. Margaret's Secondary School gets creative with its CCA Fair)</a> </td>
+    <td><a href="https://zbschools.sg/ink/studentsubmission/stories-17822">圣玛格烈中学创意体验课程辅助活动</a> <br><br><a href="https://zbschools.sg/ink/studentsubmission/stories-17822">(St. Margaret's Secondary School gets creative with its CCA Fair)</a> </td>
   </tr>
   <tr>
     <td>20/09/2020</td>
@@ -70,17 +70,17 @@ description: ""
   <tr>
     <td>20/12/2019  </td>
     <td>AEIS </td>
-    <td><a href="http://www.iaeis.com/media_centre/show/14290.html">新加坡N水准成绩放榜，中四女生人文科取得特优佳绩</a><br><a href="http://www.iaeis.com/media_centre/show/14290.html">(Secondary 4 girl scores distinction in Humanities at the GCE N-Level Examinations)</a></td>
+    <td><a href="http://www.iaeis.com/media_centre/show/14290.html">新加坡N水准成绩放榜，中四女生人文科取得特优佳绩</a><br><br><a href="http://www.iaeis.com/media_centre/show/14290.html">(Secondary 4 girl scores distinction in Humanities at the GCE N-Level Examinations)</a></td>
   </tr>
   <tr>
     <td>19/12/2019</td>
     <td>联合早报<br>Lian He Zao Bao</td>
-    <td><a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">N水准会考成绩放榜 76.6%学生符合升上中五资格</a><br><a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">(N-level results: 78% of students qualify for Secondary 5)</a> </td>
+    <td><a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">N水准会考成绩放榜 76.6%学生符合升上中五资格</a><br><br> <a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">(N-level results: 78% of students qualify for Secondary 5)</a> </td>
   </tr>
   <tr>
     <td>19/08/2019 </td>
     <td>联合早报Lian He Zao Bao </td>
-    <td><a href="https://stmargaretssec.moe.edu.sg/about-us/goog_1739958327">首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品</a><a href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
+    <td><a href="https://stmargaretssec.moe.edu.sg/about-us/goog_1739958327">首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品</a> < broken link > <br><a href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
   </tr>
   <tr>
     <td>19/12/2017</td>
