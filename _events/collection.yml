@@ -2,6 +2,16 @@ collections:
   events:
     output: true
     order:
+      - School Calendar.md
+      - Photo Gallery.md
+      - 180th Anniversary Celebrations/.keep
+      - 180th Anniversary Celebrations/#LETITSHINE180.md
+      - 180th Anniversary Celebrations/180th Anniversary Celebrations.md
+      - 180th Anniversary Celebrations/'Let It Shine'180th Anniversary Wall
+        Mural.md
+      - 180th Anniversary Celebrations/Online Virtual Concert.md
+      - 180th Anniversary Celebrations/Family Activity Box.md
+      - Memories/.keep
       - Memories/Memories.md
       - Memories/Before 1960.md
       - Memories/1960 to 1970.md
@@ -10,13 +20,3 @@ collections:
       - Memories/1991 to 2000.md
       - Memories/2001 to 2010.md
       - Memories/2011 to 2017.md
-      - Memories/.keep
-      - School Calendar.md
-      - Photo Gallery.md
-      - 180th Anniversary Celebrations/#LETITSHINE180.md
-      - 180th Anniversary Celebrations/.keep
-      - 180th Anniversary Celebrations/180th Anniversary Celebrations.md
-      - 180th Anniversary Celebrations/'Let It Shine'180th Anniversary Wall
-        Mural.md
-      - 180th Anniversary Celebrations/Online Virtual Concert.md
-      - 180th Anniversary Celebrations/Family Activity Box.md
