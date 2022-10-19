@@ -1,5 +1,4 @@
 collections:
   180th-anniversary-celebrations:
     output: true
-    order:
-      - Family Activity Box.md
+    order: []
