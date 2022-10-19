@@ -29,16 +29,3 @@ links:
         url: https://sites.google.com/moe.edu.sg/smssdots/home
   - title: Admission
     collection: admission
-  - title: Memories
-    collection: memories
-  - title: 180th Anniversary Celebrations
-    url: /180th-anniversary-celebrations
-    sublinks:
-      - title: "#LETITSHINE180"
-        url: https://sites.google.com/moe.edu.sg/letitshine180/home
-      - title: 180th Anniversary Wall Mural
-        url: /180th-anniversary-celebrations/let-it-shine-180th-anniversary-wall-mural
-      - title: Online Virtual Concert
-        url: /180th-anniversary-celebrations/online-virtual-concert
-      - title: Family Activity Box
-        url: /180th-anniversary-celebrations/family-activity-box
