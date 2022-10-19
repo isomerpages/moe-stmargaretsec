@@ -2,7 +2,6 @@ collections:
   180th-anniversary-celebrations:
     output: true
     order:
-      - 180th Anniversary Celebrations.md
       - "'Let It Shine'180th Anniversary Wall Mural.md"
       - Online Virtual Concert.md
       - Family Activity Box.md
