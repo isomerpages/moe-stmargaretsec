@@ -4,7 +4,7 @@ title: St. Margaret's Secondary School
 description: Brief site description here
 image: /images/logo.svg
 permalink: /
-notification: Welcome to St. Margaret's Secondary School
+notification: ""
 sections:
   - hero:
       background: /images/ebanner 2.jpg
@@ -15,7 +15,7 @@ sections:
         - title: Latest News
           description: ""
           url: /others/latest-news
-      url: sites.google.com/moe.edu.sg/letitshine180/home
+      url: https://sites.google.com/moe.edu.sg/letitshine180/home
       button: let it shine
   - infopic:
       image: /images/4f49f7039_467.jpg
@@ -33,4 +33,3 @@ sections:
       image: /images/c01a75dec_466.jpg
       alt: Image alt text
 ---
-
