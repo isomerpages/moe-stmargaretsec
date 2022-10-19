@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Development of Talents to Serve (DOTS).md
       - Programmes.md
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
