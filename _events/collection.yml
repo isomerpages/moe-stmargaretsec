@@ -2,11 +2,11 @@ collections:
   events:
     output: true
     order:
-      - 180th Anniversary Celebrations/Family Activity Box.md
-      - 180th Anniversary Celebrations/Online Virtual Concert.md
+      - 180th Anniversary Celebrations/.keep
+      - 180th Anniversary Celebrations/180th Anniversary Celebrations.md
       - 180th Anniversary Celebrations/'Let It Shine'180th Anniversary Wall
         Mural.md
-      - 180th Anniversary Celebrations/180th Anniversary Celebrations.md
-      - 180th Anniversary Celebrations/.keep
+      - 180th Anniversary Celebrations/Online Virtual Concert.md
+      - 180th Anniversary Celebrations/Family Activity Box.md
       - School Calendar.md
       - Photo Gallery.md
