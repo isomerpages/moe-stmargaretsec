@@ -2,6 +2,8 @@ collections:
   events:
     output: true
     order:
+      - 180th Anniversary Celebrations/'Let It Shine'180th Anniversary Wall
+        Mural.md
       - 180th Anniversary Celebrations/180th Anniversary Celebrations.md
       - 180th Anniversary Celebrations/.keep
       - School Calendar.md
