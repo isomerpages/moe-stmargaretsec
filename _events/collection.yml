@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Memories/.keep
       - School Calendar.md
       - Photo Gallery.md
       - 180th Anniversary Celebrations/.keep
