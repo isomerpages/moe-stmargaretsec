@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Development of Talents to Serve (DOTS).md
       - Programmes.md
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
@@ -29,3 +28,4 @@ collections:
       - Co Curricular Activities.md
       - Sexuality Education.md
       - Education and Career Guidance.md
+      - Development of Talents to Serve (DOTS).md
