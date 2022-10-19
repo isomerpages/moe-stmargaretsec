@@ -1,5 +1,4 @@
 collections:
   memories:
     output: true
-    order:
-      - Memories.md
+    order: []
