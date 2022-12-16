@@ -16,9 +16,6 @@ sections:
           description: ""
           url: /others/latest-news
   - infopic:
-      image: /images/4f49f7039_467.jpg
-      alt: Image alt text
-  - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
