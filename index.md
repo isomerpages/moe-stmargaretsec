@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: St. Margaret's Secondary School
+title: St. Margaret's School (Secondary)
 description: Brief site description here
-image: /images/logo.svg
+image: /images/School Logo (2023).jpg
 permalink: /
 notification: ""
 sections:
@@ -31,3 +31,4 @@ sections:
       image: /images/c01a75dec_466.jpg
       alt: Image alt text
 ---
+
