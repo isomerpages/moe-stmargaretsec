@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ebanner 2.jpg
+      background: /images/7b5026612_465.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -15,8 +15,6 @@ sections:
         - title: Latest News
           description: ""
           url: /others/latest-news
-      url: https://sites.google.com/moe.edu.sg/letitshine180/home
-      button: let it shine
   - infopic:
       image: /images/4f49f7039_467.jpg
       alt: Image alt text
