@@ -10,4 +10,4 @@ third_nav_title: National Digital Literacy
 
 [Parent Handbook I on Learning with a Personal Learning Device](/files/Attachment%202_Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)   
   
-[Parent Handbook II on Learning with a Personal Learning Device](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/NDLP/Attachment%203_Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) < file exceeds 5MB >
+[Parent Handbook II on Learning with a Personal Learning Device](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/NDLP/Attachment%203_Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf) 
