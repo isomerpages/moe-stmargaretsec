@@ -14,49 +14,13 @@ description: ""
 
 *   Presented by St. Margaret's School, this is our first ever virtual concert in celebration of our school's 178th Anniversary.  
 *   The St. Margaret's family came together as "One Family Unbroken" to celebrate 178 years of God's faithfulness and reminisce their good times in St. Margaret's School.
-
-<table>
-	<tr>
-		<td width="60%">
-			<img src="/images/178%20Logo.png"/>
-		</td>
-		<td>
-			<img src="/images/178%20QR.png"/>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<p align="center">
-				<a href="https://go.gov.sg/sms178virtualconcert">
-					https://go.gov.sg/sms178virtualconcert
-				</a>
-			</p>
-		</td>
-	</tr>
-</table>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fa79PiH79KA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ## The St. Margaret’s Story: Blessed to be a Blessing
 
 *   A short film to celebrate the 170th Anniversary of St. Margaret’s.
 *   Highlights the timeless values of love, forgiveness, compassion, devotion, discipline, dignity, justice and equality that continues to be passed from generations to generations of St. Margaret’s girls.
 
-<table>
-	<tr>
-		<td width="60%"><img src="/images/Blessed%20pic.png"/></td>
-		<td><img src="/images/QR%20Code%202.png"/></td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			<p align="center">
-				<a href="https://tinyurl.com/btbbsmss">
-					https://tinyurl.com/btbbsmss
-				</a>
-			</p>
-			<br>
-			<iframe width="828" height="316" src="https://www.youtube.com/embed/GjZ1x1SSObw" title="St. Margaret's Story: Blessed to be a Blessing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		</td>
-	</tr>
-</table>
+<iframe width="828" height="316" src="https://www.youtube.com/embed/GjZ1x1SSObw" title="St. Margaret's Story: Blessed to be a Blessing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## National Day Song 2021 - The Road Ahead 
 
