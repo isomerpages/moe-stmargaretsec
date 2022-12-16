@@ -131,4 +131,4 @@ Resources on Providing Social and Emotional Support for your Children
 
 We welcome all prospective students and parents to St. Margaret's Secondary.  
   
-Watch our corporate video for highlights of our school's programmes! Click [here](/about-us/smss-corporate-video) < broken link >!
+Watch our corporate video for highlights of our school's programmes! <iframe width="560" height="315" src="https://www.youtube.com/embed/8tCsjrj5Ujk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
