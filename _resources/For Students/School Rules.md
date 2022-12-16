@@ -125,9 +125,9 @@ Students are to:
 *   Maintain a positive presence in cyberspace
 *   Be a safe and responsible user of ICT
 
-_Adapted from: [https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)_ < broken link >
 
-  
+
+ 
 
 Students must show consideration for the feeling of others by practising good network etiquette:
 
