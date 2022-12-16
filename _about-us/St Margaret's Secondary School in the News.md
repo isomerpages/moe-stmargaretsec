@@ -78,9 +78,7 @@ description: ""
     <td><a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">N水准会考成绩放榜 76.6%学生符合升上中五资格</a><br><br> <a href="https://www.8world.com/news/singapore/article/n-level-results-1004676">(N-level results: 78% of students qualify for Secondary 5)</a> </td>
   </tr>
   <tr>
-    <td>19/08/2019 </td>
-    <td>联合早报Lian He Zao Bao </td>
-    <td><a href="/about-us/goog-1739958327">首设“新蕾即使电报”奖福建会馆文学奖表扬学生社媒人气作品</a> < broken link > <br><br> <a href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
+href="https://www.zaobao.com.sg/news/singapore/story20190819-981999">(St. Margaret's wins 1st prize in the Lower Secondary category of the Chinese Creative Writing with Photograpy contest)</a> (Subscriber's content) </td>
   </tr>
   <tr>
     <td>19/12/2017</td>
