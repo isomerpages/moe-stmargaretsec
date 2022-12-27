@@ -15,10 +15,4 @@ sections:
         - title: Latest News
           description: ""
           url: /others/latest-news
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
 ---
