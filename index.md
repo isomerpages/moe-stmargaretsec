@@ -14,4 +14,5 @@ sections:
         - title: Latest News
           description: ""
           url: /others/latest-news
+      background: /images/UG MAIN.jpg
 ---
