@@ -7,12 +7,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Announcements
-          description: ""
-          url: /others/announcements
-        - title: Latest News
-          description: ""
-          url: /others/latest-news
       background: /images/UG MAIN.jpg
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
 ---
