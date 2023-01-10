@@ -4,7 +4,6 @@ permalink: /programmes/the-national-digital-literacy-programme-ndlp/
 description: ""
 third_nav_title: National Digital Literacy
 ---
-
 In March 2020, MOE launched the NDLP for all Secondary Schools to help students strengthen their digital literacy. One of the components of the NDLP is to facilitate the ownership of a Personal Learning Device for all secondary school students by the end of 2021.
 
 Singapore citizens will be able to utilise the funds in their Edusave account to offset the cost for their Personal Learning Device.
@@ -15,12 +14,6 @@ Click [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculu
 
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Qgf76jrMEkQ" title="NDLP Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Unboxing Day on 26 August 2021
-------------------------------
-
-The school was abuzz with excitement as 780 Personal Learning Devices (PLDs) were unboxed on 26 August 2021. The integration of these PLDs into our learning environment will support the development of digital literacies in our students as well as transform them into self-directed and collaborative learners of the 21st century.  
-  
-See the photos in our [photo gallery](/events/photo-gallery).   
 
 Neu PC Plus Progamme
 --------------------
