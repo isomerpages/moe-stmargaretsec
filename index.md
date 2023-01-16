@@ -8,7 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/UG MAIN.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
 ---
