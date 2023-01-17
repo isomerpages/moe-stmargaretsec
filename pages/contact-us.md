@@ -2,31 +2,27 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: St. Margaret's School (Secondary)
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - 111 Farrer Road
+      - Singapore 259240
+      - ""
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
+        time: 7.30am - 6.00pm
         description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: https://www.google.com/maps/place/St+Margaret's+Secondary+School/@1.3199602,103.8078916,17z/data=!3m2!4b1!5s0x31da1a0f79405531:0x8ee4616baeffdae0!4m5!3m4!1s0x31da1a0f83716a1f:0x23c2eabe724b905f!8m2!3d1.3199548!4d103.8100803
+    title: Location
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6466 4525
+      - email: ""
+      - other: ""
+    title: General Enquiries & Feedback
+  - content:
+      - phone: ""
+      - email: careers@abc.gov.sg
+      - other: ""
+    title: Careers
 ---
