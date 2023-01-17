@@ -8,4 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/UG MAIN.jpg
+      button: "Annoucements "
+      url: /Annoucements
 ---
