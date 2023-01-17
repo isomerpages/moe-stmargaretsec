@@ -7,7 +7,6 @@ description: ""
 
  (Music and Lyrics by Vivian Quek)
  
- < insert school song here >
 
 In these sound walls a goodly learning frame  
 Who here abide true kindliness impart  
@@ -33,7 +32,7 @@ St. Margaret's shall again inspire.
 
 ## School Hymn
 
-< insert school hymn here >
+
 
 Our Father, by whose servants  
 Our school was built of old  
