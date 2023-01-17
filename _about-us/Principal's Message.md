@@ -5,30 +5,20 @@ description: ""
 ---
 <img src="/images/Principals%20Photo-white%202.jpg" style="width:40%" align="left"/>
 
-St. Margaret’s School celebrates the 180th Anniversary of our school founding in 2022 and the theme is “Let our Light Shine”. This is taken from Matthew 5:16 “…let your light shine before others, that they may see your good deeds and glorify your Father in heaven.” Our rallying call is for us to #BeALight. To shine through the darkness. This year we want to celebrate 180 years of learning and growing as a school and a community. As a community we celebrate because even as we emerge from the pandemic, we are learning to dance in the rain, dance through the pain and with grit we are poised to rise from the ashes. 
+2023 brings new beginnings, new hopes and new opportunities. I pray and trust that we will all learn and grow to be better versions of ourselves. I believe that God has much in store for us as we continue to work together with the primary school to hone our identity as St. Margaret’s School (Primary) and St. Margaret’s School (Secondary). May we continue to fix our eyes on God our Provider believing that God can will enable us to make a difference and help us to be a blessing to people around us. 
 
-In 2023, St. Margaret’s Secondary School and St. Margaret’s Primary School will be renamed as St. Margaret’s School (Secondary) and St. Margaret’s School (Primary) respectively. This will better reflect our common legacy, heritage and school motto of Charity, Patience and Devotion.
+In 2023, we will continue to work on the same theme that we had in 2022 - “Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven” (Matthew 5:16). It is indeed our collective prayer that the light of God shines forth in our school and each member of our community be able to serve God, the Country and the Community as clearly expounded in our School Mission Statement.  
 
-As part of the celebrations for the 180th Anniversary and in honour of the legacy of our founding Principal, Mrs Maria Dyer, the school Performing Arts CCAs and the Uniformed Groups came together to work on a virtual concert on the narrative of ‘Father Charis’. It is enhanced by activities and conversation cards put together in a ‘Family Activity Box’. We hope that families can watch the concert, do the activities together and in turn, build deeper relationships. The school has presented 500 of these to the community in Ghim Moh. We are also making them available for you to purchase today and all proceeds will go to the SMPS school building fund.
+Let us also, as a community – staff, alumni, parents, students – work at living out our commitment to #BeWell, #BeConnected and #BeALight. As a community, we continue our endeavor to look after the wellness of each child as we help them nurture and grow her talents, potential and strength areas. I look forward to another year where we see our students connecting with family, friends and community where they learn more about themselves and also how they can serve, be a blessing and “be a light”.  
 
-The two schools also came together virtually on 20 May 2022 to mark the countdown of 180 days to Founders’ Day on 16 November 2022. On that day, the school also launched the 180 days of #LetitShine activities designed for the school community to apply and appreciate our School Motto better. 
+I would also like to share that the ‘student outcomes’ that we collectively work towards are that our learners (1) are future-ready; (2) with growth mindset; (3) are other-centered and (4) who are dedicated members of the St. Margaret’s family. With strong partnerships and a dedicated staff, let us press on in our undaunted effort to make that positive impact in the lives of our students that they can indeed grow and glow in a caring and enabling environment. 
 
-The school is also designing a virtual trail to showcase the heritage and progress of our school. This will launch later in the year.
+As we take bold and careful steps into 2023 as the world moves out of the Covid-19 pandemic, let us be reminded that “Thus far, the Lord has helped us” (1 Samuel 7:12). God has indeed protected and seen us through the past couple of years and we believe that He will be our fount of blessings moving forward.
 
-As a St. Margaret’s community, we want to indeed be a light that shines brightly to brighten up one another’s day in times of peace and hope when darkness assails.  I would like to quote from Thomas Rhett’s song “Be a Light”:
+To God Be the Glory! 
 
-**In a world full of hate, be a light.  When you do somebody wrong, make it right**
+Linda Lim
 
-**Oh Don't hide in the dark, you were born to shine. In a world full of hate, be a light**
+Principal 
 
-As we move cautiously out of this pandemic, as we hear of and experience chaos and unrest around the region and the world, it is even more crucial that we press on and be tenacious. Continue to stand firm and be there for one another. We are certain that God will continue to lavish us with MORE of His blessings and love. Let us, as a community that includes our parents, alumni and community partners, continue to enjoy synergies that will enable our students to learn and grow for the good of the larger community. May we also invite all to #BeWell, #BeConnected and #BeALight.
-
-To God be the Glory.
-
-Yours sincerely,
-
-Ms Linda Lim  
-Principal  
-St. Margaret’s Secondary School
-
-![ebanner 2.jpg](/images/ebanner%202.jpg)
+St. Margaret’s School (Secondary)
