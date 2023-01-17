@@ -13,12 +13,12 @@ A Community of Learners Growing and Glowing For God
 
 ## Our Values
 
-1\. Upholding Integrity
+1\. Learning Continuously 
 
-2\. Learning Continuously
+2\. Upholding Integrity
 
-3\. Taking Pride
+3\. Showing Care & Being Gracious
 
-4\. Being Resilient
+4\. Taking Pride & Being Humble
 
-5\. Showing Care
+5\. Being Resilient & Tenacious
