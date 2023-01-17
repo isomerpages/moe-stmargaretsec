@@ -7,7 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/UG MAIN.jpg
-      button: "Annoucements "
-      url: /Annoucements
+      background: /images/4f49f7039_467.jpg
 ---
