@@ -44,10 +44,10 @@ third_nav_title: Organisation Chart
 
 <br>
 
-| Lead Teacher | Lead Teacher |
-| :---: | :---: |
-| Additional Mathematics | History |
-| **Mdm Lim Fook Chiew** | **Mrs Esther Lau** |
+ | Lead Teacher | 
+| :---: |
+| History |
+| **Mrs Esther Lau** |
 
 <br>
 
@@ -67,22 +67,22 @@ third_nav_title: Organisation Chart
 
 | Subject Head | Subject Head |
 | :---: | :---: |
-| Student Leadership and Talent Development | National Education and Salt & Light Programme |
-| **Mrs Lim Wan Lin** | **Mdm Kwang Wan Yi** |
+| Education and Career Guidance and Partnership |CCE |
+| **Mrs Jean Tan** | **Mdm Kwang Wan Yi** |
 
 <br>
 
-| Subject Head |
-| :---: |
-| Student Well-Being |
-| **Ms Karen Tan** |
+| Subject Head | Subject Head |
+| :---: | :--: |
+| Student Well-Being |  Information and Communications Technology |
+| **Ms Karen Tan** | **Mrs Teo Sook Lee** |
 
 <br>
 
-| (Ag) Subject Head | Subject Head |
+| Subject Head | Subject Head |
 | :---: | :---: |
 | **[Physical Education and Co-Curricular Activities](/about-us/organisation-chart/physical-education-and-co-curricular-activities)** | Additional Mathematics |
-| **Mr Daniel Ling** | **Ms Bernadette Lim** |
+| **Mr Tan Hee Ming** | **Ms Bernadette Lim** |
 
 <br>
 
@@ -100,24 +100,24 @@ third_nav_title: Organisation Chart
 
 <br>
 
-| Senior Teacher | Senior Teacher | Senior Teacher |
-| :---: | :---: | :---: |
-| Chinese Language | Character and Citizenship Education | Nutrition and Food Science |
-| **Mdm Liu Xin** | **Ms Joey Poh** | **Mrs Lee-Ang Siew Chin** |
+| Senior Teacher | Senior Teacher | Senior Teacher | Senior Teacher
+| :---: | :---: | :---: |  :---: |
+| Chinese Language | Character and Citizenship Education | Nutrition and Food Science | Biology
+| **Mdm Liu Xin** | **Ms Joey Poh** | **Mrs Lee-Ang Siew Chin** | **Ms Katherine Li**
 
 <br>
 
 | Assistant Year Head | Assistant Year Head |
 | :---: | :---: |
 | Secondary 1 | Secondary 2 |
-| **Mdm Suryati Mail** | **Ms Carol Soh** |
+| **Ms Carol Soh**| **Mdm Suryati Mail** |
 
 <br>
 
 | Assistant Year Head | Assistant Year Head |
 | :---: | :---: |
 | Secondary 3 | Secondary 4 & 5 |
-| **Ms Lum Ying Lee** | **Mrs Sharon Tan** |
+| **Ms Sharon Tan** | **Ms Lum Ying Lee** |
 
 <br>
 
@@ -127,3 +127,7 @@ third_nav_title: Organisation Chart
 | Administration Manager 1 | Administration Manager 2 |
 | :---: | :---: |
 | **Ms Lian Chuen Ann** | **Ms Doreen Owyong Siew Leng** |
+
+|Operations Manager 1 | Operations Manager 2 |
+| :---: | :---: |
+| **Mr Kok Hock Chung**| **Mr Chua Boon Keong**|
