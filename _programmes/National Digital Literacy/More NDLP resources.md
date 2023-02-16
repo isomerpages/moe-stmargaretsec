@@ -4,10 +4,10 @@ permalink: /programmes/the-national-digital-literacy-programme-ndlp/more-ndlp-re
 description: ""
 third_nav_title: National Digital Literacy
 ---
-[St. Margaret's Secondary School Personal Learning Device Handbook (cao 24 Aug 2021)](/files/SMSS%20PLD%20Handbook%2024082021.pdf)  
+[St. Margaret's School (Secondary) Personal Learning Device Handbook (correct as of 24 Aug 2021)](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/NDLP/SMSS%20PLD%20Handbook%2024082021.pdf)  
   
-[Frequently Asked Questions for the roll-out of the Personal Learning Devices (updated 20 Jan 2022)](/files/FAQ%20on%20PLD%20SMSS%20cao%2020%20Jan%202022.pdf)  
-
-[Parent Handbook I on Learning with a Personal Learning Device](/files/Attachment%202_Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)   
+[Frequently Asked Questions for the roll-out of the Personal Learning Devices (updated 20 Jan 2022)](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/NDLP/FAQ%20on%20PLD%20SMSS%20cao%2020%20Jan%202022.pdf)  
   
-[Parent Handbook II on Learning with a Personal Learning Device](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/NDLP/Attachment%203_Parent%20Handbook%20II%20on%20Learning%20with%20a%20Personal%20Learning%20Device.pdf)
+[Parent Handbook I on Learning with a Personal Learning Device](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_2023.pdf)  
+  
+[Parent Handbook II on Learning with a Personal Learning Device](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_2023.pdf)
