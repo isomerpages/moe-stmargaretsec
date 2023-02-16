@@ -10,7 +10,6 @@ third_nav_title: Organisation Chart
 | Mrs  | Lee-Ang Siew Chin  | ST Nutrition and Food Science  |
 | Ms | Karen Tan Meng Sie | SH Student Well-Being  |
 | Mr | Benjamin Yeong Whye Leong  |   |
-| Ms | Cecilia Ng Shau Ching |   |
 | Mr | Christopher Jimmy Tan Bock Leong  |   |
 | Mrs | Fairoz-Ramlah Ahmad  |   |
 | Mrs | Gemma Poon Pei Shan |   |
