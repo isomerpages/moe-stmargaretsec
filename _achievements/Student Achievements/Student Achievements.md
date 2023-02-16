@@ -4,7 +4,8 @@ permalink: /achievements/student-achievements/
 description: ""
 third_nav_title: Student Achievements
 ---
-At St. Margaret’s Secondary School, we aim for all our students to be confident, creative and caring young ladies who will serve as contributing citizens, growing and glowing for God. We celebrate the success of our students as they excel in both the academic and co-curricular domains.
+At St. Margaret’s School (Secondary), we aim for all our students to be confident, creative and caring young ladies who will serve as contributing citizens, growing and glowing for God. We celebrate the success of our students as they excel in both the academic and co-curricular domains.
+
 
 All-Round Excellence Awards
 ---------------------------
