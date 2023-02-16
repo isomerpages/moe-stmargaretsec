@@ -4,7 +4,7 @@ permalink: /programmes/character-development/values-in-action-via/
 description: ""
 third_nav_title: Character Development
 ---
-In line with the school mission and vision of nurturing caring young ladies, St. Margaret’s Secondary School has in place a developmental Values in Action (VIA) Programme which encompasses various facets of the community. Our young ladies become Other-Centred Contributors who are willing to act and serve others.
+In line with the school mission and vision of nurturing caring young ladies, St. Margaret's School (Secondary) has in place a developmental Values in Action (VIA) Programme which encompasses various facets of the community. Our young ladies become Other-Centred Contributors who are willing to act and serve others.
 
 The local VIA programme includes the following:   
 
@@ -14,6 +14,8 @@ The local VIA programme includes the following: 
 *   Care for the Environment.
 
 By the end of a student’s four or five-year term with the school, she would have experienced the various aspects of community service and developed a sense of compassion for the less fortunate. Inspired, she will continue to serve the community beyond school.  
+
+  
 
 Objectives
 ----------
@@ -31,9 +33,9 @@ Self-initiated VIA projects that students embark on should be in line with the s
 
 Students who would like to initiate their own VIA are required to fill out this form:
 
-[Self-Initiated VIA Form.pdf](/files/Self-Initiated%20VIA%20Form.pdf) 
+[Self-Initiated VIA Form.pdf](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Resources/VIA%20Bulletin/Self-Initiated%20VIA%20Form.pdf) 
 
-<b><u>Submission of External VIA Documents</u></b>
+**Submission of External VIA Documents**  
 
 Students who are involved in external VIA projects can submit their documents via this [form](http://www.go.gov.sg/externalvia2021):
 
