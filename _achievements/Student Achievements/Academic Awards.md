@@ -9,6 +9,18 @@ third_nav_title: Student Achievements
 
 | Name of Competition | Recognition |
 | --- | --- |
+|Animation and Game Making Competition 2022 organised by the Computer Education Unit, Curriculum Planning and Development Division, Ministry of Education| Animation Category Silver Award - 1 student <br> Game Making Category Bronze Award - 1 student
+| National Schools Translation competition organised by zbComma, Nan Hua High School and Singapore Middle School Chinese Teachers’ Association| Secondary Category Merit Award - 1 student|
+|“全国中学编采比赛” Create Your Own Newspaper Competition| Lower Secondary Category - 1st \- 5 students <br> Upper Secondary Category - Honourable Mention - 5 students|
+| 5th Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
+| 20th National School Chinese Creative Writing Competition | Merit Award - 1 student|
+| Literary Competitions by Association of Singapore Tamil Writers| Word-for-word Translation Contest - Certificate of Participation - 1 student <br> Word-for-word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
+| Oratorical Competition organised by Raffles Instituition | 3rd \- 1 student|
+| _Yutham_ NUS Tamil Language Society - Quiz Competition | 3rd \- 2 students
+|National Library Board - Race to Win | Certificate of Participation - 5 students |
+|MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
+| MOE Budding Writers Workshop | Certificate of Participation - 2 students |
+| Singapore Junior Water Prize Competition organised b Ngee Ann Polytechnic | Main Category - 2nd \- 2 students
 | IDE Maker 2022  | National Secondary Category - 3<sup>rd</sup> \- 2 students <br> Certificate of Participation - 3 students  |
 | Media Challenge 2022 <br> organised by Republic Polytechnic  | Commendation Award - 4 students  |
 | ignITE Challenge 2022 <br> organised by Institute of Technical Education  | Finalists - 12 students  |
