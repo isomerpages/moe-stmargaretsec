@@ -9,6 +9,8 @@ third_nav_title: For Students
 | [SMSS Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home)   | St. Margaret's Secondary School Student learning Site  |
 | [SMSS OPAC](https://schoolibrary.moe.edu.sg/stmargaretssec)   | St. Margaret's Secondary School Online Public Access Catologue for library books  |
 | [SMSS CareLink.](https://go.gov.sg/SMSSCareLink.)   | St. Margaret's Secondary School Care Link - Book an appointment to see Ms Cynthia Kong, our school counsellor.  |
+|[SMSS ECG Counsellor](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/)| St. Margaret's Secondary School ECG Counsellor - Students/ parents may email our school ECG counsellor, Ms Ang Hui Min, to book a session for consultation.  <br> Email: [ang\_hui\_min@schools.gov.sg](mailto:ang_hui_min@schools.gov.sg)  <br> E-Appointment system: [https://go.gov.sg/smssecg](https://go.gov.sg/smssecg)
+| [SMSS ICT Service Hub](https://form.gov.sg/6241170c01266700127a5b8e)| St. Margaret's Secondary School ICT Service Hub for password reset and ICT-related matters.
 | [MOE - Student Learning Space](https://vle.learning.moe.edu.sg/login)  | The MOE learning portal for your online learning.  |
 | [MOE - Student iCON](https://workspace.google.com/dashboard) | Access to Google Dashboard using your student iCON. |
 | [MOE - Education and Career Guidance Centre](mailto:MOE_ECG@moe.gov.sg) | You may want to get in touch with the MOE - ECG Centre for your ECG queries.  |
