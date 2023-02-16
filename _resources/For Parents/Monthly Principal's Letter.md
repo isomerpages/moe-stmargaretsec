@@ -6,6 +6,24 @@ third_nav_title: For Parents
 ---
 The Monthly Principal's Letter can be downloaded by clicking on the respective files below.
 
+February 2023
+-------------
+
+[Principal's Letter - February 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Principals%20Letter%20Feb%202023.pdf)  
+[St. Margaret's School (Secondary) Achievements from December 2022 - January 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/SMSS%20Achievements%20-%20Jan%202023.pdf)  
+
+January 2023
+------------
+
+[Principal's Letter - January 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Announcements/Principals%20Letter%20Jan_2023.pdf)  
+[St. Margaret's School (Secondary) Achievements from October - December 2022](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/SMSS%20Achievements%20-%20Oct%20-%20Dec%202022.pdf)  
+
+October 2022
+------------
+
+[Principal's Letter - October 2022](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Resources/Monthly%20Principals%20Letter/2022/Principals%20Letter%20Oct%202022.pdf)  
+[St. Margaret's Secondary School Achievements in September 2022](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Resources/Monthly%20Principals%20Letter/2022/SMSS%20Achievements%20-%20Oct_final.pdf)
+
 September 2022
 --------------
 
