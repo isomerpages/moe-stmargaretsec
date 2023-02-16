@@ -10,7 +10,7 @@ third_nav_title: School Achievements
 
 **(Since 2018)**
 
-St. Margaret’s Secondary School has been recognised for having well-integrated and sustainable school processes and practices that have provided useful educational and developmental outcomes for our students. We have distinguished ourselves in having achieved overall systemic excellence in providing holistic education.
+St. Margaret’s School (Secondary) has been recognised for having well-integrated and sustainable school processes and practices that have provided useful educational and developmental outcomes for our students. We have distinguished ourselves in having achieved overall systemic excellence in providing holistic education.
 
 ---------- 
 
@@ -18,7 +18,7 @@ St. Margaret’s Secondary School has been recognised for having well-integrated
 
 <img src="/images/Best%20Practice%20Awards.png" style="width:80%"/>
 
-For our effective processes and systems which led to desirable education outcomes, academic or non-academic, St. Margaret’s Secondary has been awarded The Best Practice Award in the following categories: Character & Citizenship Education, Staff Well-Being & Development, Partnership, Teaching & Learning and Student All-Round Development.
+For our effective processes and systems which led to desirable education outcomes, academic or non-academic, St. Margaret’s School (Secondary) has been awarded The Best Practice Award in the following categories: Character & Citizenship Education, Staff Well-Being & Development, Partnership, Teaching & Learning and Student All-Round Development.
 
 -----------
 
@@ -28,7 +28,7 @@ For our effective processes and systems which led to desirable education outcome
 
 **(Since 2009)**
 
-St. Margaret’s Secondary School has been awarded the Character Development Award in recognition of our efforts in developing good character through effective leadership, culture and systems, processes and structures in our students.
+St. Margaret’s School (Secondary) has been awarded the Character Development Award in recognition of our efforts in developing good character through effective leadership, culture and systems, processes and structures in our students.
 
 --------------
 
@@ -57,7 +57,7 @@ St. Margaret’s Secondary School has been awarded the Character Development Awa
 	</tr>
 	<tr>
 		<td colspan="6">
-			For our efforts in sustaining good academic and non-academic outcomes over a number of years, St. Margaret’s Secondary School has been awarded The Sustained Achievement Award in the following categories: Academic Value-Added (Express), and Academic Value-Added (Normal (Academic), Uniformed Group, Sports and Aesthetics.
+For our efforts in sustaining good academic and non-academic outcomes over a number of years, St. Margaret’s School (Secondary) has been awarded The Sustained Achievement Award in the following categories: Academic Value-Added (Express), and Academic Value-Added (Normal (Academic), Uniformed Group, Sports and Aesthetics.
 		</td>
 	</tr>
 </table>
