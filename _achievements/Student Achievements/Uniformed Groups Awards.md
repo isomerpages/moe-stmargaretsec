@@ -10,10 +10,15 @@ third_nav_title: Student Achievements
 | _Girls' Brigade_ |
 | --- |
 | Pioneer Brigader Brooch Award - 5 students |
+|Dr Low Guat Tin Challenge 2022:  
+Gold Award - 12 students  
+Silver Award - 13 students  
+Bronze Award - 12 students
 | |
 
 | _NPCC_ |
 | --- |
+|NPCC Unit Overall Proficiency Award - Distinction|
 | SPF-NPCC badge and Best Unit Cadet Award - 1 student |
 | |
 
