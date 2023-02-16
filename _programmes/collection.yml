@@ -2,8 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Clubs/.keep
-      - Visual and Performing Arts/.keep
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
         (NDLP).md
@@ -30,6 +28,8 @@ collections:
       - Co Curricular Activities.md
       - Sports/.keep
       - Uniformed Groups/.keep
+      - Visual and Performing Arts/.keep
+      - Clubs/.keep
       - Sexuality Education.md
       - Education and Career Guidance.md
       - Development of Talents to Serve (DOTS).md
