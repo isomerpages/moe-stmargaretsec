@@ -8,6 +8,7 @@ third_nav_title: Organisation Chart
 | --- | --- | --- |
 | Mdm | Azizah Rabunam | HOD Information and Communications Technology (ICT) |
 | Mrs | Keira Lim | SH Teaching and Learning with Technology  |
+| Mrs | Teo Sook Lee | SH Information and Communications Technology (Internal)
 | Ms | Thor Ya Lin | ICT Manager  |
 | Mr  | Eric Phang Boon How | Desktop Engineer |
 | Mr  | Ng Tze Chean | Desktop Engineer |
