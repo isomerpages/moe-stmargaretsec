@@ -4,7 +4,7 @@ permalink: /programmes/aesthetics-development/gce-n-o-level-art-programme/
 description: ""
 third_nav_title: Aesthetic Development
 ---
-We offer GCE 'N' and 'O' Level Art for our students. The Art programme is a two or three-year course starting at Secondary Three and ending with the GCE 'O’ or 'N' Level examinations at the end of Secondary Four or Five. The Art syllabus comprises Studio Practice and Study of Visual Arts (SOVA). The creation of artworks and the critical appraisal of artists and artworks are two modes of learning that are central to a balanced art education.These components provide students with diverse learning experiences and skills in visual literacy.
+We offer GCE 'N' and 'O' Level Art for our students. The Art programme is a two or three-year course starting at Secondary Three and ending with the GCE 'O’ or 'N' Level examinations at the end of Secondary Four or Five. The Art syllabus comprises Studio Practice and Study of Visual Arts (SOVA). The creation of artworks and the critical appraisal of artists and artworks are two modes of learning that are central to a balanced art education. These components provide students with diverse learning experiences and skills in visual literacy.
 
 Aims
 ----
@@ -29,7 +29,7 @@ Scope
 
   
 
-The Studio Practice engages students in the creation of artworks.  Students hone their observation skills, learn to discriminate visual qualities and give form to their ideas and experiences when they are engaged in art making. The Studio Practice provides opportunities for students to acquire a working understanding of various art elements and principles. It also develops competency in manipulating various art media for self-expression. Students would be given opportunities to explore a good range of media and experiment with different techniques in their studio practice. 
+The Studio Practice engages students in the creation of artworks. Students hone their observation skills, learn to discriminate visual qualities and give form to their ideas and experiences when they are engaged in art making. The Studio Practice provides opportunities for students to acquire a working understanding of various art elements and principles. It also develops competency in manipulating various art media for self-expression. Students would be given opportunities to explore a good range of media and experiment with different techniques in their studio practice. 
 
 Students acquire skills such as research, experimentation and exploration, idea development, personal reflection and evaluation in the process of creating artworks. Preparatory studies are an integral and important part of the Studio Practice. Through the preparatory studies, students learn to think through issues and problems and develop their abilities to translate ideas into artworks.
 
