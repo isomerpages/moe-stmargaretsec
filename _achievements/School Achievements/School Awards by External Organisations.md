@@ -46,7 +46,7 @@ Singapore Quality Class Award
 
 **Awarded from 2017 - 2023**
 
-St. Margaret’s Secondary has been certified with the Singapore Quality Class award for our overall business excellence standard. The certification is based on the internationally benchmarked business excellence framework. 
+St. Margaret’s School (Secondary) has been certified with the Singapore Quality Class award for our overall business excellence standard. The certification is based on the internationally benchmarked business excellence framework.
 
 Presented by **SPRING Singapore**
 
