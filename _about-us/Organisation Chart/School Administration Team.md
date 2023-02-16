@@ -8,16 +8,16 @@ third_nav_title: Organisation Chart
 | --- | --- | --- |
 | Ms | Lian Chuen Ann | Administration Manager 1 |
 | Ms | Doreen Owyong Siew Leng | Administration Manager 2 |
-| Mr | Kok Hock Chung | Operations Executive |
+| Mr | Kok Hock Chung | Operations Manager 1 |
+| Mr | Chua Boon Keong | Operations Manager 2 |
+| Ms | Jane Loh Yoke Cheng | Management Support Officer  |
 | Mdm | Mae See Toh Wai Theng | Administrative Executive  |
-| Mrs | Susan Tan  | School Events Coordinator |
-| Ms | Tan Ah Fong | Management Support Officer 1 |
-| Ms | Jane Loh Yoke Cheng | Management Support Officer 2 |
-| Mrs | Sumitra Shasi Kumar  | Adjunct Corporate Support Officer |
+| Mrs | Sumitra Shasi Kumar  | Administrative Executive |
+| Mdm | Lim Lik Kheng | Administrative Assistant |
+| Mrs | Susan Tan  | Administrative Assistant |
+| Ms | Marsya Afiqah Binte Salim | School Laboratory Technician |
 | Mr | Somasundram  | Adjunct Operations Support Officer |
-| Mdm | Chan Wai Lin | Operations Support Officer |
 | Mdm  | Kamisah Bte Nor  | Operations Support Officer |
 | Mdm  | Sagaya Arockian | Operations Support Officer |
 | Mdm   | Pushpalatha  | Operations Support Officer (Lab Attendant) |
 | Mdm  | Suntharambal  | Operations Support Officer (Lab Attendant) |
-| Ms | Marsya Afiqah Binte Salim | School Laboratory Technician  |
