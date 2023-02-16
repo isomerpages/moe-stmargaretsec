@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Co Curricular Activities/.keep
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
         (NDLP).md
