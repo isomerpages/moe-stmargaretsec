@@ -10,8 +10,7 @@ Singapore citizens will be able to utilise the funds in their Edusave account to
 
 Students who are Singapore citizens from lower-income families will enjoy further subsidies for the purchase. 
 
-Click [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html) for more information about MOE NDLP. 
-
+Click [here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html) for more information about MOE NDLP.
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Qgf76jrMEkQ" title="NDLP Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
