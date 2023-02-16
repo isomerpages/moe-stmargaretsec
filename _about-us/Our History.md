@@ -56,3 +56,8 @@ On 26 July 2002, 160 years since the founding of the school, St. Margaret's Seco
 [Back to Top](#top)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Heritage Trail
+To learn more about our heritage, click [here](https://go.gov.sg/smssheritagetrail)
+
+[Back to Top](#top)
