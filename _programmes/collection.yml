@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Uniformed Groups/.keep
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
         (NDLP).md
@@ -28,6 +27,7 @@ collections:
       - Aesthetic Development/Enhanced Music Programme.md
       - Co Curricular Activities.md
       - Sports/.keep
+      - Uniformed Groups/.keep
       - Sexuality Education.md
       - Education and Career Guidance.md
       - Development of Talents to Serve (DOTS).md
