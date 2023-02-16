@@ -4,7 +4,7 @@ permalink: /achievements/student-achievements/outstanding-all-rounder-student-oa
 description: ""
 third_nav_title: Student Achievements
 ---
-The Outstanding All Rounder Student Award or OARS Award is presented by the North West Community Development Council (CDC). The award aims to recognise students in the district who have excelled not only academically, but also in their CCA and contributions to the community. St. Margaret’s Secondary School is happy to announce that the following students have been awarded the OARS award at the CDC level:
+The Outstanding All Rounder Student Award or OARS Award is presented by the North West Community Development Council (CDC). The award aims to recognise students in the district who have excelled not only academically, but also in their CCA and contributions to the community. St. Margaret’s School (Secondary) is happy to announce that the following students have been awarded the OARS award at the CDC level:
 
 | Name of Student | Year of Award |
 | --- | --- |
