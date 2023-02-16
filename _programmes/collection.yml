@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Sports.md
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
         (NDLP).md
@@ -27,6 +26,7 @@ collections:
       - Aesthetic Development/GCE 'O' Level Drama Programme.md
       - Aesthetic Development/Enhanced Music Programme.md
       - Co Curricular Activities.md
+      - Sports.md
       - Sexuality Education.md
       - Education and Career Guidance.md
       - Development of Talents to Serve (DOTS).md
