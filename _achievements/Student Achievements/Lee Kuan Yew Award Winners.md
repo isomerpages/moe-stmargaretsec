@@ -7,7 +7,7 @@ third_nav_title: Student Achievements
 Lee Kuan Yew Award for Outstanding Normal Course Students
 --------------------
 
-The award is presented to top Normal (Academic) course students and Normal (Technical) students, based on their GCE ‘O’ level and ‘N’ level examination results respectively. St. Margaret’s Secondary congratulates the following students who have done the school proud:
+The award is presented to top Normal (Academic) course students and Normal (Technical) students, based on their GCE ‘O’ level and ‘N’ level examination results respectively. St. Margaret’s School (Secondary) congratulates the following students who have done the school proud:
 
 | Name of Student | Year of Award |
 | --- | --- |
@@ -27,7 +27,7 @@ The award is presented to top Normal (Academic) course students and Normal (Tech
 Lee Kuan Yew Award for All-Round Excellence
 -------------------------------------------
 
-The Lee Kuan Yew Award for All-Round Excellence is a national-level award for achievement in education that was presented since 2005. It recognises well-rounded students who have excelled in both academic and non-academic spheres, and who exemplify positive character development, strong leadership qualities and commitment to service to the community. The award is presented at the end of the Secondary education. St. Margaret’s Secondary congratulates the following students who have achieved this award:
+The Lee Kuan Yew Award for All-Round Excellence is a national-level award for achievement in education that was presented since 2005. It recognises well-rounded students who have excelled in both academic and non-academic spheres, and who exemplify positive character development, strong leadership qualities and commitment to service to the community. The award is presented at the end of the Secondary education. St. Margaret’s School (Secondary) congratulates the following students who have achieved this award:
 
 | Name of Student | Year of Award |
 | --- | --- |
