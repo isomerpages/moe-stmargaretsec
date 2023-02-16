@@ -8,13 +8,14 @@ third_nav_title: Organisation Chart
 | --- | --- | --- |
 | Mrs | Shamini Rajandran | HOD English Language, Literature and Drama |
 | Mdm | Premela d/o Prabakaran | HOD Corporate Communications |
-| Mdm | Kwang Wan Yi  | SH National Education and Service Learning   |
+| Mdm | Kwang Wan Yi  | SH CCE |
 | Ms  | Anna Shen | ST English  |
 | Mrs | Elizabeth Yang  | LH Lower Secondary English Language, Literature and Drama  |
 | Ms | Anitha d/o Sekar  |   |
 | Ms | Cao Yu  |   |
 | Ms | Cindy Tan  |   |
 | Ms | Elyana Insyirah Esman |   |
+| Mrs | Ho Yu Zhen |  |
 | Ms | Julie Anthony  |   |
 | Mr | Leong Fang Shao  |   |
 | Mrs | Lucy Seet-Hing Miaw Ngo  |   |
@@ -22,7 +23,7 @@ third_nav_title: Organisation Chart
 | Mdm  | Nazlin Bte Hamzah  |   |
 | Mrs | Priscilla Choi  |   |
 | Ms  | Sharon Ow  |   |
-| Mrs | Vimi Rethinam  |   |
+| Mrs | Tan Yan Tong |  |
 
 | | |
 |---|---|
