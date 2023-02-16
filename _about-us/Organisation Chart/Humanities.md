@@ -14,8 +14,7 @@ third_nav_title: Organisation Chart
 | Mr  | Desmond John Lee Yue Kay  |   |
 | Ms  | Esther Lee  |   |
 | Ms | Grace Wee  |   |
-| Mdm  | Karen Thia Hui Teen  |   |
-| Mr  | Low Wai Hoong  |   |
+| Mrs | Juliana Chua |  |
 | Ms | Nicolette Ng  |   |
 | Ms | Nursahidah Bte Mohamed Ali |   |
 | Ms | Tan Yang Tong |   |
