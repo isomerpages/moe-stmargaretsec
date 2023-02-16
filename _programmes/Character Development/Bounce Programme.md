@@ -15,15 +15,19 @@ The ‘9+1’ is a component within the Bounce Programme for our Secondary 1 Nor
 
 To help students plan and manage their career pathways and learning, Bounce provides opportunities for our Secondary 2 Normal (Technical) and Secondary 3 Normal (Academic) course students to attend the Experience ITE Programme. 
 
+  
+
 Elective Modules are also planned for our Secondary 2 and Secondary 3 Normal (Technical) course students to broaden their learning experiences beyond the curriculum and engage them through applied learning. The Secondary 3 students also participate in the Advanced Elective Modules where they get to discover more about their interests and make informed education and career choices.
 
-A teacher-mentor scheme is in place to provide additional support to our Secondary 4 Normal (Technical) course students during their preparation for the ITE Early Admissions Exercise. 
+  
+
+A teacher-mentor scheme is in place to provide additional support to our Secondary 4 Normal (Technical) course students during their preparation for the ITE Early Admissions Exercise.
 
 <img style="width:80%" src="/images/2022%20Bounce%2002.jpg"/>
 
 <p align="center">Students attending the Experience ITE Programme via a Zoom session (S3-8, 2021) </p>
 
-Another component within Bounce is the Gear-Up Programme which offers our students the opportunity to strengthen school-connectedness and build positive peer relationships. For the Gear-Up Programme sessions this year, students will take part in a variety of sessions that will cater to their different needs and individual interests. These sessions include the Lifeskills programme, 180th Wall Mural Design and DOTs Sports activities.
+Another component within Bounce is the Gear-Up Programme which offers our students the opportunity to strengthen school-connectedness and build positive peer relationships. For the Gear-Up Programme sessions this year, students will take part in a variety of sessions that will cater to their different needs and individual interests. These sessions include the Lifeskills programme, 180th Wall Mural Design and DOTs Sports activities
 
 <img style="width:80%" src="/images/2022%20Bounce%2003.jpg"/>
 
