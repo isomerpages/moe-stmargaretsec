@@ -6,7 +6,8 @@ third_nav_title: Organisation Chart
 ---
 | | Name |  |
 | --- | --- | --- |
-| Mr   | Daniel Ling Siong Kiat | (Ag) SH Physical Education and Co-Curricular Activities |
+| Mr | Tan Hee Ming | SH Physical Education and Co-Curricular Activities
+| Mr   | Daniel Ling Siong Kiat | |
 | Mr  | Daniel Teng Charng Ther |   |
 | Mr  | Nicholas Koh Wei-Chong  |   |
 | Mr  | Teh Wee Siong |   |
