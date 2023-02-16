@@ -24,10 +24,10 @@ During the post-exam period, artistes are invited to conduct experiential worksh
 Application to AEP 2022
 -----------------------
 
-Please refer to the [slides](/files/AEP%20Information%20Slides%202022%20cao%2013%20Jan%202022v2.pdf) for more information.   
+Please refer to the [slides](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Admission/2022/AEP%20Information%20Slides%202022%20cao%2013%20Jan%202022v2.pdf) for more information.   
   
-[Arts Education Programme (Secondary) - Information]
+[Arts Education Programme (Secondary) - Information](https://www.moe.gov.sg/programmes/aep-sec)  
   
-[Arts Education Programme (Secondary) - Application]
+[Arts Education Programme (Secondary) - Application](https://form.gov.sg/#!/619c64d4a342eb0012e068bd)  
   
-[AEP Centres Infosheet](/files/AEP_Centres_Infosheet.pdf)
+[AEP Centres Infosheet](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Admission/2022/AEP_Centres_Infosheet.pdf)
