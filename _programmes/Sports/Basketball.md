@@ -11,4 +11,3 @@ CCA Schedule
 | Training Day(s) | Monday | Thursday | Friday*
 | -------- | -------- | -------- |-------- |
 | Text     | Text     | Text     | Text
-
