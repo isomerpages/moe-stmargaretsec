@@ -2,4 +2,5 @@ collections:
   180th-anniversary-celebrations:
     output: true
     order:
+      - LETITSHINE180.md
       - 180th Anniversary Celebrations.md
