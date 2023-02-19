@@ -18,10 +18,7 @@ Teachers In-Charge
 ------------------
 
 Mdm Suriyati (IC)
-<br>
-Ms Elyana
-<br>
-Mdm Kwang Wan Yi
+
 
 Achievements
 ------------
