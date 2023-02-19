@@ -10,23 +10,19 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Day(s) | Thursday |   
-| Training Time | 3.15pm-6.15pm | 
+| Training Time | 3.00pm-5:45pm | 
 | Training Venue(s) | Parade Square  <br> ISH Level 2 Classrooms |   
 | | |
   
-\*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
+*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
 
 Teachers In-Charge
 ------------------
 
 Mdm Nur Aqilah (IC)
-<br>
-Ms Ang Wen Ting
-<br>
-Mr Leong Fang Shao
+
 
   
-
 Achievements
 ------------
 
@@ -46,10 +42,3 @@ Achievements
 | | | |
 
 <img style="width:80%" src="/images/npcc2_d3IMh0.jpg"/>
-
-Photo Album
------------
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSnTXwlixi14zq17X01LRxEc7UkuJiaIeaN8SFITfwVH3lvHnob7YOXiI-KdW5c0VomSRAbP-_ge8Kd/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
-
-<p align="center"><b>CCA Activities</b></p>
