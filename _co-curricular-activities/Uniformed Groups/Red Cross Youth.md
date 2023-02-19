@@ -10,7 +10,7 @@ CCA Schedule
 | | |
 | --- | --- |
 | Training Day(s) | Friday |  
-| Training Time | 2.45pm-6.00pm |   
+| Training Time | 3:00pm-5:45pmpm |   
 | Training Venue(s) | Parade Square <br> ICT Lab 2&3 |   
 | | |
   
@@ -20,10 +20,7 @@ Teachers In-Charge
 ------------------
 
 Mr Adrian Sim (IC)
-<br>
-Ms Anna Shen
-<br>
-Ms Sharon Goh
+
 
 Achievements
 ------------
