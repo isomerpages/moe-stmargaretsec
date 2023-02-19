@@ -6,30 +6,31 @@ third_nav_title: Sports
 ---
 CCA Schedule
 ------------
-| Training Day(s) | Tuesday | Thursday |
-| -------- | -------- | -------- |
-| Training Time     | 3:30pm-6:00pm     |  3:30pm-6:00pm     |
-| Training Venue | Theatrette | Theatrette |
+
+
+| Training Day(s)  | Tuesday  | Thursday 
+| -------- | -------- | -------- | 
+| Training Time     | 3:30pm-5:30pm     | 3:30pm-5:30pm     |
+| Training Venue(s) | The Space <br> ISH Level 1 Classroom | The Space <br> ISH Level 1 Classroom
+
+
 
 Teacher In-Charge
 -----------------
 
-Mr Benjamin Yeong
+Mr Desmond Lee
 
 Achievements
 ------------
 
 
-| Year | Name of Competition | Achievement |
+| Year | Name of Competition | Achievement  |
 | -------- | -------- | -------- |
-| 2022     |   National School Games - Bowling Championships <br> - 'B' Division Girls Team Overall <br> - 'B' Division Firls Individual Overall <br> - 'C' Division Girls Team Overall   | <br> <br> 5<sup>th</sup><br>4<sup>th</sup><br>5<sup>th</sup> |
-| 2021 | National School Games - Bowling Championships <br> - 'B' Division Girls (Singles)<br> - 'B' Division Girls Individual <br>(All Events) Ranking <br> - 'B' Division Girls Overall Ranking <br> SSSC Sportmanship Award - 1 Student | <br> <br> 4<sup>th</sup><br>9<sup>th</sup><br><br>3<sup>rd</sup>|
-|2019 | National School Games 2019 <br> - 'B' Division Girls Single Event <br> - 'C' Division Girls  | <br> 2<sup>nd</sup><br>3<sup>rd</sup>|
-|2018 | National Schools Tenpin Bowling Championships <br> - 'C' Division Girls Overall <br> - Overall School <br> - Double Event <br> <br> National Age Group 2018 Girls Under 15 Championships <br> - Single Event| <br> <br> 4<sup>th</sup><br>3<sup>rd</sup><br>3<sup>rd</sup> <br><br><br><br>1<sup>st</sup>| 
+| 2022     | National School Games <br> - 'B' Division Girls Overall Team  <br>- 'B' Division Foil Individual <br> - 'C' Division Girls<br> - Overall Team   'C' Division Epee Individual <br>- 'C' Division Foil Individual<br> -  'C' Division Sabre Individual     | <br>3<sup>rd</sup><br>6<sup>th</sup> and 8<sup>th</sup> <br>2<sup>nd</sup><br>1<sup>st</sup> and 8<sup>th</sup><br>1<sup>st</sup> and 8<sup>th</sup><br>3<sup>rd</sup>, 5<sup>th</sup> and 8<sup>th</sup> |
+| 2019 | 2019 National School Games<br> - 'B' Division Girls Overall Team <br> - 'C' Division Girls Overall Team <br> *    Epee Individual Girl's Event <br> <br> 2019 Singapore Novices Championships <br>   | <br>4<sup>th</sup><br>5<sup>th</sup><br>Top 8
+| 2019 | 2019 National School Games<br> - 'B' Division Girls Overall Team <br> - 'C' Division Girls Overall Team <br> - Epee Individual Girl's Event <br> <br> 2019 Singapore Novices Championships <br> - Foil Team Event <br> - Epee Team Event  <br> - Sabre Team Event <br> - Foil Individual Event <br> - Epee Individual Event  | <br>4<sup>th</sup><br>5<sup>th</sup><br>Top 8 <br> <br><br> 1<sup>st</sup> and 3<sup>rd</sup><br>3<sup>rd</sup><br>2<sup>nd</sup><br>3<sup>rd</sup><br>2<sup>nd</sup> |
+| 2018 | 2018 National School Games <br> - 'B' Division Girls Overall Team <br> - 'C' Division Girls Overall Team <br>- 'C' Division Girls Epee Individual Event <br><br> 2018 Singapore Novices Championships <br> - Women Epee Individual<br>- Women Foil Individual <br> - Women Sabre Team<br> - Women Epee Team <br> - Women Foil Team    | <br> 4<sup>th</sup><br> 2<sup>nd</sup> <br> 2<sup>nd</sup> and 3<sup>rd</sup><br><br><br> 3<sup>rd</sup><br> 2<sup>nd</sup> and  3<sup>rd</sup><br>3<sup>rd</sup><br> 2<sup>nd</sup><br> 1<sup>st</sup>
 
-![Bowling1-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Bowling1-iloveimg-converted.jpg)<br>
-![Bowling - Captains Ball to build team spirit.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Tenpin%20Bowling/Bowling%20-%20Captains%20Ball%20to%20build%20team%20spirit.bmp)
-<p align="center">Playing Captain's Ball to build teamwork
+![Fencing2-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Fencing2-iloveimg-converted.jpg)
 
-![Bowling - Coach giving a breifing.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Tenpin%20Bowling/Bowling%20-%20Coach%20giving%20a%20breifing.bmp)
-<p align="center">The coach giving a briefing before a practice
+![Fencing - Women Sabre Individual Event at Singapore Novices Fencing Championship 2020.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Fencing/Fencing%20-%20Women%20Sabre%20Individual%20Event%20at%20Singapore%20Novices%20Fencing%20Championship%202020.bmp)<p align="center">Women Sabre Individual Event
