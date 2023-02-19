@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Scholarships and Awards/St Margarets School (Secondary) Awards.md
       - Scholarships and Awards/Edusave Awards.md
       - Scholarships and Awards/Scholarships and Awards.md
       - Scholarships and Awards/.keep
