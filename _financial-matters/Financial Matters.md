@@ -23,6 +23,7 @@ Please approach the school General Office to speak with Ms Jane Loh for the Edus
 Details on the Payment Modes of School Fees and School Bill
 ------------------------------
 
+
 | Payment Mode | Details |
 | --- | --- |
 | Interbank GIRO | For DBS/POSB and OCBC account holders, you can join the GIRO scheme through your respective online banking portals.  <br><br> -   Select 'MOE' as the billing organisation <br> -   Use your child's student ID as the direct debit authorisation reference number <br> -   Do not set any deduction limit.<br><br> For other bank account holders and those who wish to apply for GIRO via hardcopy application form, please obtain the application form from the School General Office. Submit the original signed form to the school. there is no need to submit a new application if studens are already on GIRO. Deductions will be made on the 26<sup>th</sup> of each month (January to December). Please ensure that there are sufficients funds in the bank account for deduction.  |
