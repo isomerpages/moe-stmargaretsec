@@ -6,51 +6,30 @@ third_nav_title: Sports
 ---
 CCA Schedule
 ------------
+| Training Day(s) | Tuesday | Thursday |
+| -------- | -------- | -------- |
+| Training Time     | 3:30pm-6:00pm     |  3:30pm-6:00pm     |
+| Training Venue | Theatrette | Theatrette |
 
-| | |
-| --- | --- |
-| Training Day(s) | Tuesday |   
-| Training Time | 3.30pm-5.00pm |   
-| Training Venue | Theatrette |   
-| | |
+Teacher In-Charge
+-----------------
 
-Teachers In-Charge
-------------------
-
-Mr Benjamin Yeong (IC)
-<br>
-Mrs Ramlah Fairoz
-<br>
-Mrs Kok Lin Jin
+Mr Benjamin Yeong
 
 Achievements
 ------------
 
+
 | Year | Name of Competition | Achievement |
-| --- | --- | --- |
-| 2022  | National School Games - Bowling Championships  |   |
-|   | *   'B' Division Girls Team Overall <br> *   'B' Division Girls Individual Overall <br> *   'C' Division Girls Team Overall | 5<sup>th</sup> <br> 4<sup>th</sup> <br> 5<sup>th</sup> |
-| 2021  | National School Games - Bowling Championships |   |
-|   | *   'B' Division Girls (Singles) <br>*   'B' Division Girls Individual (All Events) Ranking <br> *   'B' Division Girls Overall Ranking | 4<sup>th</sup><br>9<sup>th</sup><br> 3<sup>rd</sup>   |
-|   | SSSC Sportsmanship Award - 1 student  |   |
-| 2019 | National School Games 2019 |  |
-|   | *   'B' Division Girls Single Event <br> *   'C' Division Girls <br> | 2<sup>nd</sup> <br> 3<sup>rd</sup>  |
-| 2018 | National Schools Tenpin Bowling Championships  |  |
-|   | *   'C' Division Girls Overall  | 4<sup>th</sup>  |
-|   | *   Overall School | 3<sup>rd</sup>  |
-|   | *   Double Event | 3<sup>rd</sup> |
-|   | National Age Group 2018 Girls Under 15 Championships  |   |
-|  | *   Single Event | 1<sup>st</sup> |
-| | | |
+| -------- | -------- | -------- |
+| 2022     |   National School Games - Bowling Championships <br> - 'B' Division Girls Team Overall <br> - 'B' Division Firls Individual Overall <br> - 'C' Division Girls Team Overall   | <br> <br> 5<sup>th</sup><br>4<sup>th</sup><br>5<sup>th</sup> |
+| 2021 | National School Games - Bowling Championships <br> - 'B' Division Girls (Singles)<br> - 'B' Division Girls Individual <br>(All Events) Ranking <br> - 'B' Division Girls Overall Ranking <br> SSSC Sportmanship Award - 1 Student | <br> <br> 4<sup>th</sup><br>9<sup>th</sup><br><br>3<sup>rd</sup>|
+|2019 | National School Games 2019 <br> - 'B' Division Girls Single Event <br> - 'C' Division Girls  | <br> 2<sup>nd</sup><br>3<sup>rd</sup>|
+|2018 | National Schools Tenpin Bowling Championships <br> - 'C' Division Girls Overall <br> - Overall School <br> - Double Event <br> <br> National Age Group 2018 Girls Under 15 Championships <br> - Single Event| <br> <br> 4<sup>th</sup><br>3<sup>rd</sup><br>3<sup>rd</sup> <br><br><br><br>1<sup>st</sup>| 
 
-<img style="width:80%" src="/images/Bowling1-iloveimg-converted.jpg"/>
+![Bowling1-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Bowling1-iloveimg-converted.jpg)<br>
+![Bowling - Captains Ball to build team spirit.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Tenpin%20Bowling/Bowling%20-%20Captains%20Ball%20to%20build%20team%20spirit.bmp)
+<p align="center">Playing Captain's Ball to build teamwork
 
-<br><br>
-
-<img style="width:80%" src="/images/Bowling%20-%20Captains%20Ball%20to%20build%20team%20spirit.bmp"/>
-
-<p align="center">Playing Captain's Ball to build teamwork</p>
-
-<img style="width:80%" src="/images/Bowling%20-%20Coach%20giving%20a%20breifing.bmp"/>
-
-<p align="center">The coach giving a briefing before a practice</p>
+![Bowling - Coach giving a breifing.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Tenpin%20Bowling/Bowling%20-%20Coach%20giving%20a%20breifing.bmp)
+<p align="center">The coach giving a briefing before a practice
