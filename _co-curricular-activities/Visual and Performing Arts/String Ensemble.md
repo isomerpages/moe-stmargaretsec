@@ -10,7 +10,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- | 
 | Training Day(s) | Tuesday | Friday | 
-| Training Time | 3.00pm-5.30pm | 2.pm-6.00pm |
+| Training Time | 3.00pm-5.30pm | 2.45pm-5.45pm |
 | Training Venue(s) | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&4 | PAS | 
 | | |
 
@@ -18,10 +18,7 @@ Teachers In-Charge
 ------------------
 
 Mrs Teo Sook Lee (IC)
-<br>
-Mdm Josephine Khaw
-<br>
-Mdm Yeo Shu Ling
+
 
 Achievements
 ------------
