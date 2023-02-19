@@ -137,27 +137,37 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <thead>
   <tr>
     <th><br>Unit</th>
-    <th>LESSONS / DURATION</th>
-    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+		<th>Lesson Title / Duration</th> <th> Lesson Overview </th>
+    <th>Lesson Objective<br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td>1A/ (60 mins)</td>
-    <td>* Know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline.<br>Understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours.<br>* Recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship.</td>
+    <td>Love Yourself, Love Others <br><br>1A/ (60 mins)</td>
+		<td> This lesson focuses on dating respectfully in healthy relationships. Students will learn about self-esteem, their sources of influence (e.g. friends’ perception) on self-esteem, the impact of one’s self-esteem on our mental well-being as well as relationships with others. Students will also learn how emotional reactions can affect relationships positively or negatively. Students will also learn that maturity and readiness are important when entering into a dating relationship.
+    <td>*   know that self-perception and identity have an impact on our self-esteem and how we interact with others and the choices we make, both online and offline
+*   understand that expectations of oneself and others may differ and can affect one’s emotions, thoughts and behaviours
+
+*   recognise what healthy dating relationships involve and know that readiness is important when entering into a dating relationship</td>
     <td>Term 3 Week 8</td>
   </tr>
   <tr>
-    <td>1B/ (60 mins)</td>
-    <td>* Know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges.<br>* Know that a decision to end a relationship will have consequences on oneself and others.<br>* Know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience.<br>* Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.</td>
-    <td>Term 3 Week 9</td>
+    <td>Mending a Broken Heart <br><br>1B/ (60 mins)</td>
+		<td>Students will learn how to manage their emotions if they were to face a breakup and know that relationship building involves person emotions and vulnerabilities, and changes and challenges. Students will also learn that a decision to end a relationship will have consequences on oneself and others, and that grief and loss due to rejections and broken relationships is normal and that one can recover from the experience. They will learn that there are healthy ways of coping with breakdowns in relationships and that family and friends are important pillars of support.
+    <td>*   know that relationship-building involves personal emotions and vulnerabilities, and changes and challenges
+*   know that a decision to end a relationship will have consequences on oneself and others
+*   know that grief and loss due to rejections and broken relationships is normal and one can recover from the experience
+*   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support</td>
+    <td>Term 3 Week 8</td>
   </tr>
   <tr>
-    <td>2/ (60 mins)</td>
-    <td>* Recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them.<br>* Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
-    <td>Term 3 Week 10</td>
+    <td>When Respect Takes Centre Stage <br><br>2/ (60 mins)</td>\
+		<td>This lesson aims to help students think critically and make informed decisions in the contexts of sexting and voyeurism, and encourages students to exert a positive influence as a respectful online user. It will also deepen students’ convictions about making moral decisions by taking into consideration the impact of their decisions and actions on their well-being and safety, their loved ones, and the community. Students learn that they have a right and responsibility to be safe and protect their personal space and body. They also learn that sexting, voyeurism and other related sexual offences are never justifiable and they can seek help in times of need.
+    <td>*   recognise the importance of being informed of social and moral issues of the day and the need to reflect on these issues, and weigh them against our own moral standpoints as we form our perspectives about them
+*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
+    <td>Term 3 Week 8</td>
   </tr>
 </tbody>
 </table>
@@ -167,33 +177,44 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    <th>Unit</th>
+		<th>Lesson Title </th> <th>Lesson Overview</th>
+    <th>Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td>1/ (60 mins)</td>
-    <td>* Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>* Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>* Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td>Levelling the Ground <br> <br>1/ (60 mins)</td>
+		<td>This lesson aims to help students think critically about gender stereotypes that exist in our society in the contexts of career and family (e.g. males typically perceived as main breadwinners and females typically perceived as main caregivers in the family), and the impact of these stereotypes on individuals. Students will learn to be aware of possible gender stereotypes that may affect one’s family and future decisions. They will also learn to reframe their perspectives and not judge others based on their own or others’ values and principles, with regard to gender stereotypes.
+    <td>*   understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity
+*   understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations
+*   know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
     <td>Term 3 Week 4</td>
   </tr>
   <tr>
-    <td>2/ (60 mins)</td>
-    <td>* Know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support.<br>* Recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims.<br>* Understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being.<br>* Understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship.</td>
+    <td>When Love Hurts<br><br>2/ (60 mins)</td>
+		<td>This lesson aims to help students recognise unhealthy relationships and build their help-seeking skills. Students will learn to identify potential signs of an unhealthy relationship and recognise the different forms of dating violence. They will get to understand why dating violence occurs, why victims often feel “trapped” in such unhealthy relationships, and how one can get out of such a relationship safely. Students will learn when, where and how to seek help from trusted adults (e.g. family, teachers, school counsellors) in the supportive environment that they have if they or their friends are involved in an unhealthy relationship.
+    <td>*   know there are healthy ways of coping with broken relationships, and family and friends are important pillars of support
+*   recognise emotions caused by traumatic situations, e.g. bullying, abuse and dating violence, and understand the physiological and psychological, social impact on victims
+*   understand that we need moral courage and wisdom to recognise and end relationships that are unhealthy and cause harm to our mental and emotional well-being
+*   understand the importance of ensuring that non-verbal messages match with verbal ones, when communicating personal and emotional boundaries in a relationship</td>
     <td>Term 3 Week 5</td>
   </tr>
   <tr>
-    <td>3/ (60 mins)</td>
-    <td>* Know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions.  <br>* Know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort.<br>* Understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage.</td>
+    <td>For Better or For Worse <br><br>3/ (60 mins)</td>
+		<td>This lesson focuses on building a positive relationship with one’s partner in a marriage. Students will understand that while a marriage, defined in Singapore as a union between a man and a woman, requires mutual commitment and effort like the other relationships in their lives, what sets a marriage apart is its lifelong commitment. Students will learn that what really matters to sustain and maintain a long-term romantic relationship leading to marriage is understanding the other person’s perspective and effectively communicating with each other.
+    <td>*   know that long-term romantic relationships leading to marriage involve understanding oneself and others in the intellectual, emotional, social and moral dimensions
+*   know that marriage entails a union between a man and a woman based on love, trust, commitment, and requires mutual effort
+*   understand that conflicts are normal in any relationship, including marriage, and the way in which a couple handles conflict is critical to the success of their marriage</td>
     <td>Term 3 Week 5</td>
   </tr>
   <tr>
     <td> </td>
-    <td>4/ (60 mins)</td>
-    <td>* Understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.<br></td>
+    <td>There,s Always More to a Story<br><br>4/ (60 mins)</td>
+		<td> In this lesson, students will revisit the impact of pornography and deepen their understanding on its impact on relationships. Students will also learn about revenge pornography, including its definition and legal provisions. They will also learn that they can turn to trusted adults for help in setting boundaries and overcoming difficulties in making sound decisions, to prevent themselves from encountering danger.
+    <td>*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs<br></td>
     <td>Term 3 Week 6</td>
   </tr>
 </tbody>
@@ -204,17 +225,18 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    <th>Unit</th>
+		<th>Lesson Title</th> <th> Lesson Overview</th>
+    <th>Lesson Objective<br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Respectful Relationships & Safety</td>
-    <td>1/ (60 mins)</td>
-    <td>* Understand that the value of a person is not tied to one’s gender and not conforming to gender stereotypes does not negate one’s gender identity.<br>* Understand what gender stereotypes comprise, e.g. notions of masculinity and femininity vary over time and space, and are shaped by societal expectations.<br>* Know that imposing gender stereotypes on oneself and others can limit one’s experiences, cause harm to the self-esteem of oneself and others and should be avoided.</td>
+    <td>This is Where I Draw the Line<br><br>1/ (60 mins)</td>
+		<td>In this lesson, students will understand that different individuals have different emotional and physical boundaries. This lesson highlights the need to respect the boundaries of others and reinforces the importance of showing respect to the opposite sex by using appropriate words and actions. Students will examine personal boundaries from different perspectives and learn the importance of making sound values-based decisions and acting in consideration of the well-being of themselves and others.
+    <td>*   understand that we strengthen our character when we commit to sound values-based viewpoints (e.g. respect for life) and decisions, and speak and act in alignment with our beliefs.</td>
     <td>Term 3 Week 4</td>
   </tr>
 </tbody>
@@ -235,8 +257,8 @@ eTeens Programme
 
 | Topics / Lessons | Programme Learning Objectives | Time Period |
 |---|---|---|
-| Mass Talk by HPB appointed vendor  | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV | Term 3 Week 9 |
-| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 10 |
+| Mass Talk by HPB appointed vendor  | - Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV | Term 3 Week 4 |
+| Classroom-based Lesson | - Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making | Term 3 Week 5 |
 
 Information For Parents
 -----------------------
