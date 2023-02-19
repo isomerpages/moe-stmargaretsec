@@ -32,27 +32,27 @@ LEAPS 2.0 has 4 domains as shown below:
 
   
 
-More information on LEAPS 2.0 and the conversion of level of Attainment to Bonus Points can be obtained from the MOE's website at [https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) .  
+More information on LEAPS 2.0 and the conversion of level of Attainment to Bonus Points can be obtained from the MOE's website at 
+[https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0](https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0) .
 
-  
 
-| Sports | Visual and Performing Arts |
-| --- | --- |
-| [Badminton](/programmes/co-curricular-activities/badminton) | [Chinese Dance](/programmes/co-curricular-activities/chinese-dance) |
-| [Basketball](/programmes/co-curricular-activities/basketball) | [Choir](/programmes/co-curricular-activities/choir) |
-|  [Bowling](/programmes/co-curricular-activities/bowling) | [Creative Art Club (Visual Art)](/programmes/co-curricular-activities/creative-art-club-visual-art)  |
-|  [Fencing](/programmes/co-curricular-activities/fencing)  | [Concert Band](/programmes/co-curricular-activities/concert-band)  |
-| [Floorball](/programmes/co-curricular-activities/floorball)  |  [English Drama](/programmes/co-curricular-activities/english-drama) |
-| [Netball](/programmes/co-curricular-activities/netball) | [Indian Dance](/programmes/co-curricular-activities/indian-dance)  |
-|   [Tennis](/programmes/co-curricular-activities/tennis)  |  [Malay Dance](/programmes/co-curricular-activities/malay-dance) |
-|  | [Modern Dance](/programmes/co-curricular-activities/modern-dance)  |
-|  |  [String Ensemble](/programmes/co-curricular-activities/string-ensemble) |
-|  |  |
 
-| Uniformed Groups | Clubs |
-| --- | --- |
-| [Girls' Brigade](/programmes/co-curricular-activities/girls-brigade)  | [Agape Club](/programmes/co-curricular-activities/agape-club) |
-| [Girl Guides](/programmes/co-curricular-activities/girl-guides)  |  [Debate Club](/programmes/co-curricular-activities/debate-club) |
-|  [National Police Cadet Corps](/programmes/co-curricular-activities/national-police-cadet-corps) |  [smARTsMedia Club](/programmes/co-curricular-activities/smartsmedia-club) |
-| [Red Cross Youth](/programmes/co-curricular-activities/red-cross-youth)  |   |
-|   |
+| **Sports** | **Visual and Performing Arts** | 
+| -------- | -------- |
+| Badminton     | Chinese Dance | 
+|Basketball | Choir
+|Bowling| Creative Art Club (Visual Art)
+|Fencing | Concert Band
+|Floorball | English Drama
+| Netball | Indian Dance 
+|Tennis | Malay Dance
+| |Modern Dance
+||String Ensemble
+
+
+| **Uniformed Groups** | **Clubs** | 
+| -------- | -------- |
+|Girls' Brigade | Agape Club
+|Girl Guides | Debate Club
+| National Police Cadet Corps | smARTsMedia Club
+| Red Cross Youth |
