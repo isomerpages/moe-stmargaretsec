@@ -70,4 +70,54 @@ Website: [https://www.mysam.sg](https://www.mysam.sg/)
 *   Select ‘Education’, followed by ‘Ministry of Education’
 *   Select ‘MOE-Student Bill’ Follow the on-screen instructions
 
+| Payment Mode | Details | 
+| -------- | -------- | 
+|SGQR Code  | Scan the QR code on the bill and pay using any of the listed mobile applications  
 
+*   Launch your preferred payment app from those shown in the bill -
+*   Scan the SGQR 
+*   Check that you are paying to ‘Ministry of Education’ -                   
+*   Follow the on-screen instructions
+
+Please note: The SGQ code is unique to each bill. Always use the SGQR code on the latest bill so that your payment will be updated promptly.
+
+| Payment Mode | Details | 
+| -------- | -------- | 
+|Cash / Cheque / Cashier’s Order  | *   Please make payment at the School General Office (11.00am – 2.30pm). 
+*   Bring along the MOE bill and the exact amount for quick processing. 
+*   Cheque or Cashier’s Order should be made payable to ‘Ministry of Education’. 
+*   Students are to make sure that they obtain a receipt for payment of fees by cash/cheque/cashier’s order.
+
+For enquiries on the payment of School Fees (MOE Bill) and School Bill, please contact Ms Jane Loh or Ms Sumitra Shasi Kumar at telephone number 6466 4525.
+
+Registration for PayNow
+-----------------------
+
+With the increasing digitalisation of government services, MOE would like to encourage all parents to register their children’s bank account with PayNow using the children’s BC/NRIC number. The activation of PayNow will facilitate the prompt disbursement of monies (e.g. Edusave award) for the child, and avoid delays through the filling in and processing of forms or from physical visits to banks for the deposit of cheques.
+
+Insurance Coverage for Students
+-------------------------------
+
+Each student is covered with a Group Personal Accident (GPA) Insurance which provides coverage when she is:
+
+  
+
+(a) in school;
+
+  
+
+b) participating in the school’s activities, or any activity related to the school, including home-based learning and blended learning, Co-curricular Activities (CCAs) and sports, regardless of the time at which such activities are conducted and whether the activity is conducted in the school, in Singapore, or elsewhere;
+
+  
+
+c) commuting from (or to) her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore.
+
+  
+
+All claims should be submitted as soon as possible subjected to a cap of 365 days from the date
+
+of accident.
+
+  
+
+Submission of claims can be done online via [Income’s GPA portal](https://studentgpa.incomegroupins.com.sg/#/)
