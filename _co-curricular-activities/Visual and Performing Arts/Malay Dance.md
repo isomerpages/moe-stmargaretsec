@@ -19,11 +19,7 @@ CCA Schedule
 Teachers In-Charge
 ------------------
 
-Ms Jacquelyn Chan (IC)
-<br>
-Ms Nursahidah (co-IC)
-<br>
-Ms Nora Aziz&nbsp;
+Ms Nora Aziz
 
 Achievements
 ------------
@@ -38,7 +34,7 @@ Achievements
 
 <img src="/images/malaydance1.jpg" style="width:80%">
 
-<p align="center">"All decked out for a dance performance</p>
+<p align="center">All decked out for a dance performance</p>
 
 Photo Albums
 ------------
