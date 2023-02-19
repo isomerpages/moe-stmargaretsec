@@ -2,6 +2,7 @@ collections:
   180th-anniversary-celebrations:
     output: true
     order:
+      - Online Virtual Concert.md
       - ‘Let Our Light Shine!’ 180th Anniversary Wall Mural.md
       - LETITSHINE180.md
       - 180th Anniversary Celebrations.md
