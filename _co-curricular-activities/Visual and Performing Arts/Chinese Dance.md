@@ -10,7 +10,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- | 
 | Training Day(s) | Tuesday | Thursday |  
-| Training Time | 2.45pm-5.45pm | 2.45pm-5.45pm |   
+| Training Time | 2.45pm-5.30pm | 2.45pm-5.30pm |   
 | Training Venue(s) | Dance Studio<br>ICT Lab 4 | Hall  | 
 | | | |
 
@@ -18,10 +18,7 @@ Teachers In-Charge
 ------------------
 
 Mrs Wendy Lai (IC) 
-<br>
-Ms Carol Soh
-<br>
-Ms Koh Pooi Sze
+
 
 Achievements
 ------------
