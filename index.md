@@ -7,8 +7,5 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Test.jpg
-  - resources:
-      title: "Annoucements "
-      button: Test
+      background: /images/Homepage.jpg
 ---
