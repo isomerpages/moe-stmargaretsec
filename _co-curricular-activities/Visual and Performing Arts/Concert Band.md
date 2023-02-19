@@ -10,7 +10,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- |
 | Training Day(s) | Tuesday | Friday |
-| Training Time | 2.45pm-5.30pm | 2.30pm-5.30pm |
+| Training Time | 2.45pm-5.45pm | 2.30pm-5.45pm |
 | Training Venue(s) | Band Room <br> Sec 1 Classrooms | Band Room <br> Music Room  <br> Sec 1 Classrooms |   
 | | | |
 
@@ -18,12 +18,7 @@ Teachers In-Charge
 ------------------
 
 Ms Florence Chang (IC)
-<br>
-Mrs Gemma Poon
-<br>
-Mr Teo Siew Leong
-<br>
-Ms Karen Thia 
+
 
 Achievements
 ------------
