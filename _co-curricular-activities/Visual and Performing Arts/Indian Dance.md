@@ -18,10 +18,7 @@ Teachers In-Charge
 ------------------
 
 Mdm Anbarasi (IC)
-<br>
-Mrs Subramaniam Kalaymai (co-IC)
-<br>
-Ms Norhayati
+
 
 Achievements
 ------------
