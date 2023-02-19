@@ -2,10 +2,10 @@ collections:
   admission:
     output: true
     order:
-      - Scholarships and Awards/St Margarets School (Secondary) Awards.md
-      - Scholarships and Awards/Edusave Awards.md
-      - Scholarships and Awards/Scholarships and Awards.md
       - Scholarships and Awards/.keep
+      - Scholarships and Awards/Scholarships and Awards.md
+      - Scholarships and Awards/Edusave Awards.md
+      - Scholarships and Awards/St Margarets School (Secondary) Awards.md
       - Financial Matters/Financial Assistance Scheme.md
       - Financial Matters/Financial Matters.md
       - Financial Matters/.keep
