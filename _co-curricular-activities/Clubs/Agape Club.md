@@ -10,15 +10,14 @@ CCA Schedule
 | | |
 | --- | --- |
 | Training Day(s) | Thursday |
-| Training Time | 2.30pm-5.30pm |   
+| Training Time | 3.30pm-5.30pm |   
 | Training Venue | St. John's Chapel |   
 | | |
 
 Teachers In-Charge
 ------------------
 
-Ms Priscilla Lim (IC)
-<br>
+
 Mrs Lucy Seet
 
   
