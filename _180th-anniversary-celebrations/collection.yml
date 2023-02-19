@@ -2,5 +2,6 @@ collections:
   180th-anniversary-celebrations:
     output: true
     order:
+      - ‘Let Our Light Shine!’ 180th Anniversary Wall Mural.md
       - LETITSHINE180.md
       - 180th Anniversary Celebrations.md
