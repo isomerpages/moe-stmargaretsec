@@ -7,19 +7,17 @@ third_nav_title: Visual and Performing Arts
 CCA Schedule
 ------------
 
-| | |
-| --- | --- |
-| Training Day(s) | Friday | 
-| Training Time | 2.30pm-5.30pm |   
-| Training Venue | Art Studio <br> IT Conference Room Learning Lab |   
+| | | |
+| --- | --- |--- |
+| Training Day(s) | Monday | Friday |
+| Training Time | 3.30pm-5.00pm |   3.30pm-5.00pm
+| Training Venue | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
 | | |
 
 Teachers In-Charge
 ------------------
 
-Mr Christopher Tan (IC)
-<br>
-Ms Karen Tan
+Mrs Tan Chai Yong
 
 Achievements
 ------------
