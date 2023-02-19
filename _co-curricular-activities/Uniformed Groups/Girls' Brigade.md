@@ -46,10 +46,3 @@ Achievements
 <p align="center">Engaging one another in conversation</p>
 
   
-
-Photo Albums
-------------
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcFFwS9fEVjjIqnYZXaxrVcSIBYZbtIztA20E1vbbVbPYf2NSUEBUOCkoUDJ31aEStxnEoyhrG9B1t/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
-
-<p align="center"><b>CCA Activities</b></p>
