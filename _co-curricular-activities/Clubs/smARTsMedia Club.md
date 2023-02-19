@@ -18,16 +18,7 @@ Teachers In-Charge
 ------------------
 
 Ms Katherine Li (IC)
-<br>
-Mdm Suryati&nbsp;
-<br>
-Ms Irnawaty
-<br>
-Ms Joyce Woon
-<br>
-Ms Sharon Ow (Lib Rep)
-<br>
-Mdm Nazlin (Lib Rep)
+
 
 <img style="width:70%" src="/images/Smartsmedia1-iloveimg-converted.jpg">
   
