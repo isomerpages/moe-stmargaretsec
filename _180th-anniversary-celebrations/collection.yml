@@ -1,4 +1,5 @@
 collections:
   180th-anniversary-celebrations:
     output: true
-    order: []
+    order:
+      - 180th Anniversary Celebrations.md
