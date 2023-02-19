@@ -9,7 +9,7 @@ CCA Schedule
 
 | Training Day(s) | Tuesday | Thursday |   
 | --- | --- | --- | 
-| Training Time | 3.30pm-5.45pm | 3.30pm-5.45pm |   
+| Training Time | 3.00pm-5.45pm | 3.00pm-5.45pm |   
 | Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 
@@ -17,10 +17,7 @@ Teachers In-Charge
 ------------------
 
 Mrs Vimi Rethinam (IC)
-<br>
-Ms Siti Noryani
-<br>
-Ms Tan Hui Cheng Cindy
+
 
 Achievements
 ------------
