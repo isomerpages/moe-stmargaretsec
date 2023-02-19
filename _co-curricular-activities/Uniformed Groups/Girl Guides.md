@@ -10,7 +10,7 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Day(s) | Friday | 
-| Training Time | 3.00pm-6.00pm | 
+| Training Time | 3.00pm-5:45pm | 
 | Training Venue(s) | Parade Square  <br> ISH Level 1 Classrooms |   
 | | |
 
@@ -20,12 +20,7 @@ Teachers In-Charge
 ------------------
 
 Ms Tan Yan Tong (IC)
-<Br>
-Mrs Esther Lau (co-IC)
-<br>
-Ms Anitha Sekar
-<br>
-Ms Keira Htay  
+
   
 
 Achievements
@@ -51,10 +46,3 @@ Achievements
 | | | |
 
 <img style="width:80%" src="/images/girl_guides1.jpg"/>
-
-Photo Album
------------
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTty7IvteyHKkaagO8vfvuSe_rhPLZ2VwXEnfZEIYLxT5d2a_kuyptYJipYFJbdLxjpTxjPUxsuz1_O/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true"></iframe>
-
-<p align="center"><b>CCA Activities</b></p>
