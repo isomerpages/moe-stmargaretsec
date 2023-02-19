@@ -7,22 +7,18 @@ third_nav_title: Visual and Performing Arts
 CCA Schedule
 ------------
 
-| Training Day(s) | Tuesday\* | Tuesday\* | Friday |   
-| --- | --- | --- | --- | 
-| Training Time | 3.00pm-5.30pm | 4.30pm-6.30pm | 2.30pm-5.30pm |   
-| Training Venue(s) | ISH Level 2 Classroom | Online (eCCA) | Theatrette <br> ICT Labs 4&5 |
+| Training Day(s) | Tuesday |  Friday |   
+| --- | --- | --- | 
+| Training Time | 3.00pm-5.30pm | 2:45pm-5:45pm |   
+| Training Venue(s) | ISH Level 2 Classroom | Theatrette <br> ICT Labs 4&5 |
 | | | | |
 
-\* To be advised by teacher-in-charge  
+
 
 Teachers In-Charge
 ------------------
 
-Ms Cecilia Ng (IC)
-<br>
-Ms Magdalene Tan
-<br>
-Mrs Jean Tan
+Mrs Juliana Chua
 
 Achievements
 ------------
