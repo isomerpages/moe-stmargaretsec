@@ -4,9 +4,6 @@ permalink: /admission/Financial-Matters/Financial-Matters/
 description: ""
 third_nav_title: Financial Matters
 ---
-
-
-
 School Fees For Academic Year 2023
 ----------------------------------
 
