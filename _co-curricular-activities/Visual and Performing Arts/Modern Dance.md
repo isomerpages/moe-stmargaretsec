@@ -10,7 +10,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- |
 | Training Day(s) | Monday | Friday |  
-| Training Time | 2.30pm-5.30pm | 2.300pm-5.30pm | 
+| Training Time | 2.45pm-5.45pm | 2.45pm-5.45pm | 
 | Training Venue(s) | Dance Studio<br>MPR 4 | Hall |   
 | | | |
 
@@ -18,17 +18,14 @@ Teachers In-Charge
 ------------------
 
 Ms Grace Wee (IC)
-<br>
-Ms Wang Li
-<br>
-Ms Joey Poh
+
 
 Achievements
 ------------
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021&nbsp; | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
+| 2021 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2015 | Singapore Youth Festival Central Judging | Certificate of Distinction |
