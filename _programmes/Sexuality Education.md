@@ -25,7 +25,7 @@ You may click [here] for more information on MOE Sexuality Education. 
 
 <p align="right"><a href="#top">Back to top</a></p>
 
-Overview of St. Margaret's Secondary School's Sexuality Education Programme for 2022
+Overview of St. Margaret's Secondary School's Sexuality Education Programme for 2023
 ------------------------------------------------------------------------------------
 
 *   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here] for more information on the scope of Sexuality Education in the school curriculum.
@@ -47,7 +47,7 @@ Sexuality Education Lessons:
 
   
 
-At St. Margaret’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:
+At St. Margaret’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Secondary 1
@@ -55,28 +55,36 @@ At St. Margaret’s Secondary School, the following lessons from the Sexuality E
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-    <th>TIME PERIOD<br> </th>
+    <th>Unit</th>
+		<th>Lessons / Objectives</th><th>Lesson Overview</th>
+    <th>Lesson Objectives<br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br> </th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety </td>
-    <td><br>1 / (60 mins)<br></td>
-    <td>* Recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles<br>* Recognise that there are different forms of love (e.g. familial, platonic, romantic love)<br>* Recognise the importance and understand what builds healthy and supportive relationships, both online and offline<br>* Understand what dating is, and recognise that the readiness and interest in dating vary among individuals</td>
+    <td>Steady or Not<br><br>1 / (60 mins)</br></td>
+    <td>This lesson helps students understand more about relationship building and the different types of love (e.g. familial, platonic, romantic). They will have the opportunity to better understand the considerations involved in making responsible decisions towards dating and romantic relationships and understand how to build healthy and supportive relationships, both online and offline<td>*   recognise the importance of monitoring and managing our emotional reactions, in helpful ways that are reflective of our values and principles
+*   recognize that there are different forms of love (e.g. familial, platonic, romantic love)<br>*   recognize the importance and understand what builds healthy and supportive relationships, both online and offline<br>*   understand what dating is, and recognise that the readiness and interest in dating vary among individualss</td>
+    <td>Term 3 Week 7</td>
+  </tr>
+  <tr>
+    <td>Being Aware, Being Safe<br><br>2 / (60 mins)<br></td>
+    <td>This lesson focuses on helping students to be safe from the dangers of sexual grooming and on respecting one’s right to safety. Students will also learn about the legal provisions against sexual abuse, and the impact of sexual abuse on victims, including the psychological impact on the sense of self. 
+
+* This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<td>*   Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
     <td>Term 3 Week 8</td>
   </tr>
   <tr>
-    <td><br>2 / (60 mins)<br></td>
-    <td>* Understand that physical and psychological abuse from others, especially those we know and trust, can have strong negative effects on a person’s self-concept</td>
+    <td><br>More than Meets the Eye<br><br>3 / (60 mins)<br></td>
+    <td>This lesson touches on two areas relevant to an adolescent’s curiosity on matters related to sexuality – masturbation and pornography. Students will gain awareness of the health, legal and moral issues related to viewing, downloading and/or distributing pornography. While students may perceive watching pornography as a private issue without consequences to bear, they will learn that it could lead to addiction and/or other risky sexual behaviours.
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.<td>
+*   understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and
+*   recognise the importance of exercising moral courage in facing up to consequences
+*   recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
     <td>Term 3 Week 8</td>
-  </tr>
-  <tr>
-    <td><br>3 / (60 mins)<br></td>
-    <td>* Understand and accept that as we work towards becoming our best self, there will be times when we make mistakes, and recognise the importance of exercising moral courage in facing up to consequences<br>* Recognise that there are moral and legal consequences of risky sexual behaviours, pornography access and acting irresponsibly or maliciously when online (e.g. spreading of online falsehoods, flouting copyright laws, etc.)</td>
-    <td>Term 3 Week 9</td>
   </tr>
 </tbody>
 </table>
@@ -86,27 +94,38 @@ At St. Margaret’s Secondary School, the following lessons from the Sexuality E
 <table>
 <thead>
   <tr>
-    <th>UNIT</th>
-    <th>LESSONS / DURATION</th>
-    <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
-    <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
+    <th>Unit</th>
+    <th>Lesson Title  / Duration</th><th>Lesson Overview</th>
+    <th>Lessons Objective<br>At the end of the lesson, students will be able to:</th>
+    <th>Time Period<br>(e.g. Term 1 Week 2)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="3">Respectful Relationships & Safety</td>
-    <td>1/ (60 mins)<br> </td>
-    <td>* Know that one’s understanding of gender roles should not be limited by gender stereotypes<br>* Develop an appreciation of one’s own unique qualities and characteristics as a male or female<br>* Understand what sexual orientation entails</td>
-    <td>Term 3 Week 8</td>
+		<td> A Role for Everyone</br><br>1/ (60 mins)<br> </td><td>This lesson focus on how the family, culture and society can influence one’s perception of their gender roles. Students will learn what gender stereotypes are (e.g. males traditionally as breadwinners and females traditionally as doing household chores) and how gender stereotypes are formed.  Students will discuss how one’s understanding of gender roles should not be limited by gender stereotypes, for example women can be pilots, while men can be nurses.
+
+Students learn to focus on their personal strengths to pursue their interests and build their self- confidence.
+
+Students will also learn about the definitions of biological sex, gender identity, gender expression and sexual orientation. They will learn to treat everyone with respect and empathy. 
+    <td>*   know that one’s understanding of gender roles should not be limited by gender stereotypes
+*   develop an appreciation of one’s own unique qualities and characteristics as a male or female
+*   understand what sexual orientation entails
+    <td>Term 3 Week 7</td>
   </tr>
   <tr>
-    <td>2A/ (60 mins)</td>
+    <td>Online Safety Challenge<br><br>2A/ (60 mins)</td>
+	<td>This lesson focuses on the issue of online grooming and cyber-flashing. It emphasises the need for help-seeking, peer support and positive peer influence. The lesson encourages the safe and responsible use of social media, and aims to deepen students’ conviction, and extend a call to action to students to taking appropriate decisions to safeguard their well-being and safety.
+
+This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
     <td>* Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both online and offline</td>
     <td>Term 3 Week 8</td>
   </tr>
   <tr>
-    <td>2B/ (60 mins)</td>
-    <td>* Recognise the importance of self-respect and respect for others in relating to members of the opposite gender<br>* Recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
+    <td>Do I or Don’t I<br><br>2B/ (60 mins)</td>
+	<td>This lesson focuses on respect for personal boundaries; and how to be safe from risky sexual behaviour, teenage pregnancy and abortion. Students will learn the importance of respecting one another’s boundaries in relationships. This lesson emphasises the importance of responsible decision-making, the value of sexual abstinence, the need for help seeking. Students will be aware of Singapore laws protecting minors, such as the legal consequences of having sex with a minor, abortion and the abandonment of babies.
+    <td>*   recognise the importance of self-respect and respect for others in relating to members of the opposite gender
+*   recognise one’s vulnerability to risky situations and the importance of exercising discretion to reduce risks and avoid negative consequences, both offline and online</td>
     <td>Term 3 Week 9</td>
   </tr>
 </tbody>
@@ -117,7 +136,7 @@ At St. Margaret’s Secondary School, the following lessons from the Sexuality E
 <table>
 <thead>
   <tr>
-    <th><br>UNIT</th>
+    <th><br>Unit</th>
     <th>LESSONS / DURATION</th>
     <th>LESSON OBJECTIVES<br>At the end of the lesson, students will be able to:</th>
     <th>TIME PERIOD<br>(e.g. Term 1 Week 2)</th>
@@ -206,11 +225,13 @@ At St. Margaret’s Secondary School, the following lessons from the Sexuality E
 eTeens Programme
 ----------------
 
-*   eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+*   eTeens is a programme developed by Health Promotion Board, in collaboration with the Minis*   eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
 
-*   Students are taught skills such as decision-making, assertiveness and negotiation to say 'no' to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.
+  
 
-**At St. Margaret’s Secondary School, the eTeens programme will be implemented as follows in 2022:**
+*   Students are taught skills such as decision-making, assertiveness and negotiation to say 'no' to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.try of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+**At St. Margaret’s Secondary School, the eTeens programme will be implemented as follows in 2023:**
 
 | Topics / Lessons | Programme Learning Objectives | Time Period |
 |---|---|---|
@@ -219,15 +240,22 @@ eTeens Programme
 
 Information For Parents
 -----------------------
-
 *   Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-*   **Parents of Secondary One to Five students** who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward towards the end of Term 1. The form is also downloadable [here](/files/website%20sed%20opt%20out%20Annex%20A2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **08/03/2022.**  
+  
+
+*   **Parents of Secondary One to Five students** who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward by the end of Term 1 Week 4. The form is also downloadable [here](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/website%20SEd%20opt%20out%20form%202023%20Annex%20A2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **15****/02**/2023.  
     
-*   **Parents of Secondary Three students** who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward towards the end of Term 1. This form is also downloadable [here](/files/website%20eteens%20opt%20out%20form%20Annex%20B2.pdf).  A hardcopy of the form, duly completed and signed, is to be submitted to the school office by  **08/03/2022**  .
+
+  
+
+*   **Parents of Secondary Three students** who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward by the end of Term 1 Week 4. This form is also downloadable [here](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/website%20eTeens%20opt%20out%20form%202023%20Annex%20B2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **15****/02**/2023.
+
+  
 
 *   Parents can contact the school at [lee\_kar\_hiang@moe.edu.sg](mailto:lee_kar_hiang@moe.edu.sg) or 6466 4525 to speak to Mrs Foo Kar Hiang (HOD/CCE) for discussion or to seek clarification about the school’s sexuality education programme.
 
-*   Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
+  
 
+*   Parents who wish to attend the school sexuality education programmes should contact the school to make the necessary arrangements.
   [Back to top](#top)
