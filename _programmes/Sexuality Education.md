@@ -49,6 +49,7 @@ Sexuality Education Lessons:
 
 At St. Margaret’s School (Secondary), the following lessons from the Sexuality Education Programme will be taught in 2023:
 ------------------------------------------------------------------------------------------------------------------------
+![](/images/SED.jpg)
 
 # Secondary 1
 
