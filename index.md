@@ -7,6 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage.jpg
+      background: /images/UG MAIN.jpg
+      title: Charity . Patience . Devotion
 ---
-
