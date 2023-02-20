@@ -34,16 +34,16 @@ description: ""
 
 ## School-related
 
-[St. Margaret's Secondary School Digital Signage System Request Form](https://go.gov.sg/smssdigitalsignagerequestform) <br>
-[St. Margaret's Secondary School EduPage](https://stmargssec.edupage.org/) <br>
-[St. Margaret's Secondary School Padlet](https://stmargaretssecondary1.padlet.org/) <br>
-[St. Margaret's Secondary School Professional Development Site](http://go.gov.sg/smsspdsite) <br>
+[St. Margaret's School (Secondary) Digital Signage System Request Form](https://go.gov.sg/smssdigitalsignagerequestform) <br>
+[St. Margaret's School (Secondary) EduPage](https://stmargssec.edupage.org/) <br>
+[St. Margaret's School (Secondary) Padlet](https://stmargaretssecondary1.padlet.org/) <br>
+[St. Margaret's School (Secondary) Professional Development Site](http://go.gov.sg/smsspdsite) <br>
 [](https://sites.google.com/moe.edu.sg/smsspdsite/home) <br>
-[St. Margaret's Secondary School Secondary 2 Subject Combination Microsite](https://sites.google.com/stmargs.edu.sg/sec-2-combination-exercise/home?authuser=0) <br>
-[St. Margaret's Secondary School Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home?authuser=0) <br>
-[St. Margaret's Secondary School Facebook Page](https://www.facebook.com/stmargssecsg/) <br>
-[St. Margaret's Secondary School Instagram](https://www.instagram.com/stmargssecsg/) <br>
-[St. Margaret's Secondary School YouTube](https://www.youtube.com/user/stmargssecsg) 
+[St. Margaret's School (Secondary) Secondary 2 Subject Combination Microsite](https://sites.google.com/stmargs.edu.sg/sec-2-combination-exercise/home?authuser=0) <br>
+[St. Margaret's School (Secondary) Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home?authuser=0) <br>
+[St. Margaret's School (Secondary) Facebook Page](https://www.facebook.com/stmargssecsg/) <br>
+[St. Margaret's School (Secondary) Instagram](https://www.instagram.com/stmargssecsg/) <br>
+[St. Margaret's School (Secondary) YouTube](https://www.youtube.com/user/stmargssecsg) 
 
 ## ICT Tools for Teaching and Learning
 
