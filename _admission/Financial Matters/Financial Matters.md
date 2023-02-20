@@ -9,7 +9,7 @@ School Fees For Academic Year 2023
 
 
 
-| Nationality | School Fees(S$) | Miscellaneous (S$) |Autonomous School Fee (S$)| Total Payable (S$)|
+| Nationality | School Fees(S$) | Miscellaneous (S$) | Autonomous School Fee (S$)| Total Payable (S$)|
 | -------- | -------- | -------- |  -------- |  -------- |
 | Singapore Citizen     | 5     | 20     | 3 | 28
 | Singapore (PR) | 500 | 20 | 3 | 523
@@ -28,9 +28,11 @@ Please approach the school General Office to speak with Ms Jane Loh for the Edus
 Details on the Payment Modes of School Fees 
 --------------------------------------------
 
-| Payment Mode | Details | 
+
+| Payment Mode | |
 | -------- | -------- | 
-| Interbank Giro     | Account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO:  <br>
+|<b> Interbank Giro</b> <br> <br>Details :  Account holders from the following banks can sign up for the GIRO scheme with MOE through eGIRO:  
+
 *   Bank of China (BOC) 
 *   DBS Bank or POSB 
 *   Maybank -                      
@@ -44,10 +46,12 @@ Other bank account holders will need to complete a GIRO application form and sub
 <br> Deductions will be made on the 26th of each month (February – December). If the 26th is a weekend or public holiday, the deduction will happen on the next working day. There is no deduction in January as the fees for January and February are combined into one bill for deduction in February. Please ensure that there are sufficient funds in the bank account for deduction.  
 
 
-| Payment Mode | Details | 
+
+| Payment Mode |  | 
 | -------- | -------- | 
-|  **SingPost SAM Wed, Kiosk or Mobile App**     | SingPost SAM Web  
-  
+| SingPost SAM Wed, Kiosk or Mobile App<br> <br> Details:    | 
+
+<b>SingPost SAM Web</b><br>
 Website: [https://www.mysam.sg](https://www.mysam.sg/)  
   
 
@@ -70,10 +74,11 @@ Website: [https://www.mysam.sg](https://www.mysam.sg/)
 *   Select ‘Education’, followed by ‘Ministry of Education’
 *   Select ‘MOE-Student Bill’ Follow the on-screen instructions
 
-| Payment Mode | Details | 
+| Payment Mode |  | 
 | -------- | -------- | 
-|SGQR Code  | Scan the QR code on the bill and pay using any of the listed mobile applications  
+|<b>SGQR Code</b> <br><br>Details: | 
 
+Scan the QR code on the bill and pay using any of the listed mobile applications  
 *   Launch your preferred payment app from those shown in the bill -
 *   Scan the SGQR 
 *   Check that you are paying to ‘Ministry of Education’ -                   
@@ -81,9 +86,11 @@ Website: [https://www.mysam.sg](https://www.mysam.sg/)
 
 Please note: The SGQ code is unique to each bill. Always use the SGQR code on the latest bill so that your payment will be updated promptly.
 
-| Payment Mode | Details | 
+| Payment Mode |  | 
 | -------- | -------- | 
-|Cash / Cheque / Cashier’s Order  | *   Please make payment at the School General Office (11.00am – 2.30pm). 
+|<b>Cash / Cheque / Cashier’s Order</b> <br><br>Details: <br><br>*   Please make payment at the School General Office (11.00am – 2.30pm).| 
+
+
 *   Bring along the MOE bill and the exact amount for quick processing. 
 *   Cheque or Cashier’s Order should be made payable to ‘Ministry of Education’. 
 *   Students are to make sure that they obtain a receipt for payment of fees by cash/cheque/cashier’s order.
