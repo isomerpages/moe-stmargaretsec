@@ -21,14 +21,14 @@ MOE Sexuality Education in Schools
 	*   Make responsible decisions for yourself, your family and society and
 	*   Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones
 
-You may click [[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)] for more information on MOE Sexuality Education.   
+You may click [[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)] for more information on MOE Sexuality Education.   
 
 <p align="right"><a href="#top">Back to top</a></p>
 
 Overview of St. Margaret's School (Secondary) Sexuality Education Programme for 2023
 ------------------------------------------------------------------------------------
 
-*   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here] for more information on the scope of Sexuality Education in the school curriculum.
+*   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [[here](https://go.gov.sg/moe-sexuality-education-scope)] for more information on the scope of Sexuality Education in the school curriculum.
     
       
     
