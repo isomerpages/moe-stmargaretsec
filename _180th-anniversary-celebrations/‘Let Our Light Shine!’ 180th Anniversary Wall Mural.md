@@ -7,7 +7,7 @@ description: ""
 ===================================================
 ![Mural 02.png](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/180th%20Annversary/Mural%2002.png)
 
-This 180th Anniversary commemorative mural was painted in 2022 by students and teachers from the Gear Up programme. The elements of the mural were designed based on the theme: ‘Let Our Light Shine!’.  
+This 180th Anniversary commemorative mural was painted in 2022 by students and teachers from the Gear Up programme. The elements of the mural were designed based on the theme: ‘Let our Light Shine!’.  
 
   
 
