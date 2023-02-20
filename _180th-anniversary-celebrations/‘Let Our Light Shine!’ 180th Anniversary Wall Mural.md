@@ -3,8 +3,7 @@ title: ‘Let Our Light Shine!’ 180th Anniversary Wall Mural
 permalink: /180th-anniversary-celebrations/Let-Our-Light-Shine-180th-Anniversary-Wall-Mural/
 description: ""
 ---
-
-‘Let Our Light Shine!’ 180th Anniversary Wall Mural
+‘Let our Light Shine!’ 180th Anniversary Wall Mural
 ===================================================
 ![Mural 02.png](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/180th%20Annversary/Mural%2002.png)
 
