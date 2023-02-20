@@ -25,7 +25,7 @@ third_nav_title: Organisation Chart
 
 | Head of Department | Head of Department | Head of Department |
 | :---: | :---: | :---: |
-| **[Mother Tongue](/about-us/organisation-chart/mother-tongue)** | **[Humanities](/about-us/organisation-chart/humanities)** | **[Aesthetics, Craft andTechnology](/about-us/organisation-chart/aesthetics-craft-and-technology)** |
+| **[Mother Tongue](/about-us/organisation-chart/mother-tongue)** | **[Humanities](/about-us/organisation-chart/humanities)** | **[Aesthetics, Craft and Technology](/about-us/organisation-chart/aesthetics-craft-and-technology)** |
 | **Mrs Chong-Yeo Chiu Peng**  | **Ms Delia Foo**  | **Mrs Tham Chuan Chuan**  |
 
 <br>
