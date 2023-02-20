@@ -28,6 +28,3 @@ PSG Activities and Resources for Parents
 | **Parenting Talks/ Triple P** |  |  |
 | -------- | -------- | -------- |
 | Mdm Premela Prabakaran <br>     | [premela\_prabakaran@moe.edu.sg](mailto:premela_prabakaran@moe.edu.sg)
-
-
-
