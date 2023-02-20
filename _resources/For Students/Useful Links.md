@@ -6,11 +6,11 @@ third_nav_title: For Students
 ---
 | Website | Description |
 | --- | --- |
-| [SMSS Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home)   | St. Margaret's Secondary School Student learning Site  |
-| [SMSS OPAC](https://schoolibrary.moe.edu.sg/stmargaretssec)   | St. Margaret's Secondary School Online Public Access Catologue for library books  |
-| [SMSS CareLink.](https://go.gov.sg/SMSSCareLink.)   | St. Margaret's Secondary School Care Link - Book an appointment to see Ms Cynthia Kong, our school counsellor.  |
-|[SMSS ECG Counsellor](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/)| St. Margaret's Secondary School ECG Counsellor - Students/ parents may email our school ECG counsellor, Ms Ang Hui Min, to book a session for consultation.  <br> Email: [ang\_hui\_min@schools.gov.sg](mailto:ang_hui_min@schools.gov.sg)  <br> E-Appointment system: [https://go.gov.sg/smssecg](https://go.gov.sg/smssecg)
-| [SMSS ICT Service Hub](https://form.gov.sg/6241170c01266700127a5b8e)| St. Margaret's Secondary School ICT Service Hub for password reset and ICT-related matters.
+| [SMS(S) Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home)   | St. Margaret's School (Secondary) Student learning Site  |
+| [SMS(S) OPAC](https://schoolibrary.moe.edu.sg/stmargaretssec)   | St. Margaret's School (Secondary) Online Public Access Catologue for library books  |
+| [SMS(S) CareLink.](https://go.gov.sg/SMSSCareLink.)   | St. Margaret's School (Secondary) Care Link - Book an appointment to see Ms Cynthia Kong, our school counsellor.  |
+|[SMS(S) ECG Counsellor](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/)| St. Margaret's School (Secondary) ECG Counsellor - Students/ parents may email our school ECG counsellor, Ms Ang Hui Min, to book a session for consultation.  <br> Email: [ang\_hui\_min@schools.gov.sg](mailto:ang_hui_min@schools.gov.sg)  <br> E-Appointment system: [https://go.gov.sg/smssecg](https://go.gov.sg/smssecg)
+| [SMS(S) ICT Service Hub](https://form.gov.sg/6241170c01266700127a5b8e)| St. Margaret'sSchool (Secondary) ICT Service Hub for password reset and ICT-related matters.
 | [MOE - Student Learning Space](https://vle.learning.moe.edu.sg/login)  | The MOE learning portal for your online learning.  |
 | [MOE - Student iCON](https://workspace.google.com/dashboard) | Access to Google Dashboard using your student iCON. |
 | [MOE - Education and Career Guidance Centre](mailto:MOE_ECG@moe.gov.sg) | You may want to get in touch with the MOE - ECG Centre for your ECG queries.  |
@@ -21,7 +21,7 @@ third_nav_title: For Students
 
 | Website | Description |
 | --- | --- |
-| [SAJC](https://standrewsjc.moe.edu.sg/) | St. Andrew's Junior College (affiliated to SMSS) |
+| [SAJC](https://standrewsjc.moe.edu.sg/) | St. Andrew's Junior College (affiliated to SMS(S) |
 | [School Finder - MOE](https://beta.moe.gov.sg/schoolfinder/?journey=Post%20secondary-JC%20school)  | Explore a list of school type, distance and location and what programmes they offer |
 | [Post Secondary Options](https://www.moe.gov.sg/post-secondary)   | Information on Post-secondary Education   |
 | [MENDAKI](https://www.mendaki.org.sg/) <br> [CDAC](https://www.cdac.org.sg/en/)<br>[SINDA](https://www.sinda.org.sg/)<br>[EA](https://www.eurasians.sg/) | The Self-Help Groups Centre (SHGs Centre) is a collaboration of the four Self-Help Groups: the Chinese Development Assistance Council (CDAC), Eurasian Association (EA), Singapore Indian Development Association (SINDA) and Yayasan MENDAKI (MENDAKI). You may wish to explore tuition support or other assistance from the respective groups. |
