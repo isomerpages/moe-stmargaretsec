@@ -53,8 +53,8 @@ third_nav_title: Organisation Chart
 
 | Subject Head | Subject Head |
 | :---: | :---: |
-| Biology | History |
-| **Mrs Jean Tan** | **Mrs Filzah Tay** |
+| Chemistry | History |
+| **Mrs Lim Wan Lim** | **Mrs Filzah Tay** |
 
 <br>
 
@@ -67,14 +67,14 @@ third_nav_title: Organisation Chart
 
 | Subject Head | Subject Head |
 | :---: | :---: |
-| Education and Career Guidance and Partnership |CCE |
+| CCE - Education and Career Guidance and Partnership |CCE- VIA and Salt & Light Programme |
 | **Mrs Jean Tan** | **Mdm Kwang Wan Yi** |
 
 <br>
 
 | Subject Head | Subject Head |
 | :---: | :--: |
-| Student Well-Being |  Information and Communications Technology |
+| Student Well-Being |  Information and Communications Technology (Internal) |
 | **Ms Karen Tan** | **Mrs Teo Sook Lee** |
 
 <br>
@@ -102,7 +102,7 @@ third_nav_title: Organisation Chart
 
 | Senior Teacher | Senior Teacher | Senior Teacher | Senior Teacher
 | :---: | :---: | :---: |  :---: |
-| Chinese Language | Character and Citizenship Education | Nutrition and Food Science | Biology
+| Chinese Language | Character and Citizenship Education | Nutrition and Food Science | Biology (Internal)
 | **Mdm Liu Xin** | **Ms Joey Poh** | **Mrs Lee-Ang Siew Chin** | **Ms Katherine Li**
 
 <br>
