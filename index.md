@@ -8,5 +8,4 @@ notification: ""
 sections:
   - hero:
       background: /images/UG MAIN.jpg
-      title: Charity . Patience . Devotion
 ---
