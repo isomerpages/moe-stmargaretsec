@@ -11,8 +11,7 @@ third_nav_title: Organisation Chart
 | Mrs | Teo Sook Lee | SH Information and Communications Technology (Internal)
 | Ms | Thor Ya Lin | ICT Manager  |
 | Mr  | Eric Phang Boon How | Desktop Engineer |
-| Mr  | Ng Tze Chean | Desktop Engineer |
-| Mr   | Muhammad Syukri Bin Suhaimi   | Adjunct ICT Associate   |
+| Mr   | Muhammad Syukri Bin Suhaimi   |  ICT Associate   |
 | Mdm  | Rajeswari Krishnasamy  | Librarian |
 
 | | |
