@@ -1,0 +1,26 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our Mission, Vision and Values.md
+      - Our Crest and Motto.md
+      - School Song and Hymn.md
+      - Our History.md
+      - Illustrious Members of Our St Margaret's Family.md
+      - St Margaret's School (Secondary) in the News.md
+      - St Margaret's School (Secondary) Videos.md
+      - School Management Committee.md
+      - Organisation Chart/Organisation Chart.md
+      - Organisation Chart/English Language, Literature and Drama.md
+      - Organisation Chart/Science.md
+      - Organisation Chart/Mathematics.md
+      - Organisation Chart/Mother Tongue.md
+      - Organisation Chart/Humanities.md
+      - Organisation Chart/Aesthetics, Craft and Technology.md
+      - Organisation Chart/Physical Education and Co Curricular Activities.md
+      - Organisation Chart/Information and Communications Technology.md
+      - Organisation Chart/Character and Citizenship Education.md
+      - Organisation Chart/School Administration Team.md
+      - Organisation Chart/.keep
+      - Contact Us.md

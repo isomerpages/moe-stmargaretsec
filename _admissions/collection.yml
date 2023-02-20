@@ -1,0 +1,22 @@
+collections:
+  admissions:
+    output: true
+    order:
+      - 2022 Direct School Admission/.keep
+      - 2022 Direct School Admission/2022 Direct School Admission Exercise (DSA
+        Sec).md
+      - 2022 Direct School Admission/Admission Criteria for DSA Exercise
+        (Aesthetics).md
+      - 2022 Direct School Admission/Admission Criteria for DSA Exercise
+        (Sports).md
+      - 2022 Direct School Admission/Frequently Asked Questions about the Direct
+        School Admission Exercise.md
+      - Financial Matters/.keep
+      - Financial Matters/Financial Matters.md
+      - Financial Matters/Financial Assistance Scheme.md
+      - PSLE Scoring.md
+      - Scholarships and Awards/.keep
+      - Scholarships and Awards/Scholarships and Awards.md
+      - Scholarships and Awards/Edusave Awards.md
+      - Scholarships and Awards/St Margarets School (Secondary) Awards.md
+      - Info site for P6 Parents and Students.md

@@ -1,0 +1,9 @@
+collections:
+  180th-anniversary-celebrations:
+    output: true
+    order:
+      - 180th Anniversary Celebrations.md
+      - ‘Let our Light Shine!’ 180th Anniversary Wall Mural.md
+      - LETITSHINE180.md
+      - Online Virtual Concert.md
+      - 180th Anniversary 'Virtual Heritage Trail'.md
