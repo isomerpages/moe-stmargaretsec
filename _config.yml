@@ -1,6 +1,6 @@
 title: St. Margaret's School (Secondary)
 url: https://stmargaretssec.moe.edu.sg
-favicon: /images/School Logo (2023).jpg
+favicon: /images/smss logo_PMS3425U (2).jpg
 colors:
   primary-color: "#12530a"
   secondary-color: "#2cbd77"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2neml0ovyr192.amplifyapp.com
 prod: https://master.d2neml0ovyr192.amplifyapp.com
-shareicon: /images/School Logo (2023).jpg
+shareicon: /images/smss logo_PMS3425U (2).jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
