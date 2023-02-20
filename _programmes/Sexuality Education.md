@@ -25,7 +25,7 @@ You may click [here] for more information on MOE Sexuality Education. 
 
 <p align="right"><a href="#top">Back to top</a></p>
 
-Overview of St. Margaret's Secondary School's Sexuality Education Programme for 2023
+Overview of St. Margaret's School (Secondary) Sexuality Education Programme for 2023
 ------------------------------------------------------------------------------------
 
 *   Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here] for more information on the scope of Sexuality Education in the school curriculum.
@@ -47,7 +47,7 @@ Sexuality Education Lessons:
 
   
 
-At St. Margaret’s Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:
+At St. Margaret’s School (Secondary), the following lessons from the Sexuality Education Programme will be taught in 2023:
 ------------------------------------------------------------------------------------------------------------------------
 
 ### Secondary 1
