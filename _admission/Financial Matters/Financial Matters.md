@@ -9,7 +9,7 @@ School Fees For Academic Year 2023
 
 
 
-| Nationality | School Fees(S$) | Miscellaneous (S$) | Autonomous School Fee (S$)| Total Payable (S$)|
+| Nationality | School Fees(S$) | Miscellaneous (S$) | Autonomous School Fee (S$)| Total Payable (S$) |
 | -------- | -------- | -------- |  -------- |  -------- |
 | Singapore Citizen     | 5     | 20     | 3 | 28
 | Singapore (PR) | 500 | 20 | 3 | 523
