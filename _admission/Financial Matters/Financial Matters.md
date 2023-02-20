@@ -105,7 +105,7 @@ With the increasing digitalisation of government services, MOE would like to enc
 Insurance Coverage for Students
 -------------------------------
 
-Each student is covered with a Group Personal Accident (GPA) Insurance which provides coverage when she is:
+Each student is covered with a Group Personal Accident (GPA) Insurance which provides coverage when she is:
 
   
 
