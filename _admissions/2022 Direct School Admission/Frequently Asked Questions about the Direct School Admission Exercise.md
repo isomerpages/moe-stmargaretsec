@@ -6,7 +6,7 @@ third_nav_title: 2022 Direct School Admission
 ---
 **1.** **What talents are the school looking for?**
 
-St. Margaret’s Secondary School welcomes girls who are talented in the Aesthetics and Sports listed in the [DSA-Sec talent areas offered by St. Margaret’s Secondary School](/admission/2022-direct-school-admission-exercise-dsa-sec)
+St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the [DSA-Sec talent areas offered by St. Margaret’s Secondary School](/admission/2022-direct-school-admission-exercise-dsa-sec)
 
 **2.** **What are the selection criteria?**
 
