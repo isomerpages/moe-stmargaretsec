@@ -53,6 +53,11 @@ In December 2000, the school celebrated its homecoming to a brand new campus wit
 
 On 26 July 2002, 160 years since the founding of the school, St. Margaret's Secondary School's new campus at Farrer Road was officially declared open by Dr Tony Tan, then the Deputy Prime Minister and Minister for Defence.
 
+The school Mrs Maria Dyer founded has evolved from St. Margaret’s School to become St. Margaret’s Primary School and St. Margaret’s Secondary School. The different locations notwithstanding, the schools have nurtured a community of learners with the common school motto of Charity • Patience • Devotion and school values as our guiding principles.
+
+To better reflect our shared historical identity, legacy and heritage, the schools have been renamed from 1 January 2023. The name change has been formally endorsed by the Ministry of Education and the Diocese of Singapore. The schools are hence known as: St. Margaret’s School (Primary) and St. Margaret’s School (Secondary).
+
+To God be the Glory!
 [Back to Top](#top)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
