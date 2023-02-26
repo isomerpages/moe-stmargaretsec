@@ -26,4 +26,4 @@ The life of Mrs Maris Dyer: [https://youtu.be/zJER3tDWrxY](https://youtu.be/zJE
 
   
 
-Our corporate video of exciting Programmes in SMSS: [https://youtu.be/8tCsjrj5Ujk](https://youtu.be/8tCsjrj5Ujk)
+Our corporate video of exciting Programmes in SMS(S): [https://youtu.be/8tCsjrj5Ujk](https://youtu.be/8tCsjrj5Ujk)
