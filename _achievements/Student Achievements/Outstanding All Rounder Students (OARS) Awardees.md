@@ -14,11 +14,12 @@ The Outstanding All Rounder Student Award or OARS Award is presented by the No
 |  Kon Mei Hui Adeline | 2016 |
 |  Gloria Chan Wan Bing | 2016 |
 |  Amelia Lee Jia Ning | 2017 |
-|  Tang Sze Yin |  2018 |
-|  Emmanuelle Xie-En Sudharman |  2019 |
-|  Megan Wang May-En |  2019 |
-|  Sarabelle Joy Tan |  2020 |
-| Edna Lim Kay Xin |  2020 |
-| Loh Xuan En  |   2021  |
-| Koh Tze Ting Kirstin  |  2022 |
-| | |
+|  Tang Sze Yin | 2018 |
+|  Emmanuelle Xie-En Sudharman | 2019 |
+|  Megan Wang May-En | 2019 |
+|  Sarabelle Joy Tan | 2020 |
+| Edna Lim Kay Xin | 2020 |
+| Loh Xuan En | 2021 |
+| Koh Tze Ting Kirstin | 2022 |
+| Rachel Sonsun | 2023 |
+| |
