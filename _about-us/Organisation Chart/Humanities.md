@@ -18,7 +18,7 @@ third_nav_title: Organisation Chart
 | Ms | Nicolette Ng  |   |
 | Mdm | Nur Farhana Mohammed Saini  |   |
 | Ms | Nursahidah Bte Mohamed Ali |   |
-| Ms | Tan Yang Tong |   |
+| Ms | Tan Yan Tong |   |
 | Mrs  | Vimi Rethinam  |   |
 | Mrs | Wendy Lai  |
 
