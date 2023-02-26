@@ -17,13 +17,6 @@ description: ""
     <td><p align="center"><a href="mailto:stmargaretss@moe.edu.sg" target="_blank" rel="noopener noreferrer">stmargaretss@moe.edu.sg</a></p></td>
   </tr>
   <tr>
-		<td colspan="2"><h4 align="center">Library Parent Volunteer Matters</h4></td>
-  </tr>
-  <tr>
-		<td><p align="center">Mdm Azizah Bte Rabunam<br>(HOD ICT)</p></td>
-    <td><p align="center"><a href="mailto:azizah_rabunam@moe.edu.sg" target="_blank" rel="noopener noreferrer">azizah_rabunam@moe.edu.sg</a></p></td>
-  </tr>
-  <tr>
 		<td colspan="2"><h4 align="center">Parent Prayer Group Matters</h4></td>
   </tr>
   <tr>
