@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 
 | Name of Competition | Recognition |
 | --- | --- |
-|Queen's Commonwealth Essay Competition| Gold Award - 4 students <br> Silver Award - 28 students| <br> Bronze Award - 57 students|
+|Queen's Commonwealth Essay Competition 2022| Gold Award - 4 students <br> Silver Award - 28 students <br> Bronze Award - 57 students|
 |Animation and Game Making Competition 2022 organised by the Computer Education Unit, Curriculum Planning and Development Division, Ministry of Education| Animation Category Silver Award - 1 student <br> Game Making Category Bronze Award - 1 student|
 | National Schools Translation competition organised by zbComma, Nan Hua High School and Singapore Middle School Chinese Teachers’ Association| Secondary Category Merit Award - 1 student|
 |“全国中学编采比赛” Create Your Own Newspaper Competition| Lower Secondary Category - 1st \- 5 students <br> Upper Secondary Category - Honourable Mention - 5 students|
