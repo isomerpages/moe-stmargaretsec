@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our Mission
 
-Founded in 1842, the mission of St. Margaret's Secondary School  is to provide an all-round education in a Christ-centred environment to nurture confident, creative and caring young ladies who will serve God, the Country and the Community.
+Founded in 1842, the mission of St. Margaret's School (Secondary) is to provide an all-round education in a Christ-centred environment to nurture confident, creative and caring young ladies who will serve God, the Country and the Community.
 
 ## Our Vision
 
