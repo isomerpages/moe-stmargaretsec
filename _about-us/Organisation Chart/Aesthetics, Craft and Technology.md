@@ -15,7 +15,7 @@ third_nav_title: Organisation Chart
 | Mrs | Gemma Poon Pei Shan |   |
 | Ms | Nur Irnawaty Bte Isnan |   |
 | Mdm | Siti Noryani Bte Sa'aban    |   |
-| Mdm | Suriyati Bte Jum'Ani  |   |
+| Mdm | Suriyati Bte Jum'ani  |   |
 | Mr | Teo Siew Leong |   |
 | Mdm  | Vanaja Suppiah | Nutrition and Food Science Assistant  |
 | Mr  | Zulkipli Ahmad  | Design and Technology - Workshop Instructor  |

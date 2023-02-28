@@ -1,12 +1,12 @@
 ---
-title: Physical Education and Co Curricular Activities
+title: Physical Education and Co-curricular Activities
 permalink: /about-us/organisation-chart/physical-education-and-co-curricular-activities/
 description: ""
 third_nav_title: Organisation Chart
 ---
 | | Name |  |
 | --- | --- | --- |
-| Mr | Tan Hee Ming | SH Physical Education and Co-Curricular Activities
+| Mr | Tan Hee Ming | SH Physical Education and Co-curricular Activities
 | Mr   | Daniel Ling Siong Kiat | |
 | Mr  | Daniel Teng Charng Ther |   |
 | Mr  | Nicholas Koh Wei-Chong  |   |

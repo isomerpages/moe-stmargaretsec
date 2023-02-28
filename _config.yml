@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: ""
+description: St. Margaret's School is a government-aided autonomous girls'
+  secondary school in Bukit Timah, Singapore, under the purview of the Anglican
+  Diocese of Singapore. It is the first girls' school in Singapore and often
+  regarded as the oldest existing girls' school in Southeast Asia.
 permalink: none
 baseurl: ""
 exclude:
@@ -51,7 +54,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2neml0ovyr192.amplifyapp.com
 prod: https://master.d2neml0ovyr192.amplifyapp.com
-shareicon: /images/smss logo_PMS3425U (2).jpg
+shareicon: /images/School Logo (2023).jpg
 is_government: false
 facebook-pixel: ""
 google_analytics: ""

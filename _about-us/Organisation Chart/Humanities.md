@@ -16,8 +16,9 @@ third_nav_title: Organisation Chart
 | Ms | Grace Wee  |   |
 | Mrs | Juliana Chua |  |
 | Ms | Nicolette Ng  |   |
+| Mdm | Nur Farhana Mohammed Saini  |   |
 | Ms | Nursahidah Bte Mohamed Ali |   |
-| Ms | Tan Yang Tong |   |
+| Ms | Tan Yan Tong |   |
 | Mrs  | Vimi Rethinam  |   |
 | Mrs | Wendy Lai  |
 
