@@ -17,7 +17,6 @@ third_nav_title: Organisation Chart
 | Ms | Jacquelyn Chan Jiat Luang  |   |
 | Ms | Koh Pooi Sze |   |
 | Mdm | Liu Fang |  |
-| Mr | Low Kim Khong   |   |
 | Ms | Nora Bte Aziz  |  |
 | Mdm | Nur Aqilah Bte Ibrahim    |   |
 | Mr | Ponnalagu Manickam | |
