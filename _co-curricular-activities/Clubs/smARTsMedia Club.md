@@ -24,13 +24,6 @@ Ms Katherine Li (IC)
   
 <img src="/images/library4.jpg" style="width:70%">
 
-2022
-------------------
-
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 
 
 Photo Album
