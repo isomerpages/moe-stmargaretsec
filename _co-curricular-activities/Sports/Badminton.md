@@ -30,7 +30,7 @@ Achievements
 |2018 | SSSC badminton Zonal 'B' and 'C' Divisional Girls | 'C' Division - 3rd
 
 ![badminton4.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/badminton4.jpg)
-![Badminton - Singles Match at NSG.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Badminton/Badminton%20-%20Singles%20Match%20at%20NSG.bmp) Singles Match during National School Games 2020<br>![Badminton - Briefing by coach.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Badminton/Badminton%20-%20Briefing%20by%20coach.bmp)Attending a briefing session with the coach
+<br>![Badminton - Briefing by coach.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Badminton/Badminton%20-%20Briefing%20by%20coach.bmp)Attending a briefing session with the coach
 
 Video
 ------------
