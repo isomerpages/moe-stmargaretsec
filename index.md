@@ -13,5 +13,5 @@ sections:
       background: /images/Testing.gif
   - resources:
       subtitle: ANNOUNCEMENTS & NEWS
-      button: Annoucement
+      button: announcement
 ---
