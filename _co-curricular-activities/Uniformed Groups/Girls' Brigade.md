@@ -44,5 +44,3 @@ Achievements
 <img style="width:80%" src="/images/girlsbrigade4.jpg"/>
 
 <p align="center">Engaging one another in conversation</p>
-
-  

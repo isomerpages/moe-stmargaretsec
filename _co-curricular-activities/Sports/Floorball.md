@@ -23,9 +23,3 @@ Mr Daniel Ling
 ![Floorball1-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball1-iloveimg-converted.jpg)
 ![Floorball - After friendly match with CHIJ Katong Convent.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball/Floorball%20-%20After%20friendly%20match%20with%20CHIJ%20Katong%20Convent.bmp)
 <p align="center">After a friendly match
-	
-![Floorball - CCA Fair.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball/Floorball%20-%20CCA%20Fair.bmp)
-<p align="center">During the CCA Fair
-	
-![Floorball - ready for NSG.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball/Floorball%20-%20ready%20for%20NSG.bmp)
-	<p align="center">Getting ready for the National School Games

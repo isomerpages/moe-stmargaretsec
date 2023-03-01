@@ -6,10 +6,13 @@ third_nav_title: Student Achievements
 ---
 2022
 ----
-| _SmARTsMedia Club_ |
-| --- |
+
+
+| SmARTsMedia Club | 
+| -------- | 
 | IMDA Infocomm Media Club Youth Awards - Distinction - 3 students  
-Prizes include an internship at JP Morgan, $500 worth of tech gadgets and $250 vouchers|
+Prizes include an internship at JP Morgan, $500 worth of tech gadgets and $250 vouchers     | 
+
 
 
 2021
