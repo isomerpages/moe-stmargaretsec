@@ -10,6 +10,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/UG MAIN.jpg
+      background: /images/Testing.gif
+  - resources:
+      subtitle: ANNOUNCEMENTS & NEWS
+      button: Annoucement
 ---
-
