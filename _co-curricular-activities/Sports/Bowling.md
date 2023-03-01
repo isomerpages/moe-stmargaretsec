@@ -10,19 +10,21 @@ CCA Schedule
 
 | Training Day(s)  | Tuesday  | Thursday 
 | -------- | -------- | -------- | 
-| Training Time     | 3:30pm-5:30pm     | 3:30pm-5:30pm     |
-| Training Venue(s) | The Space <br> ISH Level 1 Classroom | The Space <br> ISH Level 1 Classroom
+| Training Time     | 3:30pm-6:00pm     | 3:30pm-6:00pm     |
+| Training Venue(s) | Civil Service Club (Tessensohn)
+
 
 
 
 Teacher In-Charge
 -----------------
 
-Mr Benjamin Yong
+Mr Benjamin Yeong (IC)<br>
+Mrs Ramlah Fairoz <br>
+Mrs Kok Lin Jin
 
 Achievements
 ------------
-
 
 | Year | Name of Competition | Achievement  |
 | -------- | -------- | -------- |
