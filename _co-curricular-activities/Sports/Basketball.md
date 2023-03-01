@@ -26,9 +26,9 @@ Achievements
 
 | Year | Name of Competition | Achievement | 
 | -------- | -------- | -------- |
-| 2022     |   National School Games - Basketball South Zone Championships <br>- 'B' Division   | <br><br>4<sup>th</sup>     | 
-|2019 | National School Games 2019 - Inter-school South Zone Basketball Championships <br> 'B' Division <br>'C' Division| <br><br>4<sup>th</sup><br>3<sup>rd</sup>
-|2018 | Overseas School Family Invitational Under<br> - 16 Girls Basketball Tournament <br> SSSC South Zone Basketball Championship 2018 <br>- 'B' Division <br> - 'C' Division | <br> <br> Champions<br> <br> 3<sup>rd</sup> <br>4<sup>th</sup>
+| 2022     |   National School Games - Basketball South Zone Championships <br>- 'B' Division   | <br>4<sup>th</sup>     | 
+|2019 | National School Games 2019 - Inter-school South Zone Basketball Championships <br> 'B' Division <br>'C' Division| <br>4<sup>th</sup><br>3<sup>rd</sup>
+|2018 | Overseas School Family Invitational Under<br> - 16 Girls Basketball Tournament <br> SSSC South Zone Basketball Championship 2018 <br>- 'B' Division <br> - 'C' Division | <br> <br> Champions <br> 3<sup>rd</sup> <br>4<sup>th</sup>
 
 ![Basketball1-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball1-iloveimg-converted.jpg)
 ![Basketball - Match with Alumnae.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball/Basketball%20-%20Match%20with%20Alumnae.bmp)
