@@ -17,11 +17,8 @@ CCA Schedule
 Teachers In-Charge
 ------------------
 
-Mr Desmond Lee (IC)
+Mr Desmond Lee 
 <br>
-Ms Liang Huiyu
-<br>
-Mr Teh Wee Xiong
 
 Achievements
 ------------
