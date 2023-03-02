@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Testing.gif
+      background: /images/Homepage-ISOMER.gif
   - resources:
       subtitle: ANNOUNCEMENTS & NEWS
       button: announcement
