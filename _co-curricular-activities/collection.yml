@@ -2,7 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
-      - Co Curricular Activities.md
+      - Co curricular Activities.md
       - Sports/Badminton.md
       - Sports/Basketball.md
       - Sports/Bowling.md

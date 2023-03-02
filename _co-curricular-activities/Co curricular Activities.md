@@ -1,8 +1,9 @@
 ---
-title: Co Curricular Activities
+title: Co curricular Activities
 permalink: /programmes/co-curricular-activities/
 description: ""
 ---
+
 Objectives
 ----------
 
