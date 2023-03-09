@@ -36,6 +36,3 @@ Achievements
 	
 ![Basketball - Rugby Cross Training.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball/Basketball%20-%20Rugby%20Cross%20Training.bmp)	
 <p align="center">Rugby cross training
-
-![Basketball - Team Building Camp.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball/Basketball%20-%20Team%20Building%20Camp.bmp)
-<p align="center">Team building camp
