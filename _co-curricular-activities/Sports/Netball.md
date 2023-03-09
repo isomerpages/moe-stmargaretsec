@@ -14,7 +14,8 @@ CCA Schedule
 | Training Venue | Netball Courts| Netball Courts | Netball Courts
 
 
-This is an additional day of training scheduled due to competition and <u><b>will only be</u></b> conducted during the competition season.
+This is an additional day of training scheduled due to competition and
+<u><b>will only be</u></b> conducted during the competition season.
 
 
 Teacher In-Charge
