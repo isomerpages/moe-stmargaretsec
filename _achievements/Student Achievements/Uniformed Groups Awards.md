@@ -4,19 +4,6 @@ permalink: /achievements/student-achievements/uniformed-groups-awards/
 description: ""
 third_nav_title: Student Achievements
 ---
-2023
-----
-
-
-| Netball |
-| -------- | 
-| National School Games <br> Netball South Zone ‘B’ Division Girls Championship 2023   3rd | 
-
-| Tennis |
-| -------- | 
-| National School Games Tennis ‘B’ Division Girls Plate Tournament 2023    3rd | 
-
-
 
 2022
 ----
