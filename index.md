@@ -13,5 +13,5 @@ sections:
       background: /images/Homepage-ISOMER.gif
   - resources:
       subtitle: ANNOUNCEMENTS & NEWS
-      button: announcement
+      button: announcements
 ---
