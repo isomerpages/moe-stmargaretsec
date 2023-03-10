@@ -5,7 +5,7 @@ description: ""
 ---
 | | |
 |---|---|
-| Prof Lawrence Boo | Chairman / Supervisor |
+| Professor Lawrence Boo | Chairman / Supervisor |
 | Ms Charis Tan  | Vice-Chairperson / Bishop's Nominee |
 | Ms Lee Zhuomin | Honorary Treasurer / Co-opted Member |
 | Ms Linda Lim | Secretary / Principal, St. Margaret's School (Secondary) |
