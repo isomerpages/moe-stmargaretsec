@@ -7,10 +7,9 @@ third_nav_title: 2022 Direct School Admission
 2022 Direct School Admission Exercise (DSA-Sec)
 ===============================================
 
-**for admission to St. Margaret’s School (Secondary) in 2023**
-**for admission to St. Margaret’s School (Secondary) in 2023**  
+**The 2022 Direct School Admission Exercise is for admission to St. Margaret’s School (Secondary) in 2023.**  
 
-Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s Secondary School based on their talents are invited to apply through the [**MOE 2022 Direct School Admission Exercise (DSA-Sec)**](https://www.moe.gov.sg/secondary/dsa).
+Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [**MOE 2022 Direct School Admission Exercise (DSA-Sec)**](https://www.moe.gov.sg/secondary/dsa).
 
 DSA-Sec talent areas offered by St. Margaret’s School (Secondary)
 ------------------------
@@ -51,7 +50,7 @@ For 2022, application for DSA-Sec can be submitted through the online DSA-Sec Po
 
 **NOTE:**
 
-Applicants <u>do not need</u> to submit supporting documents to complete their application, **except for Visual Arts** (please see selection criteria for Visual Arts).  After submitting your online application, you will receive confirmation of receipt of your DSA application. You may wish to print or download a copy of the confirmation for your future reference.
+Applicants <u>do not need</u> to submit supporting documents to complete their application, **except for Visual Arts** (please see selection criteria for Visual Arts). After submitting your online application, you will receive confirmation of receipt of your DSA application. You may wish to print or download a copy of the confirmation for your future reference.
 
 Selection Process & Criteria
 ----------------------------
@@ -75,8 +74,8 @@ General Procedure & Timeline
 | 2 | Auditions/ Trials/ Interviews for shortlisted applicants | 1 July 2022 to <br>5 August 2022 |
 | 3 | Application Outcome via post/email  | By 12 September 2022  |
 | 4 | Receipt of School Preference Form (through student's primary school)  | End October 2022  |
-| 5 | Submission of School Preference Form (through MOE online system OR completed hardcopy to student's primary school) | End October 2022  |
-| 6 | Releases of DSA-SEC Allocation Results  | End November 2022  |
+| 5 | Submission of School Preference Form (through MOE online system OR completed hard copy to student's primary school) | End October 2022  |
+| 6 | Release of DSA-Sec Allocation Results  | End November 2022  |
 | | | |  
 
 Contact Details
