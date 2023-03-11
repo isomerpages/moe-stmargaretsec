@@ -11,7 +11,6 @@ third_nav_title: Organisation Chart
 | Mr  | Daniel Teng Charng Ther |   |
 | Mr  | Nicholas Koh Wei-Chong  |   |
 | Mr  | Teh Wee Siong |   |
-| Mdm | Wong Kia Ping  |
 
 | | |
 |---|---|
