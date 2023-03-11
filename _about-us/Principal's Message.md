@@ -19,6 +19,6 @@ To God Be the Glory! 
 
 Linda Lim
 
-Principal 
+Principal
 
 St. Margaret’s School (Secondary)
