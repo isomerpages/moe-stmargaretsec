@@ -5,8 +5,8 @@ description: ""
 ---
 ## Corporate Video
 
-*   Captures the experiences of St. Margaret’s Secondary School’s students – past and present – as they talk about their school experiences. 
-*   It ultimately unifies that the values taught at St. Margaret’s Secondary School transcends generations of girls who will serve God, the country and the community; to be Champions of Change, Leading with Heart, Touching Lives.
+*   Captures the experiences of the students of St. Margaret’s School (Secondary) – past and present – as they talk about their school experiences. 
+*   It ultimately unifies that the values taught at St. Margaret’s School (Secondary) transcends generations of girls who will serve God, the country and the community.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8tCsjrj5Ujk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -38,5 +38,5 @@ In 2022, we celebrate the 180th year of the founding of St. Margaret’s School.
 
 ## 180th Anniversary Founder's Day Video Montage
 
-Watch a montage of how St. Margaret's Schools celebrated the 180th Anniversary throughout the year.
+Watch a montage of how St. Margaret's School (Primary) and St. Margaret's School (Secondary) celebrated the 180th Anniversary throughout the year.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5d-ITtL8pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
