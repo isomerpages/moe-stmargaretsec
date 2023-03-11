@@ -22,8 +22,8 @@ description: ""
 		read more
 	</a>
 	<br><br>
-	<a href="/files/04A%20Dr%20Amanah%20Tan.pdf">
-		<img src="/images/Dr%20Amanah%20Tan.jpg" style="width:60%"/>
+	<a href="/files/04A%20Dr%20Anamah%20Tan.pdf">
+		<img src="/images/Dr%20Anamah%20Tan.jpg" style="width:60%"/>
 		read more
 	</a>
 </p>
