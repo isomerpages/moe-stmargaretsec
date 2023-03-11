@@ -17,8 +17,6 @@ As the world emerges from the Covid-19 pandemic and we take bold and careful ste
 
 To God Be the Glory! 
 
-Linda Lim
-
-Principal
+Linda Lim                                                       Principal
 
 St. Margaret’s School (Secondary)
