@@ -7,8 +7,8 @@ third_nav_title: Organisation Chart
 |  | Name |  |
 | --- | --- | --- |
 | Mr | Jason Chew Sin Yong  | HOD Science |
-| Mrs | Foo Kar Hiang | HOD Character and Citizenship Education |
-| Ms  | Joey Poh   | ST Character and Citizenship Education   |
+| Mrs | Foo Kar Hiang | HOD Character and Citizenship Education (CCE) |
+| Ms  | Joey Poh   | ST Character and Citizenship Education (CCE)   |
 | Mrs  | Sharon Tan Shi Hui | Asst. YH Secondary 3  |
 | Mrs  | Jean Tan Lay Ching  | SH Education and Career Guidance & Partnership
 | Mrs  | Lim Wan Lin  | SH  Chemistry |
