@@ -9,6 +9,7 @@ third_nav_title: Organisation Chart
 | Mr | Tan Hee Ming | SH Physical Education and Co-curricular Activities
 | Mr   | Daniel Ling Siong Kiat | |
 | Mr  | Daniel Teng Charng Ther |   |
+| Mr  | Gerard Lim  |   |
 | Mr  | Nicholas Koh Wei-Chong  |   |
 | Mr  | Teh Wee Siong |   |
 
