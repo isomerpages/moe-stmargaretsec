@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue | Performing Arts Studio | IT Conference Room <br> Dance Studio |   
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mdm Suriyati (IC)
+Mdm Suriyati 
 
 
 Achievements
