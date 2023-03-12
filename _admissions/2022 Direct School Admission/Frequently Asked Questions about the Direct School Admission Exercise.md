@@ -6,7 +6,7 @@ third_nav_title: 2022 Direct School Admission
 ---
 **1.** **What talents are the school looking for?**
 
-St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the [DSA-Sec talent areas offered by St. Margaret’s Secondary School](/admission/2022-direct-school-admission-exercise-dsa-sec)
+St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the [DSA-Sec talent areas offered by St. Margaret’s School Secondary)(/admission/2022-direct-school-admission-exercise-dsa-sec)
 
 **2.** **What are the selection criteria?**
 
@@ -26,7 +26,7 @@ If you are shortlisted, you will be notified about two weeks before your audit
 
 **6.** **What do I need to prepare for the selection auditions/trials/interviews?**
 
-You may refer to the Admission Criteria for DSA Exercise for [Aesthetics](/admission/2022-direct-school-admission-exercise-dsa-sec/admission-criteria-for-dsa-aesthetics) and [Sports](/admission/2022-direct-school-admission-exercise-dsa-sec/admission-criteria-for-dsa-exercise-sports).
+You may refer to the Admission Criteria for the DSA Exercise for [Aesthetics](/admission/2022-direct-school-admission-exercise-dsa-sec/admission-criteria-for-dsa-aesthetics) and [Sports](/admission/2022-direct-school-admission-exercise-dsa-sec/admission-criteria-for-dsa-exercise-sports).
 
 **7.** **When will I know the outcome of the selection?**
 
