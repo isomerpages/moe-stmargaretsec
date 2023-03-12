@@ -16,10 +16,10 @@ CCA Schedule
   
 \*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mr Adrian Sim (IC)
+Mr Adrian Sim 
 
 
 Achievements
