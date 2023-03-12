@@ -1,5 +1,5 @@
 ---
-title: Co curricular Activities
+title: Co-curricular Activities
 permalink: /programmes/co-curricular-activities/
 description: ""
 ---
