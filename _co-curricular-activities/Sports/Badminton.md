@@ -16,7 +16,7 @@ CCA Schedule
 *This is an additional of training and will only be conducted during the competition season.
 
 
-Teacher In-Charge
+Teacher-in-charge
 ------------
 Mr Alvin Loh
 
