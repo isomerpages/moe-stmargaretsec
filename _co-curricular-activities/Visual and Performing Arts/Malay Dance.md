@@ -16,7 +16,7 @@ CCA Schedule
   
   
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
 Ms Nora Aziz
