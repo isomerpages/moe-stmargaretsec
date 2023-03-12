@@ -14,7 +14,7 @@ CCA Schedule
 | Training Venue | St. John's Chapel |   
 | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
 
