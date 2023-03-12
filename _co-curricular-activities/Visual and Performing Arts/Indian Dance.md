@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue(s) | Hall | The Space  |
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mdm Anbarasi (IC)
+Mdm Anbarasi 
 
 
 Achievements
