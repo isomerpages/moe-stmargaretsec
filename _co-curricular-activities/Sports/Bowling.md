@@ -16,10 +16,10 @@ CCA Schedule
 
 
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
-Mr Benjamin Yeong (IC)
+Mr Benjamin Yeong 
 
 
 Achievements
