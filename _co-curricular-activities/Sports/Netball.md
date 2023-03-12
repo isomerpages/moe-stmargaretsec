@@ -18,7 +18,7 @@ This is an additional day of training scheduled due to competition and
 <u><b>will only be</u></b> conducted during the competition season.
 
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
 Mdm Choo Wai Yun
