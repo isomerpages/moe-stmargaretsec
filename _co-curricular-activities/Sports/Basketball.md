@@ -15,7 +15,7 @@ CCA Schedule
 
 This is an additional day scheduled and <u><b>will only be</u></b> conducted during the competition season.
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
 Ms Nicolette Ng
