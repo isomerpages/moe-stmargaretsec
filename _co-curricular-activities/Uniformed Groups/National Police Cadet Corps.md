@@ -16,10 +16,10 @@ CCA Schedule
   
 *Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mdm Nur Aqilah (IC)
+Mdm Nur Aqilah 
 
 
   
