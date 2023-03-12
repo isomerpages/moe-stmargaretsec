@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue(s) | Dance Studio<br>ICT Lab 4 | Hall  | 
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mrs Wendy Lai (IC) 
+Mrs Wendy Lai 
 
 
 Achievements
