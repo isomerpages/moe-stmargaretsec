@@ -15,7 +15,7 @@ CCA Schedule
 
 *This is an additional day of training scheduled due to competition and <b><u>will only be</u></b> conducted during the competition season.
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
 Mr Daniel Ling
