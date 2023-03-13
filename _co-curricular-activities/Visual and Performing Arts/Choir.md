@@ -15,7 +15,7 @@ CCA Schedule
 
 
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
 Mrs Juliana Chua

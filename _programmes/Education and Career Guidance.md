@@ -65,8 +65,7 @@ Students are strongly encouraged to explore the portal to access self-profiling 
 *   [Official Video on ITE EAE](https://www.ite.edu.sg/admissions/full-time-courses/nitec/early-admissions-exercise) 
 *   [Recording of ITE Webinar Talk Series](https://drive.google.com/open?id=1VssJD6ZnUrRTMjIyZjyL6id7le0gAPTz)  (All you need to know about ITE EAE)
 
-**  
-Useful ECG Sites**  
+**Useful ECG Sites**  
 
 Useful information, including admission booklets where course details and cutoff points are listed, can be accessed below:  
 
@@ -76,9 +75,7 @@ Useful information, including admission booklets where course details and cutoff
 *   [ITE Course Booklet 2023](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2023)  
 *   [Post Secondary Admissions Exercises and Programmes](https://www.moe.gov.sg/post-secondary/admissions)
 
-**
-
-Support by the School for ITE EAE**  
+**Support by the School for ITE EAE**  
 
 Our teacher mentors will provide support to our students in their application. Students who have yet to indicate their interest can email Ms Lum Ying Lee, Asst. Year Head (Secondary 4 & 5) at [lum\_ying\_lee@moe.edu.sg](mailto:lum_ying_lee@moe.edu.sg).
 
@@ -94,10 +91,9 @@ Details of Post Secondary Pathways
 ----------------------------------
 
 Students will find useful information and links in the summaries below:  
-[Education Pathways N(A)](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/ECG/SMSS%20-%20Education%20Pathways%20-%20NA%20cao%20Nov%202022%201.pdf)  
-[Education Pathways N(T)](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/ECG/SMSS%20-%20Education%20Pathways%20-%20NT%20cao%20Nov%202022%201.pdf)  
-[Education Pathways 'O'](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/ECG/SMSS%20-%20Education%20Pathways%20-%20O%20cao%20Nov%202022.pdf)  
-  
+[Education Pathways (O)]()
+[Education Pathways (NA)]()
+[Education Pathways (NT)]()
 
 Handbook for Parents/Guardians
 ------------------------------

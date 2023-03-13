@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue(s) | Band Room <br> Sec 1 Classrooms | Band Room <br> Music Room  <br> Sec 1 Classrooms |   
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Ms Florence Chang (IC)
+Ms Florence Chang 
 
 
 Achievements

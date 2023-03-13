@@ -13,9 +13,9 @@ CCA Schedule
 | Training Time     | 2:30pm-5:30pm     |  2:30pm-5:30pm     |  2:30pm-5:30pm
 |Training Venue | Basketball Court | Basketball Court | Basketball Court
 
-*This is an additional day scheduled and <u><b><i>will only be </u></b></i> conducted during the competition season.
+This is an additional day scheduled and <u><b>will only be</u></b> conducted during the competition season.
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
 Ms Nicolette Ng
@@ -36,6 +36,3 @@ Achievements
 	
 ![Basketball - Rugby Cross Training.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball/Basketball%20-%20Rugby%20Cross%20Training.bmp)	
 <p align="center">Rugby cross training
-
-![Basketball - Team Building Camp.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Basketball/Basketball%20-%20Team%20Building%20Camp.bmp)
-<p align="center">Team building camp

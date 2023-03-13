@@ -14,7 +14,7 @@ CCA Schedule
 | Training Venue(s) | The Space  <br> ISH Level 1 Classroom | The Space  <br> ISH Level 1 Classroom |   
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
 Mr Desmond Lee 

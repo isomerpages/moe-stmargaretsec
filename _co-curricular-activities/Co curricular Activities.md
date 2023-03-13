@@ -1,13 +1,12 @@
 ---
-title: Co curricular Activities
+title: Co-curricular Activities
 permalink: /programmes/co-curricular-activities/
 description: ""
 ---
-
 Objectives
 ----------
 
-Co-Curricular activities play a key role in the holistic development of our pupils. They aim to provide healthy recreational activities and at the same time imbibe correct values, build character and promote social integration through students’ continuous participation.
+Co-curricular activities play a key role in the holistic development of our pupils. They aim to provide healthy recreational activities and at the same time imbibe correct values, build character and promote social integration through students’ continuous participation.
 
 CCA Policy
 ----------
@@ -55,5 +54,5 @@ More information on LEAPS 2.0 and the conversion of level of Attainment to Bonus
 | -------- | -------- |
 |Girls' Brigade | Agape Club
 |Girl Guides | Debate Club
-| National Police Cadet Corps | smARTsMedia Club
+| National Police Cadet Corps | smARTs Media Club
 | Red Cross Youth |

@@ -12,12 +12,10 @@ third_nav_title: Organisation Chart
 | Mr | Chua Boon Keong | Operations Manager 2 |
 | Ms | Jane Loh Yoke Cheng | Management Support Officer  |
 | Mdm | Mae See Toh Wai Theng | Administrative Executive  |
-| Mrs | Sumitra Shasi Kumar  | Administrative Executive |
+| Ms | Sumitra Shasi Kumar  | Administrative Executive |
 | Mdm | Lim Lik Kheng | Administrative Assistant |
 | Mrs | Susan Tan  | Administrative Assistant |
-| Ms | Marsya Afiqah Binte Salim | School Laboratory Technician |
 | Mr | Somasundram  | Adjunct Operations Support Officer |
 | Mdm  | Kamisah Bte Nor  | Operations Support Officer |
 | Mdm  | Sagaya Arockian | Operations Support Officer |
-| Mdm   | Pushpalatha  | Operations Support Officer (Lab Attendant) |
-| Mdm  | Suntharambal  | Operations Support Officer (Lab Attendant) |
+

@@ -13,10 +13,10 @@ CCA Schedule
 | Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mrs Vimi Rethinam (IC)
+Mrs Vimi Rethinam
 
 
 Achievements
@@ -38,7 +38,7 @@ Achievements
   </tr>
   <tr>
     <td>Division II Grand Finals<br></td>
-    <td>Champion<br>Top 6th  and 16th Speakers Overall<br>Best Speaker of the Finals<br></td>
+    <td>Champion<br>Top 6th and 16th Speakers Overall<br>Best Speaker of the Finals<br></td>
   </tr>
   <tr>
     <td>Debate Association Debate Championships 2019</td>

@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue(s) | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&4 | PAS | 
 | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mrs Teo Sook Lee (IC)
+Mrs Teo Sook Lee 
 
 
 Achievements

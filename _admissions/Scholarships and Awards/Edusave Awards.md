@@ -7,7 +7,7 @@ third_nav_title: Scholarships and Awards
 
 To qualify for the awards listed below, good conduct is a prerequisite criteria. 
 
-Edusave Scholarship for Secondary Schools (ESSS)
+Edusave Scholarships for Secondary Schools (ESSS)
 ------------------------------------------------
 
 The Edusave Scholarships for Secondary Schools (ESSS) are yearly awards presented to the top 10% of students in the school of each level from any stream based on their school examination results that year. Only students who are Singapore Citizens are eligible for this award. The ESSS is a cash award of S$500.
@@ -35,7 +35,7 @@ These awards are presented to a maximum of top 10% of Singaporean students who h
 
   
 
-Edusave Character Award (ECHA)
+Edusave Character Awards (ECHA)
 ------------------------------
 
 These awards are presented to students who demonstrated exemplary character and outstanding personal qualities through their behaviour and actions. The quota for ECHA awardees is capped at 2% of the enrolment of Singaporean students. ECHA awardees will receive a certificate and an award voucher of S$500.

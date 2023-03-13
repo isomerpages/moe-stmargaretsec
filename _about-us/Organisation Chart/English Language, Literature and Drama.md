@@ -23,7 +23,7 @@ third_nav_title: Organisation Chart
 | Mdm  | Nazlin Bte Hamzah  |   |
 | Mrs | Priscilla Choi  |   |
 | Ms  | Sharon Ow  |   |
-| Mrs | Tan Yan Tong |  |
+| Ms | Tan Yan Tong |  |
 
 | | |
 |---|---|

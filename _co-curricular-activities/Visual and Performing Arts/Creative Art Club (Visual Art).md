@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
 | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Mrs Tan Chai Yong
+Ms Tan Chai Yong
 
 Achievements
 ------------

@@ -14,10 +14,10 @@ CCA Schedule
 | Training Venue(s) | Dance Studio<br>MPR 4 | Hall |   
 | | | |
 
-Teachers In-Charge
+Teacher-in-charge
 ------------------
 
-Ms Grace Wee (IC)
+Ms Grace Wee 
 
 
 Achievements

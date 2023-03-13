@@ -7,13 +7,13 @@ third_nav_title: For Students
 Discipline Philosophy
 ---------------------
 
-We believe that discipline is an education process. The goal is to instill self-discipline and good character in students. We believe that every child can learn right from wrong and is capable of responsible behaviour. As such we provide a positive and supportive environment that is conducive for the learning of moral values, leadership and responsibility. 
+We believe that discipline is an education process. The goal is to instill self-discipline and good character in students. We believe that every child can learn right from wrong and is capable of responsible behaviour. As such, we provide a positive and supportive environment that is conducive for the learning of moral values, leadership and responsibility. 
 
   
 
 Rules and regulations are necessary as they maintain a conducive environment for learning. They help to develop self-discipline and a sense of responsibility which are essential qualities for success in life.
 
-Discipline Philosophy
+General Conduct
 ---------------------
 
 Have good manners and show respect, care and concern for everyone. Be a good example to your peers.  
@@ -35,7 +35,7 @@ Be Responsible and Disciplined
 *   Latecomers who arrive in school after the Flag Raising Ceremony are to report directly to the General Office.
 *   Students should attend all classes, CCAs and other school activities punctually and regularly.
 *   Students should attend school for the full duration of the school term.
-*   Students who wish to leave the school during school hours are required to write in at least 3 working days in advance to obtain permission from the Principal/Vice-Principals through their form teacher.
+*   Students who wish to leave the school during school hours are required to write in at least 3 working days in advance to obtain permission from the Principal/Vice-Principals through their Form Teacher.
 
 *   Absence from assessments/examinations must be covered by a medical certificate or the student will receive a zero mark for the paper. Absence from assessments/examinations that are covered by letters of excuse will only be accepted under extenuating circumstances e.g. bereavement.
 
@@ -52,7 +52,7 @@ Appearance and Attire
 
 Look smart. Take pride in your appearance and school attire.  
 
-*   Students are to wear the prescribed school uniform and modification to the uniform is no tallowed.
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 *   The name tag is to be worn at all times in school or when the student is officially representing the school.
 *   The hem of the school skirt should reach the middle of the knee cap.
 *   Students are to wear plain white shoes or predominantly white shoes.
@@ -70,7 +70,7 @@ Look smart. Take pride in your appearance and school attire.
 *   No other jewellery or any items of personal adornment is allowed.
 *   Nails should be short and without nail polish.
 *   Students are allowed to wear only dark-coloured sandals when they have injured their feet.
-*   They are to submit a medical certificate to their Form/Co-Form Teacher.
+*   They are to submit a medical certificate to their Form Teacher.
 
   
 
@@ -95,10 +95,9 @@ Have a positive learning attitude and always do your best in your work. 
 *   Hand in assignments on time and complete corrections promptly.
 *   Maintain and upkeep all learning materials.
 *   Bring your Personal Learning Device (PLD) every day. PLDs should be fully charged at home before the start of each school day.
-*   Mobile phones must be switched off. Other electronic devices (e.g. computer games and cameras)  can only be used after school dismissal in the canteen, unless with permission from teachers.
+*   Mobile phones must be switched off. Other electronic devices (e.g. computer games and cameras) can only be used after school dismissal in the canteen, unless with permission from teachers.
 *   Perform assigned classroom duties diligently to keep the classroom clean and tidy at all times.
-*   Be involved in constructive work quietly when the teacher is not present.  
-    
+*   Be involved in constructive work quietly when the teacher is not present.      
 *   Seek permission from the teacher if you have a valid reason to leave the classroom.
 
 Proper Conduct in the Canteen
@@ -107,7 +106,7 @@ Proper Conduct in the Canteen
 Show consideration to others by having good social and table manners.
 
 *   Food and drinks are to be purchased only before school, during recess and after school.
-*   Students are to queue up quietly in a single file and in an orderly manner for their food and drinks.
+*   Students are to queue quietly in a single file and in an orderly manner for their food and drinks.
 *   Students are strongly encouraged to use their personal reusable containers when buying food at the canteen.
 *   Only plain water is allowed in the classrooms.
 *   All food and drinks are to be consumed in the canteen unless otherwise instructed, and subjected to prevailing Safe Management Measures (SMMs).
@@ -125,9 +124,7 @@ Proper Conduct during School Holidays
 Safe and Ethical Use of the Internet
 ------------------------------------
 
-Students must be safe, respectful and responsible users of ICT.
-
-  
+Students must be safe, respectful and responsible users of ICT.  
 
 Students are to:
 
@@ -138,8 +135,6 @@ Students are to:
 3\. Maintain a positive presence in cyberspace
 
 4\. Be a safe and responsible user of ICT
-
-  
 
 Students must show consideration for the feeling of others by practising good network etiquette:
 
@@ -168,9 +163,7 @@ Students must show consideration for the feeling of others by practising good ne
 Use of Personal Learning Devices (PLDs) in School
 -------------------------------------------------
 
-Students are expected to comply with the school’s policy and rules concerning the use of PLDs as stated in the SMSS PLD Handbook ([https://go.gov.sg/smsspldhandbook](https://go.gov.sg/smsspldhandbook)).
-
-  
+Students are expected to comply with the school’s policy and rules concerning the use of PLDs as stated in the SMS(S) PLD Handbook ([https://go.gov.sg/smsspldhandbook](https://go.gov.sg/smsspldhandbook)).
 
 General Policy:
 
@@ -206,7 +199,7 @@ Students should practise showing moral courage to own up and reflect on their ac
 Minor Offences
 --------------
 
-1.  Late-coming for school or lessons
+1.   Late-coming for school or lessons
 2.  Failure to do or hand in school work on time
 3.  Littering/Eating in class
 4.  Improper attire and appearance
@@ -262,4 +255,3 @@ Disciplinary Procedure
 The school may consider expulsion for recalcitrant serious offenders.
 
 Please note that disciplinary action will be taken for any other infractions subject to the discretion of the school.
-

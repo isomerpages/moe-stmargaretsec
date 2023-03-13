@@ -16,12 +16,11 @@ CCA Schedule
 
 
 
-Teacher In-Charge
+Teacher-in-charge
 -----------------
 
-Mr Benjamin Yeong (IC)<br>
-Mrs Ramlah Fairoz <br>
-Mrs Kok Lin Jin
+Mr Benjamin Yeong 
+
 
 Achievements
 ------------
