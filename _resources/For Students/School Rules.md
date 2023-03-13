@@ -124,9 +124,7 @@ Proper Conduct during School Holidays
 Safe and Ethical Use of the Internet
 ------------------------------------
 
-Students must be safe, respectful and responsible users of ICT.
-
-  
+Students must be safe, respectful and responsible users of ICT.  
 
 Students are to:
 
@@ -137,8 +135,6 @@ Students are to:
 3\. Maintain a positive presence in cyberspace
 
 4\. Be a safe and responsible user of ICT
-
-  
 
 Students must show consideration for the feeling of others by practising good network etiquette:
 
@@ -168,8 +164,6 @@ Use of Personal Learning Devices (PLDs) in School
 -------------------------------------------------
 
 Students are expected to comply with the school’s policy and rules concerning the use of PLDs as stated in the SMS(S) PLD Handbook ([https://go.gov.sg/smsspldhandbook](https://go.gov.sg/smsspldhandbook)).
-
-  
 
 General Policy:
 
