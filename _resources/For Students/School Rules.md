@@ -13,7 +13,7 @@ We believe that discipline is an education process. The goal is to instill self-
 
 Rules and regulations are necessary as they maintain a conducive environment for learning. They help to develop self-discipline and a sense of responsibility which are essential qualities for success in life.
 
-Discipline Philosophy
+General Conduct
 ---------------------
 
 Have good manners and show respect, care and concern for everyone. Be a good example to your peers.  
