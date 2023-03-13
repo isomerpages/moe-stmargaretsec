@@ -95,10 +95,9 @@ Have a positive learning attitude and always do your best in your work. 
 *   Hand in assignments on time and complete corrections promptly.
 *   Maintain and upkeep all learning materials.
 *   Bring your Personal Learning Device (PLD) every day. PLDs should be fully charged at home before the start of each school day.
-*   Mobile phones must be switched off. Other electronic devices (e.g. computer games and cameras)  can only be used after school dismissal in the canteen, unless with permission from teachers.
+*   Mobile phones must be switched off. Other electronic devices (e.g. computer games and cameras) can only be used after school dismissal in the canteen, unless with permission from teachers.
 *   Perform assigned classroom duties diligently to keep the classroom clean and tidy at all times.
-*   Be involved in constructive work quietly when the teacher is not present.  
-    
+*   Be involved in constructive work quietly when the teacher is not present.      
 *   Seek permission from the teacher if you have a valid reason to leave the classroom.
 
 Proper Conduct in the Canteen
@@ -107,7 +106,7 @@ Proper Conduct in the Canteen
 Show consideration to others by having good social and table manners.
 
 *   Food and drinks are to be purchased only before school, during recess and after school.
-*   Students are to queue up quietly in a single file and in an orderly manner for their food and drinks.
+*   Students are to queue quietly in a single file and in an orderly manner for their food and drinks.
 *   Students are strongly encouraged to use their personal reusable containers when buying food at the canteen.
 *   Only plain water is allowed in the classrooms.
 *   All food and drinks are to be consumed in the canteen unless otherwise instructed, and subjected to prevailing Safe Management Measures (SMMs).
@@ -168,7 +167,7 @@ Students must show consideration for the feeling of others by practising good ne
 Use of Personal Learning Devices (PLDs) in School
 -------------------------------------------------
 
-Students are expected to comply with the school’s policy and rules concerning the use of PLDs as stated in the SMSS PLD Handbook ([https://go.gov.sg/smsspldhandbook](https://go.gov.sg/smsspldhandbook)).
+Students are expected to comply with the school’s policy and rules concerning the use of PLDs as stated in the SMS(S) PLD Handbook ([https://go.gov.sg/smsspldhandbook](https://go.gov.sg/smsspldhandbook)).
 
   
 
@@ -206,7 +205,7 @@ Students should practise showing moral courage to own up and reflect on their ac
 Minor Offences
 --------------
 
-1.  Late-coming for school or lessons
+1.   Late-coming for school or lessons
 2.  Failure to do or hand in school work on time
 3.  Littering/Eating in class
 4.  Improper attire and appearance
