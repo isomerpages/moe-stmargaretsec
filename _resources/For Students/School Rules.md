@@ -7,7 +7,7 @@ third_nav_title: For Students
 Discipline Philosophy
 ---------------------
 
-We believe that discipline is an education process. The goal is to instill self-discipline and good character in students. We believe that every child can learn right from wrong and is capable of responsible behaviour. As such we provide a positive and supportive environment that is conducive for the learning of moral values, leadership and responsibility. 
+We believe that discipline is an education process. The goal is to instill self-discipline and good character in students. We believe that every child can learn right from wrong and is capable of responsible behaviour. As such, we provide a positive and supportive environment that is conducive for the learning of moral values, leadership and responsibility. 
 
   
 
@@ -35,7 +35,7 @@ Be Responsible and Disciplined
 *   Latecomers who arrive in school after the Flag Raising Ceremony are to report directly to the General Office.
 *   Students should attend all classes, CCAs and other school activities punctually and regularly.
 *   Students should attend school for the full duration of the school term.
-*   Students who wish to leave the school during school hours are required to write in at least 3 working days in advance to obtain permission from the Principal/Vice-Principals through their form teacher.
+*   Students who wish to leave the school during school hours are required to write in at least 3 working days in advance to obtain permission from the Principal/Vice-Principals through their Form Teacher.
 
 *   Absence from assessments/examinations must be covered by a medical certificate or the student will receive a zero mark for the paper. Absence from assessments/examinations that are covered by letters of excuse will only be accepted under extenuating circumstances e.g. bereavement.
 
@@ -52,7 +52,7 @@ Appearance and Attire
 
 Look smart. Take pride in your appearance and school attire.  
 
-*   Students are to wear the prescribed school uniform and modification to the uniform is no tallowed.
+*   Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 *   The name tag is to be worn at all times in school or when the student is officially representing the school.
 *   The hem of the school skirt should reach the middle of the knee cap.
 *   Students are to wear plain white shoes or predominantly white shoes.
@@ -70,7 +70,7 @@ Look smart. Take pride in your appearance and school attire.
 *   No other jewellery or any items of personal adornment is allowed.
 *   Nails should be short and without nail polish.
 *   Students are allowed to wear only dark-coloured sandals when they have injured their feet.
-*   They are to submit a medical certificate to their Form/Co-Form Teacher.
+*   They are to submit a medical certificate to their Form Teacher.
 
   
 
@@ -262,4 +262,3 @@ Disciplinary Procedure
 The school may consider expulsion for recalcitrant serious offenders.
 
 Please note that disciplinary action will be taken for any other infractions subject to the discretion of the school.
-
