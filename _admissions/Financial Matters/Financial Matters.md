@@ -119,11 +119,7 @@ b) participating in the school’s activities, or any activity related to the sc
 
 c) commuting from (or to) her place of residence, including a hostel, to (or from) either the school’s premises or the place where an activity covered by the GPA Insurance will be conducted, including any reasonable deviations. For the avoidance of doubt, the student’s place of residence may include a place that is not in Singapore.
 
-  
-
 All claims should be submitted as soon as possible subjected to a cap of 365 days from the date 
 of accident.
-
-  
 
 Submission of claims can be done online via [Income’s GPA portal](https://studentgpa.incomegroupins.com.sg/#/)
