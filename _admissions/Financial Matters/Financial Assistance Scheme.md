@@ -23,7 +23,7 @@ Parents/students may obtain the application form for the Financial Assistance Sc
 
 For submission of the FAS application form, parents/students have the options to submit via hard copy, email or FormSG:
 
-(a) Drop the hardcopy form and supporting documents into the assigned pigeon hole at the school’s General Office; or
+(a) Drop the hard copy form and supporting documents into the assigned pigeon hole at the school’s General Office; or
 
 (b) Scan the form with the supporting documents and email them to the school at [admin\_stmargaretss@moe.edu.sg](mailto:admin_stmargaretss@moe.edu.sg); or
 
