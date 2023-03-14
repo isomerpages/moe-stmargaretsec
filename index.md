@@ -18,4 +18,7 @@ sections:
         - title: SMS(S) On Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
+        - title: Monthly Letter from principle
+          description: ""
+          url: /announcements/Monthly-Letter-From-Principal/
 ---
