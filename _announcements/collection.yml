@@ -1,5 +1,4 @@
 collections:
   announcements:
     output: true
-    order:
-      - Monthly Letter From Principal/.keep
+    order: []
