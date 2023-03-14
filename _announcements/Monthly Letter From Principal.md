@@ -3,13 +3,21 @@ title: Monthly Letter From Principal
 permalink: /announcements/Monthly-Letter-From-Principal/
 description: ""
 ---
-
-
-
-The Monthly Principal’s Letter can be downloaded by clicking on the respective files below.
+The Monthly Principal's Letter can be downloaded by clicking on the respective files below.
 
 March 2023
-----------
+-------------
+[March Principal's Letter](/files/March%20Principal's%20Letter.pdf)<br>
+[SMS(S) Achievements - February 2023](/files/SMS(S)%20Achievements%20-%20February%202023.pdf)
 
-[March Principal’s Letter](https://www.stmargaretssec.moe.edu.sg/files/March%20Principal's%20Letter.pdf)
+February 2023
+-------------
 
+[Principal's Letter - February 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Principals%20Letter%20Feb%202023.pdf)  
+[St. Margaret's School (Secondary) Achievements from December 2022 - January 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/SMSS%20Achievements%20-%20Jan%202023.pdf)  
+
+January 2023
+------------
+
+[Principal's Letter - January 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Announcements/Principals%20Letter%20Jan_2023.pdf)  
+[St. Margaret's School (Secondary) Achievements from October - December 2022](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/SMSS%20Achievements%20-%20Oct%20-%20Dec%202022.pdf)  
