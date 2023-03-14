@@ -15,6 +15,7 @@ CCA Schedule
 
 *This is an additional of training and will only be conducted during the competition season.
 
+![](/images/Badminton1.jpg)
 
 Teacher-in-charge
 ------------
@@ -30,8 +31,8 @@ Achievements
 |2018 | SSSC badminton Zonal 'B' and 'C' Divisional Girls | 'C' Division - 3rd
 
 
-![](/images/Badminton1.jpg)
-<br>
+
+
 
 Video
 ------------
