@@ -14,6 +14,10 @@ CCA Schedule
 | Training Venue(s) | The Space  <br> ISH Level 1 Classroom | The Space  <br> ISH Level 1 Classroom |   
 | | | |
 
+
+![](/images/Fencing2.jpg)
+
+
 Teacher-in-charge
 ------------------
 
@@ -47,11 +51,3 @@ Achievements
 |   | *   Women Epee Team | 2<sup>nd</sup>   |
 |   | *   Women Foil Team  | 1<sup>st</sup>  |
 | | | |
-
-<img style="width:80%" src="/images/Fencing2-iloveimg-converted.jpg"/>
-
-<br><br>
-
-<img style="width:80%" src="/images/Fencing%20-%20Women%20Sabre%20Individual%20Event%20at%20Singapore%20Novices%20Fencing%20Championship%202020.bmp"/>
-
-<p align="center">Women Sabre Individual Event</p>
