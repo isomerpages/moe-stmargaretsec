@@ -1,8 +1,9 @@
 ---
 title: Sexuality Education
-permalink: /programmes/permalink/
+permalink: /programmes/Sexuality-Education/
 description: ""
 ---
+
 MOE Sexuality Education in Schools
 ----------------------------------
 
