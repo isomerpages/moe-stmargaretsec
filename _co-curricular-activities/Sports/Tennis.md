@@ -19,6 +19,10 @@ This is an additional day of training scheduled due to competition and
 <u><b>will only be</u></b> conducted during the competition season.
 
 
+![](/images/Tennis2.jpg)
+
+
+
 Teacher-in-charge
 -----------------
 
@@ -30,6 +34,3 @@ Achievements
 | -------- | -------- | -------- |
 | 2022  |  Plate Tournament of National Inter-schools Tennis Championships <br> - Teams <br> | <br><br> 3<sup>rd</sup> |
 | 2018 |National Inter-schools Championships Plate Challenge <br> - 'C' Division Tennis Team|<br> 1<sup>st</sup> Runner-up|
-
-![tennis4_qCw2wN.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/tennis4_qCw2wN.jpg)
-![Tennis - CCA CCE.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Tennis/Tennis%20-%20CCA%20CCE.bmp)

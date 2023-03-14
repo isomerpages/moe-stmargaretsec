@@ -15,11 +15,10 @@ CCA Schedule
 
 *This is an additional day of training scheduled due to competition and <b><u>will only be</u></b> conducted during the competition season.
 
+![](/images/Floorball2.jpg)
+
 Teacher-in-charge
 -----------------
 
 Mr Daniel Ling
 
-![Floorball1-iloveimg-converted.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball1-iloveimg-converted.jpg)
-![Floorball - After friendly match with CHIJ Katong Convent.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Floorball/Floorball%20-%20After%20friendly%20match%20with%20CHIJ%20Katong%20Convent.bmp)
-<p align="center">After a friendly match

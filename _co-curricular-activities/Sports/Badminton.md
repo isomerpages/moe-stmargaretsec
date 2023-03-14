@@ -15,6 +15,7 @@ CCA Schedule
 
 *This is an additional of training and will only be conducted during the competition season.
 
+![](/images/Badminton1.jpg)
 
 Teacher-in-charge
 ------------
@@ -29,8 +30,9 @@ Achievements
 |2021 | National School Games - Badminton South Zone Championships - 'B' Divisional Girls <br> SSSC Sportmanship Award - 1 student | 4th |
 |2018 | SSSC badminton Zonal 'B' and 'C' Divisional Girls | 'C' Division - 3rd
 
-![badminton4.jpg](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/badminton4.jpg)
-<br>![Badminton - Briefing by coach.bmp](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Programmes/CCAs/Badminton/Badminton%20-%20Briefing%20by%20coach.bmp)Attending a briefing session with the coach
+
+
+
 
 Video
 ------------
