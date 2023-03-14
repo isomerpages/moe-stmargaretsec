@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Monthly Letter From Principal/Monthly Letter From Principal.md
       - Monthly Letter From Principal/.keep
