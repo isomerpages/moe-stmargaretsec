@@ -21,4 +21,11 @@ sections:
         - title: SMS(S) On Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
+  - infopic:
+      title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
+      subtitle: Channel News asia
+      button: Click here
+      url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
+      image: /images/hero-img-quote.jpg
+      alt: Image alt text
 ---
