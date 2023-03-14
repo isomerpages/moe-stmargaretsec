@@ -11,7 +11,8 @@ notification: Welcome to St. Margaret's School (Secondary)
 sections:
   - hero:
       background: /images/Homepage-ISOMER.gif
-  - resources:
-      subtitle: ANNOUNCEMENTS & NEWS
-      button: announcements
+      key_highlights:
+        - title: Announcements
+          description: ""
+          url: Announcements
 ---
