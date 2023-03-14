@@ -22,7 +22,7 @@ description: ""
 		read more
 	</a>
 	<br><br>
-	<a href="/files/DrAnamahTan.pdf">
+	<a href="/files/DrAnamahTan-.pdf">
 		<img src="/images/Dr%20Anamah%20Tan.png" style="width:60%"/>
 		read more
 	</a>
