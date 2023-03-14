@@ -15,9 +15,6 @@ sections:
         - title: Announcements
           description: ""
           url: Announcements
-        - title: Useful Links
-          description: ""
-          url: Useful Links
         - title: SMS(S) On Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
