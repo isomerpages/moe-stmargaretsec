@@ -14,11 +14,11 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: Announcements
-        - title: SMS(S) On Facebook
-          description: ""
-          url: https://www.facebook.com/stmargssecsg/
+          url: ""
         - title: Monthly Letter from principle
           description: ""
           url: /announcements/Monthly-Letter-From-Principal/
+        - title: SMS(S) On Facebook
+          description: ""
+          url: https://www.facebook.com/stmargssecsg/
 ---
