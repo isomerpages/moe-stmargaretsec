@@ -82,7 +82,7 @@ Students are taught skills such as decision-making, assertiveness and negotiatio
 
   
 
-*   **Parents of Secondary Three students** who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward by the end of Term 1 Week 4. This form is also downloadable [here](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/website%20eTeens%20opt%20out%20form%202023%20Annex%20B2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by **15****/02**/2023.
+*   **Parents of Secondary Three students** who wish to opt their children out of the eTeens programme need to complete an opt-out form. This form can be completed and submitted via Parents Gateway. For those without access to Parents Gateway, a hard copy will be distributed via your daughter/ward by the end of Term 1 Week 4. This form is also downloadable [here](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/website%20eTeens%20opt%20out%20form%202023%20Annex%20B2.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 15/02/2023.
 
   
 
