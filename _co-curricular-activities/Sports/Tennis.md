@@ -19,7 +19,7 @@ This is an additional day of training scheduled due to competition and
 <u><b>will only be</u></b> conducted during the competition season.
 
 
-
+![](/images/Tennis2.jpg)
 
 
 
