@@ -1,6 +1,6 @@
 ---
-title: Drafts
-permalink: /drafts/Drafts/
+title: Sexuality Education
+permalink: /programmes/permalink/
 description: ""
 ---
 MOE Sexuality Education in Schools

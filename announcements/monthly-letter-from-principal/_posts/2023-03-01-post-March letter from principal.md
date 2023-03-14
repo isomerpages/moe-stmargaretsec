@@ -1,11 +1,12 @@
 ---
-title: March 2023
+title: March letter from principal
 permalink: /announcements/monthly-principal-letter/permalink/
 date: 2023-03-01
 layout: post
 description: ""
 image: ""
 ---
+
 The Monthly Principal’s Letter can be downloaded by clicking on the respective files below.
 
 March 2023
