@@ -138,11 +138,11 @@ Students are to:
 
 Students must show consideration for the feeling of others by practising good network etiquette:
 
-1\. Use social media or online tools responsibly.
+1\.  Use social media or online tools responsibly.
 
-1.1 Log in with your own accounts. Do not use another person’s screen name or ID (impersonation).
+1.1  Log in with your own accounts. Do not use another person’s screen name or ID (impersonation).
 
-1.2 Do not forward private emails, messages, pictures or videos from others without prior permission from the senders.
+1.2  Do not forward private emails, messages, pictures or videos from others without prior permission from the senders.
 
 1.3 Students must adhere to copyright laws and show integrity in the use of ICT.
 
@@ -197,56 +197,55 @@ Students should practise showing moral courage to own up and reflect on their ac
   
 
 Minor Offences
---------------
-
-1.   Late-coming for school or lessons
-2.  Failure to do or hand in school work on time
-3.  Littering/Eating in class
-4.  Improper attire and appearance
-5.  Disruptive behaviour
-6.  Late return of library books
-7.  Inappropriate use of PLDs
+---------------------------------------------
+* Late-coming for school or lessons
+* Failure to do or hand in school work on time
+* Littering/Eating in class
+* Improper attire and appearance
+* Disruptive behaviour
+* Late return of library books
+* Inappropriate use of PLDs
 
 A warning point will be given for each minor offence. A minor offence that is repeated more than 4 times is considered serious. 1 demerit point and 2 hours of corrective counselling will be meted out upon the fifth time for the same offence.
 
 Serious Offences
 ----------------
 
-1.  Dishonest behaviour
-2.  Misbehaviour on school grounds
-3.  Improper use of mobile phones and other items
-4.  Being disrespectful to any member of the St. Margaret’s family
-5.  Use of abusive/vulgar language
-6.  Skipping lessons/CCA sessions/Fitness/Enrichment lessons, leaving school grounds without permission
-7.  Posting/sharing inappropriate photographs and content online and offline
+*   Dishonest behaviour
+*   Misbehaviour on school grounds
+*   Improper use of mobile phones and other items
+*   Being disrespectful to any member of the St. Margaret’s family
+*   Use of abusive/vulgar language
+*   Skipping lessons/CCA sessions/Fitness/Enrichment lessons, leaving school grounds without permission
+*   Posting/sharing inappropriate photographs and content online and offline
 
 1 demerit point and 2 hours of corrective counselling will be meted out for every serious offence.
 
 Very Serious Offences
 ---------------------
 
-1.  Truancy from school
-2.  Inappropriate behaviour (online and offline), shaming the name of the school
-3.  Cheating in tests/examinations
-4.  Smoking/alcohol/substance abuse
-5.  Vandalism
-6.  Theft/Shoplifting
-7.  Bullying/Cyberbullying/Intimidation/Fighting
-8.  Forgery
-9.  Possession of unauthorised items
-10.  Defiance towards authority
-11.  Causing harm to others
-12.  Breaching of rules and regulations in tests/examinations
+*   Truancy from school
+*   Inappropriate behaviour (online and offline), shaming the name of the school
+*   Cheating in tests/examinations
+*   Smoking/alcohol/substance abuse
+*   Vandalism
+*   Theft/Shoplifting
+*   Bullying/Cyberbullying/Intimidation/Fighting
+*   Forgery
+*   Possession of unauthorised items
+*   Defiance towards authority
+*   Causing harm to others
+*   Breaching of rules and regulations in tests/examinations
 
 For a Very Serious Offence, 3 demerit points, 6 hours of Corrective Counselling and 3 hours of detention will be meted out and a warning letter will be issued. In addition to the above, students may be suspended with immediate effect and/or barred from the examinations.
 
 Disciplinary Procedure
 ----------------------
 
-1.  Parents/Guardians will be informed when their daughter/ward has committed a Serious/ Very Serious Offence, and been given demerit points.
-2.  Students are expected to use their mobile phones or other electronic devices at the designated times/spaces in the school (refer to the section “Learning Attitude and Behaviour” under “School Rules and Regulations”). Improper use may result in the confiscation of the device(s). The confiscation period is minimally one week and will be compounded for repeat offenders. At the end of the confiscation period, students are to collect the item(s) personally from the General Office.
-3.  Duration of the Corrective Counselling meted out will be extended for students who are recalcitrant. In addition to the above, the school may require the student to attend mandatory counselling.
-4.  Suspension is liable under any of these conditions:
+*   Parents/Guardians will be informed when their daughter/ward has committed a Serious/ Very Serious Offence, and been given demerit points.
+*   Students are expected to use their mobile phones or other electronic devices at the designated times/spaces in the school (refer to the section “Learning Attitude and Behaviour” under “School Rules and Regulations”). Improper use may result in the confiscation of the device(s). The confiscation period is minimally one week and will be compounded for repeat offenders. At the end of the confiscation period, students are to collect the item(s) personally from the General Office.
+*   Duration of the Corrective Counselling meted out will be extended for students who are recalcitrant. In addition to the above, the school may require the student to attend mandatory counselling.
+*   Suspension is liable under any of these conditions:
 
 *   When the offender is recalcitrant and/or has accumulated 10 demerit points
 *   When the offence jeopardises the offender’s safety and security or that of any member of the St. Margaret’s family
