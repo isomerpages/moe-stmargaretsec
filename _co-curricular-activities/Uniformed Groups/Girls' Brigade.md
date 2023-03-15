@@ -35,7 +35,4 @@ Achievements
 | 2018 | The Girls' Brigade Singapore - Company Award 2018  | Gold  |
 |   | The Girls' Brigade Drill Competition 2018 | Secondary Category - Gold  |
 |   |   |   |
-
-<img style="width:80%" src="/images/girlsbrigade4.jpg"/>
-
-<p align="center">Engaging one another in conversation</p>
+     
