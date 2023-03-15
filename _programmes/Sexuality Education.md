@@ -3,8 +3,6 @@ title: Sexuality Education
 permalink: /programmes/Sexuality-Education/
 description: ""
 ---
-
-
 MOE Sexuality Education in Schools
 ----------------------------------
 
@@ -52,7 +50,7 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 #### At St. Margaret’s School (Secondary), the following lessons from the Sexuality Education Programme will be taught in 2023:
 
-[SMS(S) Secondary 1 Sexuality Education]()
+[SMS(S) Secondary 1 Sexuality Education](/files/SMS(S)%20Sec%201%20Sexuality%20Education.pdf)
 <br>[SMS(S) Secondary 2 Sexuality Education](/files/SMS(S)%20Sec%202%20Sexuality%20Education.pdf)<br>[SMS(S) Secondary 3 Sexuality Education](/files/SMS(S)%20Sec%203%20Sexuality%20Education.pdf)<br>[SMS(S) Secondary 4 Sexuality Education](/files/SMS(S)%20Sec%204%20Sexuality%20Education.pdf)<br>[SMS(S) Secondary 5 Sexuality Education](/files/SMS(S)%20Sec%205%20Sexuality%20Education.pdf)
 
 
