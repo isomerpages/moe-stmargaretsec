@@ -15,7 +15,7 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/Announcements/
-        - title: Monthly Letter from principle
+        - title: Monthly Letter from principal
           description: ""
           url: /announcements/Monthly-Letter-From-Principal/
         - title: SMS(S) On Facebook
