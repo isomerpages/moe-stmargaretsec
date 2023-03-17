@@ -15,15 +15,15 @@ sections:
         - title: Announcements
           description: ""
           url: /announcements/Announcements/
-        - title: Monthly Letter from principal
+        - title: Monthly Letter from Principal
           description: ""
           url: /announcements/Monthly-Letter-From-Principal/
-        - title: SMS(S) On Facebook
+        - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
-      subtitle: Channel News asia
+      subtitle: Channel News Asia
       button: Click here
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
       image: /images/hero-img-quote.jpg
