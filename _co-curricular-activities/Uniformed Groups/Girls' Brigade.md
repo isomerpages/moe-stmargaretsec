@@ -25,7 +25,7 @@ Mrs Serena Ajay
 Achievements
 ------------
 
-| Year | Name of Competition | Achievement |
+| Year | Name of Competition | Achievement/Awardees|
 | --- | --- | --- |
 | 2022 | Pioneer Brigader Brooch Award <br> Dr Low Guat Tin Challenge 2022 <br> Gold Award <br> Silver Award <br> Bronze Awrd | 5 students <br> 12 students <br> 13 students <br> 12 students |
 | 2021 | The Girls' Brigade Singapore - Company Award 2021 <br> Pioneer Brigader Brooch Award <br> Dr Low Guat Tin Challenge <br> Silver Award   | Gold <br> 3 students <br> 6 students |
@@ -35,4 +35,3 @@ Achievements
 | 2018 | The Girls' Brigade Singapore - Company Award 2018  | Gold  |
 |   | The Girls' Brigade Drill Competition 2018 | Secondary Category - Gold  |
 |   |   |   |
-     
