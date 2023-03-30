@@ -4,18 +4,18 @@ permalink: /achievements/student-achievements/uniformed-groups-awards/
 description: ""
 third_nav_title: Student Achievements
 ---
-
 2022
 ----
 
-| Girls' Brigade |
+
+| Girls' Brigade | 
 | -------- | 
 | Pioneer Brigader Brooch Award - 5 students |
 |Dr Low Guat Tin Challenge 2022:  
 Gold Award - 12 students  
 Silver Award - 13 students  
-Bronze Award - 12 students
-| |
+Bronze Award - 12 students     | 
+
 
 | NPCC |
 | --- |
