@@ -53,8 +53,10 @@ The school ECG programme enhances the curriculum through customised experiences,
 ECG Resources 
 --------------
 
-**MySkillsFuture**  
-Students are strongly encouraged to explore the portal to access self-profiling tools and information on the courses. They are provided with a guide for password reset if they have forgotten their passwords.  
+**MySkillsFuture Portal**  
+Students are strongly encouraged to explore the portal to access self-profiling tools and information on the courses.  
+
+Please refer to the [Navigating MySkillsFuture Portal guide](/files/Navigating%20MySkillsFuture%20Portal.pdf) to find out how to navigate the portal.
 
 *   [MySkillsFuture - Secondary](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)
 *   [MySkillsFuture - Pre-University](https://www.myskillsfuture.gov.sg/content/student/en/preu.html)
@@ -91,8 +93,8 @@ Details of Post Secondary Pathways
 ----------------------------------
 
 Students will find useful information and links in the summaries below:  
-[Education Pathways (O)]()
-[Education Pathways (NA)]()
+[Education Pathways (O)]()<br>
+[Education Pathways (NA)]()<br>
 [Education Pathways (NT)]()
 
 Handbook for Parents/Guardians
