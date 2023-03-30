@@ -57,6 +57,7 @@ St. Margaret’s School (Secondary) has been awarded the Character Development 
 	</tr>
 	<tr>
 		<td colspan="6">
+			
 For our efforts in sustaining good academic and non-academic outcomes over a number of years, St. Margaret’s School (Secondary) has been awarded The Sustained Achievement Award in the following categories: Academic Value-Added (Express), and Academic Value-Added (Normal (Academic), Uniformed Group, Sports and Aesthetics.
 		</td>
 	</tr>
