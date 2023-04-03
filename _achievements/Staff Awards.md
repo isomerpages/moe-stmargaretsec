@@ -32,9 +32,9 @@ Innergy (Schools) Awards
 
 | Name of Staff | Award, Year |
 | --- | --- |
-| Ms Anna Shen   <br>Ms Kwang Wan Yi  | DOTS English Expedition: English Language Grammar and Vocabulary Game, Commendation, 2017  |
+| Ms Anna Shen   <br>Mdm Kwang Wan Yi  | DoTs English Expedition: English Language Grammar and Vocabulary Game, Commendation, 2017  |
 | Mrs Chong-Yeo Chiu Peng  <br>Mdm Liu Xin  | Developing Students’ Chinese Vocabulary through Mobile Apps, Bronze, 2015  |
-| Mrs Lim Wan Lin <br>Ms Kwang Wan Yi   | Commendation Award (Team), 2018 |
+| Mrs Lim Wan Lin <br>Mdm Kwang Wan Yi   | Commendation Award (Team), 2018 |
 
 The LEAP Award 
 ---------------
@@ -42,8 +42,7 @@ The LEAP Award 
 | Name of Staff | Award, Year |
 | --- | --- |
 | Ms Bernadette Zoey Lim Yanjun   | 2015   |
-| Ms Clair Chua | Certificate of Commendation (Hokkien Huay Kuan), 2018   |
-| Ms Keira Htay  | Certificate of Commendation, 2020  |
+| Mrs Keira Lim | Certificate of Commendation, 2020  |
 
 National Day Honours
 --------------------
