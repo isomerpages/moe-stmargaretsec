@@ -5,5 +5,6 @@ description: ""
 ---
 | Contents |  | 
 | -------- | -------- | 
-* [Principal Message](/about-us/principals-message/) <br>
+* [Principal Message](/about-us/principals-message/) 
 *  [Our Mission, Vision and Values](/about-us/our-mission-vision-and-values/)
+*  
