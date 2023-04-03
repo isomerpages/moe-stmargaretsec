@@ -17,7 +17,7 @@ Presented by&nbsp;**Housing Development Board (HDB)**
   
   
 
-Schools Heritage Champion Awards
+School Heritage Champion Awards
 --------------------------------
 
 <img src="/images/national_heritage_board_logo.jpg" style="width:45%">
