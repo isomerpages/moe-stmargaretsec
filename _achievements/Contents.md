@@ -13,3 +13,5 @@ St. Margaret’s School (Secondary) has attained commendable achievements in bot
 | Contents | 
 | -------- | 
 * [School Achievements](/achievements/school-achievements/moe-masterplan-of-awards/)
+* [Student Achievements](/achievements/student-achievements/)
+* [Staff Awards](/achievements/staff-awards/)
