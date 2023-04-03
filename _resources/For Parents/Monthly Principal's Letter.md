@@ -6,6 +6,12 @@ third_nav_title: For Parents
 ---
 The Monthly Principal's Letter can be downloaded by clicking on the respective files below.
 
+April 2023
+-------------
+[April Principal's Letter](/files/principal's%20letter%20april%202023.pdf)<br>
+[SMS(S) Achievements - March 2023](/files/sms(s)%20achievements%20-%20march%202023.pdf)
+
+
 March 2023
 -------------
 [March Principal's Letter](/files/March%20Principal's%20Letter.pdf)<br>
@@ -44,7 +50,7 @@ August 2022
 July 2022
 ---------
 
-[Principal's Letter - July 2022](/files/Principals%20Letter%20July_final.pdf) <br>
+[Principal's Letter - July 2022](/files/Principals%20Letter%20July_final.pdf)&nbsp;<br>
 [St. Margaret's Secondary School Achievements in May and June 2022](/files/SMSS%20Achievements%20-%20June.pdf)
 
 May 2022
@@ -56,8 +62,8 @@ May 2022
 April 2022
 ----------
 
-[Principal's Letter - April 2022](/files/Principals%20Letter%20April%202022_final.pdf) <br>
-[St. Margaret's Secondary School Achievements in March 2022](/files/SMSS%20Achievements%20-%20Mar.pdf)   
+[Principal's Letter - April 2022](/files/Principals%20Letter%20April%202022_final.pdf)&nbsp;<br>
+[St. Margaret's Secondary School Achievements in March 2022](/files/SMSS%20Achievements%20-%20Mar.pdf)&nbsp;  
 
 March 2022
 ----------
@@ -73,5 +79,5 @@ February 2022
 January 2022
 ------------
 
-[Principal's Letter - January 2022](/files/Principals%20Letter%20Jan_2022.pdf) <br>
+[Principal's Letter - January 2022](/files/Principals%20Letter%20Jan_2022.pdf)&nbsp;<br>
 [St. Margaret's Secondary School Achievements in November and December 2021](/files/SMSS%20Achievements%20-%20Jan.pdf)
