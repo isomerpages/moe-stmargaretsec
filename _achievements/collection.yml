@@ -2,7 +2,7 @@ collections:
   achievements:
     output: true
     order:
-      - School Achievements/School Achievements.md
+      - Contents.md
       - School Achievements/MOE Masterplan of Awards.md
       - School Achievements/School Awards by External Organisations.md
       - School Achievements/.keep

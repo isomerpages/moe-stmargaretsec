@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Contents.md
       - Principal's Message.md
       - Our Mission, Vision and Values.md
       - Our Crest and Motto.md
