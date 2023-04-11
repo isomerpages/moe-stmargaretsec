@@ -13,6 +13,8 @@ CCA Schedule
 | Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 
+![](/images/debateclub1.jpg)
+
 Teacher-in-charge
 ------------------
 
@@ -81,4 +83,3 @@ Achievements
 	<tr></tr>
 </tbody>
 </table>
-
