@@ -16,6 +16,8 @@ CCA Schedule
   
 *Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
 
+![](/images/npcc12023.jpg)
+
 Teacher-in-charge
 ------------------
 
@@ -28,17 +30,15 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2022  | SPF-NPCC Badge  | 1 student  |
-| 2021  | NPCC Units Overall Proficiency Award 2021  | Gold  |
-|   | SPF - NPCC Badge  | 2 students  |
-|   | Best Unit Cadet Award  | 1 student  |
+| 2022&nbsp; | SPF-NPCC Badge&nbsp; | 1 student&nbsp; |
+| 2021&nbsp; | NPCC Units Overall Proficiency Award 2021&nbsp; | Gold&nbsp; |
+|   | SPF - NPCC Badge&nbsp; | 2 students&nbsp; |
+| &nbsp; | Best Unit Cadet Award&nbsp; | 1 student&nbsp; |
 | 2020 | SPF - NPCC Badge | 1 student |
 | 2019 | NPCC Units Overall Proficiency Award 2019 | Gold |
-|   | Inter-unit Drills Competition 2018  | Top 20 |
-|   | SPF - NPCC Badge | Best Unit Cadet Award - 1 student  |
-| 2018 | NPCC Units Overall Proficiency Award 2018 | Gold  |
-|   | SPF - NPCC Badge | 1 student  |
-|   | Best Unit Cadet Award  | 1 student  |
+| &nbsp; | Inter-unit Drills Competition 2018&nbsp; | Top 20 |
+| &nbsp; | SPF - NPCC Badge | Best Unit Cadet Award - 1 student&nbsp; |
+| 2018 | NPCC Units Overall Proficiency Award 2018 | Gold&nbsp; |
+| &nbsp; | SPF - NPCC Badge | 1 student  |
+| &nbsp; | Best Unit Cadet Award&nbsp; | 1 student&nbsp; |
 | | | |
-
-<img style="width:80%" src="/images/npcc2_d3IMh0.jpg"/>

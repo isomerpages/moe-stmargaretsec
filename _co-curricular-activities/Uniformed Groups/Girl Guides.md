@@ -14,7 +14,7 @@ CCA Schedule
 | Training Venue(s) | Parade Square  <br> ISH Level 1 Classrooms |   
 | | |
 
-\*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
+![](/images/girlguides1.jpg)*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
 
 Teacher-in-charge
 ------------------
@@ -28,21 +28,19 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2021  | The Baden Powell Award  | 5 students  |
-|   | South Division Learning Day | 3 students  |
-| 2020 | Puan Noor Aishah Award 2020  | Gold  |
+| 2021&nbsp; | The Baden Powell Award&nbsp; | 5 students&nbsp; |
+| &nbsp; | South Division Learning Day | 3 students&nbsp; |
+| 2020 | Puan Noor Aishah Award 2020&nbsp; | Gold&nbsp; |
 |   | The Baden Powell Award | 5 students |
-|   | World Thinking Day 2020 - Tie Dye Competition  | 3<sup>rd</sup>  |
+| &nbsp; | World Thinking Day 2020 - Tie Dye Competition&nbsp; | 3<sup>rd</sup>&nbsp; |
 | 2019 | Puan Noor Aishah Award 2019 | Gold |
-|   | World Thinking Day Carnival  | Best Carnival Booth |
-|   | Camp Challenge 2018  |   |
-|   | *   Merit Award | 4<sup>th</sup> Place Overall  |
-|   | *   Best Patrol Flag and Identify | 3<sup>rd</sup>  |
-| 2018 | Puan Noor Aishah Award 2018 | Gold  |
-|   | Singapore South Division Competitions 2018 |  |
-|   | *   Captain's Ball | 1<sup>st</sup>  |
-|   | *   Patch Design Competition | 1<sup>st</sup> and 3<sup>rd</sup>  |
-|   | *   Guides Knowledge and Skill Challenge | 1<sup>st</sup>  |
+| &nbsp; | World Thinking Day Carnival&nbsp; | Best Carnival Booth |
+| &nbsp; | Camp Challenge 2018&nbsp; | &nbsp; |
+| &nbsp; | *   Merit Award | 4<sup>th</sup>&nbsp;Place Overall&nbsp; |
+| &nbsp; | *   Best Patrol Flag and Identify | 3<sup>rd</sup>&nbsp; |
+| 2018 | Puan Noor Aishah Award 2018 | Gold&nbsp; |
+| &nbsp; | Singapore South Division Competitions 2018 |  |
+| &nbsp; | *   Captain's Ball | 1<sup>st</sup>&nbsp; |
+| &nbsp; | *   Patch Design Competition | 1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp; |
+| &nbsp; | *   Guides Knowledge and Skill Challenge | 1<sup>st</sup>&nbsp; |
 | | | |
-
-<img style="width:80%" src="/images/girl_guides1.jpg"/>

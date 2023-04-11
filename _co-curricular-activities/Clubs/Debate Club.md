@@ -13,6 +13,8 @@ CCA Schedule
 | Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 
+![](/images/debateclub1.jpg)
+
 Teacher-in-charge
 ------------------
 
@@ -38,7 +40,7 @@ Achievements
   </tr>
   <tr>
     <td>Division II Grand Finals<br></td>
-    <td>Champion<br>Top 6th and 16th Speakers Overall<br>Best Speaker of the Finals<br></td>
+		<td>Champion<br>Top 6<sup>th</sup> and 16<sup>th</sup> Speakers Overall<br>Best Speaker of the Finals<br></td>
   </tr>
   <tr>
     <td>Debate Association Debate Championships 2019</td>
@@ -46,24 +48,25 @@ Achievements
   </tr>
   <tr>
     <td>Silver Division </td>
-    <td>Champion<br>Best Speaker<br>Top 8th and 20th Speakers  </td>
+    <td>Champion<br>Best Speaker<br>Top 8<sup>th</sup> and 20<sup>th</sup> Speakers  </td>
   </tr>
   <tr>
     <td>Gold Division </td>
-    <td>Top 4th Speaker </td>
+    <td>Top 4<sup>th</sup> Speaker </td>
   </tr>
   <tr>
     <td rowspan="6"> 2018</td>
     <td>Hwa Chong British Parliamentary Debates 2018 </td>
-    <td>High School Category - 3rd </td>
-  </tr>
+    <td>High School Category - 3<sup>rd</sup>/td&gt;
+  </td></tr>
   <tr>
     <td>Thoburn Cup 2018</td>
     <td>Round 3 Vs PLGS (Win) </td>
   </tr>
   <tr>
     <td>Hwa Chong Institution Debate Invitationals 2018 </td>
-    <td>Grand Finals - 2nd<br>Best 2nd and 3rd Speakers </td>
+    <td>Grand Finals - 2<sup>nd</sup><br>Best 2<sup>nd</sup> and 3<sup>rd</sup>Speakers 
+		</td>
   </tr>
   <tr>
     <td>River Valley High School U-16s Novice Debate Championships 2019</td>
@@ -71,24 +74,12 @@ Achievements
   </tr>
   <tr>
     <td>Raffles Debate Academy U-14 Debate Tournament </td>
-    <td>Silver Division - Champion<br>Silver Division - Top Speaker and 2nd Best Speaker </td>
+    <td>Silver Division - Champion<br>Silver Division - Top Speaker and 2<sup>nd</sup> Best Speaker </td>
   </tr>
   <tr>
     <td>Green Cup 2018 </td>
-    <td>3rd<br>Best 6th and 7th Speakers</td>
+    <td>3<sup>rd</sup><br>Best 6<sup>th</sup> and 7<sup>th</sup> Speakers</td>
   </tr>
 	<tr></tr>
 </tbody>
 </table>
-
-<img style="width:80%" src="/images/Debate2-iloveimg-converted.jpg"/>
-<br>
-
-<img style="width:80%" src="/images/Debate%20-%20Using%20drama%20techniques%20to%20improve%20criticial%20thinking.bmp"/>
-<p align="center"> Using drama techniques to improve critical thinking skills  </p>
-
-<img style="width:80%" src="/images/Debate%20-%20Leaders%20motivating%20the%20club%20through%20a%20reflection%20session.jpg"/>
-<p align="center"> Leaders motivating the club members through a reflection session  </p>
-
-<img style="width:80%" src="/images/Debate%20-%20Debrief%20session%20with%20Mrs%20Vimi%20Rethinam.bmp"/>
-<p align="center"> Mrs Vimi Rethinam giving a briefing during CCA </p>

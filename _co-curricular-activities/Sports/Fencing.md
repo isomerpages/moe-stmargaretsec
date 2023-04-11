@@ -11,7 +11,7 @@ CCA Schedule
 | --- | --- | --- | 
 | Training Day(s) | Tuesday | Thursday |   
 | Training Time | 3.00pm-5.30pm | 3.00pm-5.30pm |  
-| Training Venue(s) | The Space  <br> ISH Level 1 Classroom | The Space  <br> ISH Level 1 Classroom |   
+| Training Venue(s) | The Space  <br> ISH Level 1 Classroom | The Space&nbsp; <br> ISH Level 1 Classroom | &nbsp; 
 | | | |
 
 
@@ -29,25 +29,25 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2022 | National School Games <br>*   'B' Division Girls Overall Team<br>*   'B' Division Foil Individual <br>*   'C' Division Girls Overall Team<br>*   'C' Division Epee Individual <br>*   'C' Division Foil Individual<br>*   'C' Division Sabre Individual | 3<sup>rd</sup><br>6<sup>th</sup> and 8<sup>th</sup> <br> 2<sup>nd</sup> <br> 1<sup>st</sup> and 8<sup>th</sup> <br> 1<sup>st</sup> and 8<sup>th</sup> <br> 3<sup>rd</sup>, 5<sup>th</sup> and 8<sup>th</sup> |
+| 2022 | National School Games&nbsp;<br>*   'B' Division Girls Overall Team<br>*   'B' Division Foil Individual&nbsp;<br>*   'C' Division Girls Overall Team<br>*   'C' Division Epee Individual&nbsp;<br>*   'C' Division Foil Individual<br>*   'C' Division Sabre Individual | <br>3<sup>rd</sup><br>6<sup>th</sup>&nbsp;and 8<sup>th</sup> <br> 2<sup>nd</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 8<sup>th</sup> |
 | 2019 | 2019 National School Games |  |
-|   | *   'B' Division Girls Overall Team | 4<sup>th</sup> |
-|   | *   'C' Division Girls Overall Team | 5<sup>th</sup>  |
-|   | *    Epee Individual Girl's Event | Top 8  |
-|   | 2019 Singapore Novices Championships  |  |
-|   | *    Foil Team Event | 1<sup>st</sup> and 3<sup>rd</sup>   |
-|   | *    Epee Team Event  | 3<sup>rd</sup>  |
-|   | *    Sabre Team Event | 2<sup>nd</sup> |
-|   | *    Foil Individual Event | 3<sup>rd</sup>  |
-|   | *    Epee Individual Event | 2<sup>nd</sup>  |
-|  2018 | 2018 National School Games  |  |
-|   | *   'B' Division Girls Overall Team  | 4<sup>th</sup>  |
-|   | *   'C' Division Girls Overall Team | 2<sup>nd</sup>   |
-|   | *   'C' Division Girls Epee Individual Event | 2<sup>nd</sup> and 3<sup>rd</sup>  |
-|   | 2018 Singapore Novices Championships  |  |
-|   | *   Women Epee Individual |  3<sup>rd</sup>  |
-|   | *   Women Foil Individual | 2<sup>nd</sup> and 3<sup>rd</sup> |
-|   | *   Women Sabre Team | 3<sup>rd</sup>  |
-|   | *   Women Epee Team | 2<sup>nd</sup>   |
-|   | *   Women Foil Team  | 1<sup>st</sup>  |
+| &nbsp; | *   'B' Division Girls&nbsp;Overall Team | 4<sup>th</sup> |
+| &nbsp; | *   'C' Division Girls Overall Team | 5<sup>th</sup>&nbsp; |
+| &nbsp; | *   &nbsp;Epee Individual Girl's Event | Top 8&nbsp; |
+| &nbsp; | 2019 Singapore Novices Championships&nbsp; |  |
+| &nbsp; | *   &nbsp;Foil Team Event | 1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp;&nbsp; |
+| &nbsp; | *   &nbsp;Epee Team Event&nbsp; | 3<sup>rd</sup>&nbsp; |
+| &nbsp; | *   &nbsp;Sabre Team Event | 2<sup>nd</sup> |
+| &nbsp; | *   &nbsp;Foil Individual Event | 3<sup>rd</sup>&nbsp; |
+| &nbsp; | *   &nbsp;Epee Individual Event | 2<sup>nd</sup>&nbsp; |
+| &nbsp;2018 | 2018 National School Games&nbsp; |  |
+| &nbsp; | *   'B' Division Girls Overall Team&nbsp; | 4<sup>th</sup>&nbsp; |
+| &nbsp; | *   'C' Division Girls Overall Team | 2<sup>nd</sup>&nbsp;&nbsp; |
+| &nbsp; | *   'C' Division Girls Epee Individual Event | 2<sup>nd</sup>&nbsp;and 3<sup>rd</sup>&nbsp; |
+| &nbsp; | 2018 Singapore Novices Championships&nbsp; |  |
+| &nbsp; | *   Women Epee Individual | &nbsp;3<sup>rd</sup>&nbsp; |
+| &nbsp; | *   Women Foil Individual | 2<sup>nd</sup>&nbsp;and 3<sup>rd</sup> |
+| &nbsp; | *   Women Sabre Team | 3<sup>rd</sup>&nbsp; |
+| &nbsp; | *   Women Epee Team | 2<sup>nd</sup>&nbsp;&nbsp; |
+| &nbsp; | *   Women Foil Team&nbsp; | 1<sup>st</sup>&nbsp; |
 | | | |

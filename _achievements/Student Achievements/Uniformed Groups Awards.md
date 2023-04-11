@@ -4,9 +4,24 @@ permalink: /achievements/student-achievements/uniformed-groups-awards/
 description: ""
 third_nav_title: Student Achievements
 ---
+2023
+----
+| Girls' Brigade |  |  |
+| -------- | -------- | -------- |
+| The Girls' Brigade Singapore Company Award 2022  - Gold <br> The Girls' Brigade Drill Competition 2023 - Gold   |      |     |
+
+| Red Cross Youth |  |  |
+| -------- | -------- | -------- |
+| Red Cross Youth Unit Excellent Unit Award 2022  - Gold    |      |     |
+
+| NPCC |  |  |
+| -------- | -------- | -------- |
+| NPCC Unit Overall Proficiency Award 2022  - Distinction    |      |     |
+
+
+
 2022
 ----
-
 
 | Girls' Brigade | 
 | -------- | 
@@ -61,12 +76,12 @@ Bronze Award - 12 students     |
 
 | Girl Guides |
 | --- |
-| The Baden Powell Award - 5 students <br> World Thinking Day 2020 Tie Dye Competition – 3<sup>rd</sup> \- 1 student <br> Puan Noor Aishah Award 2020 Girl Guides Singapore - Gold Award |
+| The Baden Powell Award - 5 students <br> World Thinking Day 2020 Tie Dye Competition&nbsp;– 3<sup>rd</sup>&nbsp;\- 1 student <br> Puan Noor Aishah Award 2020 Girl Guides Singapore - Gold Award |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| SPF - NPCC Badge - 1 student <br> National Police Cadet Corps Unit Overall Proficiency Award 2020 - Gold Award |
+| SPF - NPCC Badge - 1 student <br> National Police Cadet Corps Unit Overall Proficiency Award 2020 -&nbsp;Gold Award |
 | |
 
 2019
@@ -74,22 +89,22 @@ Bronze Award - 12 students     |
 
 | Girls' Brigade |
 | --- |
-| The Girls’ Brigade Singapore - Company Award 2019 - Gold |
-| Pioneer Brigader Brooch Award - 1 student  |
+| The Girls’ Brigade Singapore -&nbsp;Company Award 2019 - Gold |
+| Pioneer Brigader Brooch Award - 1 student&nbsp; |
 | |
 
 | Girl Guides |
 | --- |
-| Puan Noor Aishah Award 2019 Girl Guides Singapore - Gold Award |
+| Puan Noor Aishah Award 2019 Girl Guides Singapore -&nbsp;Gold Award |
 | World Thinking Day Carnival 2019 - Best Carnival Booth |
-| Camp Challenge 2019 <br> \- Merit Award – 4<sup>th</sup> Place overall <br> \- Best Patrol Flag and Identify – 3<sup>rd</sup> \- 4 students |
+| Camp Challenge 2019 <br> \-&nbsp;Merit Award – 4<sup>th</sup>&nbsp;Place overall <br> \- Best Patrol Flag and Identify – 3<sup>rd</sup>&nbsp;\- 4 students |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| National Police Cadet Corps Unit Overall Proficiency Award 2019 - Gold Award |
-| Inter Unit Drills Competition 2019 Organised by National Police Cadets Corps – Top 20 - 14 students |
-| SPF-NPCC Badge – Best Unit Cadet Award - 1 student |
+| National Police Cadet Corps Unit Overall Proficiency Award 2019 -&nbsp;Gold Award |
+| Inter Unit Drills Competition 2019&nbsp;Organised by National Police&nbsp;Cadets Corps&nbsp;– Top 20 - 14 students |
+| SPF-NPCC Badge&nbsp;– Best Unit Cadet Award - 1 student&nbsp;|
 | |
 
 | Red Cross Youth |
@@ -102,28 +117,28 @@ Bronze Award - 12 students     |
 
 | Girls' Brigade |
 | --- |
-|  The Girls’ Brigade Singapore  <br> \- Company Award 2018 - Gold |
-| The Girls’ Brigade Drill Competition 2018 – Secondary Category - Gold Award |
+| &nbsp;The Girls’ Brigade Singapore&nbsp; <br> \- Company Award 2018 - Gold |
+| The Girls’ Brigade Drill Competition 2018&nbsp;– Secondary Category - Gold Award |
 | |
 
 | Girl Guides |
 | --- |
-| Singapore South Division Competitions 2018 <br>\- Captain’s Ball – 1<sup>st</sup> - 6 students <br>\- Patch Design Competition – 1<sup>st</sup> \- 2 students  <br> \- Patch Design Competition – 3<sup>rd</sup> \- 2 students <br> \- Guides Knowledge and Skill Challenge – 1<sup>st</sup> \- 2 students |
+| Singapore South Division Competitions 2018 <br>\- Captain’s Ball – 1<sup>st</sup>&nbsp;- 6 students <br>\- Patch Design Competition – 1<sup>st</sup>&nbsp;\- 2 students  <br> \- Patch Design Competition – 3<sup>rd</sup>&nbsp;\- 2 students <br> \- Guides Knowledge and Skill Challenge – 1<sup>st</sup>&nbsp;\- 2 students |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| National Police Cadet Corps Unit Overall Proficiency Award (UOPA) 2018 - Gold Award |
-| National Police Cadet Corps Unit Overall Proficiency Award 2017 - Gold Award  |
-| National Police Cadet Corps Award Badges - SPF – NPCC Badge <br> National Police Cadet Corps Award Badges - Best Unit Cadet Badge |
+| National Police Cadet Corps Unit Overall Proficiency Award (UOPA) 2018 - Gold Award&nbsp;|
+| National Police Cadet Corps Unit Overall Proficiency Award 2017 -&nbsp;Gold Award&nbsp; |
+| National Police Cadet Corps Award Badges - SPF – NPCC Badge <br> National Police Cadet Corps&nbsp;Award Badges - Best Unit Cadet Badge |
 | |
 
 | Red Cross Youth |
 | --- |
 | Red Cross (Youth) Unit Excellence Award 2018 - Gold |
-| Red Cross Youth First Aid Championships 2018   |
-| Junior Category - Bronze  |
-| Senior Category - Silver  |
+| Red Cross Youth&nbsp;First Aid Championships 2018&nbsp;&nbsp; |
+| Junior Category&nbsp;- Bronze&nbsp; |
+| Senior Category&nbsp;- Silver&nbsp; |
 | |
 
 2017
@@ -131,20 +146,20 @@ Bronze Award - 12 students     |
 
 | Girl Guides |
 | --- |
-| Girl Guides Puan Noor Aishah Award - Unit Award for the year 2017 - Gold |
-| 2 Baden Powell Award (BPA) winners - 2 students |
-| President Guide Award (PGA) winner - 1 student |
+| Girl Guides Puan Noor Aishah&nbsp;Award -&nbsp;Unit Award for the year 2017 - Gold |
+| 2 Baden Powell Award (BPA) winners - 2 students&nbsp;|
+| President Guide Award (PGA) winner - 1 student&nbsp;|
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| National Police Cadet Corps Inter Unit Drills Competition 2017 - Top 20 Placing   |
+| National Police Cadet Corps Inter Unit Drills Competition 2017 - Top 20 Placing&nbsp;&nbsp; |
 | National Police Cadet Corps - Best Unit Cadet Badge |
 | |
 
 | Red Cross Youth |
 | --- |
-| Red Cross Youth 2017 Excellent Unit Award \- Gold  |
+| Red Cross Youth 2017 Excellent Unit Award \- Gold&nbsp; |
 | Red Cross Youth - First Aid Championships - Cadets' Junior Management Category - Silver |
 | Red Cross Youth - First Aid Championships - Cadets' Senior Management Category - Silver |
 | |
@@ -155,7 +170,7 @@ Bronze Award - 12 students     |
 | Girl Guides |
 | --- |
 | Baden Powell Award 2016 - 3 students |
-| South Division Day 2016 <br> 3<sup>rd</sup> for Charades - Identify the Countries <br> 2<sup>nd</sup> for Mix and Match Memory Game <br> 2<sup>nd</sup> for Healthy Meals for a Healthy Life <br> 1<sup>st</sup> for Ready, Run, Remember! <br> 1<sup>st</sup> for Flags of the World  <br> 1<sup>st</sup> for Dog and Bone!   |
+| South Division Day 2016 <br> 3<sup>rd</sup>&nbsp;for Charades - Identify the Countries <br> 2<sup>nd</sup>&nbsp;for Mix and Match Memory Game <br> 2<sup>nd</sup>&nbsp;for Healthy Meals for a Healthy Life <br> 1<sup>st</sup>&nbsp;for Ready, Run, Remember! <br> 1<sup>st</sup>&nbsp;for Flags of the World  <br> 1<sup>st</sup>&nbsp;for Dog and Bone!&nbsp;&nbsp; |
 | |
 
 | Girls' Brigade |
@@ -180,18 +195,18 @@ Bronze Award - 12 students     |
 | Girls' Brigade |
 | --- |
 | Company Award - Gold |
-| Sustained Achievement Award for attaining 5 Gold Awards in 5 consecutive years |
+| Sustained Achievement Award for&nbsp;attaining 5 Gold Awards in 5 consecutive years |
 | |
 
 | Girl Guides |
 | --- |
 | Puan Noor Aishah Honour Award <br> \- Company 1 - Silver <br> \- Company 2 - Silver |
-| Girl Guides Camp Challenge <br> 1<sup>st</sup> in South Division <br> \- Tent- pitching <br> \- Patrol Flag <br> \- Secret Game <br> \- Guess the Lyrics <br> \- Wide Game <br><br> 2<sup>nd</sup> in South Division <br> \- Patrol Identity  <br> \- Outdoor Cooking  <br>\- Ketupat Weaving <br><br> 3<sup>rd</sup> in South Division <br> \- Patrol Gadgets  <br> \- Telematch |
+| Girl Guides Camp Challenge <br> 1<sup>st</sup>&nbsp;in South Division&nbsp;<br> \- Tent- pitching <br> \- Patrol Flag <br> \- Secret Game <br> \- Guess the Lyrics <br> \- Wide Game&nbsp;<br><br> 2<sup>nd</sup>&nbsp;in South Division <br> \- Patrol Identity&nbsp; <br> \- Outdoor Cooking&nbsp; <br>\- Ketupat Weaving&nbsp;<br><br> 3<sup>rd</sup>&nbsp;in South Division <br> \- Patrol Gadgets&nbsp; <br> \- Telematch |
 | |
 
 | Red Cross Youth |
 | --- |
-| Singapore Red Cross National First Aid Competition (NFAC) <br> Management (Cadets) Category  <br> \- North West District Champion  <br> \- Top 15 Finalists <br><br> Awareness (Cadets) Category   <br> \- North West District Champion <br> \- Top 12 Finalists <br><br> Excellent Unit Award <br> \- Silver |
+| Singapore&nbsp;Red Cross National First Aid Competition (NFAC) <br> Management (Cadets) Category&nbsp; <br> \-&nbsp;North West District Champion&nbsp; <br> \- Top 15 Finalists <br><br> Awareness (Cadets) Category&nbsp;  <br> \-&nbsp;North West District Champion&nbsp;<br> \- Top 12 Finalists <br><br> Excellent Unit Award <br> \- Silver |
 | |
 
 2014
@@ -200,23 +215,23 @@ Bronze Award - 12 students     |
 | Girl Guides |
 | --- |
 | Puan Noor Aishah Honour Award <br> \- Company 1 - Silver <br> \- Company 2 - Bronze |
-| Wide Game Competition (South Division) - Bronze  |
+| Wide Game Competition (South Division)&nbsp;- Bronze  |
 | Girl Guides’ South Division Playoffs |
-| South Division Day Badge Design Competition:  <br> \- Individual - 1<sup>st</sup> <br> \- Girl Guides Company 1 - 2<sup>nd</sup> <br> \- Inter-Unit Games (Team) - 1<sup>st</sup>, 2<sup>nd</sup> and 3<sup>rd</sup> |
+| South Division Day Badge Design Competition:&nbsp; <br> \- Individual - 1<sup>st</sup> <br> \- Girl Guides Company 1 -&nbsp;2<sup>nd</sup> <br> \- Inter-Unit Games (Team) - 1<sup>st</sup>, 2<sup>nd</sup>&nbsp;and 3<sup>rd</sup> |
 | |
 
 | Girls' Brigade |
 | --- |
-| Company Award - Gold  |
-| Sustained Achievement Award for attaining 5 Gold Awards in 5 consecutive years |
+| Company Award - Gold&nbsp; |
+| Sustained Achievement Award for&nbsp;attaining 5 Gold Awards in 5 consecutive years |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
 | Unit Overall Proficiency Award - Bronze |
 | NPCC Inter-Unit Air Rifle Shooting Competition - 2<sup>nd</sup> |
-| SPF - NPCC Badge - 1 winner  |
-| 10th Uniformed Groups Bowling Championships <br> \- (Individual) - 1<sup>st</sup> <br> \- (Team) - 2<sup>nd</sup> and 3<sup>rd</sup> |
+| SPF - NPCC Badge - 1 winner&nbsp; |
+| 10th&nbsp;Uniformed Groups Bowling Championships <br> \- (Individual) - 1<sup>st</sup> <br> \- (Team) - 2<sup>nd</sup>&nbsp;and 3<sup>rd</sup> |
 | |
 
 | Red Cross Youth |
