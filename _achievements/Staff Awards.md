@@ -122,5 +122,5 @@ MOE Excellence in Service Award (MSEA)
 | Mdm Sagayarani d/o Arockian | 2014, 2013&nbsp;&nbsp; |
 | Mdm See Toh Wai Theng, Mae | 2014&nbsp; |
 | Mr Zulkipli Bin Ahmad | 2014&nbsp;&nbsp; |
-| Mdm Kamisah Binte Nor&nbsp; | 2018 - 2019&nbsp; |
+| Mdm Kamisah Binte Nor&nbsp; | 2019, 2018&nbsp; |
 | Mr Somasundram S/O Raman | 2019&nbsp; |
