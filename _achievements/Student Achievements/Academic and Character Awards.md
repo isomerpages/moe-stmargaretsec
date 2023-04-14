@@ -42,40 +42,40 @@ third_nav_title: Student Achievements
 | Singapore Remote Sensing Workshop 2021<br> Organised by NUS Office for Space Technology and Industry (OSTIn)&nbsp; | Most Innovative Group - 1 student<br>Best Overall Group - 1 student&nbsp; |
 | Ministry of Education History Challenge 2021&nbsp; | Certificate of Participation - 5 students<br>Ministry of Education History Talent Development Programme - 3 scholars&nbsp; |
 |Queen’s Commonwealth Essay Competition 2021&nbsp; | Gold - 5 students<br>Silver - 14 students<br>Bronze - 24 students&nbsp; |
-|All Singapore Secondary Mathematics Competition for Normal Course Students 2021 <br>organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
-|&nbsp;NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
-|&nbsp;NUS Geography Challenge 2021&nbsp; | Bronze Award - 2 students <br> Silver Award - 1 student <br> Top 25 Team - 4 students |
+|All Singapore Secondary Mathematics Competition for Normal Course Students 2021 organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
+|NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
+|NUS Geography Challenge 2021&nbsp; | Bronze Award - 2 students <br> Silver Award - 1 student <br> Top 25  - 4 students |
 |Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 <br>organised by Singapore Hokkien Huay Kuan and Lianhe Zaobao | Merit Award - 2 students |
-| GMAC Students Challenge 2021&nbsp;<br>organised by Genetic Modification Advisory Committee | Consolation Prize - 4 students&nbsp; |
-| The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
-| National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
-| Ministry of Eduation -&nbsp;_Naanum Oru Padaipaali_ | Budding Artists - Certificate of Achievement - 3 students<br> Budding Writers - Certificate of Achievement - 1 student&nbsp; |
-| _Kavimalai_&nbsp;\- Poetry Workshop cum Poetry Writing Competition 2021<br>organised by Society of Singapore Tamil Poets | Consolation Prize - 1 student&nbsp; |
-| Secondary 4 Short Story Writing Competition&nbsp;<br>organised by Singapore Tamil Writers | 3<sup>rd</sup>&nbsp;Prize - 1 student&nbsp; |
-| Short Story Writing Competition <br>organised by RJC | 1<sup>st</sup>&nbsp;Prize - 1 student&nbsp; |
-| Destination Imagination: Service Learning Challenge | Middle Level Category - 1<sup>st</sup>&nbsp;- 7 students |
-| 12<sup>th</sup>&nbsp;Goodtalk (Global Village) International Children &amp; Youth Bilingual Speech Conference | Bronze Award - 3 students <br>Most Promising Speech Award - 2 students |
+|GMAC Students Challenge 2021&nbsp;<br>organised by Genetic Modification Advisory Committee | Consolation Prize - 4 students&nbsp; |
+|The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
+|National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
+|Ministry of Eduation -&nbsp;_Naanum Oru Padaipaali_ | Budding Artists - Certificate of Achievement - 3 students<br> Budding Writers - Certificate of Achievement - 1 student&nbsp; |
+|K*avimalai*&nbsp;\- Poetry Workshop cum Poetry Writing Competition 2021 organised by Society of Singapore Tamil Poets | Consolation Prize - 1 student&nbsp; |
+|Secondary 4 Short Story Writing Competition organised by Singapore Tamil Writers | 3<sup>rd</sup>&nbsp;Prize - 1 student&nbsp; |
+|Short Story Writing Competition <br>organised by RJC | 1<sup>st</sup>&nbsp;Prize - 1 student&nbsp; |
+|Destination Imagination: Service Learning Challenge | Middle Level Category - 1<sup>st</sup>&nbsp;- 7 students |
+|12<sup>th</sup>&nbsp;Goodtalk (Global Village) International Children &amp; Youth Bilingual Speech Conference | Bronze Award - 3 students <br>Most Promising Speech Award - 2 students |
 |  |   |
 
 2020
 ----
 
-| Name of Competition/Award(s) | Recognition |
+|Name of Competition/Award(s) | Recognition |
 | --- | --- |
-| The Queen's Commonwealth Essay Competition 2020 | Bronze - 7 students <br>Silver - 13 Students<br>Gold - 5 students |
-| Singapore Poetry Festival Chinese Language&nbsp;&nbsp;&nbsp; | 15- to 18- Year-Old Category – 1<sup>st</sup>&nbsp;Prize -&nbsp;1 student <br>15- to 18- Year-Old Category – 2<sup>nd</sup>&nbsp;Prize - 1 student  <br> 15- to 18- Year-Old Category – 3<sup>rd</sup>&nbsp;Prize - 1 student <br> 10- to 14-Year-Old Category – 2<sup>nd</sup>&nbsp;Prize - 1 student  <br> 10- to 14-Year-Old Category – 3<sup>rd</sup>&nbsp;Prize - 1 student  |
-| The National Primary and Secondary School Essay Competition co-organised by Singapore Middle School Chinese Teachers' Association and the Committee to Promote Chinese Language Learning | Merit Award - 1 Student&nbsp; |
-| National Creative Story Writing Competition for Secondary Schools organised by Committee to Promote Chinese Language Learning (CPCLL) and the Singapore Centre for Chinese Language (SCCL)&nbsp; | Secondary 1 to 2 Category – Excellence Award - 1 student |
-| Create Your Own Newspaper Competition organised by Lian He Zao Bao | Lower Secondary - 3<sup>rd</sup>&nbsp;Placing - 5 students  <br> Upper Secondary - 1st&nbsp;Placing - 5 students&nbsp; |
-| PX Challenge organised by Gifted Education Branch, MOE and SUTD&nbsp; | Kahoot Quiz (Top 3) - 1 student&nbsp; |
-| Science Teen Challenge organised by ACJC | Top 30 Videos - 1 student&nbsp; |
-| MOE History Talent Development Programme (HTDP) | HTDP Scholars -&nbsp;2 students |
-| 3<sup>rd</sup>&nbsp;Text Recital Competition for Primary and Secondary Schools&nbsp; | Individual Preliminary Round – Silver - 2 students <br> Individual Preliminary Round – Bronze - 1 student <br> Team Preliminary Round – Silver - 6 students&nbsp;<br>Team Preliminary Round – Bronze - 3 students <br>Finals – Champion - 1 student |
-| Indian Speech Competition 2020 organised by the Tamil Library Services, National Library Board&nbsp; | Upper Secondary Category&nbsp;–&nbsp;1<sup>st</sup>&nbsp;Prize - 1 student <br> Lower Secondary&nbsp;–&nbsp;3<sup>rd</sup>&nbsp;Prize - 1 student |
-| International Mathematical Modelling Challenge&nbsp; | Commendation - 4 students&nbsp; |
-| Unity Science Innovation&nbsp;Challenge 2019 - 2020&nbsp; | Merit -&nbsp;4 students |
-| 12<sup>th</sup>&nbsp;International Science Youth&nbsp;Forum&nbsp;Organised by Hwa Chong&nbsp;Institution | Representing School and Singapore - 3 students  |
-| 11<sup>th</sup>&nbsp;Global Village Children &amp;&nbsp;Youths Bilingual Speech&nbsp;Competition | Preliminary&nbsp;– Participation - 1 student <br> Preliminary – Silver - 3 students <br> Finals&nbsp;– Silver - 1 student <br> Finals&nbsp;– Gold - 1 student |
+|The Queen's Commonwealth Essay Competition 2020 | Bronze - 7 students <br>Silver - 13 Students<br>Gold - 5 students |
+|Singapore Poetry Festival Chinese Language&nbsp;&nbsp;&nbsp; | 15- to 18- Year-Old Category – 1<sup>st</sup>&nbsp;Prize -&nbsp;1 student <br>15- to 18- Year-Old Category – 2<sup>nd</sup>&nbsp;Prize - 1 student  <br> 15- to 18- Year-Old Category – 3<sup>rd</sup>&nbsp;Prize - 1 student <br> 10- to 14-Year-Old Category – 2<sup>nd</sup>&nbsp;Prize - 1 student  <br> 10- to 14-Year-Old Category – 3<sup>rd</sup>&nbsp;Prize - 1 student  |
+|The National Primary and Secondary School Essay Competition co-organised by Singapore Middle School Chinese Teachers' Association and the Committee to Promote Chinese Language Learning |Merit Award - 1 Student&nbsp; |
+|National Creative Story Writing Competition for Secondary Schools organised by Committee to Promote Chinese Language Learning (CPCLL) and the Singapore Centre for Chinese Language (SCCL)&nbsp; | Secondary 1 to 2 Category – Excellence Award - 1 student |
+| Create Your Own Newspaper Competition organised by Lianhe Zaobao | Lower Secondary - 3<sup>rd</sup>&nbsp;Placing - 5 students  <br> Upper Secondary - 1<sup>st</sup>;Placing - 5 students&nbsp; |
+|PX Challenge organised by Gifted Education Branch, MOE and SUTD&nbsp; | Kahoot Quiz (Top 3) - 1 student&nbsp; |
+|Science Teen Challenge organised by ACJC | Top 30 Videos - 1 student&nbsp; |
+|MOE History Talent Development Programme (HTDP) | HTDP Scholars -&nbsp;2 students |
+|3<sup>rd</sup>&nbsp;Text Recital Competition for Primary and Secondary Schools&nbsp; | Individual Preliminary Round – Silver - 2 students <br> Individual Preliminary Round – Bronze - 1 student <br> Team Preliminary Round – Silver - 6 students&nbsp;<br>Team Preliminary Round – Bronze - 3 students <br>Finals – Champion - 1 student |
+|Indian Speech Competition 2020 organised by the Tamil Library Services, National Library Board&nbsp; | Upper Secondary Category&nbsp;–&nbsp;1<sup>st</sup>&nbsp;Prize - 1 student <br> Lower Secondary&nbsp;–&nbsp;3<sup>rd</sup>&nbsp;Prize - 1 student |
+|International Mathematical Modelling Challenge&nbsp; | Commendation - 4 students&nbsp; |
+|Unity Science Innovation&nbsp;Challenge 2019 - 2020&nbsp; | Merit -&nbsp;4 students |
+|12<sup>th</sup>&nbsp;International Science Youth&nbsp;Forum&nbsp;Organised by Hwa Chong&nbsp;Institution | Representing School and Singapore - 3 students  |
+|11<sup>th</sup>&nbsp;Global Village Children &amp;&nbsp;Youths Bilingual Speech&nbsp;Competition |Preliminary&nbsp;– Participation - 1 student <br> Preliminary – Silver - 3 students <br> Finals&nbsp;– Silver - 1 student <br> Finals&nbsp;– Gold - 1 student |
 | | |
 
 2019
@@ -83,38 +83,38 @@ third_nav_title: Student Achievements
 
 | Name of Competition/Award(s)&nbsp;&nbsp; &nbsp; | Recognition |
 | --- | --- |
-| National Cyber Wellness Advocacy&nbsp;Challenge 2019 | Silver Award - 4 students |
-| National Creative Story Writing&nbsp;Competition for Secondary&nbsp;Students&nbsp;Jointly organised by Singapore&nbsp;Centre for Chinese Language&nbsp;(SCCL) and the Committee to&nbsp;Promote Chinese Language&nbsp;Learning (CPCLL) | Group A (Secondary 1 - 2) – Excellence Award - 1 student |
-| Rakan Bahasa (Friends of the&nbsp;Language) Organised by Malay Language&nbsp;Council Singapore&nbsp; | Certificates of Accomplishment – Junior Language&nbsp;Ambassadors - 2 students |
-| Toy Design Competition 2019&nbsp;Organised by Singapore&nbsp;Polytechnic | Commendation Prize - 4 students |
-| UNSW REACH Assessment for&nbsp;English | Exemplary Award - 6 students <br> Outstanding Award - 21 students |
-| UNSW REACH Assessment for&nbsp;Writing | Exemplary Award - 6 students  <br> Outstanding Award - 12 students |
-| UNSW REACH Assessment for&nbsp;Mathematics | Exemplary Award - 10 students <br> Outstanding Award - 71 students |
-| University of New South Wales&nbsp;(UNSW) <br> REACH Assessment for Science | Outstanding Achievement Award - 9 students |
-| Plain English Speaking Award&nbsp;(PESA) 2019 | Upper Secondary Category: 1<sup>st</sup> runner up - 1 student |
-| MOE History Challenge 2019&nbsp; | Certificate of Participation - 4 students&nbsp;<br>MOE’s History Talent Development Programme - 1 student |
-| National Creative Story Writing Competition for Secondary Students co-organised by Singapore Centre for Chinese Language (SCCL) and the&nbsp;Committee to Promote Chinese Language Learning (CPCLL)&nbsp; | Group A (Secondary 1 - 2) -&nbsp;Excellence Award - 1 student&nbsp; |
-| National Schools Literature Festival 2019&nbsp; | Upper Secondary Unseen Debate – Winner  <br> Category 2: Choral Reading – Bronze |
-| Energy Innovation Challenge 2019 organised by Institution of Engineers, Singapore (IES) and Science Centre Singapore&nbsp; | Category 1 (Secondary Section) – Merit Award |
-| Baden-Powell Award | Award Attained In 2018  <br> Award Attained In 2019&nbsp; |
-| Periyar Sayings Recital&nbsp;Competition organised by Periyar&nbsp;Community Service of Singapore | Lower Secondary Category – 2<sup>nd</sup><br>Lower Secondary Category – 3<sup>rd</sup> <br>Lower Secondary Category – Certificate Of Participation |
-| My Story 2019 Mandarin Public Speaking Competition Organised by Speak Mandarin Campaign and Noontalk Media | Top 6 Finalist &amp; Best Story Award (Judges' Choice) - 1 student<br>Top 6 Finalist - Wee Yi Xuan S2-1 |
-| 全国新诗创作比赛&nbsp;National Poetry Competition | 1<sup>st</sup> - 1 student <br>3<sup>rd</sup>&nbsp;- 2 students  <br>Merit Award - 3 students |
-| Peacemakers Conference 2019 | 2<sup>nd</sup> &nbsp;- 2 students  <br> Certificate of Participation - 9 students |
-| Eco-guides for Eco-Town at Punggol organised by Housing Development Board | Certificate of Appreciation - 9 students |
-| Chinese Creative Writing with Photography Competition 2019 | Lower Secondary Category – 1<sup>st</sup> Prize - 1 student&nbsp; |
-| Tamil Language Competitions Organised by Tampines GRC IAECSs | Oratorical Contest and Proverb Recital Category - First Prize - 1 student <br> Oratorical Contest – Consolation Prize - 1 student |  
-| 2019 A\*STAR Science Award (Upper Secondary)&nbsp; | 2 students&nbsp; |
-| Creative Arts Seminar&nbsp; | 2 shortlisted students&nbsp; |
-| Naanum Oru Padaippaali (NOP) - A Budding Writers’, Scriptwriters’ &amp; Poets’ Programme&nbsp;&nbsp;(Tamil Language) | Budding Writer – Silver Award  <br>Budding Writer - Certificate of Participation - 1 student  <br>Budding Artiste – Silver Award - 3 students&nbsp; | 
-| Social Media Challenge&nbsp;Organised by Republic&nbsp;Polytechnic&nbsp; | 2<sup>nd</sup>&nbsp;Runner-up -&nbsp;&nbsp;4 students |
-| National Mandarin Oratorical Contest for Secondary/ Higher&nbsp;School | 1<sup>st</sup>&nbsp;Prize - 1 student  <br> Certificate of Participation&nbsp;- 1 student |
+|National Cyber Wellness Advocacy&nbsp;Challenge 2019 | Silver Award - 4 students |
+|National Creative Story Writing&nbsp;Competition for Secondary&nbsp;Students&nbsp;Jointly organised by Singapore&nbsp;Centre for Chinese Language&nbsp;(SCCL) and the Committee to&nbsp;Promote Chinese Language&nbsp;Learning (CPCLL) | Group A (Secondary 1 - 2) – Excellence Award - 1 student |
+|*Rakan Bahasa* (Friends of the&nbsp;Language) organised by Malay Language&nbsp;Council Singapore&nbsp; | Certificates of Accomplishment – Junior Language&nbsp;Ambassadors - 2 students |
+|Toy Design Competition 2019&nbsp;organised by Singapore&nbsp;Polytechnic | Commendation Prize - 4 students |
+|UNSW REACH Assessment for&nbsp;English | Exemplary Award - 6 students <br> Outstanding Award - 21 students |
+|UNSW REACH Assessment for&nbsp;Writing | Exemplary Award - 6 students  <br> Outstanding Award - 12 students |
+|UNSW REACH Assessment for&nbsp;Mathematics | Exemplary Award - 10 students <br> Outstanding Award - 71 students |
+|University of New South Wales&nbsp;(UNSW) <br> REACH Assessment for Science | Outstanding Achievement Award - 9 students |
+|Plain English Speaking Award&nbsp;(PESA) 2019 | Upper Secondary Category: 1<sup>st</sup> runner up - 1 student |
+|MOE History Challenge 2019&nbsp; | Certificate of Participation - 4 students&nbsp;<br>MOE’s History Talent Development Programme - 1 student |
+|National Creative Story Writing Competition for Secondary Students co-organised by Singapore Centre for Chinese Language (SCCL) and the&nbsp;Committee to Promote Chinese Language Learning (CPCLL)&nbsp; | Group A (Secondary 1 - 2) -&nbsp;Excellence Award - 1 student&nbsp; |
+|National Schools Literature Festival 2019&nbsp; | Upper Secondary Unseen Debate – Winner  <br> Category 2: Choral Reading – Bronze |
+|Energy Innovation Challenge 2019 organised by Institution of Engineers, Singapore (IES) and Science Centre Singapore&nbsp; | Category 1 (Secondary Section) – Merit Award |
+|Baden-Powell Award | Award Attained in 2018  <br> Award Attained in 2019&nbsp; |
+|Periyar Sayings Recital&nbsp;Competition organised by Periyar&nbsp;Community Service of Singapore | Lower Secondary Category – 2<sup>nd</sup><br>Lower Secondary Category – 3<sup>rd</sup> <br>Lower Secondary Category – Certificate of Participation |
+|My Story 2019 Mandarin Public Speaking Competition organised by Speak Mandarin Campaign and Noontalk Media |Top 6 Finalist &amp; Best Story Award (Judges' Choice) - 1 student<br>Top 6 Finalist - 1 student |
+|全国新诗创作比赛&nbsp;National Poetry Competition | 1<sup>st</sup> - 1 student <br>3<sup>rd</sup>&nbsp;- 2 students  <br>Merit Award - 3 students |
+|Peacemakers Conference 2019 | 2<sup>nd</sup> &nbsp;- 2 students  <br> Certificate of Participation - 9 students |
+|Eco-guides for Eco-Town at Punggol organised by Housing Development Board | Certificate of Appreciation - 9 students |
+|Chinese Creative Writing with Photography Competition 2019 | Lower Secondary Category – 1<sup>st</sup> Prize - 1 student&nbsp; |
+|Tamil Language Competitions organised by Tampines GRC IAECSs | Oratorical Contest and Proverb Recital Category - First Prize - 1 student <br> Oratorical Contest – Consolation Prize - 1 student |  
+|2019 A\*STAR Science Award (Upper Secondary)&nbsp; |2 students&nbsp; |
+|Creative Arts Seminar&nbsp; | 2 shortlisted students&nbsp; |
+|Naanum Oru Padaippaali (NOP) - A Budding Writers’, Scriptwriters’ &amp; Poets’ Programme&nbsp;&nbsp;(Tamil Language) | Budding Writer – Silver Award  <br>Budding Writer - Certificate of Participation - 1 student  <br>Budding Artiste – Silver Award - 3 students&nbsp; | 
+|Social Media Challenge&nbsp;organised by Republic&nbsp;Polytechnic&nbsp; | 2<sup>nd</sup>&nbsp;Runner-up -&nbsp;&nbsp;4 students |
+|National Mandarin Oratorical Contest for Secondary/ Higher&nbsp;School | 1<sup>st</sup>&nbsp;Prize - 1 student  <br> Certificate of Participation&nbsp;- 1 student |
 | &nbsp;ITE IgnITE Skills Challenge 2019 | Data Visualisation - 2<sup>nd</sup>&nbsp;Runner-Up&nbsp; - 2 students |
-| Singapore Youth Festival 2019 Youth Station Project | Honourable Mention  <br> Singers and Songwriters  <br> Song Title – Soul Sisters&nbsp;<br><br>Certificate of Participation  <br>Singers and Songwriter  <br>Song Title – Drowning  <br><br> Certificate of Participation <br> Singers and Songwriters  <br>Song Title – Change |
-| Maths Challenge 2019&nbsp;Organised by Ngee Ann&nbsp;Polytechnic | School Overall – 3<sup>rd</sup><br> Team 1 – Session 1 Quiz – 3<sup>rd</sup> <br> Team 2 – Session 1A Alpha Blast – 1<sup>st</sup> <br>Team 3 – Session 1 Quiz – 2<sup>nd</sup> |
-| Poetry Recital Contest 2019 | Word for Word Translation – 2<sup>nd</sup>&nbsp;Writing News Contest – Consolation |
-| Tamil Language Interschool Competitions 2019 Organised by Raffles Institution | School Overall - Challenge Trophy <br>Oratorical Competition (Upper Secondary Category) – 1<sup>st</sup><br>Essay Writing Competition – 2<sup>nd</sup> <br> Oratorical Competition (Lower Secondary Category) – 3<sup>rd</sup> <br>Drama Competition - 4 students |
-| Destination Imagination 2019 | Service Learning Challenge 2019 <br> -&nbsp;Middle Level Category – Champions - 7 students |
+|Singapore Youth Festival 2019 Youth Station Project | Honourable Mention  <br> Singers and Songwriters  <br> Song Title – Soul Sisters&nbsp;<br><br>Certificate of Participation  <br>Singers and Songwriter  <br>Song Title – Drowning  <br><br> Certificate of Participation <br> Singers and Songwriters  <br>Song Title – Change |
+|Maths Challenge 2019&nbsp;organised by Ngee Ann&nbsp;Polytechnic | School Overall – 3<sup>rd</sup><br> Team 1 – Session 1 Quiz – 3<sup>rd</sup> <br> Team 2 – Session 1A Alpha Blast – 1<sup>st</sup> <br>Team 3 – Session 1 Quiz – 2<sup>nd</sup> |
+|Poetry Recital Contest 2019 | Word for Word Translation – 2<sup>nd</sup>&nbsp;Writing News Contest – Consolation |
+|Tamil Language Interschool Competitions 2019 organised by Raffles Institution | School Overall - Challenge Trophy <br>Oratorical Competition (Upper Secondary Category) – 1<sup>st</sup><br>Essay Writing Competition – 2<sup>nd</sup> <br> Oratorical Competition (Lower Secondary Category) – 3<sup>rd</sup> <br>Drama Competition - 4 students |
+|Destination Imagination 2019 | Service Learning Challenge 2019 <br> -&nbsp;Middle Level Category – Champions - 7 students |
 | “Global Village” Children and&nbsp;Youth Bilingual Speech Conference 2018/2019 | Beijing International Finals  <br> -&nbsp;Global Youth Diplomatic Ambassador Award - 1 student  <br> -&nbsp;Global Youth Diplomatic Contribution Award - 1 student |
 | Piala Cendekia Sahibba organised by Woodgrove&nbsp;Secondary School | South Zone – 4<sup>th</sup> |
 | Rentas Pantas Competition&nbsp;organised by NTU’s Malay Language and Cultural Society | Certificate of Participation&nbsp; |
