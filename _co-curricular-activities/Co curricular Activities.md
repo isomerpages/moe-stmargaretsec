@@ -44,10 +44,9 @@ More information on LEAPS 2.0 and the conversion of level of Attainment to Bonus
 |Bowling| Creative Art Club (Visual Art)
 |Fencing | Concert Band
 |Floorball | English Drama
-| Netball | Indian Dance 
+|Netball | Indian Dance 
 |Tennis | Malay Dance
-| |Modern Dance
-||String Ensemble
+|Modern Dance|String Ensemble|
 
 
 | **Uniformed Groups** | **Clubs** | 
