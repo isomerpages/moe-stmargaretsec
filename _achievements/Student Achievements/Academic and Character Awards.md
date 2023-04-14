@@ -17,8 +17,8 @@ third_nav_title: Student Achievements
 | 5th&nbsp;Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
 | 20th&nbsp;National School Chinese Creative Writing Competition | Merit Award - 1 student|
 | Literary Competitions by Association of Singapore Tamil Writers| Word-for-word Translation Contest - Certificate of Participation - 1 student <br> Word-for-word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
-| Oratorical Competition organised by Raffles Institution | 3rd&nbsp;\- 1 student|
-| _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3rd&nbsp;\- 2 students
+| Oratorical Competition organised by Raffles Institution | 3<sup>rd</sup>&nbsp;\- 1 student|
+| _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3<sup>rd</sup>&nbsp;\- 2 students
 |National Library Board - Race to Win | Certificate of Participation - 5 students |
 |MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
 |MOE Budding Writers Workshop | Certificate of Participation - 2 students |
@@ -50,7 +50,7 @@ third_nav_title: Student Achievements
 | The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
 | National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
 | Ministry of Eduation -&nbsp;_Naanum Oru Padaipaali_ | Budding Artists - Certificate of Achievement - 3 students<br> Budding Writers - Certificate of Achievement - 1 student&nbsp; |
-| _Kavimalai_&nbsp;\- Poetry Workshop cum Poetry Writing Competition 2021<br>organised by Society of Singapore Tamil Poets | Consoloation Prize - 1 student&nbsp; |
+| _Kavimalai_&nbsp;\- Poetry Workshop cum Poetry Writing Competition 2021<br>organised by Society of Singapore Tamil Poets | Consolation Prize - 1 student&nbsp; |
 | Secondary 4 Short Story Writing Competition&nbsp;<br>organised by Singapore Tamil Writers | 3<sup>rd</sup>&nbsp;Prize - 1 student&nbsp; |
 | Short Story Writing Competition <br>organised by RJC | 1<sup>st</sup>&nbsp;Prize - 1 student&nbsp; |
 | Destination Imagination: Service Learning Challenge | Middle Level Category - 1<sup>st</sup>&nbsp;- 7 students |
