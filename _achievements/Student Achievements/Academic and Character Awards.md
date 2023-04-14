@@ -42,13 +42,13 @@ third_nav_title: Student Achievements
 | Singapore Remote Sensing Workshop 2021<br> Organised by NUS Office for Space Technology and Industry (OSTIn)&nbsp; | Most Innovative Group - 1 student<br>Best Overall Group - 1 student&nbsp; |
 | Ministry of Education History Challenge 2021&nbsp; | Certificate of Participation - 5 students<br>Ministry of Education History Talent Development Programme - 3 scholars&nbsp; |
 |Queen’s Commonwealth Essay Competition 2021&nbsp; | Gold - 5 students<br>Silver - 14 students<br>Bronze - 24 students&nbsp; |
-|All Singapore Secondary Mathematics Competition for Normal Course Students 2021 organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
+|All Singapore Secondary Mathematics Competition for Normal Course Students 2021 organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal (Academic) Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal (Academic) Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal (Academic) Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal (Technical) Individual – 4<sup>th</sup>&nbsp;\- 1 student |
 |NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
 |NUS Geography Challenge 2021&nbsp; | Bronze Award - 2 students <br> Silver Award - 1 student <br> Top 25  - 4 students |
 |Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 organised by Singapore Hokkien Huay Kuan and Lianhe Zaobao | Merit Award - 2 students |
 |GMAC Students Challenge 2021&nbsp;<br>organised by Genetic Modification Advisory Committee | Consolation Prize - 4 students&nbsp; |
 |The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
-|National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
+|National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup> - 1 student |
 |Ministry of Eduation -&nbsp;_Naanum Oru Padaipaali_ | Budding Artists - Certificate of Achievement - 3 students<br> Budding Writers - Certificate of Achievement - 1 student&nbsp; |
 |K*avimalai*&nbsp;\- Poetry Workshop cum Poetry Writing Competition 2021 organised by Society of Singapore Tamil Poets | Consolation Prize - 1 student&nbsp; |
 |Secondary 4 Short Story Writing Competition organised by Singapore Tamil Writers | 3<sup>rd</sup>&nbsp;Prize - 1 student&nbsp; |
