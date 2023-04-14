@@ -127,9 +127,8 @@ Bronze Award - 12 students     |
 
 | Red Cross Youth |
 | --- |
-| Red Cross (Youth) Unit Excellence Award 2018 - Gold |
+| Red Cross Youth Unit Excellence Award 2018 - Gold |
 | Red Cross Youth&nbsp;First Aid Championships 2018&nbsp;&nbsp; |
 | Junior Category&nbsp;- Bronze&nbsp; |
 | Senior Category&nbsp;- Silver&nbsp; |
 | |
-
