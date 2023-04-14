@@ -20,7 +20,7 @@ third_nav_title: Student Achievements
 | _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3rd&nbsp;\- 2 students
 |National Library Board - Race to Win | Certificate of Participation - 5 students |
 |MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
-| MOE Budding Writers Workshop | Certificate of Participation - 2 students |
+|MOE Budding Writers Workshop | Certificate of Participation - 2 students |
 | Singapore Junior Water Prize Competition organised b Ngee Ann Polytechnic | Main Category - 2nd&nbsp;\- 2 students
 | IDE Maker 2022&nbsp; | National Secondary Category - 3<sup>rd</sup>&nbsp;\- 2 students <br> Certificate of Participation - 3 students&nbsp; |
 | Media Challenge 2022&nbsp;<br> organised by Republic Polytechnic&nbsp; | Commendation Award - 4 students&nbsp; |
