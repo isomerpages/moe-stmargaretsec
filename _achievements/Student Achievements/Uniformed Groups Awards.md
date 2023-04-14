@@ -8,23 +8,14 @@ third_nav_title: Student Achievements
 ----
 | Girls' Brigade |  |  |
 | -------- | -------- | -------- |
-| The Girls' Brigade Singapore Company Award 2022  - Gold <br> The Girls' Brigade Drill Competition 2023 - Gold   |      |     |
-
-| Red Cross Youth |  |  |
-| -------- | -------- | -------- |
-| Red Cross Youth Unit Excellent Unit Award 2022  - Gold    |      |     |
-
-| NPCC |  |  |
-| -------- | -------- | -------- |
-| NPCC Unit Overall Proficiency Award 2022  - Distinction    |      |     |
-
-
+| The Girls' Brigade Drill Competition 2023 - Gold   |      |     |
 
 2022
 ----
 
 | Girls' Brigade | 
 | -------- | 
+| The Girls' Brigade Singapore Company Award 2022  - Gold
 | Pioneer Brigader Brooch Award - 5 students |
 |Dr Low Guat Tin Challenge 2022:  
 Gold Award - 12 students  
@@ -40,6 +31,7 @@ Bronze Award - 12 students     |
 
 | Red Cross Youth |
 | --- |
+|Red Cross Youth Unit Excellent Unit Award 2022  - Gold|
 | Director's Award - 1 student |
 | |
 
