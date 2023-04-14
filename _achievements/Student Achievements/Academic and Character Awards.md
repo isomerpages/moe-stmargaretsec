@@ -12,25 +12,25 @@ third_nav_title: Student Achievements
 |The SHINE School Social Work STAR Award 2022| 4 students|
 |Queen's Commonwealth Essay Competition 2022| Gold - 4 students <br> Silver - 28 students <br> Bronze - 57 students|
 |Animation and Game Making Competition 2022 organised by the Computer Education Unit, Curriculum Planning and Development Division, Ministry of Education| Animation Category Silver Award - 1 student <br> Game Making Category Bronze Award - 1 student|
-| National Schools Translation competition organised by zbComma, Nan Hua High School and Singapore Middle School Chinese Teachers’ Association| Secondary Category Merit Award - 1 student|
+|National Schools Translation competition organised by zbComma, Nan Hua High School and Singapore Middle School Chinese Teachers’ Association| Secondary Category Merit Award - 1 student|
 |“全国中学编采比赛” Create Your Own Newspaper Competition| Lower Secondary Category - 1st&nbsp;\- 5 students <br> Upper Secondary Category - Honourable Mention - 5 students|
-| 5th&nbsp;Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
-| 20th&nbsp;National School Chinese Creative Writing Competition | Merit Award - 1 student|
+| 5<sup>th</sup>&nbsp;Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
+| 20<sup>th</sup>&nbsp;National School Chinese Creative Writing Competition | Merit Award - 1 student|
 | Literary Competitions by Association of Singapore Tamil Writers| Word-for-word Translation Contest - Certificate of Participation - 1 student <br> Word-for-word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
-| Oratorical Competition organised by Raffles Institution | 3<sup>rd</sup>&nbsp;\- 1 student|
+|Oratorical Competition organised by Raffles Institution | 3<sup>rd</sup>&nbsp;\- 1 student|
 | _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3<sup>rd</sup>&nbsp;\- 2 students
 |National Library Board - Race to Win | Certificate of Participation - 5 students |
 |MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
 |MOE Budding Writers Workshop | Certificate of Participation - 2 students |
-| Singapore Junior Water Prize Competition organised b Ngee Ann Polytechnic | Main Category - 2nd&nbsp;\- 2 students
-| IDE Maker 2022&nbsp; | National Secondary Category - 3<sup>rd</sup>&nbsp;\- 2 students <br> Certificate of Participation - 3 students&nbsp; |
-| Media Challenge 2022&nbsp;<br> organised by Republic Polytechnic&nbsp; | Commendation Award - 4 students&nbsp; |
-| ignITE Challenge 2022 <br> organised by Institute of Technical Education&nbsp; | Finalists - 12 students&nbsp; |
-| 11<sup>th</sup> International Biomedical Quiz <br>organised by Anglo-Chinese Junior College Science and Mathematics Council | Silver Award - 3 students <br> Merit Award - 4 students <br>Certificate of Participation - 3 students&nbsp; |
-| Destination Imagination&nbsp; | Middle Level Service Challenge - 2<sup>nd</sup>&nbsp;\-&nbsp; 7 students |
-| The GoodTalk (Global Village) International Children and Youth Bilingual Speech Conference&nbsp; | 3<sup>rd</sup>&nbsp;Prize in Preliminary Round - 3 students <br> 1<sup>st</sup>&nbsp;Prize in Preliminary Round - 1 student&nbsp;<br> Bronze Award in Finals - 1 student&nbsp; |
-| Unity Scientific Innovation Challenge with Singapore Polytechnic and Energy Research Institute @NTU (USPE) 2022 Finals&nbsp; | Team Merit and Best Speaker Award - 3 students&nbsp; |
-| Rakan Bahasa 2022 <br> Malay Language Council, Singapore | Appointment as Rakan Bahasa (Friends of the Language) - 2 students |
+|Singapore Junior Water Prize Competition organised b Ngee Ann Polytechnic | Main Category - 2<sup>th</sup>&nbsp;\- 2 students
+|IDE Maker 2022&nbsp; | National Secondary Category - 3<sup>rd</sup>&nbsp;\- 2 students <br> Certificate of Participation - 3 students&nbsp; |
+|Media Challenge 2022&nbsp;<br> organised by Republic Polytechnic&nbsp; | Commendation Award - 4 students&nbsp; |
+|ignITE Challenge 2022 <br> organised by Institute of Technical Education&nbsp; | Finalists - 12 students&nbsp; |
+|11<sup>th</sup> International Biomedical Quiz organised by Anglo-Chinese Junior College Science and Mathematics Council | Silver Award - 3 students <br> Merit Award - 4 students <br>Certificate of Participation - 3 students&nbsp; |
+|Destination Imagination&nbsp; | Middle Level Service Challenge - 2<sup>nd</sup>&nbsp;\-&nbsp; 7 students |
+|The GoodTalk (Global Village) International Children and Youth Bilingual Speech Conference&nbsp; | 3<sup>rd</sup>&nbsp;Prize in Preliminary Round - 3 students <br> 1<sup>st</sup>&nbsp;Prize in Preliminary Round - 1 student&nbsp;<br> Bronze Award in Finals - 1 student&nbsp; |
+|Unity Scientific Innovation Challenge with Singapore Polytechnic and Energy Research Institute @NTU (USPE) 2022 Finals&nbsp; | Team Merit and Best Speaker Award - 3 students&nbsp; |
+|*Rakan Bahasa* 2022 <br> Malay Language Council, Singapore | Appointment as *Rakan Bahasa* (Friends of the Language) - 2 students |
 | | |
 
 2021
@@ -41,11 +41,11 @@ third_nav_title: Student Achievements
 | 2021 Student Learning Space (SLS) Avatar Design Competition | Submitted a Winning Contribution to the 2021 SLS Avatar Design Competition - 1 student&nbsp; |
 | Singapore Remote Sensing Workshop 2021<br> Organised by NUS Office for Space Technology and Industry (OSTIn)&nbsp; | Most Innovative Group - 1 student<br>Best Overall Group - 1 student&nbsp; |
 | Ministry of Education History Challenge 2021&nbsp; | Certificate of Participation - 5 students<br>Ministry of Education History Talent Development Programme - 3 scholars&nbsp; |
-| Queen’s Commonwealth Essay Competition 2021&nbsp; | Gold - 5 students<br>Silver - 14 students<br>Bronze - 24 students&nbsp; |
-| All Singapore Secondary Mathematics Competition for Normal Course Students 2021 <br>organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
-| &nbsp;NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
-| &nbsp;NUS Geography Challenge 2021&nbsp; | Broze Award - 2 students <br> Silver Award - 1 student <br> Top 25 Team - 4 students |
-| Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 <br>organised by Singapore Hokkien Huay Kuan and LianHe Zao Bao | Merit Award - 2 students |
+|Queen’s Commonwealth Essay Competition 2021&nbsp; | Gold - 5 students<br>Silver - 14 students<br>Bronze - 24 students&nbsp; |
+|All Singapore Secondary Mathematics Competition for Normal Course Students 2021 <br>organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
+|&nbsp;NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
+|&nbsp;NUS Geography Challenge 2021&nbsp; | Bronze Award - 2 students <br> Silver Award - 1 student <br> Top 25 Team - 4 students |
+|Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 <br>organised by Singapore Hokkien Huay Kuan and Lianhe Zaobao | Merit Award - 2 students |
 | GMAC Students Challenge 2021&nbsp;<br>organised by Genetic Modification Advisory Committee | Consolation Prize - 4 students&nbsp; |
 | The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
 | National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
