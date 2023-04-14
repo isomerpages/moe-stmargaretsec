@@ -45,7 +45,7 @@ third_nav_title: Student Achievements
 |All Singapore Secondary Mathematics Competition for Normal Course Students 2021 organised by Clementi Town Secondary School and ACE Learning&nbsp; | Lower Secondary Normal Academic Team – 5<sup>th</sup>&nbsp;- 3 students <br> Lower Secondary Normal Academic Individual – 5<sup>th</sup>&nbsp;\- 1 student <br>Upper Secondary Normal Academic Individual – 18<sup>th</sup>&nbsp;\- 1 student <br> Upper Secondary Normal Technical Individual – 4<sup>th</sup>&nbsp;\- 1 student |
 |NJC International Humanities Symposium 2021 | Most Creative Presentation Award -&nbsp; 6 students |
 |NUS Geography Challenge 2021&nbsp; | Bronze Award - 2 students <br> Silver Award - 1 student <br> Top 25  - 4 students |
-|Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 <br>organised by Singapore Hokkien Huay Kuan and Lianhe Zaobao | Merit Award - 2 students |
+|Chinese Creative Writing with Photography Competition&nbsp;<br> 蕾爱拍客 organised by Singapore Hokkien Huay Kuan and Lianhe Zaobao | Merit Award - 2 students |
 |GMAC Students Challenge 2021&nbsp;<br>organised by Genetic Modification Advisory Committee | Consolation Prize - 4 students&nbsp; |
 |The International Mathematical Modeling Challenge&nbsp;<br>jointly organised by Academy of Singapore Teachers, NJC and RGS | Certificate of Merit - 3 students&nbsp; |
 |National Poetry Competition 2021&nbsp; | Junior Category - 2<sup>nd</sup>&nbsp;Prize - 1 student |
@@ -74,7 +74,6 @@ third_nav_title: Student Achievements
 |Indian Speech Competition 2020 organised by the Tamil Library Services, National Library Board&nbsp; | Upper Secondary Category&nbsp;–&nbsp;1<sup>st</sup>&nbsp;Prize - 1 student <br> Lower Secondary&nbsp;–&nbsp;3<sup>rd</sup>&nbsp;Prize - 1 student |
 |International Mathematical Modelling Challenge&nbsp; | Commendation - 4 students&nbsp; |
 |Unity Science Innovation&nbsp;Challenge 2019 - 2020&nbsp; | Merit -&nbsp;4 students |
-|12<sup>th</sup>&nbsp;International Science Youth&nbsp;Forum&nbsp;Organised by Hwa Chong&nbsp;Institution | Representing School and Singapore - 3 students  |
+|12<sup>th</sup>&nbsp;International Science Youth&nbsp;Forum&nbsp;organised by Hwa Chong&nbsp;Institution | Representing School and Singapore - 3 students  |
 |11<sup>th</sup>&nbsp;Global Village Children &amp;&nbsp;Youths Bilingual Speech&nbsp;Competition |Preliminary&nbsp;– Participation - 1 student <br> Preliminary – Silver - 3 students <br> Finals&nbsp;– Silver - 1 student <br> Finals&nbsp;– Gold - 1 student |
 | | |
-
