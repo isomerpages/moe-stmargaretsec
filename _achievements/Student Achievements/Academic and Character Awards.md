@@ -16,13 +16,13 @@ third_nav_title: Student Achievements
 |“全国中学编采比赛” Create Your Own Newspaper Competition| Lower Secondary Category - 1st&nbsp;\- 5 students <br> Upper Secondary Category - Honourable Mention - 5 students|
 | 5<sup>th</sup>&nbsp;Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
 | 20<sup>th</sup>&nbsp;National School Chinese Creative Writing Competition | Merit Award - 1 student|
-| Literary Competitions by Association of Singapore Tamil Writers| Word-for-word Translation Contest - Certificate of Participation - 1 student <br> Word-for-word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
+| Literary Competitions by Association of Singapore Tamil Writers| Word-for-Word Translation Contest - Certificate of Participation - 1 student <br> Word-for Word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
 |Oratorical Competition organised by Raffles Institution | 3<sup>rd</sup>&nbsp;\- 1 student|
-| _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3<sup>rd</sup>&nbsp;\- 2 students
+|*Yutham* &nbsp;NUS Tamil Language Society - Quiz Competition | 3<sup>rd</sup>&nbsp;\- 2 students
 |National Library Board - Race to Win | Certificate of Participation - 5 students |
 |MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
 |MOE Budding Writers Workshop | Certificate of Participation - 2 students |
-|Singapore Junior Water Prize Competition organised b Ngee Ann Polytechnic | Main Category - 2<sup>th</sup>&nbsp;\- 2 students
+|Singapore Junior Water Prize Competition organised by Ngee Ann Polytechnic | Main Category - 2<sup>nd</sup>&nbsp;\- 2 students
 |IDE Maker 2022&nbsp; | National Secondary Category - 3<sup>rd</sup>&nbsp;\- 2 students <br> Certificate of Participation - 3 students&nbsp; |
 |Media Challenge 2022&nbsp;<br> organised by Republic Polytechnic&nbsp; | Commendation Award - 4 students&nbsp; |
 |ignITE Challenge 2022 <br> organised by Institute of Technical Education&nbsp; | Finalists - 12 students&nbsp; |
