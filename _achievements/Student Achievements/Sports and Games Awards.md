@@ -160,25 +160,25 @@ third_nav_title: Student Achievements
 | National Age Group 2018 Girls&nbsp;Under-15 Championships&nbsp;  <br> \-&nbsp;Single Event - 1<sup>st</sup> | 
 | | 
 
-| _Fencing_ |
+| Fencing |
 | --- |
 | 2018 National School Games&nbsp; <br> \- 'C' Division Girls Epee Individual Event - 2<sup>nd</sup> <br> \- 'C' Division Girls Epee Individual Event - 3<sup>rd</sup> <br> \- 'C' Division Girls Overall Team - 2<sup>nd</sup> <br>- 'B' Division Girls Overall Team &nbsp;- 4<sup>th</sup> | 
 | 2018 Singapore Novices&nbsp;Championship<br> \-&nbsp;Women Epee Foil Individual - 3<sup>rd</sup>&nbsp;position  <br> \-&nbsp;Women Foil Individual - 3<sup>rd</sup>&nbsp;position <br> \-&nbsp;Women Foil Individual - 2<sup>nd</sup>&nbsp;position <br> \-&nbsp;Women Sabre Team - 3<sup>rd</sup>&nbsp;position <br> \-&nbsp;Women Epee Team - 2<sup>nd</sup>&nbsp;position  <br> \-&nbsp;Women Foil Team - 1<sup>st</sup>&nbsp;position |
 | |
 
-| _Netball_ |
+| Netball |
 | --- |
 | Deloitte Pesta Sukan 2018&nbsp;  <br> \- Schools 'B' Division – 3<sup>rd</sup>&nbsp;(11 students) |
 | 2018 SSSC Netball Zonal 'B' &amp; 'C' Division Girls <br> \-&nbsp;South Zone 'C' Division - 3<sup>rd</sup>&nbsp;position <br> \-&nbsp;South Zone 'B' Division - 4<sup>th</sup>&nbsp;position <br> \-&nbsp;Team Managers - 4 students  |
 | Sneakers Netball Challenge  <br> \- 'C' Division 4<sup>th</sup> <br> \- 'B' Division 3<sup>rd</sup> |
 | |
 
-| _Rhythmic Gymnastics_ |
+| Rhythmic Gymnastics |
 | --- |
 | National School Games Rhythmic Gymnastics Championships 2018 'B' Division Girls<br> - Level 5 Hoops Individual Event - 2<sup>nd</sup>&nbsp; <br> \- Level 5 Hoops Individual Event - 4<sup>th</sup> <br>\- Level 5 Clubs Individual Event - 6<sup>th</sup> <br> \- Hoops Individual FIG Event - 5<sup>th</sup> <br> \- 3 Hoops 2 Ball Group Event - 2<sup>nd</sup> |
 | |
 
-| _Others_ |
+| Others |
 | --- |
 | National Inter-schools&nbsp;Championship Plate Challenge 2018 (Tennis)&nbsp;\- ‘C’ Division Tennis Team – First Runner-up&nbsp;- 12 students&nbsp; |
 | NSG Cross Country&nbsp;Championships 2018 - 'C' Division Girls Individual - 8<sup>th</sup>&nbsp; |
