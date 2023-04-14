@@ -61,7 +61,7 @@ National Day Honours
 | Mrs Tham Chuan Chuan | Commendation Medal, 2016  <br>Long Service Medal, 2015&nbsp; |
 | Mdm Liu Xin | Commendation Medal, 2017 |
 | Mdm Yeo Shu Ling | Long Service Medal, 2017 |
-| Miss Lian Chuen Ann&nbsp; | Commendation Medal, 2018&nbsp; |
+| Ms Lian Chuen Ann&nbsp; | Commendation Medal, 2018&nbsp; |
 | Ms Susan Toh&nbsp; | Public Administration Medal (Bronze), 2019&nbsp; |
 | Miss Linda Lim&nbsp; | Long Service Medal, 2019&nbsp; |
 | Mdm Azizah Bte Rabunam&nbsp; | Long Service Medal, 2019&nbsp; |
