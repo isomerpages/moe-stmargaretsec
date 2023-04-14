@@ -16,7 +16,7 @@ third_nav_title: Student Achievements
 | 5th&nbsp;Text Recital Competition for Primary and Secondary Schools | Lower Secondary Individual Bronze Award - 2 students <br>Lower Secondary Group Silver Award - 2 students <br>Lower Secondary Group Bronze Award - 2 students<br>Upper Secondary Individual Bronze Award - 2 students<br>Upper Secondary Group Bronze Award - 3 students
 | 20th&nbsp;National School Chinese Creative Writing Competition | Merit Award - 1 student|
 | Literary Competitions by Association of Singapore Tamil Writers| Word-for-word Translation Contest - Certificate of Participation - 1 student <br> Word-for-word Contest Certificate of Participation - 1 student<br>Short Story Writing - Consolation Prize - 1 student|
-| Oratorical Competition organised by Raffles Instituition | 3rd&nbsp;\- 1 student|
+| Oratorical Competition organised by Raffles Institution | 3rd&nbsp;\- 1 student|
 | _Yutham_&nbsp;NUS Tamil Language Society - Quiz Competition | 3rd&nbsp;\- 2 students
 |National Library Board - Race to Win | Certificate of Participation - 5 students |
 |MOE Budding Artistes Workshop | Certificate of Participation - 3 students |
