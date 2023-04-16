@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | | 
 | --- | --- | --- | 
-| Training Day(s) | Tuesday | Thursday | 
-| Training Time | 2.30pm-5.30pm | 2.30pm-5.30pm | 
-| Training Venue | Performing Arts Studio | IT Conference Room <br> Dance Studio |   
+| Training Days | Tuesday | Thursday | 
+| Training Time | 2:30pm-5:30pm | 2:30pm-5:30pm | 
+| Training Venues | Performing Arts Studio | IT Conference Room <br> Dance Studio |   
 | | | |
 
 ![](/images/drama12023.jpg)
