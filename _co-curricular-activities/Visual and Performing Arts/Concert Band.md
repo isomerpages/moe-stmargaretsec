@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- |
-| Training Day(s) | Tuesday | Friday |
+| Training Days | Tuesday | Friday |
 | Training Time | 2.45pm-5.45pm | 2.30pm-5.45pm |
-| Training Venue(s) | Band Room <br> Sec 1 Classrooms | Band Room <br> Music Room  <br> Sec 1 Classrooms |   
+| Training Venues | Band Room <br> Sec 1 Classrooms | Band Room <br> Music Room  <br> Sec 1 Classrooms |   
 | | | |
 
 
@@ -53,11 +53,11 @@ Achievements
 		<td> </td>
 	</tr>
 	<tr>
-		<td> *   Percussion Ensemble&nbsp;</td>
-		<td>		*   Gold <br> *   First Prize&nbsp;</td>
+		<td> - Percussion Ensemble&nbsp;</td>
+		<td>	- Gold <br> - First Prize&nbsp;</td>
 	</tr>
 	<tr>
-		<td> *   Woodwind Quintet&nbsp;</td>
+		<td> - Woodwind Quintet&nbsp;</td>
 		<td> Gold&nbsp;</td>
 	</tr>
 	<tr>
