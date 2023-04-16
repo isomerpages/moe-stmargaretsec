@@ -9,9 +9,9 @@ CCA Schedule
 
 | | |
 | --- | --- |
-| Training Day(s) | Friday |  
-| Training Time | 3:00pm-5:45pmpm |   
-| Training Venue(s) | Parade Square <br> ICT Lab 2&amp;3 |   
+| Training Days | Friday |  
+| Training Time | 3:00pm-5:45pm |   
+| Training Venues | Parade Square <br> ICT Lab 2&amp;3 |   
 | | |
   
 \*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
@@ -38,6 +38,6 @@ Achievements
 | &nbsp; | *   Cadet Junior Management Team | Silver&nbsp; |
 | 2018 | Red Cross Youth Unit Excellence Award 2018 | Gold |
 |   | Red Cross Youth First Aid Championships 2018 |   |
-| &nbsp; | *   Senior Category | Silver&nbsp; |
-| &nbsp; | *   Junior Category | Bronze&nbsp; |
+| &nbsp; | Senior Category | Silver&nbsp; |
+| &nbsp; | Junior Category | Bronze&nbsp; |
 | | | |
