@@ -9,8 +9,8 @@ CCA Schedule
 
 | | | |
 | --- | --- |--- |
-| Training Day(s) | Monday | Friday |
-| Training Time | 3.30pm-5.00pm |   3.30pm-5.00pm
+| Training Days | Monday | Friday |
+| Training Time | 3:30pm-5:00pm |   3:30pm-5:00pm
 | Training Venues | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
 | | |
 
