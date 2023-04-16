@@ -11,7 +11,7 @@ CCA Schedule
 | --- | --- |--- |
 | Training Day(s) | Monday | Friday |
 | Training Time | 3.30pm-5.00pm |   3.30pm-5.00pm
-| Training Venue | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
+| Training Venues | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
 | | |
 
 
@@ -34,6 +34,6 @@ Achievements
 | &nbsp; | Safety Starts with Me Poster Competition&nbsp; | Consolation Prize - 2 students&nbsp; |
 | &nbsp; | Road Safety for All Art Competition&nbsp;&nbsp; | Merit Award - 2 students&nbsp; |
 | 2018&nbsp; | Singapore Youth Festival 2018 Art Exhibition&nbsp; | &nbsp; |
-| &nbsp; | Logo Design Contest | *   Certificate of Recognition (Special Mention) - 1 student&nbsp;<br> *   Certificate of Recognition - 4 students <br> *   Consolation Prize - 1 student <br> *   Certificate of Participation - 40 students |
-| &nbsp; | (2018年度张瘦石全国中小学书画展)  <br> 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition | *   Silver Award -1 student <br> *   Certificate of Merit - 2 students&nbsp;|&nbsp;  
+| &nbsp; | Logo Design Contest | Certificate of Recognition (Special Mention) - 1 student&nbsp;<br> Certificate of Recognition - 4 students <br> Consolation Prize - 1 student <br> Certificate of Participation - 40 students |
+| &nbsp; | (2018年度张瘦石全国中小学书画展)  <br> 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition | Silver Award -1 student <br> Certificate of Merit - 2 students&nbsp;|&nbsp;  
 | | | |
