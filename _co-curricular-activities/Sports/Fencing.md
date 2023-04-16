@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- | 
-| Training Day(s) | Tuesday | Thursday |   
-| Training Time | 3.00pm-5.30pm | 3.00pm-5.30pm |  
-| Training Venue(s) | The Space  <br> ISH Level 1 Classroom | The Space&nbsp; <br> ISH Level 1 Classroom | &nbsp; 
+| Training Days | Tuesday | Thursday |   
+| Training Time | 3:00pm-5:30pm | 3:00pm-5:30pm |  
+| Training Venues | The Space  <br> ISH Level 1 Classroom | The Space&nbsp; <br> ISH Level 1 Classroom | &nbsp; 
 | | | |
 
 
@@ -31,7 +31,7 @@ Achievements
 | --- | --- | --- |
 | 2022 | National School Games&nbsp;<br>*   'B' Division Girls Overall Team<br>*   'B' Division Foil Individual&nbsp;<br>*   'C' Division Girls Overall Team<br>*   'C' Division Epee Individual&nbsp;<br>*   'C' Division Foil Individual<br>*   'C' Division Sabre Individual | <br>3<sup>rd</sup><br>6<sup>th</sup>&nbsp;and 8<sup>th</sup> <br> 2<sup>nd</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 8<sup>th</sup> |
 | 2019 | 2019 National School Games |  |
-| &nbsp; | *   'B' Division Girls&nbsp;Overall Team | 4<sup>th</sup> |
+| &nbsp; | *  'B' Division Girls&nbsp;Overall Team | 4<sup>th</sup> |
 | &nbsp; | *   'C' Division Girls Overall Team | 5<sup>th</sup>&nbsp; |
 | &nbsp; | *   &nbsp;Epee Individual Girl's Event | Top 8&nbsp; |
 | &nbsp; | 2019 Singapore Novices Championships&nbsp; |  |
