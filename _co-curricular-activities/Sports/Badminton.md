@@ -8,12 +8,12 @@ CCA Schedule
 ------------
 
 
-| **Training Day(s)** | Monday | Wednesday* | Friday |
+| **Training Days** | Monday | Wednesday* | Friday |
 | -------- | -------- | -------- | -------- | 
 | Training Time     | 2:45pm-5:45pm    | 2:45pm-5:45pm     | 2:45pm-5:45pm |
 | Training Venue | ISH Level 3 | ISH Level 3 | ISH Level 3
 
-*This is an additional of training and will only be conducted during the competition season.
+*This is an additional day of training and will only be conducted during the competition season.
 
 ![](/images/Badminton1.jpg)
 
