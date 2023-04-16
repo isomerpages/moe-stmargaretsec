@@ -9,8 +9,8 @@ CCA Schedule
 
 | | |
 | --- | --- |
-| Training Day(s) | Thursday |
-| Training Time | 3.30pm-5.30pm |   
+| Training Days | Thursday |
+| Training Time | 3:30pm-5:30pm |   
 | Training Venue | St. John's Chapel |   
 | | |
 
