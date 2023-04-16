@@ -19,7 +19,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Mdm Suriyati Jumari
+Mdm Suriyati Jumani
 
 
 Achievements
