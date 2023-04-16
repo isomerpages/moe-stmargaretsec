@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- | 
-| Training Day(s) | Tuesday | Thursday |  
-| Training Time | 2.45pm-5.30pm | 2.45pm-5.30pm |   
-| Training Venue(s) | Dance Studio<br>ICT Lab 4 | Hall&nbsp; | 
+| Training Days | Tuesday | Thursday |  
+| Training Time | 2:45pm-5:30pm | 2:45pm-5:30pm |   
+| Training Venues | Dance Studio<br>ICT Lab 4 | Hall&nbsp; | 
 | | | |
 
 
