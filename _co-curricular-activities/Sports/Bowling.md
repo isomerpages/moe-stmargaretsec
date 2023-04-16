@@ -8,10 +8,10 @@ CCA Schedule
 ------------
 
 
-| Training Day(s)  | Tuesday  | Thursday 
+| Training Days  | Tuesday  | Thursday 
 | -------- | -------- | -------- | 
 | Training Time     | 3:30pm-6:00pm     | 3:30pm-6:00pm     |
-| Training Venue(s) | Civil Service Club (Tessensohn)
+| Training Venue | Civil Service Club (Tessensohn)
 
 ![](/images/Bowling1.jpg)
 

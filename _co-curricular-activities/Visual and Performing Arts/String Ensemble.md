@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- | 
-| Training Day(s) | Tuesday | Friday | 
-| Training Time | 3.00pm-5.30pm | 2.45pm-5.45pm |
-| Training Venue(s) | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&amp;4 | PAS | 
+| Training Days | Tuesday | Friday | 
+| Training Time | 3:00pm-5:30pm | 2:45pm-5:45pm |
+| Training Venues | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&amp;4 | PAS | 
 | | |
 
 
@@ -35,4 +35,3 @@ Achievements
 | 2016 | Trinity College London Ensemble Grading Examination | Intermediate Ensemble - Certificate of Distinction |
 | 2015 | Singapore Youth Festival Central Judging | Certificate of Accomplishment |
 | | | |
-

@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- |
-| Training Day(s) | Tuesday | Friday |   
-| Training Time | 2.45pm-5.45pm | 2.30pm-5.30pm | 
-| Training Venue(s) | Hall | The Space  |
+| Training Days | Tuesday | Friday |   
+| Training Time | 2:45pm-5:45pm | 2:30pm-5:30pm | 
+| Training Venues | Hall | The Space  |
 | | | |
 
 ![](/images/indiandance1.jpg)

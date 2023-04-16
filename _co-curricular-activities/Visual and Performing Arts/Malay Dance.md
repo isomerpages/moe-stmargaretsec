@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- | 
-| Training Day(s) | Monday | Friday |  
-| Training Time | 2.45pm-5.45pm | 2.30pm-5.30pm |  
-| Training Venue(s) | Hall | Dance Studio |  
+| Training Days | Monday | Friday |  
+| Training Time | 2:45pm-5:45pm | 2:30pm-5:30pm |  
+| Training Venues | Hall | Dance Studio |  
 | | | |
   
 ![](/images/malaydance12023.jpg)  
@@ -31,5 +31,3 @@ Achievements
 | 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2015 | Singapore Youth Festival Central Judging | Certificate of Distinction |
 | | | |
-
-

@@ -9,9 +9,9 @@ CCA Schedule
 
 | | |
 | --- | --- | 
-| Training Day(s) | Friday | 
-| Training Time | 3.00pm-5:45pm | 
-| Training Venue(s) | Parade Square  <br> ISH Level 1 Classrooms |   
+| Training Days | Friday | 
+| Training Time | 3:00pm-5:45pm | 
+| Training Venues | Parade Square  <br> ISH Level 1 Classrooms |   
 | | |
 
 ![](/images/girlguides1.jpg)*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
@@ -36,11 +36,11 @@ Achievements
 | 2019 | Puan Noor Aishah Award 2019 | Gold |
 | &nbsp; | World Thinking Day Carnival&nbsp; | Best Carnival Booth |
 | &nbsp; | Camp Challenge 2018&nbsp; | &nbsp; |
-| &nbsp; | *   Merit Award | 4<sup>th</sup>&nbsp;Place Overall&nbsp; |
-| &nbsp; | *   Best Patrol Flag and Identify | 3<sup>rd</sup>&nbsp; |
+| &nbsp; | Merit Award | 4<sup>th</sup>&nbsp;Place Overall&nbsp; |
+| &nbsp; | Best Patrol Flag and Identify | 3<sup>rd</sup>&nbsp; |
 | 2018 | Puan Noor Aishah Award 2018 | Gold&nbsp; |
 | &nbsp; | Singapore South Division Competitions 2018 |  |
-| &nbsp; | *   Captain's Ball | 1<sup>st</sup>&nbsp; |
-| &nbsp; | *   Patch Design Competition | 1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp; |
-| &nbsp; | *   Guides Knowledge and Skill Challenge | 1<sup>st</sup>&nbsp; |
+| &nbsp; | Captain's Ball | 1<sup>st</sup>&nbsp; |
+| &nbsp; | Patch Design Competition | 1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp; |
+| &nbsp; | Guides Knowledge and Skill Challenge | 1<sup>st</sup>&nbsp; |
 | | | |

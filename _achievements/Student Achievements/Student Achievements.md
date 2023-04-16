@@ -21,7 +21,7 @@ Environmental Awards
 Academic and Co-Curricular Awards
 ---------------------------------
 
-*   [Academic Awards](/achievements/student-achievements/academic-awards)
+*   [Academic and Character Awards](/achievements/student-achievements/academic-awards)
 *   [Sports and Games Awards](/achievements/student-achievements/sports-and-games-awards)
 *   [Visual and Performing Arts Awards](/achievements/student-achievements/visual-and-performing-arts-awards)
 *   [Uniformed Groups Awards](/achievements/student-achievements/uniformed-groups-awards)

@@ -8,12 +8,12 @@ CCA Schedule
 ------------
 
 
-| Training Day(s) | Monday | Thursday | Friday*
+| Training Days | Monday | Thursday | Friday*
 | -------- | -------- | -------- |-------- |
 | Training Time     | 2:30pm-5:30pm     |  2:30pm-5:30pm     |  2:30pm-5:30pm
-|Training Venue | Basketball Court | Basketball Court | Basketball Court
+|Training Venues | Basketball Court | Basketball Court | Basketball Court
 
-This is an additional day scheduled and **will only be** conducted during the competition season.
+*This is an additional day of training and will only be conducted during the competition season.
 
 ![](/images/Basketball2_compressed.jpg)
 

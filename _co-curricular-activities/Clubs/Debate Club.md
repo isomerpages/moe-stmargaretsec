@@ -7,10 +7,10 @@ third_nav_title: Clubs
 CCA Schedule
 ------------
 
-| Training Day(s) | Tuesday | Thursday |   
+| Training Days | Tuesday | Thursday |   
 | --- | --- | --- | 
-| Training Time | 3.00pm-5.45pm | 3.00pm-5.45pm |   
-| Training Venue(s) | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
+| Training Time | 3:00pm-5:45pm | 3:00pm-5:45pm |   
+| Training Venues | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 
 ![](/images/debateclub1.jpg)
@@ -35,7 +35,7 @@ Achievements
 <tbody>
   <tr>
     <td rowspan="5">2019</td>
-    <td>Singapore Secondary School Debating Championships</td>
+    <td>Singapore Secondary Schools Debating Championships</td>
     <td></td>
   </tr>
   <tr>

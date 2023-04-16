@@ -8,15 +8,15 @@ CCA Schedule
 ------------
 
 
-| Group(s) | Group A | Group B | Group C |
+| Groups | Group A | Group B | Group C |
 | -------- | -------- | -------- | -------- |
-| Training Day(s)  | Monday* | Thursday | Friday |
+| Training Days  | Monday* | Thursday | Friday |
 | Training Time     | 3:30pm-5:30pm  | 3:30pm-5:30pm     | 3:30pm-5:30pm|
 | Training Venue | Tennis Courts| Tennis Courts | Tennis Courts
 
 
 This is an additional day of training scheduled due to competition and
-<u><b>will only be</u></b> conducted during the competition season.
+<u><b>will only be</b></u>&nbsp;conducted during the competition season.
 
 
 ![](/images/Tennis2.jpg)
@@ -32,5 +32,5 @@ Achievements
 ------------
 | Year | Name of Competition | Achievement |
 | -------- | -------- | -------- |
-| 2022  |  Plate Tournament of National Inter-schools Tennis Championships <br> - Teams <br> | <br><br> 3<sup>rd</sup> |
-| 2018 |National Inter-schools Championships Plate Challenge <br> - 'C' Division Tennis Team|<br> 1<sup>st</sup> Runner-up|
+| 2022  |  Plate Tournament of National Inter-schools Tennis Championships <br>  <br> | 3<sup>rd</sup> |
+| 2018 |National Inter-schools Championships  'C' Division Plate Challenge |<br> 1<sup>st</sup> Runner-up|
