@@ -9,9 +9,9 @@ CCA Schedule
 
 | | | |
 | --- | --- | --- |
-| Training Day(s) | Monday | Friday |  
-| Training Time | 2.45pm-5.45pm | 2.45pm-5.45pm | 
-| Training Venue(s) | Dance Studio<br>MPR 4 | Hall |   
+| Training Days | Monday | Friday |  
+| Training Time | 2:45pm-5:45pm | 2:45pm-5:45pm | 
+| Training Venues | Dance Studio<br>MPR 4 | Hall |   
 | | | |
 
 ![](/images/moderndance1.jpg)
