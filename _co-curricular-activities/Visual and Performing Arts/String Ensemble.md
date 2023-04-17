@@ -28,6 +28,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
+| 2023 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2021 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2018 | Ensemble Certificate Examination by Trinity College London | Certificate of Distinction |
