@@ -36,5 +36,5 @@ Achievements
 | 2019 | The Girls' Brigade Singapore - Company Award 2019 | Gold |
 | &nbsp; | Pioneer Brigader Brooch Award | 1 student&nbsp; |
 | 2018 | The Girls' Brigade Singapore - Company Award 2018&nbsp; | Gold&nbsp; |
-| &nbsp; | The Girls' Brigade Drill Competition 2018 | Secondary Category - Gold&nbsp; |
+| &nbsp; | The Girls' Brigade Drill Competition 2018 |  Gold&nbsp; |
 | &nbsp; | &nbsp; | &nbsp; |
