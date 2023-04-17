@@ -16,8 +16,7 @@ CCA Schedule
 
 *This is an additional day of training scheduled due to competition and will only be conducted during the competition season.
 
-![](/images/Netball1.jpg)
-
+![](/images/20230213_smss-05195.jpg)
 
 Teacher-in-charge
 -----------------
