@@ -29,7 +29,7 @@ Achievements
 
 | Year | Name of Competition | Achievement/Awardees|
 | --- | --- | --- |
-| 2023 | 
+| 2023 | The Girls' Brigade Drill Competition 2023 | Gold
 | 2022 | The Girls' Brigade Singapore Company Award <br> Pioneer Brigader Brooch Award <br> Dr Low Guat Tin Challenge 2022 <br> Gold Award <br> Silver Award <br> Bronze Award | Gold <br> <br>5 students&nbsp;<br><br><br> 12 students <br> 13 students <br> 12 students |
 | 2021 | The Girls' Brigade Singapore - Company Award 2021 <br> Pioneer Brigader Brooch Award <br> Dr Low Guat Tin Challenge <br> Silver Award &nbsp; | Gold <br><br> 3 students&nbsp;<br><br> 6 students |
 | 2020 | The Girls' Brigade Singapore - Company Award 2020 <br> Pioneer Brigader Brooch Award | Gold <br><br> 2 students |
