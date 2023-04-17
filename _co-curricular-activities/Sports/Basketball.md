@@ -30,4 +30,4 @@ Achievements
 | -------- | -------- | -------- |
 | 2022     |   National School Games - Basketball South Zone Championships <br>- 'B' Division   | <br>4<sup>th</sup>     | 
 |2019 | National School Games 2019 - Inter-school South Zone Basketball Championships <br> 'B' Division <br>'C' Division| <br>4<sup>th</sup><br>3<sup>rd</sup>
-|2018 | Overseas School Family Invitational Under<br> - 16 Girls Basketball Tournament <br> SSSC South Zone Basketball Championship 2018 <br>- 'B' Division <br> - 'C' Division | <br> <br> Champions <br> 3<sup>rd</sup> <br>4<sup>th</sup>
+|2018 | Overseas School Family Invitational <br> Under - 16 <br> Girls Basketball Tournament <br> SSSC South Zone Basketball Championship 2018 <br>- 'B' Division <br> - 'C' Division | <br>  Champions <br><br><br><br> 3<sup>rd</sup> <br>4<sup>th</sup>
