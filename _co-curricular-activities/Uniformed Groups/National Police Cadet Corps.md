@@ -30,7 +30,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2022&nbsp; | SPF-NPCC Badge&nbsp; | 1 student&nbsp; |
+| 2022&nbsp; | SPF-NPCC Badge&nbsp;<br> NPCC Unit Overall Proficiency Award 2022 | 1 student&nbsp; <br> <br>Distinction|
 | 2021&nbsp; | NPCC Units Overall Proficiency Award 2021&nbsp; | Gold&nbsp; |
 |   | SPF - NPCC Badge&nbsp; | 2 students&nbsp; |
 | &nbsp; | Best Unit Cadet Award&nbsp; | 1 student&nbsp; |
