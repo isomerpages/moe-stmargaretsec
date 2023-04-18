@@ -8,7 +8,7 @@ CCA Schedule
 ------------
 
 
-| Groups | Group A | Group B | Group C |
+| Group | Group A | Group B | Group C |
 | -------- | -------- | -------- | -------- |
 | Training Days  | Monday* | Thursday | Friday |
 | Training Time     | 3:30pm-5:30pm  | 3:30pm-5:30pm     | 3:30pm-5:30pm|
