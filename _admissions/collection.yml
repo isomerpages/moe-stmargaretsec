@@ -2,10 +2,10 @@ collections:
   admissions:
     output: true
     order:
-      - 2022 Direct School Admission/.keep
-      - 2022 Direct School Admission/2023 Direct School Admission Exercise (DSA
+      - 2023 Direct School Admission/.keep
+      - 2023 Direct School Admission/2023 Direct School Admission Exercise (DSA
         Sec).md
-      - 2022 Direct School Admission/Frequently Asked Questions about the Direct
+      - 2023 Direct School Admission/Frequently Asked Questions about the Direct
         School Admission Exercise.md
       - Financial Matters/.keep
       - Financial Matters/Financial Matters.md
