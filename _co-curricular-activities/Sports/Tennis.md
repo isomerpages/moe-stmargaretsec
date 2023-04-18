@@ -15,8 +15,7 @@ CCA Schedule
 | Training Venue | Tennis Courts| Tennis Courts | Tennis Courts
 
 
-This is an additional day of training scheduled due to competition and
-<u><b>will only be</b></u>&nbsp;conducted during the competition season.
+This is an additional day of training scheduled due to competition and will only be conducted during the competition season.
 
 
 ![](/images/Tennis2.jpg)
