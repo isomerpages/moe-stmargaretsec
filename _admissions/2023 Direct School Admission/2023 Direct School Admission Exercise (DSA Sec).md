@@ -36,4 +36,11 @@ You can view the listing of our  [CCAs](/programmes/co-curricular-activities) an
 
 | Aesthetics <br> Talent Area | <br>Programmes/activities/opportunities ||
 | -------- | -------- | -------- |
-| Chinese Dance <br><br>Choir<br><br>Concert Band<br><br>English Drama<br><br>Indian Dance<br><br>Malay Dance<br><br>Modern Dance<br><br>String Ensemble<br><br>Visual Arts  |  <br><br><br><br><br><br><br><br>- Students from the Visual and Performing Arts CCAs will work towards representing the school at zonal and national level events (e.g. Singapore Youth Festival Arts Presentations) as well as school-based performances. Students also bless the community with their talents by participating in various Values-In-Action programmes/events.    |      |
+|Chinese Dance <br>Choir<br>Concert Band<br>English Drama<br>Indian Dance<br>Malay Dance<br>Modern Dance<br>StringEnsemble<br>Visual Arts  |<br>Students from the Visual and Performing Arts CCAs will work towards representing the school at zonal and national level events (e.g. Singapore Youth Festival Arts Presentations) as well as school-based performances. Students also bless the community with their talents by participating in various Values-In-Action programmes/events.    |      |
+
+
+
+| SPORTS<br>Talent Area | <br>Programmes/activities/opportunities |  |
+| -------- | -------- | -------- |
+| Badminton<br>Basketball<br>Bowling<br>Fencing<br>Floorball<br>Netball<br>Tennis | Students from the Sports CCAs will work towards participation in the National School Games and national age group competitions. Students also serve the community through various Values-In-Action programmes/events.     |      |
+
