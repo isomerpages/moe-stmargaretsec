@@ -8,15 +8,14 @@ CCA Schedule
 ------------
 
 
-| Groups | Group A | Group B | Group C |
+| Group | Group A | Group B | Group C |
 | -------- | -------- | -------- | -------- |
 | Training Days  | Monday* | Thursday | Friday |
 | Training Time     | 3:30pm-5:30pm  | 3:30pm-5:30pm     | 3:30pm-5:30pm|
 | Training Venue | Tennis Courts| Tennis Courts | Tennis Courts
 
 
-This is an additional day of training scheduled due to competition and
-<u><b>will only be</b></u>&nbsp;conducted during the competition season.
+This is an additional day of training scheduled due to competition and will only be conducted during the competition season.
 
 
 ![](/images/Tennis2.jpg)

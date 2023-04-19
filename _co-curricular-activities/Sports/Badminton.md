@@ -28,7 +28,7 @@ Achievements
 | -------- | -------- | -------- |
 | 2023     | National School Games Badminton South Zone Championships  'B' Division Girls     | 4<sup>th</sup>     |
 | 2022     | National School Games Badminton South Zone Championships 'B' Division Girls     | 4<sup>th</sup>     |
-|2021 | National School Games Badminton South Zone Championships 'B' Division Girls <br> SSSC Sportmanship Award - 1 student | 4<sup>th</sup> |
+|2021 | National School Games Badminton South Zone Championships 'B' Division Girls <br><br> SSSC Sportmanship Award | 4<sup>th</sup><br><br><br><br>1 student |
 |2018 | SSSC Badminton Zonal 'C' Division Girls |  3<sup>rd</sup>
 
 
