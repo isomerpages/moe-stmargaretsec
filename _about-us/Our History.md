@@ -41,26 +41,26 @@ The school soon recovered from its wartime setbacks and set about consolidating 
 
 ## The Growth
 
-In tune with the changes in Singapore, the school endeavored to provide students with a broad based education - in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required.
+In tune with the changes in Singapore, the school endeavored to provide students with a broad based education – in the academic, physical, social, moral and spiritual domains. Soon, the school had grown so much that space for further expansion was required.
 
 In 1957, plans were made to build a new Secondary School at Farrer Road. Completed in 1960, it was officially opened by the Rt Rev RF Gibson Jr, Bishop of Virginia on 20 February 1963.
 
 The school continued to excel academically and in the sports area. It won many national tennis and badminton championships in the 1980s.
 
-To meet the changing needs of education in the 21st century, redevelopment of the secondary school commenced in 1998. The school then moved to its temporary premises at Commonwealth Avenue.
+To meet the changing needs of education in the 21st&nbsp;century, redevelopment of the secondary school commenced in 1998. The school then moved to its temporary premises at Commonwealth Avenue.
 
 In December 2000, the school celebrated its homecoming to a brand new campus with state of the art facilities back at Farrer Road. The crowning touch to this momentous event was our special guest, Dr James Hudson Taylor III, the great grandson of Mrs Maria Dyer, the founder of St. Margaret's.
 
 On 26 July 2002, 160 years since the founding of the school, St. Margaret's Secondary School's new campus at Farrer Road was officially declared open by Dr Tony Tan, then the Deputy Prime Minister and Minister for Defence.
 
-The school Mrs Maria Dyer founded has evolved from St. Margaret’s School to become St. Margaret’s Primary School and St. Margaret’s Secondary School. The different locations notwithstanding, the schools have nurtured a community of learners with the common school motto of Charity • Patience • Devotion and school values as our guiding principles.
+The school Mrs Maria Dyer founded has evolved from St. Margaret’s&nbsp;School to become St. Margaret’s Primary School and St. Margaret’s Secondary School. The&nbsp;different locations notwithstanding, the schools have nurtured a community of learners with&nbsp;the common school motto of 'Charity • Patience • Devotion' and school values as our guiding&nbsp;principles.
 
-To better reflect our shared historical identity, legacy and heritage, the schools have been renamed from 1 January 2023. The name change has been formally endorsed by the Ministry of Education and the Diocese of Singapore. The schools are hence known as: St. Margaret’s School (Primary) and St. Margaret’s School (Secondary).
+To better reflect our shared historical identity, legacy and heritage, the schools have been&nbsp;renamed from 1 January 2023. The name change has been formally endorsed by the Ministry&nbsp;of Education and the Diocese of Singapore. The schools are hence known as: St. Margaret’s&nbsp;School (Primary) and St. Margaret’s School (Secondary).
 
 To God be the Glory!
 [Back to Top](#top)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Btw9Od_3lg" title="A Flame Undiminished Full HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## Heritage Trail
 To learn more about our heritage, click [here](https://go.gov.sg/smssheritagetrail)
