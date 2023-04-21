@@ -13,7 +13,7 @@ description: ""
 ## 178th Anniversary Virtual Concert
 
 *   Presented by St. Margaret's School, this is our first ever virtual concert in celebration of our school's 178th&nbsp;Anniversary.&nbsp;&nbsp;
-*   The St. Margaret's family came together as "One Family Unbroken" to celebrate 178 years of God's faithfulness and reminisce their good times in St. Margaret's School.
+*   The St. Margaret's family came together as "One Family Unbroken" to celebrate 178 years of God's faithfulness and reminisce our good times in St. Margaret's School.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fa79PiH79KA?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## The St. Margaret’s Story: Blessed to be a Blessing
@@ -25,13 +25,13 @@ description: ""
 
 ## National Day Song 2021 - The Road Ahead&nbsp;
 
-National Day 2021 Song 'The Road Ahead' as featured during our NDP celebration.  
+National Day Song 2021 'The Road Ahead' as featured during our NDP celebration.  
   
 <iframe width="828" height="315" src="https://www.youtube.com/embed/K_ArTMHJx_8" title="NDP 2021 Theme Song 'The Road Ahead' - SMSS version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 ## 180th Anniversary Online Virtual Concert
 
-In 2022, we celebrate the 180th year of the founding of St. Margaret’s School. To commemorate this joyous milestone, we have put together this online virtual concert and Family Activity Box specially for everyone.
+In 2022, we celebrated the 180th year of the founding of St. Margaret’s School. To commemorate this joyous milestone, we put together this online virtual concert and Family Activity Box specially for everyone.
 
 <iframe width="844" height="498" src="https://www.youtube.com/embed/HyQYEzcXhjY?list=PL4BxCIS2l9YW98j3_GGAHG9ZRvjFGsIXw" title="SMSS 180th Anniversary Online Virtual Concert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
