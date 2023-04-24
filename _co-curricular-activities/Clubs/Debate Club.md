@@ -57,7 +57,7 @@ Achievements
   <tr>
     <td rowspan="6"> 2018</td>
     <td>Hwa Chong British Parliamentary Debates 2018 </td>
-    <td>High School Category - 3<sup>rd</sup>/td&gt;
+    <td>High School Category - 3<sup>rd</sup>
   </td></tr>
   <tr>
     <td>Thoburn Cup 2018</td>
@@ -65,7 +65,7 @@ Achievements
   </tr>
   <tr>
     <td>Hwa Chong Institution Debate Invitationals 2018 </td>
-    <td>Grand Finals - 2<sup>nd</sup><br>Best 2<sup>nd</sup> and 3<sup>rd</sup>Speakers 
+    <td>Grand Finals - 2<sup>nd</sup><br>Best 2<sup>nd</sup> and 3<sup>rd</sup> Speakers 
 		</td>
   </tr>
   <tr>
