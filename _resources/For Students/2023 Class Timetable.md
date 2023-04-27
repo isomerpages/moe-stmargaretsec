@@ -4,4 +4,4 @@ permalink: /resources/for-students/2023-class-timetable/
 description: ""
 third_nav_title: For Students
 ---
-[2023 Term 2 Class Timetable](/files/T2A__class_updated.pdf)
+[2023 Term 2 Timetable](/files/term%202%20(2b%20timetable).pdf)
