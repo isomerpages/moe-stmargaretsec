@@ -5,6 +5,11 @@ description: ""
 ---
 The Monthly Principal's Letter can be downloaded by clicking on the respective files below.
 
+May 2023
+-------------
+[Principal's Letter May 2023](/files/principal's%20letter%20may%202023_final.pdf)<br>
+[SMS(S) Achievements - April 2023](/files/sms(s)%20achievements%20-%20april%202023.pdf)
+
 April 2023
 -------------
 [April Principal's Letter](/files/principal's%20letter%20april%202023.pdf)<br>
