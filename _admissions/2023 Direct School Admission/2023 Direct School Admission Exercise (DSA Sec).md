@@ -38,7 +38,7 @@ Shortlisted applicants are expected to adhere to the given audition/trial date a
 
 Shortlisted applicants may be required to present evidence of non-school-based activities and achievements during the interview.
 
-**All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 6 July to Friday 4 August 2023.** Please refer to the [**Aesthetics**]and[**Sports**]talent areas for details on the selection process and criteria.
+**All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 6 July to Friday 4 August 2023.** Please refer to the [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) and [**Sports**] talent areas for details on the selection process and criteria.
 
 ![](/images/gptfile.JPG)
 
