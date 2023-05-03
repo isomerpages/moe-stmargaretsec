@@ -6,7 +6,7 @@ third_nav_title: 2023 Direct School Admission
 ---
 ## **2023 Direct School Admission Exercise (DSA-Sec)** **for admission to St. Margaret’s School (Secondary) in 2024**
 
-Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [MOE 2023 Direct School Admission Exercise (DSA-Sec)](https://www.moe.gov.sg/dsa-sec)
+Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [MOE 2023 Direct School Admission Exercise (DSA-Sec)](https://www.moe.gov.sg/dsa-sec)[Sports]()
 
 #### **DSA-Sec talent areas offered by St. Margaret’s School (Secondary)**
 
@@ -38,7 +38,7 @@ Shortlisted applicants are expected to adhere to the given audition/trial date a
 
 Shortlisted applicants may be required to present evidence of non-school-based activities and achievements during the interview.
 
-**All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 6 July to Friday 4 August 2023.** Please refer to the [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) and [**Sports**] talent areas for details on the selection process and criteria.
+**All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 6 July to Friday 4 August 2023.** Please refer to the [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) and [Sports](/admissions/2023-direct-school-admission/sportstalentareas/) talent areas for details on the selection process and criteria.
 
 ![](/images/gptfile.JPG)
 
