@@ -52,8 +52,8 @@ Tel: 6466 4525 <br>
 Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
 
 
-### **Admission Criteria for Direct School Admission Exercise**
-![](/images/choirdsa.JPG)![](/images/concert%20banddsa.JPG)![](/images/english%20dramadsa.JPG)![](/images/dancedsa.JPG)![](/images/string%20ensembledsa.JPG)![](/images/visual%20artsdsa.JPG)![](/images/sportsdsa.JPG) <br>
+
+![](/images/aes%20talent%20area%20dsa.jpg)![](/images/aes%20talent%20area%20_page%20dsa2.jpg)![](/images/aes%20talent%20area%20_page-0003.jpg)![](/images/sports%20talent%20area%20_page-0001.jpg)
 
 ### **Frequently Asked Questions about the Direct School Admission Exercise**
 
