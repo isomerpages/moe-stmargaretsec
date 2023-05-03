@@ -2,12 +2,12 @@ collections:
   admissions:
     output: true
     order:
-      - 2023 Direct School Admission/Admission Criteria for Direct School
-        Admission Exercise.md
       - 2023 Direct School Admission/.keep
       - 2023 Direct School Admission/2023 Direct School Admission Exercise (DSA
         Sec).md
       - 2023 Direct School Admission/Centralised DSA Sec Application Process.md
+      - 2023 Direct School Admission/Admission Criteria for Direct School
+        Admission Exercise.md
       - 2023 Direct School Admission/Aesthetics Talent Areas.md
       - 2023 Direct School Admission/Sports Talent Areas.md
       - 2023 Direct School Admission/FAQs.md
