@@ -12,7 +12,7 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to gain 
 
 ![](/images/talent%20areas.JPG) <br>   
 
-You can view the listing of our [CCAs]() and our students’ **CCA achievements** for more details.
+You can view the listing of our [CCAs](/programmes/co-curricular-activities/) and our students’ **[CCA achievements]()** for more details.
 
   
 
