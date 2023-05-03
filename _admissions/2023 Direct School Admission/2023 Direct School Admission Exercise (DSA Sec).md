@@ -79,7 +79,7 @@ If you are shortlisted, you will be notified about one week&nbsp;before your aud
 
 **6.**&nbsp;&nbsp; **What do I need to prepare for the selection auditions/trials/interviews?**
 
-Please refer to the table on [Admission Criteria for Direct Admission Exercise](/admissions/2023-direct-school-admission/admissioncriteria/) for more information on the respective areas.
+Please refer to the table on [Admission Criteria for Direct School Admission Exercise](/admissions/2023-direct-school-admission/admissioncriteria/) for more information on the respective areas.
 
 **7.**&nbsp;&nbsp; **When will I know the outcome of the selection?**
 
