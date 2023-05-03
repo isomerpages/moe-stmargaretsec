@@ -6,7 +6,7 @@ third_nav_title: 2023 Direct School Admission
 ---
 ## **2023 Direct School Admission Exercise (DSA-Sec)** **for admission to St. Margaret’s School (Secondary) in 2024**
 
-Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [MOE 2023 Direct School Admission Exercise (DSA-Sec)](https://www.moe.gov.sg/dsa-sec)[Sports]()
+Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [MOE 2023 Direct School Admission Exercise (DSA-Sec)](https://www.moe.gov.sg/dsa-sec)
 
 #### **DSA-Sec talent areas offered by St. Margaret’s School (Secondary)**
 
@@ -63,11 +63,11 @@ St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesth
 
 **2.**&nbsp;&nbsp; **What are the selection criteria?**
 
-Selection is based primarily on your merit in your area of talent.&nbsp; Click on the respective areas for more details on the selection process and criteria for [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) &amp; [Sports](/admissions/2023-direct-school-admission/sportstalentareas/)
+Selection is based primarily on your merit in your area of talent.&nbsp; Click on the respective areas for more details on the selection process and criteria for [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) &amp; [Sports](/admissions/2023-direct-school-admission/sportstalentareas/).
 
 **3.**&nbsp;&nbsp; **How do I apply?**
 
-Please refer to the [Centralised DSA-Sec Application process](/admissions/2023-direct-school-admission/centraliseddsasecapplicationprocess/)
+Please refer to the [Centralised DSA-Sec Application Process](/admissions/2023-direct-school-admission/centraliseddsasecapplicationprocess/).
 
 **4.**&nbsp;&nbsp; **When is the closing date for submitting the application?**
 
