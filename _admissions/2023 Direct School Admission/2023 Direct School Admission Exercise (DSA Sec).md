@@ -43,4 +43,14 @@ Shortlisted applicants may be required to present evidence of non-school-based a
 ![](/images/gptfile.JPG)
 
 
+#### **Contact Details**
+Please refer to our **FAQ** if you require further information on DSA applications to SMS(S).&nbsp;
+For further queries, please contact:<br>
+Administration Manager&nbsp;<br>
+Ms Doreen Owyong <br>
+Tel: 6466 4525 <br>
+Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
 
+
+### **Admission Criteria for Direct School Admission Exercise**
+![](/images/choirdsa.JPG)![](/images/concert%20banddsa.JPG)![](/images/english%20dramadsa.JPG)![](/images/dancedsa.JPG)
