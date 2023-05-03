@@ -26,6 +26,14 @@ third_nav_title: Student Achievements
 | -------- | 
 |National School Games Tennis ‘B’ Division Girls Plate Tournament 2023 - 3<sup>rd</sup> | 
 
+|Judo |
+| -------- | 
+| National School Games B Div Girls Individual -  48kg Extra Lightweight|
+
+|Swimming |
+| -------- | 
+|National School Games <br>B Div Girls Individual 50m free, 100m free<br>C Div Girls Individual - 100m back, 200m back
+
 
 2022
 ----
