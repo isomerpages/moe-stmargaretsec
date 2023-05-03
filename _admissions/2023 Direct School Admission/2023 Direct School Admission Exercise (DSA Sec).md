@@ -67,7 +67,7 @@ Selection is based primarily on your merit in your area of talent.&nbsp; Click o
 
 **3.**&nbsp;&nbsp; **How do I apply?**
 
-Please refer to the&nbsp;centralised DSA-Sec [application process](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/application-process)&nbsp;for details.
+Please refer to the [Centralised DSA-Sec Application process](/admissions/2023-direct-school-admission/centraliseddsasecapplicationprocess/)
 
 **4.**&nbsp;&nbsp; **When is the closing date for submitting the application?**
 
@@ -79,7 +79,7 @@ If you are shortlisted, you will be notified about one week&nbsp;before your aud
 
 **6.**&nbsp;&nbsp; **What do I need to prepare for the selection auditions/trials/interviews?**
 
-Please refer to the&nbsp;[table](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise) on Admission Criteria for Direct School Admission Exercise for more information on the respective areas.
+Please refer to the table on Admission Criteria for Direct School Admission Exercise for more information on the respective areas.
 
 **7.**&nbsp;&nbsp; **When will I know the outcome of the selection?**
 
