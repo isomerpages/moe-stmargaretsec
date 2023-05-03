@@ -44,7 +44,7 @@ Shortlisted applicants may be required to present evidence of non-school-based a
 
 
 #### **Contact Details**
-Please refer to our **FAQ** if you require further information on DSA applications to SMS(S).&nbsp;
+Please refer to our **[FAQ](/admissions/2023-direct-school-admission/faqs/)** if you require further information on DSA applications to SMS(S).&nbsp;
 For further queries, please contact:<br>
 Administration Manager&nbsp;<br>
 Ms Doreen Owyong <br>
