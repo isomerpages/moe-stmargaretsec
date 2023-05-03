@@ -63,7 +63,7 @@ St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesth
 
 **2.**&nbsp;&nbsp; **What are the selection criteria?**
 
-Selection is based primarily on your merit in your area of talent.&nbsp; Click on the respective areas for more details on the selection process and criteria for  [Aesthetics] &amp; [Sports]
+Selection is based primarily on your merit in your area of talent.&nbsp; Click on the respective areas for more details on the selection process and criteria for [Aesthetics](/admissions/2023-direct-school-admission/aestheticstalentareas/) &amp; [Sports](/admissions/2023-direct-school-admission/sportstalentareas/)
 
 **3.**&nbsp;&nbsp; **How do I apply?**
 
