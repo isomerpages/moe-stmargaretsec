@@ -59,7 +59,7 @@ Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
 
 **1.**&nbsp;&nbsp; **What talents are the school looking for?**
 
-St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the DSA-Sec talent areas offered by St. Margaret’s School (Secondary)
+St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the [DSA-Sec talent areas offered by St. Margaret's School (Secondary)](/admission/2022-direct-school-admission-exercise-dsa-sec/)
 
 **2.**&nbsp;&nbsp; **What are the selection criteria?**
 
