@@ -12,7 +12,7 @@ Direct School Admission for secondary schools (DSA-Sec) allows students to gain 
 
 ![](/images/talent%20areas.JPG) <br>   
 
-You can view the listing of our **CCAs** and our students’ **CCA achievements** for more details.
+You can view the listing of our [CCAs]() and our students’ **CCA achievements** for more details.
 
   
 
@@ -53,4 +53,38 @@ Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
 
 
 ### **Admission Criteria for Direct School Admission Exercise**
-![](/images/choirdsa.JPG)![](/images/concert%20banddsa.JPG)![](/images/english%20dramadsa.JPG)![](/images/dancedsa.JPG)![](/images/string%20ensembledsa.JPG)
+![](/images/choirdsa.JPG)![](/images/concert%20banddsa.JPG)![](/images/english%20dramadsa.JPG)![](/images/dancedsa.JPG)![](/images/string%20ensembledsa.JPG)![](/images/visual%20artsdsa.JPG)![](/images/sportsdsa.JPG) <br>
+
+### **Frequently Asked Questions about the Direct School Admission Exercise**
+
+**1.**&nbsp;&nbsp; **What talents are the school looking for?**
+
+St. Margaret’s School (Secondary) welcomes girls who are talented in the Aesthetics and Sports listed in the DSA-Sec talent areas offered by St. Margaret’s School (Secondary)
+
+**2.**&nbsp;&nbsp; **What are the selection criteria?**
+
+Selection is based primarily on your merit in your area of talent.&nbsp; Click on the respective areas for more details on the selection process and criteria for&nbsp;[Aesthetics](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise)&nbsp;and&nbsp;[Sports](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise)**.**
+
+**3.**&nbsp;&nbsp; **How do I apply?**
+
+Please refer to the&nbsp;centralised DSA-Sec [application process](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/application-process)&nbsp;for details.
+
+**4.**&nbsp;&nbsp; **When is the closing date for submitting the application?**
+
+The closing date is 31 May 2023.
+
+**5.**&nbsp;&nbsp; **When will I know that my application has been shortlisted?**
+
+If you are shortlisted, you will be notified about one week&nbsp;before your audition/trial, which will be held during the period of 6 July 2023 to 4 August 2023.
+
+**6.**&nbsp;&nbsp; **What do I need to prepare for the selection auditions/trials/interviews?**
+
+Please refer to the&nbsp;[table](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise) on Admission Criteria for Direct School Admission Exercise for more information on the respective areas.
+
+**7.**&nbsp;&nbsp; **When will I know the outcome of the selection?**
+
+You will be notified of the outcome via post/email by 11 September 2023.
+
+**8\. How do applicants not studying in MOE Schools apply for DSA?**
+
+Applicants not studying in MOE mainstream primary schools should apply for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please refer to MOE Website at: [https://go.gov.sg/nmsdsa-sec-application](https://go.gov.sg/nmsdsa-sec-application)
