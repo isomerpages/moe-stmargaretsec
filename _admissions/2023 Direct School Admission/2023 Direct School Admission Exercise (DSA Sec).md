@@ -4,43 +4,11 @@ permalink: /admission/2022-direct-school-admission-exercise-dsa-sec/
 description: ""
 third_nav_title: 2023 Direct School Admission
 ---
-### 2023 Direct School Admission Exercise <br>(DSA-Sec) for admission to <br>St. Margaret’s School (Secondary) in 2024
+## **2023 Direct School Admission Exercise (DSA-Sec)** **for admission to St. Margaret’s School (Secondary) in 2024**
 
+Direct School Admission for secondary schools (DSA-Sec) allows students to gain direct entry to certain secondary schools based on their talent in sports, CCAs and specific academic areas. Students who wish to seek admission to St. Margaret’s School (Secondary) based on their talents are invited to apply through the [**MOE 2023 Direct School Admission Exercise**](https://beta.moe.gov.sg/dsa/) **(DSA-Sec)** 
 
+#### **DSA-Sec talent areas offered by St. Margaret’s School (Secondary)**
 
-
-###### DSA-Sec talent areas offered by St. Margaret’s School (Secondary)
-
-
-<table>
-<thead>
-  <tr>
-		<th colspan="2"><p align="center">Talent Areas</p></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-		<td><p align="center">Aesthetics</p></td>
-		<td><p align="center">Sports</p></td>
-  </tr>
-  <tr>
-    <td><p align="center">Chinese Dance <br> Choir <br> Concert Band <br> English Drama <br> Indian Dance <br> Malay Dance <br> Modern Dance <br> String Ensemble <br> Visual Art</p></td>
-	<td><p align="center">Badminton <br> Basketball <br> Bowling <br> Fencing <br> Floorball <br> Netball <br> Tennis</p></td>
-  </tr>
-</tbody>
-</table>
-
-You can view the listing of our  [CCAs](/programmes/co-curricular-activities) and our students’ [CCA achievements](/achievements/student-achievements) for more details.  
-
-
-
-| Aesthetics <br> Talent Area | <br>Programmes/activities/opportunities ||
-| -------- | -------- | -------- |
-|Chinese Dance <br>Choir<br>Concert Band<br>English Drama<br>Indian Dance<br>Malay Dance<br>Modern Dance<br>StringEnsemble<br>Visual Arts  |<br>Students from the Visual and Performing Arts CCAs will work towards representing the school at zonal and national level events (e.g. Singapore Youth Festival Arts Presentations) as well as school-based performances. Students also bless the community with their talents by participating in various Values-In-Action programmes/events.    |      |
-
-
-
-| SPORTS<br>Talent Area | <br>Programmes/activities/opportunities |  |
-| -------- | -------- | -------- |
-| Badminton<br>Basketball<br>Bowling<br>Fencing<br>Floorball<br>Netball<br>Tennis | Students from the Sports CCAs will work towards participation in the National School Games and national age group competitions. Students also serve the community through various Values-In-Action programmes/events.     |      |
+![](/images/talent%20areas.JPG)
 
