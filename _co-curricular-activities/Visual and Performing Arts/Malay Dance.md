@@ -26,6 +26,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
+| 2023 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2021 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
 | 2017 | Singapore Youth Festival Arts Presentation | Certificate of Accomplishment |
