@@ -30,7 +30,7 @@ Bronze Award - 12 students     |
 
 | NPCC |
 | --- |
-|NPCC Unit Overall Proficiency Award - Distinction|
+|NPCC Unit Overall Proficiency Award 2022 - Distinction|
 | SPF-NPCC badge and Best Unit Cadet Award - 1 student |
 | |
 
