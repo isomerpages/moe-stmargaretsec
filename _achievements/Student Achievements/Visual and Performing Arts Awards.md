@@ -11,6 +11,10 @@ third_nav_title: Student Achievements
 | --- |
 | Singapore Youth Festival Arts Presentation - <br> Certificate of Distinction |
 
+| _Choir_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Distinction |
+
 | _Concert Band_ |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
