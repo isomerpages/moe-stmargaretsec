@@ -32,6 +32,11 @@ Achievements
 		<td> Name of Competition </td>
 		<td> Achievement </td>
 	</tr>
+		<tr>
+		<td> 2023 </td>
+		<td> Singapore Youth Festival Arts Presentation </td>
+		<td> Certificate of Distinction&nbsp;</td>
+	</tr>
 	<tr>
 		<td> 2021 </td>
 		<td> Singapore Youth Festival Arts Presentation </td>
