@@ -22,6 +22,11 @@ Gold Award - 12 students
 Silver Award - 13 students  
 Bronze Award - 12 students     | 
 
+| Girl Guides |
+| --- |
+| Puan Noor Aishah Award 2022  - Gold|
+| |
+
 
 | NPCC |
 | --- |
@@ -31,7 +36,7 @@ Bronze Award - 12 students     |
 
 | Red Cross Youth |
 | --- |
-|Red Cross Youth Unit Excellent Unit Award 2022  - Gold|
+|Red Cross Youth Unit Excellent Unit Award 2022  - Gold |
 | Director's Award - 1 student |
 | |
 
@@ -40,17 +45,17 @@ Bronze Award - 12 students     |
 
 | Girls' Brigade |
 | --- |
-| Pioneer Brigader Brooch Award - 3 students <br>The Girls' Brigade Singapore Company Award 2021 - Gold Award <br>Low Guat Tin Challenge 2021 - Silver Award |
+| Pioneer Brigader Brooch Award - 3 students <br>The Girls' Brigade Singapore Company Award 2021 - Gold  <br>Low Guat Tin Challenge 2021 - Silver  |
 | |
 
 | Girl Guides |
 | --- |
-| Puan Noor Aishah Award 2021 Girl Guides Singapore - Gold Award |
+| Puan Noor Aishah Award 2021 - Gold  |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| NPCC - Unit Overall Proficiency Award for year 2021 - Gold Award  <br> SPF - NPCC Badge - 2 students <br>Best Unit Cadet Award - 1 student |
+| NPCC - Unit Overall Proficiency Award 2021 - Gold  <br> SPF - NPCC Badge - 2 students <br>Best Unit Cadet Award - 1 student |
 | |
 
 | Red Cross Youth |
@@ -63,17 +68,17 @@ Bronze Award - 12 students     |
 
 | Girls' Brigade |
 | --- |
-| Pioneer Brigader Brooch Award - 2 students <br> The Girls' Brigade Singapore Company Award 2020 - Gold Award |
+| Pioneer Brigader Brooch Award - 2 students <br> The Girls' Brigade Singapore Company Award 2020 - Gold  |
 | |
 
 | Girl Guides |
 | --- |
-| The Baden Powell Award - 5 students <br> World Thinking Day 2020 Tie Dye Competition&nbsp;– 3<sup>rd</sup>&nbsp;\- 1 student <br> Puan Noor Aishah Award 2020 Girl Guides Singapore - Gold Award |
+| The Baden Powell Award - 5 students <br> World Thinking Day 2020 Tie Dye Competition&nbsp;– 3<sup>rd</sup>&nbsp;\- 1 student <br> Puan Noor Aishah Award 2020 - Gold  |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| SPF - NPCC Badge - 1 student <br> National Police Cadet Corps Unit Overall Proficiency Award 2020 -&nbsp;Gold Award |
+| SPF - NPCC Badge - 1 student <br> National Police Cadet Corps Unit Overall Proficiency Award 2020 -&nbsp;Gold  |
 | |
 
 2019
@@ -87,14 +92,14 @@ Bronze Award - 12 students     |
 
 | Girl Guides |
 | --- |
-| Puan Noor Aishah Award 2019 Girl Guides Singapore -&nbsp;Gold Award |
+| Puan Noor Aishah Award 2019 -&nbsp;Gold  |
 | World Thinking Day Carnival 2019 - Best Carnival Booth |
 | Camp Challenge 2019 <br> \-&nbsp;Merit Award – 4<sup>th</sup>&nbsp;Place overall <br> \- Best Patrol Flag and Identify – 3<sup>rd</sup>&nbsp;\- 4 students |
 | |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| National Police Cadet Corps Unit Overall Proficiency Award 2019 -&nbsp;Gold Award |
+| National Police Cadet Corps Unit Overall Proficiency Award 2019 -&nbsp;Gold  |
 | Inter Unit Drills Competition 2019&nbsp;Organised by National Police&nbsp;Cadets Corps&nbsp;– Top 20 - 14 students |
 | SPF-NPCC Badge&nbsp;– Best Unit Cadet Award - 1 student&nbsp;|
 | |
@@ -110,7 +115,7 @@ Bronze Award - 12 students     |
 | Girls' Brigade |
 | --- |
 | &nbsp;The Girls’ Brigade Singapore&nbsp; <br> \- Company Award 2018 - Gold |
-| The Girls’ Brigade Drill Competition 2018&nbsp;– Secondary Category - Gold Award |
+| The Girls’ Brigade Drill Competition 2018&nbsp;– Secondary Category - Gold  |
 | |
 
 | Girl Guides |
@@ -120,8 +125,8 @@ Bronze Award - 12 students     |
 
 | National Police Cadet Corps (NPCC) |
 | --- |
-| National Police Cadet Corps Unit Overall Proficiency Award (UOPA) 2018 - Gold Award&nbsp;|
-| National Police Cadet Corps Unit Overall Proficiency Award 2017 -&nbsp;Gold Award&nbsp; |
+| National Police Cadet Corps Unit Overall Proficiency Award (UOPA) 2018 - Gold &nbsp;|
+| National Police Cadet Corps Unit Overall Proficiency Award 2017 -&nbsp;Gold &nbsp; |
 | National Police Cadet Corps Award Badges - SPF – NPCC Badge <br> National Police Cadet Corps&nbsp;Award Badges - Best Unit Cadet Badge |
 | |
 
