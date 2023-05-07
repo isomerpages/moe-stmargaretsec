@@ -4,6 +4,43 @@ permalink: /achievements/student-achievements/visual-and-performing-arts-awards/
 description: ""
 third_nav_title: Student Achievements
 ---
+2023
+----
+
+| _Chinese Dance_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - <br> Certificate of Distinction |
+
+| _Concert Band_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Distinction |
+| |
+
+| _English Drama_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
+| |
+
+| _Indian Dance_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Distinction |
+| |
+
+| _Malay Dance_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Distinction |
+| |
+
+| _Modern Dance_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
+| |
+
+| _String Ensemble_ |
+| --- |
+| Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
+| |
+
 2022
 ----
 
@@ -93,12 +130,12 @@ third_nav_title: Student Achievements
 
 | _Malay Dance_ |
 | --- |
-| Singapore Youth Festival Arts Presentation - Certificate of  Accomplishment |
+| Singapore Youth Festival Arts Presentation - Certificate of&nbsp; Accomplishment |
 | |
 
 | _Modern Dance_ |
 | --- |
-| Singapore Youth Festival Arts Presentation -  Certificate of Distinction |
+| Singapore Youth Festival Arts Presentation -&nbsp; Certificate of Distinction |
 | |
 
 | _Drama_ |
@@ -111,11 +148,11 @@ third_nav_title: Student Achievements
 
 | _Creative Art Club_ |
 | --- |
-| SYF 2018 Art Exhibition: Artist and Citizenship <br> \- Logo Design Contest - Certificate of Recognition (Special Mention) <br><br>2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition <br> (2018年度张瘦石全国中小学书画展) <br> \- Silver Award - 1 student <br> \- Certificate of Merit - 2 students |
-| SYF 2018 Art Exhibition : Artist and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Upper Secondary - 15 students |
-| SYF 2018 Art Exhibition : Artist and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Lower Secondary - 14 students  |
-| SYF 2018 Art Exhibition : Artist and Citizenship <br> \- Logo Design Competition <br>\- Certificate of Participation  <br> \- Lower Secondary - 11 students  |
-| SYF 2018 Art Exhibition : Artist and Citizenship <br> \- Logo Design Contest <br> \- Certificate of Recognition - 4 students <br> \- Certificate Of Participation - 4 students <br> \- Consolation Prize - 1 student  |
+| SYF 2018 Art Exhibition: Artist and Citizenship <br> \- Logo&nbsp;Design&nbsp;Contest -&nbsp;Certificate of Recognition (Special Mention) <br><br>2018 Zhang Shou Shi National&nbsp;Calligraphy and Chinese Painting&nbsp;Exhibition <br> (2018年度张瘦石全国中小学书画展) <br> \- Silver Award - 1 student&nbsp;<br> \- Certificate of Merit - 2 students |
+| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Upper Secondary - 15 students |
+| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Lower Secondary - 14 students&nbsp; |
+| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition&nbsp;<br>\- Certificate of Participation&nbsp; <br> \- Lower Secondary - 11 students&nbsp; |
+| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Contest <br> \- Certificate of Recognition - 4 students <br> \- Certificate Of Participation - 4 students <br> \- Consolation Prize - 1 student&nbsp; |
 | |
 
 | _String Ensemble_ |
@@ -128,8 +165,8 @@ third_nav_title: Student Achievements
 
 | _Indian Dance_ |
 | --- |
-| SYF 2017 Celebrations Youth Got Talent Dance (Solo) Category - Audience Choice Award  |
-| Singapore Youth Festival - Arts Presentation - Dance (Indian) - Certificate of Distinction |
+| SYF 2017 Celebrations Youth Got Talent Dance (Solo) Category - Audience Choice Award&nbsp; |
+| Singapore Youth Festival - Arts Presentation - Dance (Indian) -&nbsp;Certificate of Distinction |
 | |
 
 | _Symphonic Band_ |
@@ -139,7 +176,7 @@ third_nav_title: Student Achievements
 
 | _Malay Dance_  |
 | --- |
-| Singapore Youth Festival - Arts Presentation - Dance (Malay)  - Certificate of Accomplishment |
+| Singapore Youth Festival - Arts Presentation - Dance (Malay) &nbsp;- Certificate of Accomplishment |
 | |
 
 | _Chinese Dance_ |
@@ -162,7 +199,7 @@ third_nav_title: Student Achievements
 | Singapore Youth Festival - Arts Presentation - Dance (International) - Certificate of Accomplishment |
 | |
 
-| _Drama_  |
+| _Drama_&nbsp; |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Drama - Certificate of Accomplishment |
 | |
@@ -170,7 +207,7 @@ third_nav_title: Student Achievements
 | _Creative Art Club_ |
 | --- |
 | The Singapore Youth Festival (SYF) 2017 Theme Motif Design Contest - Consolation |
-| Speak! Ventures Debate Championships organised by Debate Association - 2<sup>nd</sup> amongst Top 20 Individual Speakers in Silver Division   |
+| Speak! Ventures Debate Championships organised by Debate Association - 2<sup>nd</sup> amongst Top 20 Individual Speakers in Silver Division&nbsp;&nbsp; |
 | |
 
 2016
@@ -183,20 +220,20 @@ third_nav_title: Student Achievements
 
 | _Indian Dance_ |
 | --- |
-| 6<sup>th</sup> International Youth Dance Festival - Gold |
+| 6<sup>th</sup>&nbsp;International Youth&nbsp;Dance&nbsp;Festival - Gold |
 | |
 
 | _String Ensemble_ |
 | --- |
-| Trinity College London Ensemble Grading Examination - Intermediate Ensemble with Certificate of Distinction  |
+| Trinity College London Ensemble Grading Examination - Intermediate Ensemble with Certificate of Distinction&nbsp; |
 | |
 
 | _Symphonic Band_ |
 | --- |
 | Singapore Ensemble Competition 2016 |
 | Percussion Ensemble - Gold, First Prize |
-| Woodwind Quintet - Gold  |
-| Singapore International Band Festival (Division 2A)  - Silver Award  |
+| Woodwind Quintet - Gold&nbsp; |
+| Singapore International Band Festival (Division 2A)&nbsp; - Silver Award&nbsp; |
 | |
 
 | _Creative Art Club_ |
@@ -245,13 +282,13 @@ third_nav_title: Student Achievements
 
 | _Symphonic Band_ |
 | --- |
-| Singapore Youth Festival Central Judging – Certificate of Distinction |
+| Singapore Youth Festival Central Judging – Certificate&nbsp;of Distinction |
 | |
 
 | _Creative Art Club_ |
 | --- |
-| Noise Singapore (organised by The National Arts Council)  <br> \- Produced individual winning entry from Singapore <br> Entry also won 1<sup>st</sup> place in Japan Times Award  |
-| SG50 Hawker Project <br> \- Adopted Empress Market to showcase the painting series, 'Blast from the Past' |
+| Noise Singapore (organised by The National Arts Council)  <br> \- Produced individual winning entry from Singapore <br> Entry also won 1<sup>st</sup>&nbsp;place in Japan Times Award&nbsp; |
+| SG50&nbsp;Hawker Project <br> \- Adopted Empress Market to showcase the painting series, 'Blast from the Past' |
 | |
 
 2014
