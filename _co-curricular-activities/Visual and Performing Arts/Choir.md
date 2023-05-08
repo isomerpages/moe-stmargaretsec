@@ -25,6 +25,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
+| 2023 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2019 | Singapore Youth Festival Arts Presentation | Certificate of Distinction |
 | 2017&nbsp; | Singapore Youth Festival Arts Presentation | Certificate of Distinction&nbsp; |
 | 2016&nbsp; | Singapore International Choral Festival 2016 | Silver&nbsp; |

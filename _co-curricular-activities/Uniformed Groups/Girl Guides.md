@@ -28,7 +28,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
-| 2022 | Pioneer Brigader Brooch Award <br> Dr Low Guat Tin Challenge 2022 <br>Gold Award<br> Silver Award<br> Bronze Award|5 students <br><br>12 students <br> 13 Students <br>12 Students
+| 2022 | Puan Noor Aishah Award 2022<br>Dr Low Guat Tin Challenge  <br>Gold Award<br> Silver Award<br> Bronze Award|Gold <br><br><br>12 students <br> 13 Students <br>12 Students
 | 2021&nbsp; | The Baden Powell Award&nbsp; | 5 students&nbsp; |
 | &nbsp; | South Division Learning Day | 3 students&nbsp; |
 | 2020 | Puan Noor Aishah Award 2020&nbsp; | Gold&nbsp; |
