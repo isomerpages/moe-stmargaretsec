@@ -6,26 +6,26 @@ third_nav_title: Student Achievements
 ---
 2023
 ----
-|Cross Country |
+|Cross Country|
 | -------- | 
-|National School Games South Zone 'B' Division Girls Cross Country Championships 2023 - 1<sup>st</sup>
+|National School Games South Zone 'B' Division Girls Cross Country <br> Championships 2023 - 1<sup>st</sup>
 
 |Badminton|
 | -------- | 
-|National School Games South Zone 'B' Division Girls Badminton Championships 2023 - 3<sup>rd</sup>|
-|National School Games South Zone Championships 2023 ‘B’ Division Girls – 4<sup>th</sup>|
+|National School Games South Zone 'B' Division Girls Badminton <br>Championships 2023 - 3<sup>rd</sup><br>
+|National School Games South Zone <br> Championships 2023 ‘B’ Division Girls – 4<sup>th</sup>|
 
 |Basketball |
 | -------- | 
-|National School Games South Zone 'B' Division Girls Basketball Championships 2023 - 3<sup>rd</sup><br>National School Games South Zone Championships 2023 ‘B’ Division Girls – 3<sup>rd</sup>
+|National School Games South Zone 'B' Division Girls Basketball <br>Championships 2023 - 3<sup>rd</sup><br><br>National School Games South Zone <br>Championships 2023 ‘B’ Division Girls – 3<sup>rd</sup>
 
 |Netball |
 | -------- | 
-|National School Games Netball South Zone ‘B’ Division Girls Championship 2023 - 3<sup>rd</sup> | 
+|National School Games Netball South Zone ‘B’ Division Girls <br>Championship 2023 - 3<sup>rd</sup> | 
 
 |Tennis |
 | -------- | 
-|National School Games Tennis ‘B’ Division Girls Plate Tournament 2023 - 3<sup>rd</sup> | 
+|National School Games Tennis ‘B’ Division Girls <br>Plate Tournament 2023 - 3<sup>rd</sup> | 
 
 |Judo |
 | -------- | 

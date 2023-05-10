@@ -9,7 +9,7 @@ third_nav_title: Student Achievements
 
 | _Chinese Dance_ |
 | --- |
-| Singapore Youth Festival Arts Presentation - <br> Certificate of Distinction |
+| Singapore Youth Festival Arts Presentation -  Certificate of Distinction |
 
 | _Choir_ |
 | --- |
@@ -50,7 +50,7 @@ third_nav_title: Student Achievements
 
 | _Creative Art Club (Visual Art)_ |
 | --- |
-| Singapore Youth Festival Visual Arts Exhibition <br> \- Certificate of Recognition - 2 students |
+| Singapore Youth Festival Visual Arts Exhibition - Certificate of Recognition - 2 students |
 | |
 
 2021
@@ -63,7 +63,7 @@ third_nav_title: Student Achievements
 
 | _Creative Art Club (Visual Art)_ |
 | --- |
-| Live on Festival 2021 - Distinction Award - 1 student <br> 13-19 Art Prize Competition organised by The Rice Limited Company - Merit Award - 1 student |
+| Live on Festival 2021 - Distinction Award - 1 student <br>  Art Prize Competition organised by The Rice Limited Company - Merit Award - 1 student |
 | |
 
 | _Concert Band_ |
