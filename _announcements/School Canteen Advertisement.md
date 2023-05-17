@@ -46,8 +46,8 @@ Application form is available at our General Office (111 Farrer Road, Singapore 
 * Photocopy of relevant certificates including Basic Food Hygiene Course certificates of applicant and stall assistant/s.
 *  Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
-Please submit the documents to the school’s General Office or email
-to&nbsp;chua_boon_keong@moe.edu.sg <br> (Attention: Operations Manager) by the closing date 16
+<br><br>Please submit the documents to the school’s General Office or email
+to&nbsp;chua_boon_keong@moe.edu.sg.<br> (Attention: Operations Manager) by the closing date 16
 June 2023, 5.00 pm. We regret that late applications will not be accepted.
 
 ### Interview and Food Tasting
