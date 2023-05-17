@@ -4,7 +4,7 @@ permalink: /announcements/schoolcanteenadvertisement/
 description: ""
 ---
 ## School Canteen Advertisement
-St. Margaret’s School (Secondary) is inviting interested applicants to operate a <br>“Muslim Cooked Food” stall in our school canteen.
+St. Margaret’s School (Secondary) is inviting interested applicants to operate a “Muslim Cooked Food” stall in our school canteen.
 
 ### Our Background <br>
 We are a single session secondary school with **student enrolment of about 1050 and staff strength of 130**. There are currently **7 food stalls** and **1 drink/fruit stall** at our school. One of the food stalls is selling halal western food.
