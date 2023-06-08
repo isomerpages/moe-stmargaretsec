@@ -23,7 +23,6 @@ third_nav_title: Organisation Chart
 | Mr  | Lawrence Tan   |   |
 | Ms | Magdalene Tan |   |
 | Ms | Norhayati Bte Maziland  |   |
-| Mrs | Rebekah Lin Lay Hong | |
 | Mdm | Pushpalatha | Laboratory Technician |
 | Mr  | Lee Kee Heng  | Laboratory Technician  |
 | Ms | Marsya Afiqah Binte Salim | Laboratory Technician  |
