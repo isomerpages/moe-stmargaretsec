@@ -2,6 +2,6 @@ collections:
   events:
     output: true
     order:
-      - Photo Gallery/Photo Gallery.md
+      - Photo Gallery/Year 2022.md
       - Photo Gallery/.keep
       - School Calendar.md
