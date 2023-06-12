@@ -21,6 +21,8 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
+      url: /announcements/announcements/
+      button: School Graduation Certificate (SGC) Collection
   - infobar:
       title: School Graduation Certificate Collection
       subtitle: announcement
