@@ -4,7 +4,7 @@ permalink: /about-us/organisation-chart/
 description: ""
 third_nav_title: Organisation Chart
 ---
-| Principal |
+| Principal|
 | :---: |
 | **Ms Linda Lim** |
 
@@ -16,31 +16,43 @@ third_nav_title: Organisation Chart
 
 <br>
 
-| Head of Department | Head of Department | Head of Department |
-| :---: | :---: | :---: |
-| **[English Language, Literature and Drama](/about-us/organisation-chart/english-language-literature-and-drama)** | **[Science](/about-us/organisation-chart/science)** | **[Mathematics](/about-us/organisation-chart/mathematics)** |
-| **Mrs Shamini Rajandran** | **Mr Jason Chew** | **Mrs Tan Sok Mun** |
-
-<br>
-
-| Head of Department | Head of Department | Head of Department |
-| :---: | :---: | :---: |
-| **[Mother Tongue](/about-us/organisation-chart/mother-tongue)** | **[Humanities](/about-us/organisation-chart/humanities)** | **[Aesthetics, Craft and Technology](/about-us/organisation-chart/aesthetics-craft-and-technology)** |
-| **Mrs Chong-Yeo Chiu Peng**  | **Ms Delia Foo**  | **Mrs Tham Chuan Chuan**  |
-
-<br>
-
-| Head of Department | Head of Department | Head of Department |
-| :---: | :---: | :---: |
-| **Student Development** | **[Character and Citizenship Education](/about-us/organisation-chart/character-and-citizenship-education)** | **[Information and Communications Technology](/about-us/organisation-chart/information-and-communications-technology)**  |
-| **Mr Lim Bing Hui** | **Mrs Foo Kar Hiang** | **Mdm Azizah Rabunam** |
-
-<br>
-
-| Head of Department | School Staff Developer |
+| Head of Department | Head of Department | 
 | :---: | :---: |
-|  **Corporate Communications** | **Ms Esther Wong Teck Yen** |
-| **Mdm Premela d/o Prabakaran** | |
+| **[English Language, Literature and Drama](/about-us/organisation-chart/english-language-literature-and-drama)** | **[Science](/about-us/organisation-chart/science)** | 
+| **Mrs Shamini Rajandran** | **Mr Jason Chew** | 
+
+<br>
+
+| Head of Department | Head of Department | 
+| :---: | :---: |
+|**[Mathematics](/about-us/organisation-chart/mathematics)** |  **[Mother Tongue](/about-us/organisation-chart/mother-tongue)** |
+|**Mrs Tan Sok Mun** |  **Mrs Chong-Yeo Chiu Peng**&nbsp; |
+<br>
+
+| Head of Department | Head of Department | 
+| :---: | :---: | 
+|**[Humanities](/about-us/organisation-chart/humanities)** | **[Aesthetics, Craft and Technology](/about-us/organisation-chart/aesthetics-craft-and-technology)** |
+ | **Ms Delia Foo**&nbsp; | **Mrs Tham&nbsp;Chuan Chuan**&nbsp; |
+
+<br>
+
+| Head of Department | Head of Department | 
+| :---: | :---: |
+| **Student Development** | **[Character and Citizenship Education](/about-us/organisation-chart/character-and-citizenship-education)** |
+| **Mr Lim Bing Hui** | **Mrs Foo Kar Hiang** |
+
+<br>
+
+| Head of Department | Head of Department |
+| :---: | :---: |
+| **[Information and Communications Technology](/about-us/organisation-chart/information-and-communications-technology)**  |  &nbsp;**Corporate Communications**
+| **Mdm Azizah Rabunam** | **Mdm Premela d/o Prabakaran** |
+<br>
+
+| School Staff Developer |
+| :---: |
+| **Ms Esther Wong Teck Yen** |
+ 
 
 <br>
 
@@ -67,14 +79,14 @@ third_nav_title: Organisation Chart
 
 | Subject Head | Subject Head |
 | :---: | :---: |
-| CCE - Education and Career Guidance and Partnership |CCE- VIA and Salt & Light Programme |
+| CCE - Education and Career Guidance and Partnership |CCE- VIA and Salt &amp; Light Programme |
 | **Mrs Jean Tan** | **Mdm Kwang Wan Yi** |
 
 <br>
 
 | Subject Head | Subject Head |
 | :---: | :--: |
-| Student Well-Being |  Information and Communications Technology (Internal) |
+| Student Well-Being | &nbsp;Information and Communications Technology (Internal) |
 | **Ms Karen Tan** | **Mrs Teo Sook Lee** |
 
 <br>
@@ -83,6 +95,13 @@ third_nav_title: Organisation Chart
 | :---: | :---: |
 | **[Physical Education and Co-Curricular Activities](/about-us/organisation-chart/physical-education-and-co-curricular-activities)** | Additional Mathematics |
 | **Mr Tan Hee Ming** | **Ms Bernadette Lim** |
+
+<br>
+
+| Subject Head | 
+| :---: |
+| Student Leadership | 
+| **Ms Cao Yu**|
 
 <br>
 
@@ -116,7 +135,7 @@ third_nav_title: Organisation Chart
 
 | Assistant Year Head | Assistant Year Head |
 | :---: | :---: |
-| Secondary 3 | Secondary 4 & 5 |
+| Secondary 3 | Secondary 4 &amp; 5 |
 | **Ms Sharon Tan** | **Ms Lum Ying Lee** |
 
 <br>
