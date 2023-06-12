@@ -21,6 +21,11 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
+  - infobar:
+      title: School Graduation Certificate Collection
+      subtitle: announcement
+      button: Click here
+      url: https://www.stmargaretssec.moe.edu.sg/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
