@@ -25,7 +25,7 @@ sections:
       title: School Graduation Certificate Collection
       subtitle: announcement
       button: Click here
-      url: https://www.stmargaretssec.moe.edu.sg/
+      url: /announcements/announcements/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
