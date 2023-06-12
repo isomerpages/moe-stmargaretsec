@@ -3,11 +3,9 @@ title: ‘Let our Light Shine!’ 180th Anniversary Wall Mural
 permalink: /180th-anniversary-celebrations/Let-Our-Light-Shine-180th-Anniversary-Wall-Mural/
 description: ""
 ---
-
 ‘Let our Light Shine!’ 180th Anniversary Wall Mural
 ===================================================
-![Mural 02.png](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/180th%20Annversary/Mural%2002.png)
-
+![](/images/Mural%2002.png)
 This 180th Anniversary commemorative mural was painted in 2022 by students and teachers from the Gear Up programme. The elements of the mural were designed based on the theme: ‘Let our Light Shine!’.  
 
   
