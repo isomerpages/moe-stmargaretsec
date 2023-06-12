@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Announcements
           description: ""
-          url: /announcements/Announcements/
+          url: /announcements/announcements/
         - title: Monthly Letter from Principal
           description: ""
           url: /announcements/Monthly-Letter-From-Principal/
