@@ -9,7 +9,12 @@ third_nav_title: Student Achievements
 | Girls' Brigade |  |  |
 | -------- | -------- | -------- |
 | The Girls' Brigade Drill Competition 2023 - Gold   |      |     |
-| Pioneer Brigader Brooch 2023 - 2 students   |      |     |
+| Pioneer Brigader Brooch Award 2023 - 2 students   |      |     |
+
+| NPCC |
+| --- |
+| SPF-NPCC badge - 2 students |
+| |
 
 2022
 ----
@@ -17,7 +22,7 @@ third_nav_title: Student Achievements
 | Girls' Brigade | 
 | -------- | 
 | The Girls' Brigade Singapore Company Award 2022  - Gold
-| Pioneer Brigader Brooch Award - 5 students |
+| Pioneer Brigader Brooch Award 2022 - 5 students |
 |Dr Low Guat Tin Challenge 2022:  
 Gold Award - 12 students  
 Silver Award - 13 students  
