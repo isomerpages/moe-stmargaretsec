@@ -11,7 +11,7 @@ third_nav_title: Organisation Chart
 | Mdm | Kwang Wan Yi  | SH CCE |
 | Ms  | Anna Shen | ST English  |
 | Mrs | Elizabeth Yang  | LH Lower Secondary English Language, Literature and Drama  |
-| Ms | Cao Yu  |   |
+| Ms | Cao Yu  | (Ag) SH Student Leadership  |
 | Ms | Anitha d/o Sekar  |   |
 | Ms | Cindy Tan  |   |
 | Ms | Elyana Insyirah Esman |   |
