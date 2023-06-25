@@ -27,6 +27,7 @@ third_nav_title: Organisation Chart
 | :---: | :---: |
 |**[Mathematics](/about-us/organisation-chart/mathematics)** |  **[Mother Tongue](/about-us/organisation-chart/mother-tongue)** |
 |**Mrs Tan Sok Mun** |  **Mrs Chong-Yeo Chiu Peng**&nbsp; |
+
 <br>
 
 | Head of Department | Head of Department | 
