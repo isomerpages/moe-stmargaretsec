@@ -10,7 +10,7 @@ third_nav_title: Student Achievements
 
 | Agape Club | 
 | -------- | 
-| Inter-school Christian Fellowship Challenge - 1st and 2nd  | 
+| Inter-school Christian Fellowship Challenge - 1<sup>st</sup> and 2<sup>nd</sup>  | 
 
 2022
 ----
