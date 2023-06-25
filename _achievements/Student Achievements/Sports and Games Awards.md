@@ -43,8 +43,7 @@ National School Games South Zone <br>Championships 2023 ‘B’ Division Girls -
 
 |Swimming |
 | -------- | 
-|National School Games <br>'B' Division Girls Individual 50m free, 100m free<br>'C' Division Girls Individual - 100m back, 200m back
-
+|National School Games Swimming 'C' Division Girls Swimming Championships 2023 <br> 8<sup>th </sup>(100m backstroke)<br> 7<sup>th </sup>(200m backstroke)
 
 2022
 ----
