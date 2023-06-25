@@ -22,7 +22,7 @@ third_nav_title: Organisation Chart
 | Ms | Sha Yijing   |   |
 | Mdm | Ramachandran Sathiya Piriya    |  |
 | Mrs  | Subramaniam Kalaymai  |   |
-| Ms | Wang Li |  |
+| Mdm | Wang Li |  |
 
 | | |
 |---|---|
