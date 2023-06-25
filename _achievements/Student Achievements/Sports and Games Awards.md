@@ -19,7 +19,7 @@ National School Games South Zone <br>Championships 2023 ‘B’ Division Girls �
 
 |Cross Country|
 | -------- | 
-|National School Games South Zone 'B' Division Girls Cross Country <br> Championships 2023 - 1<sup>st</sup>
+|National School Games South Zone 'B' Division Girls Cross Country Championships 2023 - 1<sup>st</sup>
 
 
 
