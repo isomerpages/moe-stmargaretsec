@@ -18,9 +18,10 @@ third_nav_title: Organisation Chart
 | Mrs | Chua Choe Tee  |   |
 | Mrs | Ho Yu Zhen | |
 | Mdm | Josephine Khaw  |   |
+| Mrs | Ng Li Mei | |
 | Mrs | Rosalind Khoo  |   |
+| Mr  | Sam Chee Fai Josh |   |
 | Mrs | Serena Ajay |   |
-| Mrs  | Soh Sok Hoon  |   |
 | Ms | Tan Chai Yong |   |
 | Mdm | Teng Siok Ting |   |
 | Mdm  | Yeo Shu Ling  |  |
