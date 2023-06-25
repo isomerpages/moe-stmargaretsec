@@ -14,14 +14,20 @@ National School Games South Zone ‘C’ Division Girls Badminton Championships 
 Basketball |
 | -------- | 
 |National School Games South Zone 'B' Division Girls Basketball Championships 2023 - 3<sup>rd</sup><br>
-National School Games South Zone <br>Championships 2023 ‘B’ Division Girls – 3<sup>rd</sup>|
+National School Games South Zone <br>Championships 2023 ‘B’ Division Girls - 3<sup>rd</sup>|
 
 
 |Cross Country|
 | -------- | 
 |National School Games South Zone 'B' Division Girls Cross Country Championships 2023 - 1<sup>st</sup>
 
+|Golf|
+| -------- | 
+|National School Games 'C' Division Girls Golf Championships 2023 - 6<sup>th</sup>
 
+|Judo |
+| -------- | 
+| National School Games 'B' Division Girls Individual -  (under 48kg Extra Lightweight Category) - 3<sup>rd</sup> (Team Overall) &amp; Individual Bronze (Joint 3<sup>rd</sup>)  |
 
 |Netball |
 | -------- | 
@@ -31,9 +37,7 @@ National School Games South Zone <br>Championships 2023 ‘B’ Division Girls �
 | -------- | 
 |National School Games Tennis ‘B’ Division Girls <br>Plate Tournament 2023 - 3<sup>rd</sup> | 
 
-|Judo |
-| -------- | 
-| National School Games B Div Girls Individual -  48kg Extra Lightweight|
+
 
 |Swimming |
 | -------- | 
