@@ -14,13 +14,13 @@ third_nav_title: Organisation Chart
 | Mdm | Anbarasi M S  |   |
 | Ms  | Florence Chang Hwee Miang  |   |
 | Mdm | Huang Haiying |   |
-| Ms | Jacquelyn Chan Jiat Luang  |   |
 | Ms | Koh Pooi Sze |   |
 | Mdm | Liu Fang |  |
 | Ms | Nora Bte Aziz  |  |
 | Mdm | Nur Aqilah Bte Ibrahim    |   |
-| Mr | Ponnalagu Manickam | |
 | Ms | Quek Jiat Hia   |   |
+| Ms | Sha Yijing   |   |
+| Mdm | Ramachandran Sathiya Piriya    |  |
 | Mrs  | Subramaniam Kalaymai  |   |
 | Ms | Wang Li |  |
 
