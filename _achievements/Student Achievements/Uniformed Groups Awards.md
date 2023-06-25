@@ -15,7 +15,8 @@ third_nav_title: Student Achievements
 | --- |
 | SPF-NPCC badge - 2 students |
 | |
-
+| NPCC Best Unit Cadet Award 2023 - 2 students |
+| |
 2022
 ----
 
