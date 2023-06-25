@@ -31,17 +31,19 @@ National School Games South Zone <br>Championships 2023 ‘B’ Division Girls -
 
 |Netball |
 | -------- | 
-|National School Games Netball South Zone ‘B’ Division Girls <br>Championship 2023 - 3<sup>rd</sup> | 
+|National School Games Netball South Zone ‘B’ Division Girls <br>Championships 2023 - 3<sup>rd</sup> | 
 
 |Tennis |
 | -------- | 
 |National School Games Tennis ‘B’ Division Girls <br>Plate Tournament 2023 - 3<sup>rd</sup> | 
 
-
+|Track and Field |
+| -------- | 
+|National School Games Tennis ‘B’ Division Girls <br>Track and Field Championships 2023 <br>1<sup>st </sup>(Individual - 3000m)<br>1<sup>st </sup>(Individual - 1500m)<br>3<sup>rd </sup>(Individual - 400m hurdles)<br>8<sup>th </sup>(Individual - 100m hurdles)
 
 |Swimming |
 | -------- | 
-|National School Games <br>B Div Girls Individual 50m free, 100m free<br>C Div Girls Individual - 100m back, 200m back
+|National School Games <br>'B' Division Girls Individual 50m free, 100m free<br>'C' Division Girls Individual - 100m back, 200m back
 
 
 2022
