@@ -144,7 +144,6 @@ third_nav_title: Organisation Chart
 
 <h5 align="center"><a href="/about-us/organisation-chart/school-administration-team">School Administration Team</a></h5>
 
-
 | Administration Manager 1 | Administration Manager 2 |
 | :---: | :---: |
 | **Ms Lian Chuen Ann** | **Ms Doreen Owyong Siew Leng** |
