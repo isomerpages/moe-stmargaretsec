@@ -9,7 +9,6 @@ NIE Caring Teaching Award
 | Name of Staff | Year |
 | --- | --- |
 | Ms Elyana Insyirah Esman | 2020 |
-| Ms Karen Thia Hui Teen&nbsp; | 2020&nbsp; |
 | Mrs Rosalind Khoo | 2020 |
 
 Management and Leadership in Schools Programme (July 2019) by National Institute of Education (NIE)
@@ -51,7 +50,6 @@ National Day Honours
 | --- | --- |
 | Ms Ho Wai Yu | Efficiency Medal, 2007 |
 | Ms Magdalene Tan | Long Service Medal, 2011 |
-| Mr Low Kim Khong | Long Service Medal, 2007&nbsp;&nbsp; |
 | Mrs Chong-Yeo Chiu Peng | Long Service Medal, 2007 |
 | Mrs Chua Choe Tee | Commendation Medal, 2011  <br>Long Service Medal, 2007 |
 | Mrs Rosalind Khoo | Commendation Medal, 2009&nbsp; |
@@ -123,4 +121,4 @@ MOE Excellence in Service Award (MSEA)
 | Mdm See Toh Wai Theng, Mae | 2014&nbsp; |
 | Mr Zulkipli Bin Ahmad | 2014&nbsp;&nbsp; |
 | Mdm Kamisah Binte Nor&nbsp; | 2019, 2018&nbsp; |
-| Mr Somasundram S/O Raman | 2019&nbsp; |
+| Mr Somasundram s/o Raman | 2019&nbsp; |
