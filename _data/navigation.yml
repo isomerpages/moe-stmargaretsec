@@ -9,10 +9,10 @@ links:
   - title: Achievements
     collection: achievements
   - title: Programmes
-    url: /programmes/
+    url: /programmes/the-national-digital-literacy-programme-ndlp/
     sublinks:
       - title: National Digital Literacy
-        url: /programmes/National-Digital-Literacy
+        url: /programmes/the-national-digital-literacy-programme-ndlp/
       - title: Learning Community
         url: /programmes/learning-community
       - title: Character Development
