@@ -9,7 +9,6 @@ NIE Caring Teaching Award
 | Name of Staff | Year |
 | --- | --- |
 | Ms Elyana Insyirah Esman | 2020 |
-| Ms Karen Thia Hui Teen&nbsp; | 2020&nbsp; |
 | Mrs Rosalind Khoo | 2020 |
 
 Management and Leadership in Schools Programme (July 2019) by National Institute of Education (NIE)
