@@ -29,8 +29,10 @@ Mr Chan Kwong Yew
 
 Achievements
 ------------
-| Year | Name of Competition | Achievement|
+
+| Year | Name of Competition | Achievement |
 | -------- | -------- | -------- |
-| 2023     | National School Games Tennis 'B' Division Girls Plate Tournament     | 3<sup>rd</sup>     |
+| 2023 &nbsp; &nbsp; | National School Games Tennis 'B' Division Girls Plate Tournament &nbsp; &nbsp; | 3<sup>rd</sup> &nbsp; &nbsp; |
 | 2022 | Plate Tournament of National Inter-schools Tennis Championships | 3<sup>rd</sup> |
 |2018 | National Inter-schools Championships 'C' Division Plate Challenge | 2<sup>nd</sup>|
+
