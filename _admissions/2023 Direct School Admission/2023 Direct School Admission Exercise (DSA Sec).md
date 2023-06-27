@@ -52,7 +52,6 @@ Tel: 6466 4525 <br>
 Email Address: [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg)
 
 
-
 ![](/images/aes%20talent%20area%20dsa.jpg)![](/images/aes%20talent%20area%20_page%20dsa2.jpg)![](/images/aes%20talent%20area%20_page-0003.jpg)![](/images/sports%20talent%20area%20_page-0001.jpg)
 
 ### **Frequently Asked Questions about the Direct School Admission Exercise**
