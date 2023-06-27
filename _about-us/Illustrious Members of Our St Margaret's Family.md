@@ -88,7 +88,7 @@ description: ""
 	</a>
 	<br><br>
 		<a href="">
-		<img src="/images/Suraja%20Raman%20" style="width:60%">
+		<img src="/images/suraja%20raman.jpg" style="width:60%">
 		read more
 	</a>
 	
