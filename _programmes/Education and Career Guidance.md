@@ -34,7 +34,12 @@ The school ECG programme enhances the curriculum through customised experiences,
 ![](/images/picture%204%20-%20wajs%20(3).jpg)
 ![](/images/picture%205%20-%20wajs%20(3).jfif)
 ![](/images/picture%206%20-%20wep%20(3).jpg)
-
+![](/images/picture%207%20-%20pgd%20(1).jpg)
+![](/images/picture%208%20-%20shatec%202%20(2).jpeg)
+![](/images/picture%209%20-%20lj%20to%20barclays%201%20(1).jpg)
+![](/images/picture%2010%20-%20lj%20to%20barclays%202%20(2).jpg)
+![](/images/picture%2011%20-%20interview%20training%201%20(1).jpg)
+![](/images/picture%2012%20-%20interview%20training%202%20(1).jpg)
 
 
 
