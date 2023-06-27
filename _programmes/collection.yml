@@ -2,7 +2,6 @@ collections:
   programmes:
     output: true
     order:
-      - Contents.md
       - National Digital Literacy/.keep
       - National Digital Literacy/The National Digital Literacy Programme
         (NDLP).md
