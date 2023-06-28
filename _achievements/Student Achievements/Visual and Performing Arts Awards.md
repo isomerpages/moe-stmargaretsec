@@ -7,303 +7,297 @@ third_nav_title: Student Achievements
 2023
 ----
 
-| _Chinese Dance_ |
+| Chinese Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation -  Certificate of Distinction |
 
-| _Choir_ |
+| Choir|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
 
-| _Concert Band_ |
+| Concert Band|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _English Drama_ |
+| English Drama |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-| |
 
-| _Indian Dance_ |
+| Indian Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Malay Dance_ |
+| Malay Dance|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Modern Dance_ |
+| Modern Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-| |
 
-| _String Ensemble_ |
+| String Ensemble |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-| |
+
 
 2022
 ----
 
-| _Creative Art Club (Visual Art)_ |
+| Creative Art Club (Visual Art)|
 | --- |
 | Singapore Youth Festival Visual Arts Exhibition - Certificate of Recognition - 2 students |
-| |
+
 
 2021
 ----
 
-| _Chinese Dance_ |
+| Chinese Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Creative Art Club (Visual Art)_ |
+
+|Creative Art Club (Visual Art)|
 | --- |
 | Live on Festival 2021 - Distinction Award - 1 student <br>  Art Prize Competition organised by The Rice Limited Company - Merit Award - 1 student |
-| |
 
-| _Concert Band_ |
+
+| Concert Band |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _English Drama_ |
+
+| English Drama |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Indian Dance_ |
+
+| Indian Dance|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Malay Dance_ |
+
+| Malay Dance|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Modern Dance_ |
+
+|Modern Dance|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-| |
 
-| _String Ensemble_ |
+
+|String Ensemble|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
+
   
 2020
 ----
 
-| _Creative Art Club (Visual Art)_ |
+| Creative Art Club (Visual Art) |
 | --- |
 | Singapore Youth Festival Visual Art Representation<br>- Certificate of Accomplishments - 31 students<br><br>Safety Starts with Me Poster Competition organised by Workplace Safety and Health Council<br>- Consolation Prize - 2 students<br><br>Road Safety for All Art Competition organised by Singapore Road Safety Council<br>- Merit Award - 2 students  |
-|  |
+
 
 2019
 ----
 
-| _Choir_ |
+|Choir|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _String Ensemble_ |
+
+| String Ensemble|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Symphonic Band_ |
+
+|Symphonic Band|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Chinese Dance_ |
+
+| Chinese Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Indian Dance_ |
+
+| Indian Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-| |
 
-| _Malay Dance_ |
+
+| Malay Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of&nbsp; Accomplishment |
-| |
 
-| _Modern Dance_ |
+
+| Modern Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation -&nbsp; Certificate of Distinction |
-| |
 
-| _Drama_ |
+
+| Drama |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-| |
+
 
 2018
 ----
 
-| _Creative Art Club_ |
+| Creative Art Club|
 | --- |
 | SYF 2018 Art Exhibition: Artist and Citizenship <br> \- Logo&nbsp;Design&nbsp;Contest -&nbsp;Certificate of Recognition (Special Mention) <br><br>2018 Zhang Shou Shi National&nbsp;Calligraphy and Chinese Painting&nbsp;Exhibition <br> (2018年度张瘦石全国中小学书画展) <br> \- Silver Award - 1 student&nbsp;<br> \- Certificate of Merit - 2 students |
 | SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Upper Secondary - 15 students |
 | SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Lower Secondary - 14 students&nbsp; |
 | SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition&nbsp;<br>\- Certificate of Participation&nbsp; <br> \- Lower Secondary - 11 students&nbsp; |
 | SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Contest <br> \- Certificate of Recognition - 4 students <br> \- Certificate Of Participation - 4 students <br> \- Consolation Prize - 1 student&nbsp; |
-| |
 
-| _String Ensemble_ |
+
+| String Ensemble|
 | --- |
 | Ensemble Certificate Exam by Trinity College London - Certificate of Distinction |
-| |
+
 
 2017
 ----
 
-| _Indian Dance_ |
+| Indian Dance|
 | --- |
 | SYF 2017 Celebrations Youth Got Talent Dance (Solo) Category - Audience Choice Award&nbsp; |
 | Singapore Youth Festival - Arts Presentation - Dance (Indian) -&nbsp;Certificate of Distinction |
-| |
 
-| _Symphonic Band_ |
+
+| Symphonic Band |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Band (Concert) - Certificate of Distinction |
-| |
 
-| _Malay Dance_  |
+
+| Malay Dance  |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Dance (Malay) &nbsp;- Certificate of Accomplishment |
-| |
 
-| _Chinese Dance_ |
+
+| Chinese Dance|
 | --- |
 | Singapore Youth Festival - Arts Presentation - Dance (Chinese) - Certificate of Distinction |
-| |
 
-| _Choir_  |
+
+| Choir |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Choir - Certificate of Distinction |
-| |
 
-| _String Ensemble_ |
+
+| String Ensemble |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Instrumental Ensemble (Strings) - Certificate of Accomplishment |
-| |
 
-| _Modern Dance_ |
+
+| Modern Dance |
 | --- |
 | Singapore Youth Festival - Arts Presentation - Dance (International) - Certificate of Accomplishment |
-| |
 
-| _Drama_&nbsp; |
+
+| Drama|
 | --- |
 | Singapore Youth Festival - Arts Presentation - Drama - Certificate of Accomplishment |
-| |
 
-| _Creative Art Club_ |
+
+| Creative Art Club |
 | --- |
 | The Singapore Youth Festival (SYF) 2017 Theme Motif Design Contest - Consolation |
 | Speak! Ventures Debate Championships organised by Debate Association - 2<sup>nd</sup> amongst Top 20 Individual Speakers in Silver Division&nbsp;&nbsp; |
-| |
+
 
 2016
 ----
 
-| _Choir_ |
+| Choir |
 | --- |
 | Singapore International Choral Festival 2016 - Silver |
-| |
 
-| _Indian Dance_ |
+
+| Indian Dance|
 | --- |
 | 6<sup>th</sup>&nbsp;International Youth&nbsp;Dance&nbsp;Festival - Gold |
-| |
 
-| _String Ensemble_ |
+
+| String Ensemble |
 | --- |
 | Trinity College London Ensemble Grading Examination - Intermediate Ensemble with Certificate of Distinction&nbsp; |
-| |
 
-| _Symphonic Band_ |
+
+| Symphonic Band |
 | --- |
 | Singapore Ensemble Competition 2016 |
 | Percussion Ensemble - Gold, First Prize |
 | Woodwind Quintet - Gold&nbsp; |
 | Singapore International Band Festival (Division 2A)&nbsp; - Silver Award&nbsp; |
-| |
 
-| _Creative Art Club_ |
+
+| Creative Art Club|
 | --- |
 | Singapore Youth Festival (SYF) 2016 Art Exhibition |
 | 5 Certificates of Recognition |
-| |
+
 
 2015
 ----
 
-| _Chinese Dance_ |
+| Chinese Dance |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _Choir_ |
+
+| Choir|
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _Drama_ |
+
+| Drama |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _Indian Dance_ |
+
+| Indian Dance |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _Malay Dance_ |
+
+| Malay Dance |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _Modern Dance_ |
+
+| Modern Dance |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Distinction |
-| |
 
-| _String Ensemble_ |
+
+| String Ensemble |
 | --- |
 | Singapore Youth Festival Central Judging – Certificate of Accomplishment |
-| |
 
-| _Symphonic Band_ |
+
+| Symphonic Band|
 | --- |
 | Singapore Youth Festival Central Judging – Certificate&nbsp;of Distinction |
-| |
 
-| _Creative Art Club_ |
+
+| Creative Art Club |
 | --- |
 | Noise Singapore (organised by The National Arts Council)  <br> \- Produced individual winning entry from Singapore <br> Entry also won 1<sup>st</sup>&nbsp;place in Japan Times Award&nbsp; |
 | SG50&nbsp;Hawker Project <br> \- Adopted Empress Market to showcase the painting series, 'Blast from the Past' |
-| |
+
 
 2014
 ----
 
-| _Choir_ |
+| Choir|
 | --- |
 | Singapore International Choral Festival – Silver Diploma |
-| |
 
-| _Symphonic Band_ |
+
+| Symphonic Band|
 | --- |
 | Singapore International Band Festival – Silver |
-| |

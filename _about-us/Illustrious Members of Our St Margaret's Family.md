@@ -87,17 +87,17 @@ description: ""
 		read more
 	</a>
 	<br><br>
-		<a href="">
+		<a href="/files/dr%20suraja%20raman.pdf">
 		<img src="/images/suraja%20raman.jpg" style="width:60%">
 		read more
 	</a>
 		<br><br>
-		<a href="">
+		<a href="/files/pearl%20forss.pdf">
 		<img src="/images/pearl%20forss.jpg" style="width:60%">
 		read more
 	</a>
 		<br><br>
-		<a href="">
+		<a href="/files/aarthi%20sankar.pdf">
 		<img src="/images/aarthi%20sankar.jpg" style="width:60%">
 		read more
 	</a>
