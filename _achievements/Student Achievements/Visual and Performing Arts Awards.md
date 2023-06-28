@@ -19,21 +19,17 @@ third_nav_title: Student Achievements
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
 
-
 | English Drama |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Accomplishment |
-
 
 | Indian Dance |
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
 
-
 | Malay Dance|
 | --- |
 | Singapore Youth Festival Arts Presentation - Certificate of Distinction |
-
 
 | Modern Dance |
 | --- |
