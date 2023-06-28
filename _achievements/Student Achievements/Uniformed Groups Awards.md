@@ -6,10 +6,12 @@ third_nav_title: Student Achievements
 ---
 2023
 ----
+
+
 | Girls' Brigade | 
 | -------- | 
-| The Girls' Brigade Drill Competition 2023 - Gold   |  
-| Pioneer Brigader Brooch Award 2023 - 2 students   |   
+| The Girls' Brigade Drill Competition 2023 - Gold  <br>
+Pioneer Brigader Brooch Award 2023 - 2 students | 
 
 | NPCC |
 | -------- | 
