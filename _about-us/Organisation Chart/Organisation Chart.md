@@ -81,7 +81,7 @@ third_nav_title: Organisation Chart
 
 | Subject Head | Subject Head |
 | :---: | :---: |
-| CCE - Education and Career Guidance and Partnership |CCE- VIA and Salt &amp; Light Programme |
+| CCE - Education and Career Guidance and Partnership |CCE- National Education and Salt &amp; Light Programme |
 | **Mrs Jean Tan** | **Mdm Kwang Wan Yi** |
 
 <br>
