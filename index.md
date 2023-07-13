@@ -21,9 +21,9 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
-        - title: "Useful Link "
+        - title: Useful Link
           description: (For Students)
-          url: ""
+          url: /resources/for-students/useful-links/
   - infobar:
       title: School Graduation Certificate Collection
       subtitle: announcement
