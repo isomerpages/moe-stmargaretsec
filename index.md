@@ -18,12 +18,12 @@ sections:
         - title: Monthly Letter from Principal
           description: ""
           url: /announcements/Monthly-Letter-From-Principal/
-        - title: SMS(S) on Facebook
-          description: ""
-          url: https://www.facebook.com/stmargssecsg/
         - title: Useful Link
           description: (For Students)
           url: /resources/for-students/useful-links/
+        - title: SMS(S) on Facebook
+          description: ""
+          url: https://www.facebook.com/stmargssecsg/
   - infobar:
       title: School Graduation Certificate Collection
       subtitle: announcement
