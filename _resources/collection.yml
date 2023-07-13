@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - For Students/2023 Secondary 4 & 5 Preliminary Examinations Timetable.md
       - For Students/2023 Preliminary Examinations Timetable.md
       - For Students/2023 Class Timetable.md
       - For Students/School Rules.md
