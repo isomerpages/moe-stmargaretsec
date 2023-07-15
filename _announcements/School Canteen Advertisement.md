@@ -47,5 +47,5 @@ any clarifications.
 
 **How to get there?**
 <br> **Nearest MRT**: Farrer Road MRT (CC20) – walking 3 minutes from Exit B
-<br> **Bus number:** 48, 93, 153, 165, 174, 186, 855, 961 (Bus Stop Number 41101) – 2 minutes
+<br> **Bus number:** 48, 93, 153, 165, 174, 186, 855, 961 (Bus Stop Number 41101) – 2-minute
 walking distance
