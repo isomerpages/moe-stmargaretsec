@@ -22,7 +22,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 * Make responsible decisions for yourself, your family and society and
 * Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones
 
-You may click&nbsp;[[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)]&nbsp;for more information on MOE Sexuality Education.&nbsp;  
+You may click [here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach) for more information on MOE Sexuality Education.&nbsp;  
 
 
 ### Overview of St. Margaret's School (Secondary) Sexuality Education Programme for 2023
