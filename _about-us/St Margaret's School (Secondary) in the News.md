@@ -7,7 +7,8 @@ description: ""
 
 | Date Published | Media / Publication | Title |
 | -------- | -------- | -------- |
-| 19/04/2023| ZB Schools <br>早报校园| [听看戏曲 爱上华文](https://www.zbschools.sg/news/school/stories-26842)
+| 12/07/2023| ZB Schools <br>早报校园| [创作小说&nbsp;爱上华文](https://www.zbschools.sg/news/school/stories-26842)
+| 19/04/2023| ZB Schools <br>早报校园| [听看戏曲 爱上华文](https://www.zbschools.sg/news/school/stories-27309)
 | 07/01/2023     | Channel News Asia     | [Be Well Buddy: Guiding Youths on the Road to Wellness](https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms)    |
 | 16/11/2022     | The Straits Times     | [St. Margaret’s Schools end year-long 180th&nbsp;Anniversary Celebrations with Thanksgiving Service](https://www.straitstimes.com/singapore/st-margaret-s-schools-end-year-long-180th-anniversary-celebrations-with-thanksgiving-service)    |
 | 16/11/2022     | 8视界 新闻网     |[ 配合创校180周年圣玛格烈女校和中学明年更名 ](https://www.8world.com/singapore/st-margaret-school-180-anni-1976446)   |
