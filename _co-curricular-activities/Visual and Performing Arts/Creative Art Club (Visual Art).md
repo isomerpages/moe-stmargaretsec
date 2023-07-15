@@ -33,7 +33,7 @@ Achievements
 | 2020 | Singapore Youth Festival Visual Art Representation | Certificate of Participation - 31 students |
 | &nbsp; | Safety Starts with Me Poster Competition&nbsp; | Consolation Prize - 2 students&nbsp; |
 | &nbsp; | Road Safety for All Art Competition&nbsp;&nbsp; | Merit Award - 2 students&nbsp; |
-| 2018&nbsp; | Singapore Youth Festival 2018 Art Exhibition&nbsp; | &nbsp; |
-| &nbsp; | Logo Design Contest | 1 Consolation |
+| 2018&nbsp; | Singapore Youth Festival 2018 Art Exhibition: Artist and Citizenship&nbsp; | Certificate of Recognition - 2 students &amp; <br> Certificate of Recognition (Special mention) - 1 student|
+| &nbsp;|    Logo Design Contest | Consolation - 1 student |
 | &nbsp; | (2018年度张瘦石全国中小学书画展)  <br> 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition | Silver Award -1 student <br> Certificate of Merit - 2 students&nbsp;|&nbsp;  
 | | | |
