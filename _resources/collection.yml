@@ -2,13 +2,13 @@ collections:
   resources:
     output: true
     order:
-      - For Students/2023 Preliminary Examinations Timetable.md
+      - For Students/.keep
       - For Students/2023 Class Timetable.md
-      - For Students/School Rules.md
+      - For Students/2023 Preliminary Examinations Timetable.md
       - For Students/Bookshop Information.md
+      - For Students/School Rules.md
       - For Students/Support for Students.md
       - For Students/Useful Links.md
-      - For Students/.keep
       - For Parents/.keep
       - For Parents/Monthly Principal's Letter.md
       - For Parents/Home Based Learning.md
