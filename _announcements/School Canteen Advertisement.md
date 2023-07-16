@@ -45,7 +45,7 @@ food sampling for the School Canteen Committee at the applicant’s own expense.
 Successful applicant will be expected to commence operation of the stall on 16 August 2023. Please contact the school’s Operations Manager, Mr Chua Boon Keong at&nbsp;6466 4525&nbsp;for
 any clarifications.
 
-**How to get there?**
-<br> **Nearest MRT**: Farrer Road MRT (CC20) – walking 3 minutes from Exit B
-<br> **Bus number:** 48, 93, 153, 165, 174, 186, 855, 961 (Bus Stop Number 41101) – 2 minutes
+**How to get there**
+<br> **Nearest MRT**: Farrer Road MRT (CC20) – 3- minute walk from Exit B
+<br> **Bus number:** 48, 93, 153, 165, 174, 186, 855, 961 (Bus Stop Number 41101) – 2-minute
 walking distance

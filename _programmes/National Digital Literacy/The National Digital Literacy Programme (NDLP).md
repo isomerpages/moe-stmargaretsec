@@ -14,7 +14,7 @@ Click&nbsp;[here](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curri
 <iframe width="560" height="315" align="center" src="https://www.youtube.com/embed/Qgf76jrMEkQ" title="NDLP Trailer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
-Neu PC Plus Progamme
+NEU PC Plus Progamme
 --------------------
 
 In view that all secondary school students will own a Personal Learning Device (PLD) under MOE’s Digital Literacy Programme, secondary school students will no longer be eligible to apply for the NEU PC Plus programme with effect from 1 January 2022. These students who need assistance for home broadband connectivity, can apply for the Home Access programme at&nbsp;[www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg/).

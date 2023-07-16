@@ -11,10 +11,10 @@ description: ""
 [SEAB](https://www.seab.gov.sg/)&nbsp;<br>
 [iExams 2](https://iexams.seab.gov.sg/)&nbsp;
   
-[MOE Identity Management System (MIM)](https://idp.mims.moe.gov.sg/nidp/saml2/sso) <br>
+[MOE Identity Management System (MIMS)](https://idp.mims.moe.gov.sg/nidp/saml2/sso) <br>
 [Human Resource Portal](https://www.hrp.gov.sg/hrp/#/)&nbsp;<br>
 [OPAL 2.0](https://opal2.moe.edu.sg/) <br>
-[TRASI](https://traisi.moe.gov.sg/AD/login.asp)&nbsp;<br>
+<br>
 [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)&nbsp;<br>
 &nbsp;  
 [Student Learning Space](https://vle.learning.moe.edu.sg/login) <br>

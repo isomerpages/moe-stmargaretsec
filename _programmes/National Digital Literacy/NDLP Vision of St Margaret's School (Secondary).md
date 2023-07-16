@@ -6,7 +6,7 @@ third_nav_title: National Digital Literacy
 ---
 ![](/images/screenshot%202023-07-13%20084454.png)
 
-St Margaret&#39;s School (Secondary) aims to empower students to become future-ready learners who
+St. Margaret&#39;s School (Secondary) aims to empower students to become future-ready learners who
 navigate the digital age, adapt to change, and contribute meaningfully to society. Our National
 Digital Literacy Programme nurtures critical thinking and information literacy skills. Through
 strategic integration of ICT, students analyze, evaluate, and synthesize information from digital
