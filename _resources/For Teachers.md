@@ -31,12 +31,12 @@ description: ""
 
 * [St. Margaret's School (Secondary) Digital Signage System Request Form](https://go.gov.sg/smssdigitalsignagerequestform) <br>
 * [St. Margaret's School (Secondary) EduPage](https://stmargssec.edupage.org/)&nbsp;<br>
+* [St. Margaret's School (Secondary) Facebook Page](https://www.facebook.com/stmargssecsg/)&nbsp;<br>
+* [St. Margaret's School (Secondary) Instagram](https://www.instagram.com/stmargssecsg/)&nbsp;<br>
 * [St. Margaret's School (Secondary) Padlet](https://stmargaretssecondary1.padlet.org/) <br>
 * [St. Margaret's School (Secondary) Professional Development Site](https://go.gov.sg/smss-staffsite)<br>
 * [St. Margaret's School (Secondary) Secondary 2 Subject Combination Microsite](https://sites.google.com/stmargs.edu.sg/sec-2-combination-exercise/home?authuser=0) <br>
 * [St. Margaret's School (Secondary) Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home?authuser=0)&nbsp;<br>
-* [St. Margaret's School (Secondary) Facebook Page](https://www.facebook.com/stmargssecsg/)&nbsp;<br>
-* [St. Margaret's School (Secondary) Instagram](https://www.instagram.com/stmargssecsg/)&nbsp;<br>
 * [St. Margaret's School (Secondary) YouTube](https://www.youtube.com/user/stmargssecsg) 
 
 ## ICT Tools for Teaching and Learning
@@ -58,4 +58,3 @@ description: ""
 * [My Skills Future - Secondary](https://www.myskillsfuture.gov.sg/content/student/en/secondary.html)&nbsp;<br>
 * [Ministry of Health](https://www.moh.gov.sg/home)&nbsp;<br>
 * [Overseas Excursion Toolkit](https://www.internationalsos.com/) <br>
-
