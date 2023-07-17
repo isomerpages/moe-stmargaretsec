@@ -41,7 +41,7 @@ Performing Arts CCAs Supporting the Enhanced Music Programme
 	</tr>
 	<tr>
 		<td width="36%"><img src="/images/Choir.jpg"></td>
-		<td width="32%"><img src="/images/"> </td>
+		<td width="32%"><img src="/images/band12023.jpg"> </td>
 		<td width="32%"><img src="/images/Strings.jpg"></td>
 	</tr>
 	<tr></tr>
