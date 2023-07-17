@@ -147,11 +147,9 @@ third_nav_title: Student Achievements
 
 | Creative Art Club|
 | --- |
-| SYF 2018 Art Exhibition: Artist and Citizenship <br> \- Logo&nbsp;Design&nbsp;Contest -&nbsp;Certificate of Recognition (Special Mention) <br><br>2018 Zhang Shou Shi National&nbsp;Calligraphy and Chinese Painting&nbsp;Exhibition <br> (2018年度张瘦石全国中小学书画展) <br> \- Silver Award - 1 student&nbsp;<br> \- Certificate of Merit - 2 students |
-| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Upper Secondary - 15 students |
-| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition <br> \- Certificate of Participation <br> \- Lower Secondary - 14 students&nbsp; |
-| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Competition&nbsp;<br>\- Certificate of Participation&nbsp; <br> \- Lower Secondary - 11 students&nbsp; |
-| SYF 2018 Art Exhibition : Artist&nbsp;and Citizenship <br> \- Logo Design Contest <br> \- Certificate of Recognition - 4 students <br> \- Certificate Of Participation - 4 students <br> \- Consolation Prize - 1 student&nbsp; |
+| SYF 2018 Art Exhibition: Artist and Citizenship <br> - 2 Certificates of Recognition <br> - 1 Certificate of Recognition (Special mention)  
+| SYF Logo Design Contest  <br> - 1 Consolation  
+| 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition <br>(2018年度张瘦石全国中小学书画展)  <br> - Silver Award - 1 student <br> - Certificate of Merit - 2 students
 
 
 | String Ensemble|
