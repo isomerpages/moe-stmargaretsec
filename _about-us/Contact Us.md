@@ -5,7 +5,7 @@ description: ""
 ---
 | | |
 | --- | --- |
-| Address: | 111 Farer Road, Singapore 259240
+| Address: | 111 Farrer Road, Singapore 259240
 | Tel: | 6466 4525 | 
 | Fax: | 6466 6709 |
 | e-Mail: | [stmargaretss@moe.edu.sg](mailto:stmargaretss@moe.edu.sg) |
