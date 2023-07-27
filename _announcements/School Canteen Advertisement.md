@@ -37,12 +37,12 @@ Interested applicants must submit the following documents:
 * Photocopy of the Identification Card (front &amp; back).
 * Records of past catering/canteen experiences, if any.
 Please submit the documents to the school’s General Office or email
-to&nbsp;chua_boon_keong@moe.edu.sg (Attention: Operations Manager) by the closing date 27 July 2023, 5.00 pm. We regret that late applications will not be accepted.
+to&nbsp;chua_boon_keong@moe.edu.sg (Attention: Operations Manager) by the closing date 28 August 2023, 5.00 pm. We regret that late applications will not be accepted.
 
 **Interview and Food Tasting:** <br>
 Only shortlisted applicants will be notified for an interview and are required to provide
 food sampling for the School Canteen Committee at the applicant’s own expense.
-Successful applicant will be expected to commence operation of the stall on 16 August 2023. Please contact the school’s Operations Manager, Mr Chua Boon Keong at&nbsp;6466 4525&nbsp;for
+Successful applicant will be expected to commence operation of the stall on 11 September 2023. Please contact the school’s Operations Manager, Mr Chua Boon Keong at&nbsp;6466 4525&nbsp;for
 any clarifications.
 
 **How to get there**
