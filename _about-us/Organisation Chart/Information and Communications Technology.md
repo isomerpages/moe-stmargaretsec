@@ -10,8 +10,9 @@ third_nav_title: Organisation Chart
 | Mrs | Keira Lim | SH Teaching and Learning with Technology  |
 | Mrs | Teo Sook Lee | SH Information and Communications Technology (Internal)
 | Ms | Thor Ya Lin | ICT Manager  |
+| Mr   | Muhammad Syukri Bin Suhaimi   |  ICT Associate   
 | Mr  | Eric Phang Boon How | Desktop Engineer |
-| Mr   | Muhammad Syukri Bin Suhaimi   |  ICT Associate   |
+| Mr | Aziizul Hakiim Bin Zulkifli | Desktop Engineer | 
 | Mdm  | Rajeswari Krishnasamy  | Librarian |
 
 | | |
