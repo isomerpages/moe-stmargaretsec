@@ -72,6 +72,9 @@ National Day Honours
 | Mr Jason Chew&nbsp; | Commendation Medal, 2022  |
 | Ms Ho Wai Yu&nbsp; | Long Service Medal, 2022 |
 | Mrs Wendy Lai&nbsp; | Long Service Medal, 2022&nbsp; |
+| Mdm Azizah Rabunam&nbsp; | Commendation Medal, 2023&nbsp; |
+| Ms Susan Toh&nbsp; | Long Service Medal, 2023&nbsp; |
+| Ms Lian Chuen Ann&nbsp; | Long Service Medal, 2023&nbsp; |
 
 MOE Excellence in Service Award (MSEA)
 --------------------------------------
