@@ -14,7 +14,7 @@ Former students are warmly welcome to visit their teachers from 10.30 am to 12
 Please register your attendance at the guardhouse upon your arrival.
 
 
-Students may also craft a Teachers' Day note at https://for.edu.sg/wallofwishestday2023. 
+Students may also craft a Teachers' Day note at [https://for.edu.sg/wallofwishestday2023](https://for.edu.sg/wallofwishestday2023). 
 
 #### **Highlights of Sports Meet 2023** 
 
