@@ -34,5 +34,5 @@ sections:
   - infobar:
       title: Teachers' Day Celebrations (Wednesday, 30 August)
       button: Click Here
-      url: /
+      url: /announcements/announcements/
 ---
