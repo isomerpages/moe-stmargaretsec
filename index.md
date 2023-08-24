@@ -24,6 +24,10 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
+  - infobar:
+      title: Teachers' Day Celebrations (Wednesday, 30 August)
+      button: Click Here
+      url: /announcements/announcements/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
@@ -31,8 +35,4 @@ sections:
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
       image: /images/hero-img-quote.jpg
       alt: Image alt text
-  - infobar:
-      title: Teachers' Day Celebrations (Wednesday, 30 August)
-      button: Click Here
-      url: /announcements/announcements/
 ---
