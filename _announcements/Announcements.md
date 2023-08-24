@@ -3,8 +3,18 @@ title: Announcements
 permalink: /announcements/announcements/
 description: ""
 ---
-#### School Graduation Certificate (SGC) Collection
-The School Graduation Certificates (SGC) for our 2022 SMSS graduates can be collected from **12 June to 31 July 2023**.&nbsp;Graduates&nbsp;can&nbsp;collect their SGCs personally from the general office from **Monday to Friday,&nbsp;8.30 am to 5.30 pm.** <br> Graduates are required to bring along their identity cards for verification.
+#### Teachers' Day Celebrations (Wednesday, 30 August)
+
+In view of the school being activated as a Polling Station and Counting Center due to the Presidential Elections, the school will be having our Teachers’ Day Celebration on Wednesday, 30 August 2023. 
+
+
+Former students are warmly welcome to visit their teachers from 10.30 am to 12 noon. 
+
+
+Please register your attendance at the guardhouse upon your arrival.
+
+
+Students may also craft a Teachers' Day note at https://for.edu.sg/wallofwishestday2023. 
 
 #### **Highlights of Sports Meet 2023** 
 
