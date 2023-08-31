@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/Sec 1, 2 and 3 End of Year Examinations Timetable.md
       - For Students/.keep
       - For Students/2023 Class Timetable.md
       - For Students/2023 Preliminary Examinations Timetable.md
