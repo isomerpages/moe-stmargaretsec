@@ -7,6 +7,8 @@ third_nav_title: National Digital Literacy
 1.  The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.
 2.  For more information on DMA, please contact the school’s ICT Manager, Ms Thor Ya Lin at&nbsp;[thor\_ya\_lin@moe.edu.sg](mailto:thor_ya_lin@moe.edu.sg)
 
+###### DMA Guides and Video Guides can be found [here.](https://go.gov.sg/dmaparentguide-mg)
+
 <table>
 <thead>
   <tr>
@@ -21,7 +23,7 @@ third_nav_title: National Digital Literacy
   <tr>
     <td></td>
     <td>For parents/guardians who want their child's/ward's use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours. </td>
-    <td>For parents/guardians who want more leeway over their child's/ ward's use of the device, and prefer to take charge of the level of restrictions for their child's/ward's use of the device after school hours. <br><br>[undefined](https://go.gov.sg/dmaparentguide-mg)<br></td>
+    <td>For parents/guardians who want more leeway over their child's/ ward's use of the device, and prefer to take charge of the level of restrictions for their child's/ward's use of the device after school hours. <br><br> [Video Guides](https://go.gov.sg/dmaparentguide-mg)<br></td>
     <td>For parents/ guardians who do not want their child's/ward's use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
