@@ -15,7 +15,7 @@ third_nav_title: National Digital Literacy
 		<th></th>
     <th>Default Setting<br>(This will apply if no Alternative Setting is chosen)</th>
     <th>Alternative Setting:<br>Option A<br>(Modify DMA Settings)</th>
-    <th>Alternative Setting:<br>Option B<br>(DIsable DMA Settings)</th>
+    <th>Alternative Setting:<br>Option B<br>(Disable DMA Settings)</th>
     <th></th>
   </tr>
 </thead>
@@ -23,7 +23,7 @@ third_nav_title: National Digital Literacy
   <tr>
     <td></td>
     <td>For parents/guardians who want their child's/ward's use of the device to be restricted only to teaching and learning, and who prefer to follow the Default Setting as set by the school during school hours. </td>
-    <td>For parents/guardians who want more leeway over their child's/ ward's use of the device, and prefer to take charge of the level of restrictions for their child's/ward's use of the device after school hours. <br><br> [Video Guides](https://go.gov.sg/dmaparentguide-mg)<br></td>
+    <td>For parents/guardians who want more leeway over their child's/ ward's use of the device, and prefer to take charge of the level of restrictions for their child's/ward's use of the device after school hours. <br><br> [)<br></td>
     <td>For parents/ guardians who do not want their child's/ward's use of the device after school hours to be regulated by the DMA at all.</td>
   </tr>
   <tr>
@@ -35,7 +35,7 @@ third_nav_title: National Digital Literacy
   <tr>
     <td>Reduce distractions from learning through control of applications</td>
 		<td>Parents/Guardians and students will be <u><b>unable</b></u> to install additional applications.</td>
-    <td colspan="2">The App Store will be available after school hours. Parents/Guardians are able to install applications if they have an App Store account.<br>Students who have an App Store account are able to download apps without any parental guidance or restrictions.<br>Any applications installed after school hours will be disbled during school hours.</td>
+    <td colspan="2">The App Store will be available after school hours. Parents/Guardians are able to install applications if they have an App Store account.<br>Students who have an App Store account are able to download apps without any parental guidance or restrictions.<br>Any applications installed after school hours will be disabled during school hours.</td>
   </tr>
   <tr>
     <td> Limit screen time</td>
