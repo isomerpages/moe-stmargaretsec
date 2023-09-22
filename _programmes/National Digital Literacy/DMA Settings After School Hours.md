@@ -7,7 +7,8 @@ third_nav_title: National Digital Literacy
 1.  The following table outlines the different levels of restrictions, controls and monitoring for the different DMA options after school hours.
 2.  For more information on DMA, please contact the school’s ICT Manager, Ms Thor Ya Lin at&nbsp;[thor\_ya\_lin@moe.edu.sg](mailto:thor_ya_lin@moe.edu.sg)
 
-###### DMA Guides and Video Guides can be found [here.](https://go.gov.sg/dmaparentguide-mg)
+###### DMA Guides and Video Guides can be found [here.](https://go.gov.sg/dmaparentguide-mg) <br><br>
+
 
 <table>
 <thead>
