@@ -6,7 +6,14 @@ third_nav_title: Student Achievements
 ---
 2023
 ----
-
+   
+| Fencing | 
+| -------- |
+National School Games National Championships 2023 <br> C Division Girls - Team Overall 1<sup>st</sup> <br> B Division Girls - Team Overall 2<sup>nd</sup><br> C Division Girls - Individual Epee 1<sup>st</sup><br> B Division Girls - Individual Epee 3<sup>rd</sup><br> B Division Girls - Individual Foil&nbsp;  3<sup>rd</sup>
+ 
+| Bowling | 
+| -------- |
+| National School Games National Chamionships 2023  'C' Division Girls - Team Overall - 4<sup>th</sup> |
 
 | Badminton | 
 | -------- |

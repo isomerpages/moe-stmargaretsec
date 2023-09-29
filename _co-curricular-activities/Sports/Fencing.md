@@ -29,6 +29,7 @@ Achievements
 
 | Year | Name of Competition | Achievement |
 | --- | --- | --- |
+| 2023 | National School Games National Championships <br> C Division Girls - Team Overall <br> B Division Girls - Team Overall <br> C Division Girls - Individual Epee <br> B Division Girls - Individual Epee <br> B Division Girls - Individual Foil  | <br> 1<sup>st</sup> <br> 2<sup>nd</sup> <br> 1<sup>st</sup> <br> 3<sup>rd</sup> <br> 3<sup>rd</sup>|
 | 2022 | National School Games&nbsp;<br>*   'B' Division Girls Overall Team<br>*   'B' Division Foil Individual&nbsp;<br>*   'C' Division Girls Overall Team<br>*   'C' Division Epee Individual&nbsp;<br>*   'C' Division Foil Individual<br>*   'C' Division Sabre Individual | <br>3<sup>rd</sup><br>6<sup>th</sup>&nbsp;and 8<sup>th</sup> <br> 2<sup>nd</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 1<sup>st</sup>&nbsp;and 8<sup>th</sup> <br> 3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 8<sup>th</sup> |
 | 2019 | 2019 National School Games |  |
 | &nbsp; | *  'B' Division Girls&nbsp;Overall Team | 4<sup>th</sup> |

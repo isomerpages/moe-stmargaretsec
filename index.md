@@ -24,10 +24,6 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
-  - infobar:
-      title: Secondary 1 - 3 End-of-Year Examinations
-      button: Click here
-      url: /resources/for-students/sec123eoyexamstimetable/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
