@@ -3,6 +3,7 @@ title: Canteen Vacancy Advertisement
 permalink: /announcements/canteenvacancyadvertisement/
 description: ""
 ---
+### Muslim Cooked Food
 St. Margaret’s School (Secondary) is inviting interested applicants to operate a  
 **“Muslim Cooked Food”** stall in our school canteen.
 
