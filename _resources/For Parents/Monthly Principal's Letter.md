@@ -6,6 +6,11 @@ third_nav_title: For Parents
 ---
 The Monthly Principal's Letter can be downloaded by clicking on the respective files below.
 
+October 2023
+-------------
+[Principal's Letter October 2023](/files/oct%202023%20p%20letter_final.pdf)<br>
+[SMS(S) Achievements September 2023](/files/sms(s)%20achievements%20-%20sept%202023.pdf)
+
 September 2023
 -------------
 [Principal's Letter September 2023](/files/september%202023%20principal%20letter.pdf)<br>
