@@ -99,24 +99,26 @@ MOE Excellence in Service Award (MSEA)
 
 | Name of Staff | Year(s) |
 | --- | --- |
-| Mrs Chew-Thor Ya Lin | 2019, 2018, 2017, 2016, 2015, 2014 |
-| Mr&nbsp;Lee Kee Heng&nbsp; | 2019, 2018, 2017, 2016&nbsp; |
-| Ms Lian Chuen Ann | 2019, 2018, 2017&nbsp; |
-| Mdm Pushpalatha d/o Chandrasagar | 2019, 2018, 2017, 2016, 2015 |
+| Ms Thor Ya Lin | 2023, 2021, 2019, 2018, 2017, 2016, 2015, 2014 |
+| Mr&nbsp;Lee Kee Heng&nbsp; | 2023,2019, 2018, 2017, 2016&nbsp; |
+| Ms Lian Chuen Ann | 2023, 2019, 2018, 2017&nbsp; |
+| Mdm Pushpalatha d/o Chandrasagar | 2023, 2019, 2018, 2017, 2016, 2015 |
 | Mdm Sagayarani d/o Arockian | 2020, 2018, 2017, 2016, 2015 |
-| Mdm See Toh Wai Theng, Mae | 2019, 2018, 2017, 2016, 2015 |
-| Mr Zulkipli Bin Ahmad | 2019, 2018, 2017, 2016, 2015 |
-| Ms Loh Yoke Cheng, Jane | 2019, 2018, 2017, 2013 |
+| Mdm See Toh Wai Theng, Mae | 2023, 2019, 2018, 2017, 2016, 2015 |
+| Mr Zulkipli Bin Ahmad | 2023, 2019, 2018, 2017, 2016, 2015 |
+| Ms Loh Yoke Cheng, Jane | 2023, 2019, 2018, 2017, 2013 |
 | Ms Doreen Owyong | 2020, 2019, 2018 |
-| Mdm Christine Tay Hwee Pheng | 2019&nbsp; |
+| Mdm Christine Tay Hwee Pheng | 2023, 2019&nbsp; |
 | Mdm Kamisah | 2020&nbsp; |
 | Mr Somasundram s/o Raman | 2020&nbsp; |
+| Ms Sumitra Shasi Kumar | 2023
+| Mr Muhammad Syukri Bin Suhaimi | 2023
 
 **Silver Award:**&nbsp;
 
 | Name of Staff | Year(s) |
 | --- | --- |
-| Mrs Chew-Thor Ya Lin  | 2013  |
+| Ms Thor Ya Lin  | 2013  |
 | Mdm Christine Tay Hwee Pheng | 2018, 2017&nbsp; |
 | Ms Doreen Owyong | 2018, 2017&nbsp; |
 | Mr&nbsp;Lee Kee Heng&nbsp; | 2015, 2014&nbsp;&nbsp; |
@@ -125,3 +127,5 @@ MOE Excellence in Service Award (MSEA)
 | Mr Zulkipli Bin Ahmad | 2014&nbsp;&nbsp; |
 | Mdm Kamisah Binte Nor&nbsp; | 2019, 2018&nbsp; |
 | Mr Somasundram s/o Raman | 2019&nbsp; |
+| Ms Suntharambal D/O Palaniandi | 2023
+| Ms Tay Kah Hui Grace | 2023 |
