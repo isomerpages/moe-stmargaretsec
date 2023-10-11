@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Canteen Vacancy Advertisement (Halal Western or Halal Italian Food).md
       - Announcements.md
       - Monthly Letter From Principal.md
       - Canteen Vacancy Advertisement (Muslim Cooked Food).md
