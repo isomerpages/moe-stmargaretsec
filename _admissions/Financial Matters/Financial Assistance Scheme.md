@@ -14,9 +14,9 @@ Singaporean students may apply for financial assistance from the Ministry of Edu
 Application Process 
 ----------------------------
 Parents/students may obtain the application form for the Financial Assistance Scheme (FAS) through one of the ways as listed below:&nbsp;<br><br>
-*(Link will be made available in due time) for both Item (a) and (b):*<br><br>
-**(a)**&nbsp;&nbsp; Apply using the MOE FAS e-application form (eFAS) via FormSG.
-<br>**(b)**&nbsp; Download the application form directly from the school website;&nbsp;
+<br>
+**(a)**&nbsp;&nbsp; Apply using the MOE FAS e-application form (eFAS) via [FormSG](https://go.gov.sg/moe-efas).
+<br>**(b)**&nbsp; [Download](/files/2024%20moe%20fas%20application%20form.pdf) the application form directly from the school website;&nbsp;
 <br>**(c)**&nbsp;&nbsp; Obtain the application form from the General Office reception counter;
 
 For submission of FAS application form, parents/students have the options to submit via FormSG or hard-copy form:
@@ -59,17 +59,18 @@ Benefits of the FAS
 
 Successful applicants will receive:
 
-*   Full waiver of school fees of $5.00 and single-tier miscellaneous fees of $20.00.&nbsp;(_Autonomous School fees of $3.00 are to be paid using the FAS students’ Edusave Funds_)
+*   Full waiver of school fees of $5.00 and miscellaneous fees of $20.00 per month&nbsp;<br>(Autonomous School fees of $3.00 per month are to be paid using the FAS students’ Edusave Funds)
 *   Free School Attire
 *   Free Textbooks
 *   Public Transport Subsidy of $17 per month in the form of e-Vouchers which are to be redeemed&nbsp;from Transitlink each month. Secondary 1 FAS students should redeem for both the January and February e-Vouchers&nbsp;($34) in February. Thereafter, redemption is on a monthly basis (between 28th of current month to 10th of the following month).
-*   Subsidy for Meals in the School Canteen: $3.50 per meal x 10 meals per week – during term&nbsp;time only. MOE FAS students are to activate their&nbsp;Student Smart Card at&nbsp;the school’s General Office (one-time activation), before they can tap their card at the&nbsp;terminal at any canteen stall on a weekly basis to receive their subsidies. Secondary 1 students are&nbsp;required to activate their new Secondary School Student Smart Card at the school’s General Office when they receive it in March 2024 to continue receiving subsidies.
+*   Subsidy for Meals in the School Canteen: $3.50 per meal x 10 meals per week – during term&nbsp;time only. MOE FAS students are to activate their&nbsp;Student Smart Card at&nbsp;the school’s General Office (one-time activation), before they can tap their card at the&nbsp;terminal at any canteen stall on a weekly basis to receive their subsidies. 
+Secondary 1 students are&nbsp;required to activate their new Secondary School Student Smart Card at the school’s General Office when they receive it in March 2024 to continue receiving subsidies
 
 DigitalAccess@Home
 ---------------
 ---------------
 *   DigitalAccess@Home provides eligible Singaporean families with 3 years of subsidized fibre broadband connectivity and/or device.
-*   Please visit website [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg) for more information.
+*   Please visit website [www.digitalaccess.gov.sg](http://www.digitalaccess.gov.sg) for more information&nbsp;or contact 63773800 or email:&nbsp;[digitalaccess@imda.gov.sg](mailto:digitalaccess@imda.gov.sg). You may also approach&nbsp;the school for a hard copy of the application form.
 
 
- Information is correct as of 19 September 2023.
+ Information is correct as of 19 October 2023.
