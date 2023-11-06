@@ -31,4 +31,9 @@ sections:
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
       image: /images/hero-img-quote.jpg
       alt: Image alt text
+  - infobar:
+      title: 2024 Booklist and Uniform Infosheet
+      id: infobar
+      button: Click here
+      url: /resources/for-parents/2024booklistanduniforminfosheet/
 ---
