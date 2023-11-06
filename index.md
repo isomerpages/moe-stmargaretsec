@@ -31,29 +31,4 @@ sections:
       url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
       image: /images/hero-img-quote.jpg
       alt: Image alt text
-  - infobar:
-      title: "2024 Booklist and Uniform  Infosheet "
-      subtitle: Add informational text
-      id: infobar
-      description: For Secondary 2, 3, 4 & 5
-      button: Click here
-      url: "### 2024 Booklist and Uniform Infosheet  #### **2024 Booklists**<br>   |
-        **Secondary 2** |  | -------- |  * [Sec 2E &
-        Stationery](/files/sec%202e%20&%20stationery1.pdf)<br>  * [Sec 2NA
-        & Stationery](/files/sec%202na%20&%20stationery.pdf)<br>  * [Sec
-        2NT & Stationery](/files/sec%202nt%20&%20stationery.pdf)<br>   |
-        **Secondary 3** |  | -------- |  * [Sec 3E &
-        Stationery](/files/sec%203e%20&%20stationery.pdf)<br>  * [Sec 3NA
-        & Stationery](/files/sec%203na%20&%20stationery.pdf)<br>  * [Sec
-        3NT & Stationery](/files/sec%203nt%20&%20stationery.pdf)<br>   |
-        **Secondary 4** |  | -------- |  *  [Sec 4E &
-        Stationery](/files/sec%204e%20&%20stationery.pdf)<br>  * [Sec 4NA
-        & Stationery](/files/sec%204na%20&%20stationery.pdf)<br>  * [Sec
-        4NT & Stationery](/files/sec%204nt%20&%20stationery.pdf)<br>   |
-        **Secondary 5** |  | -------- |  *  [Sec 5NA &
-        Stationery](/files/sec%205na%20&%20stationery.pdf)<br>    #####
-        **Purchase of School Uniform (For Sec 2, 3, 4 and 5 Students)**  |  |  |
-        -------- |  * [Click
-        here](/files/purchase%20of%20school%20uniform%20(for%20sec%202%20to%205\
-        %20students).pdf)"
 ---
