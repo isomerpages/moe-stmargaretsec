@@ -8,7 +8,7 @@ The new PSLE Scoring and S1 Posting System took effect in 2021. Please go to thi
 Indicative Scoring
 ------------------
 
-A new PSLE scoring system has been implemented since 2021 in which students will be scored by Achievement Levels (AL) based on their individual performance in the PSLE subjects, regardless of how their peers have done. The table below shows the PSLE score range of 2022 for the various posting groups:  
+A new PSLE scoring system has been implemented since 2021 in which students will be scored by Achievement Levels (AL) based on their individual performance in the PSLE subjects, regardless of how their peers have done. The table below shows the PSLE score range for the various posting groups:  
 
 <table>
 	<tr>
