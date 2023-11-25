@@ -8,7 +8,7 @@ The new PSLE Scoring and S1 Posting System took effect in 2021. Please go to thi
 Indicative Scoring
 ------------------
 
-A new PSLE scoring system has been implemented since 2021 in which students will be scored by Achievement Levels (AL) based on their individual performance in the PSLE subjects, regardless of how their peers have done. The table below shows the PSLE Cut-off Point for the various streams:  
+A new PSLE scoring system has been implemented since 2021 in which students will be scored by Achievement Levels (AL) based on their individual performance in the PSLE subjects, regardless of how their peers have done. The table below shows the PSLE score range of 2022 for the various streams:  
 
 <table>
 	<tr>
@@ -16,20 +16,20 @@ A new PSLE scoring system has been implemented since 2021 in which students will
 		<th colspan="3"> <p align="center">Affiliated </p></th>
 	</tr>
 	<tr>
-		<td> <p align="center">Express</p> </td>
-		<td> <p align="center">Normal (Academic)</p> </td>
-		<td> <p align="center">Normal (Technical)</p> </td>
-		<td> <p align="center">Express</p> </td>
-		<td> <p align="center">Normal (Academic)</p> </td>
-		<td> <p align="center">Normal (Technical)</p> </td>
+		<td> <p align="center">Posting Group 1</p> </td>
+		<td> <p align="center">Posting Group 2</p> </td>
+		<td> <p align="center">Posting Group 3</p> </td>
+		<td> <p align="center">Posting Group 1</p> </td>
+		<td> <p align="center">Posting Group 2</p> </td>
+		<td> <p align="center">Posting Group 3</p> </td>
 	</tr>
 	<tr>
-		<td> <p align="center">11</p> </td>
-		<td> <p align="center">22</p> </td>
-		<td> <p align="center">30</p> </td>
-		<td> <p align="center">20</p> </td>
-		<td> <p align="center">25</p> </td> 
-		<td> <p align="center">27</p> </td>
+		<td> <p align="center">6 - 14</p> </td>
+		<td> <p align="center">21 - 22</p> </td>
+		<td> <p align="center">25 - 30</p> </td>
+		<td> <p align="center">9 - 20</p> </td>
+		<td> <p align="center">21 - 25</p> </td> 
+		<td> <p align="center">26 - 29</p> </td>
 	</tr>
 	<tr></tr>
 </table>
