@@ -4,7 +4,7 @@ permalink: /admission/psle-scoring/
 description: ""
 variant: markdown
 ---
-The new PSLE Scoring and S1 Posting System took effect in 2021. Please go to this&nbsp;[link](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)&nbsp;to obtain more information.&nbsp;  
+The new PSLE Scoring and S1 Posting System took effect in 2021. Please go to this&nbsp;[link](https://www.moe.gov.sg/microsites/psle-fsbb/index.html)&nbsp;to obtain more information.
 
 Indicative Scoring
 ------------------
