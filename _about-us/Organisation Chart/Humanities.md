@@ -12,7 +12,6 @@ third_nav_title: Organisation Chart
 | Mrs | Esther Lau  | LT History  |
 | Mrs | Filzah Tay | SH History |
 | Mr  | Desmond John Lee Yue Kay  |   |
-| Ms  | Esther Lee  |   |
 | Ms | Grace Wee  |   |
 | Mrs | Juliana Chua |  |
 | Ms | Nicolette Ng  |   |

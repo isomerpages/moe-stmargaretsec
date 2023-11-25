@@ -20,7 +20,6 @@ third_nav_title: Organisation Chart
 | Mr | Leong Fang Shao  |   |
 | Mrs | Lucy Seet-Hing Miaw Ngo  |   |
 | Mrs  | Michelle Mok |   |
-| Ms  | Ong Ju  |   |
 | Mdm  | Nazlin Bte Hamzah  |   |
 | Mrs | Priscilla Choi  |   |
 | Ms  | Sharon Ow  |   |
