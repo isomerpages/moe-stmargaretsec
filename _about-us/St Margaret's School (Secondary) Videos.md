@@ -2,6 +2,7 @@
 title: St Margaret's School (Secondary) Videos
 permalink: /about-us/st-margarets-school-secondary-videos/
 description: ""
+variant: markdown
 ---
 ## Corporate Video
 
@@ -38,5 +39,9 @@ In 2022, we celebrated the 180th year of the founding of St. Margaret’s School
 
 ## 180th Anniversary Founder's Day Video Montage
 
-Watch a montage of how St. Margaret's School (Primary) and St. Margaret's School (Secondary) celebrated the 180th Anniversary throughout the year.
+Watch a montage of how St. Margaret's School (Primary) and St. Margaret's School (Secondary) celebrated the 180th Anniversary throughout the year. <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5d-ITtL8pg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+## Set Apart
+
+Set Apart is a collective memory project that seeks to uncover the spirit of St. Margaret’s School - what sets us apart from others - as told through the eyes of former staff and students that have come through these sound walls.  <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fRHFl46FrB0?si=7MRzIQN8SQucyRms" height="315" width="560"></iframe>
