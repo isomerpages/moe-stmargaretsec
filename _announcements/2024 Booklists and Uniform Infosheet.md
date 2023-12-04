@@ -32,4 +32,4 @@ description: ""
 
 ##### **Purchase of School Uniform (For Sec 2, 3, 4 and 5 Students)**
 
-* [Click here](/files/purchase%20of%20school%20uniform%20(for%20sec%202%20to%205%20students).pdf)
+* [Click here](/files/SMSS_Purchase_of_School_Uniform_for_S2_5.pdf)
