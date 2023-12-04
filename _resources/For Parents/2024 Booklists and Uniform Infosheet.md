@@ -33,4 +33,4 @@ third_nav_title: For Parents
 
 ##### **Purchase of School Uniform (For Sec 2, 3, 4 and 5 Students)**
 
-* [Click Here](/files/SMSS_2_5.pdf)
+* 
