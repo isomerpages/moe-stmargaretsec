@@ -4,6 +4,11 @@ permalink: /announcements/announcements/
 description: ""
 variant: markdown
 ---
+#### **2023 Release of N Level Results Slides**
+
+Click [**here**](/files/2023_N_Level_Release_of_Results_Slides.pdf) to download the slides
+
+
 #### **2024 Secondary 1 Admission (School Transfer)**
 
 Parents who are seeking to transfer their daughters to St. Margaret’s School (Secondary)may do so after the release of posting results on 20 December 2023. The relevant application details will be provided on this website from 20 December 2023, 9am. Without exception, all applications should be submitted by Tuesday, 26 December 2023, 5pm. The school will only notify shortlisted applicants by Friday, 29 December 2023.
