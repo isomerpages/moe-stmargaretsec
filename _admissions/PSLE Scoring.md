@@ -25,12 +25,12 @@ A new PSLE scoring system has been implemented since 2021 in which students will
 		<td> <p align="center">Posting Group 3</p>&nbsp;</td>
 	</tr>
 	<tr>
-		<td> <p align="center">6 - 14</p> </td>
-		<td> <p align="center">21 - 22</p> </td>
 		<td> <p align="center">25 - 30</p> </td>
-		<td> <p align="center">9 - 20</p> </td>
-		<td> <p align="center">21 - 25</p> </td> 
+		<td> <p align="center">21 - 22</p> </td>
+		<td> <p align="center">6 - 14</p> </td>
 		<td> <p align="center">26 - 29</p> </td>
+		<td> <p align="center">21 - 25</p> </td> 
+		<td> <p align="center">9 - 20</p> </td>
 	</tr>
 	<tr></tr>
 </tbody></table>
