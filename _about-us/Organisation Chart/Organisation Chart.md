@@ -3,6 +3,7 @@ title: Organisation Chart
 permalink: /about-us/organisation-chart/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | Principal|
 | :---: |
@@ -12,7 +13,7 @@ third_nav_title: Organisation Chart
 
 | Vice-Principal (Academic) | Vice-Principal (Administration) |
 | :---: | :---: |
-| **Ms Susan Toh** | **Ms Chrystine Woon** |
+| **Ms Chin Yih Min** | **Ms Chrystine Woon** |
 
 <br>
 
@@ -151,6 +152,3 @@ third_nav_title: Organisation Chart
 |Operations Manager 1 | Operations Manager 2 |
 | :---: | :---: |
 | **Mr Kok Hock Chung**| **Mr Chua Boon Keong**|
-
-
-

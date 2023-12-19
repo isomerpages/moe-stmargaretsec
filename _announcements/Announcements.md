@@ -11,7 +11,13 @@ Click [**here**](/files/2023_N_Level_Release_of_Results_Slides.pdf) to download 
 
 #### **2024 Secondary 1 Admission (School Transfer)**
 
-Parents who are seeking to transfer their daughters to St. Margaret’s School (Secondary)may do so after the release of posting results on 20 December 2023. The relevant application details will be provided on this website from 20 December 2023, 9am. Without exception, all applications should be submitted by Tuesday, 26 December 2023, 5pm. The school will only notify shortlisted applicants by Friday, 29 December 2023.
+Applicants who want to appeal into St. Margaret’s School (Secondary) will need to complete an online application by clicking **[here](https://form.gov.sg/639855823d38c800131cad45)**.
+
+**The deadline for submission is 26 December 2023, 5pm.**
+
+Please ensure that all fields are duly completed. Incomplete applications will not be considered. After submitting your online application, you will receive an acknowledgement email. 
+
+Please do not turn up at the school. For enquiries, please contact Ms Doreen Owyong at 64664525.
 
 
 #### **Teachers' Day Celebrations (Wednesday, 30 August)**
