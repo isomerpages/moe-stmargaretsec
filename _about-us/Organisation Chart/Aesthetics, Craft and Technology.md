@@ -13,7 +13,7 @@ variant: markdown
 | Mr | Benjamin Yeong Whye Leong  |   |
 | Mrs | Fairoz-Ramlah Ahmad  |   |
 | Mrs | Gemma Poon Pei Shan |   |
-| Ms | Mandy Pan |   |
+| Mdm | Mandy Pan |   |
 | Ms | Nur Irnawaty Bte Isnan |   |
 | Mdm | Siti Noryani Bte Sa'aban    |   |
 | Mdm | Suriyati Bte Jum'ani  |   |
