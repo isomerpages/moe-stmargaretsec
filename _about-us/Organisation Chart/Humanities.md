@@ -3,14 +3,14 @@ title: Humanities
 permalink: /about-us/organisation-chart/humanities/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Ms  | Delia Foo Wen Xian  | HOD Humanities  |
+| Mrs | Filzah Tay |  HOD Humanities (Act) |
 | Ms | Esther Wong Teck Yen | School Staff Developer |
 | Mdm | Azizah Rabunam | HOD Information and Communications Technology |
-| Mrs | Esther Lau  | LT History  |
-| Mrs | Filzah Tay | SH History |
+| Mrs | Esther Lau  |LT Social Studies  |
 | Mr  | Desmond John Lee Yue Kay  |   |
 | Ms | Grace Wee  |   |
 | Mrs | Juliana Chua |  |
@@ -26,5 +26,5 @@ third_nav_title: Organisation Chart
 | HOD | Head of Department |
 |  YH | Year Head  |
 |  SH | Subject Head  |
-|  ST | Senior Teacher  |
+|  LT | Lead Teacher  |
 |  LH | Level Head  |

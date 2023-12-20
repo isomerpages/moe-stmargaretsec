@@ -3,6 +3,7 @@ title: Science
 permalink: /about-us/organisation-chart/science/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 |  | Name |  |
 | --- | --- | --- |
@@ -19,14 +20,17 @@ third_nav_title: Organisation Chart
 | Ms | Ang Wen Ting  |  |
 | Mr | Adrian Sim |   |
 | Mrs | Calyn Wee |   |
-| Mr | Chan Kwong Yew  |   |
 | Mr  | Lawrence Tan   |   |
 | Ms | Magdalene Tan |   |
 | Ms | Norhayati Bte Maziland  |   |
 | Mr | Tan Puay Eng | |
-| Mdm | Pushpalatha | Laboratory Technician |
+| Ms | Loke Woan Jinn | |
+| Ms | Mok Lai Koin | |
 | Mr  | Lee Kee Heng  | Laboratory Technician  |
 | Ms | Marsya Afiqah Binte Salim | Laboratory Technician  |
+| Mdm | Pushpalatha | Laboratory Technician |
+| Mdm | Suntha | Laboratory Technician |
+
 
 | | |
 |---|---|
