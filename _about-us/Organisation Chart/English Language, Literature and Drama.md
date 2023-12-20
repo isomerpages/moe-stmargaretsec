@@ -26,7 +26,6 @@ variant: markdown
 | Mrs | Priscilla Choi  |   |
 | Ms  | Sharon Ow  |   |
 | Ms | Tan Yan Tong |  |
-| Ms | Michelle Lee |  |
 | Ms | Diana Tang |  |
 
 
