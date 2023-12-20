@@ -23,8 +23,8 @@ variant: markdown
 | Ms | Sha Yijing   |   |
 | Mrs  | Subramaniam Kalaymai  |   |
 | Mdm | Wang Li |  |
-| Mrs | Elavaini Krishnamoorthy |  |
-| Ms | Yusnita Bte Mohamed Yusoff |  |
+| Mdm | Elavaini Krishnamoorthy |  |
+| Mdm | Yusnita Bte Mohamed Yusoff |  |
 
 
 | | |

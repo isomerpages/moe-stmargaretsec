@@ -3,6 +3,7 @@ title: Aesthetics, Craft and Technology
 permalink: /about-us/organisation-chart/aesthetics-craft-and-technology/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
@@ -10,9 +11,9 @@ third_nav_title: Organisation Chart
 | Mrs  | Lee-Ang Siew Chin  | ST Nutrition and Food Science  |
 | Ms | Karen Tan Meng Sie | SH Student Well-Being  |
 | Mr | Benjamin Yeong Whye Leong  |   |
-| Mr | Christopher Jimmy Tan Bock Leong  |   |
 | Mrs | Fairoz-Ramlah Ahmad  |   |
 | Mrs | Gemma Poon Pei Shan |   |
+| Mdm | Mandy Pan |   |
 | Ms | Nur Irnawaty Bte Isnan |   |
 | Mdm | Siti Noryani Bte Sa'aban    |   |
 | Mdm | Suriyati Bte Jum'ani  |   |
