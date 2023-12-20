@@ -12,7 +12,6 @@ variant: markdown
 | Ms  | Joey Poh   | ST Character and Citizenship Education (CCE)   |
 | Mrs  | Sharon Tan Shi Hui | Asst. YH Secondary 3  |
 | Mrs  | Jean Tan Lay Ching  | SH Education and Career Guidance & Partnership
-| Mrs  | Lim Wan Lin  | SH  Chemistry |
 | Mrs | Keira Lim | SH Teaching and Learning with Technology |
 | Mrs | Kok-Ong Lin Jin | LH  Lower Secondary Science |\
 | Mrs| Teo Sook Lee | SH Information and Communications Technology (Internal)
