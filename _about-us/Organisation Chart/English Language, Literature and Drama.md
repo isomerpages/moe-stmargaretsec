@@ -14,6 +14,7 @@ variant: markdown
 | Mrs | Elizabeth Yang  | LH Lower Secondary English Language, Literature and Drama  |
 | Ms | Cao Yu  | (Ag) SH Student Leadership  |
 | Ms | Anitha d/o Sekar  |   |
+| Ms | Charmaine Loke |   |
 | Ms | Cindy Tan  |   |
 | Ms | Elyana Insyirah Esman |   |
 | Mrs | Ho Yu Zhen |  |
