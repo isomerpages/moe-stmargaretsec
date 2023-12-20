@@ -3,14 +3,15 @@ title: Mother Tongue
 permalink: /about-us/organisation-chart/mother-tongue/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 |  | Name |  |
 | --- | --- | --- |
-| Mrs | Chong-Yeo Chiu Peng | HOD Mother Tongue |
+| Ms  | Liang Huiyu  |HOD Mother Tongue  |
 | Mdm | Liu Xin | ST Chinese Language |
 | Ms | Soh Yee Ling Carol | Asst. YH Secondary 1 |
 | Mdm | Suryati Bte Mail | Asst. YH Secondary 2 |
-| Ms  | Liang Huiyu  | SH Chinese Language  |
+| Mrs | Chong-Yeo Chiu Peng |  |
 | Mdm | Anbarasi M S  |   |
 | Ms  | Florence Chang Hwee Miang  |   |
 | Mdm | Huang Haiying |   |
@@ -20,9 +21,11 @@ third_nav_title: Organisation Chart
 | Mdm | Nur Aqilah Bte Ibrahim    |   |
 | Ms | Quek Jiat Hia   |   |
 | Ms | Sha Yijing   |   |
-| Mdm | Ramachandran Sathiya Piriya    |  |
 | Mrs  | Subramaniam Kalaymai  |   |
 | Mdm | Wang Li |  |
+| Mrs | Elavaini Krishnamoorthy |  |
+| Ms | Yusnita Bte Mohamed Yusoff |  |
+
 
 | | |
 |---|---|
