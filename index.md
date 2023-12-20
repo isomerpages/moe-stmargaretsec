@@ -25,6 +25,11 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
   - infobar:
+      title: Secondary 1 e-Registration (2024 Intake)
+      id: infobar
+      button: Click here
+      url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
+  - infobar:
       title: 2024 Booklist and Uniform Infosheet
       id: infobar
       button: Click here
