@@ -23,8 +23,8 @@ variant: markdown
 | Ms | Magdalene Tan |   |
 | Ms | Norhayati Bte Maziland  |   |
 | Mr | Tan Puay Eng | |
-| Ms | Loke Woan Jinn | |
-| Ms | Mok Lai Koin | |
+| Mdm | Loke Woan Jinn | |
+| Mdm | Mok Lai Koin | |
 | Mr  | Lee Kee Heng  | Laboratory Technician  |
 | Ms | Marsya Afiqah Binte Salim | Laboratory Technician  |
 | Mdm | Pushpalatha | Laboratory Technician |
