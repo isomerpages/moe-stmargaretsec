@@ -3,6 +3,7 @@ title: Mathematics
 permalink: /about-us/organisation-chart/mathematics/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
@@ -17,7 +18,6 @@ third_nav_title: Organisation Chart
 | Mdm | Choo Wai Yun |   |
 | Mrs | Chua Choe Tee  |   |
 | Mrs | Ho Yu Zhen | |
-| Mdm | Josephine Khaw  |   |
 | Mrs | Ng Li Mei | |
 | Mrs | Rosalind Khoo  |   |
 | Mr  | Sam Chee Fai Josh |   |
