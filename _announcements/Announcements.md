@@ -4,6 +4,19 @@ permalink: /announcements/announcements/
 description: ""
 variant: markdown
 ---
+#### **Secondary 1 e-Registration (2024 Intake)**
+
+Dear Parents/Guardians of 2024 Secondary 1 students,
+
+We would like to extend our warm welcome to you and your daughter/ward into St. Margaret’s School (Secondary).  
+Please be informed that the Secondary 1 registration will be conducted **online**.  
+For students who are eligible to offer Higher Mother Tongue Language and/or subject(s) at a More Demanding Level (MDL), the letter(s) of offer will be sent to you via Parents Gateway (PG) upon the completion of the **Sec 1 e-Registration**.  
+Outcome of 3rd language application will also be sent via PG.  
+You are required to complete the **[form](https://go.gov.sg/2024smsssec1registration)** (link and QR code below) to complete the e-registration process by **22 December 2023, Friday.**        
+Please access **[here](https://sites.google.com/moe.edu.sg/smsssecondary1site/home)** for the Sec 1 information package.  
+Thank you.
+			
+
 #### **2023 Release of N Level Results Slides**
 
 Click [**here**](/files/2023_N_Level_Release_of_Results_Slides.pdf) to download the slides
