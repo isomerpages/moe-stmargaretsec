@@ -3,6 +3,7 @@ title: English Language, Literature and Drama
 permalink: /about-us/organisation-chart/english-language-literature-and-drama/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 |  | Name |  |
 | --- | --- | --- |
@@ -24,6 +25,11 @@ third_nav_title: Organisation Chart
 | Mrs | Priscilla Choi  |   |
 | Ms  | Sharon Ow  |   |
 | Ms | Tan Yan Tong |  |
+| Ms | Michelle Lee |  |
+| Ms | Diana Tang |  |
+
+
+
 
 | | |
 |---|---|
