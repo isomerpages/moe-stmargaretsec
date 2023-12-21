@@ -3,10 +3,11 @@ title: Character and Citizenship Education
 permalink: /about-us/organisation-chart/character-and-citizenship-education/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Mrs | Foo-Lee Kar Hiang | HOD Character and Citizenship Education (CCE) |
+| Mrs | Foo Kar Hiang | HOD Character and Citizenship Education (CCE) |
 | Ms  | Joey Poh Bee Kuan  | ST Character and Citizenship Education (CCE) |
 | Ms | Ang Hui Min  | Education and Career Guidance Counsellor |
 | Mrs  | Christine Ho  | Special Educational Needs Officer  |
