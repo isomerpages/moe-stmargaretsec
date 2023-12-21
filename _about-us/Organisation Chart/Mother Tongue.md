@@ -7,7 +7,7 @@ variant: markdown
 ---
 |  | Name |  |
 | --- | --- | --- |
-| Ms  | Liang Huiyu  |HOD Mother Tongue  |
+| Ms  | Liang Huiyu  |HOD Mother Tongue Languages  |
 | Mdm | Liu Xin | ST Chinese Language |
 | Ms | Soh Yee Ling Carol | Asst. YH Secondary 2 |
 | Mdm | Suryati Bte Mail | Asst. YH Secondary 1 |
