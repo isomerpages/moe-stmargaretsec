@@ -7,8 +7,8 @@ variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Mrs | Teo Sook Lee | SH Ed Tech|
-| Mrs | Keira Lim | SH Teaching and Learning with Technology  |
+| Mrs | Teo Sook Lee | SH Educational Technology|
+| Mrs | Keira Lim | SH Teaching and Learning with Educational Technology  |
 | Ms | Thor Ya Lin | ICT Manager  |
 | Mr   | Muhammad Syukri Bin Suhaimi   |  ICT Associate   
 | Mr  | Eric Phang Boon How | Desktop Engineer |

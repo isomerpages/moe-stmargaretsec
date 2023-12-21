@@ -1,5 +1,5 @@
 ---
-title: Mother Tongue
+title: Mother Tongue Languages
 permalink: /about-us/organisation-chart/mother-tongue/
 description: ""
 third_nav_title: Organisation Chart
@@ -7,10 +7,10 @@ variant: markdown
 ---
 |  | Name |  |
 | --- | --- | --- |
-| Ms  | Liang Huiyu  |HOD Mother Tongue  |
+| Ms  | Liang Huiyu  |HOD Mother Tongue Languages  |
 | Mdm | Liu Xin | ST Chinese Language |
-| Ms | Soh Yee Ling Carol | Asst. YH Secondary 1 |
-| Mdm | Suryati Bte Mail | Asst. YH Secondary 2 |
+| Ms | Soh Yee Ling Carol | Asst. YH Secondary 2 |
+| Mdm | Suryati Bte Mail | Asst. YH Secondary 1 |
 | Mrs | Chong-Yeo Chiu Peng |  |
 | Mdm | Anbarasi M S  |   |
 | Ms  | Florence Chang Hwee Miang  |   |

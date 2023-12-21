@@ -9,7 +9,7 @@ variant: markdown
 | --- | --- | --- |
 | Mrs | Shamini Rajandran | HOD English Language, Literature and Drama |
 | Mdm | Premela d/o Prabakaran | HOD Corporate Communications |
-| Mdm | Kwang Wan Yi  | SH CCE |
+| Mdm | Kwang Wan Yi  | SH CCE-National Education and Salt & Light Programme |
 | Ms  | Anna Shen | ST English  |
 | Mrs | Elizabeth Yang  | LH Lower Secondary English Language, Literature and Drama  |
 | Ms | Cao Yu  | (Ag) SH Student Leadership  |
