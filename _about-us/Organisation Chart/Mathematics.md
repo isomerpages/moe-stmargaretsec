@@ -10,7 +10,7 @@ variant: markdown
 | Mrs  | Tan Sok Mun | HOD Mathematics |
 | Mr  | Lim Bing Hui  | HOD Student Development |
 | Ms  | Ho Wai Yu  | ST Mathematics |
-| Ms  | Lum Ying Lee | Asst. YH Secondary 4/5 |
+| Ms  | Lum Ying Lee | Asst. YH Secondary 3 |
 | Ms  | Bernadette Zoey Lim Yanjun  | SH Additional Mathematics |
 | Mr  | Alvin Loh Yong Jie |  |
 | Mrs  | Adeline Liew  |   |
