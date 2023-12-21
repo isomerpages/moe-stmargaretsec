@@ -7,12 +7,13 @@ variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Mrs | Filzah Tay |  HOD Humanities (Act) |
+| Mrs | Filzah Tay |  HOD Humanities (Ag) |
 | Ms | Esther Wong Teck Yen | School Staff Developer |
-| Mdm | Azizah Rabunam | HOD Information and Communications Technology |
-| Mrs | Esther Lau  |LT Social Studies  |
+| Mrs | Esther Lau  |LT History  |
+| Ms | Priscilla Lim  | SH Geography (Internal)  |
+| Ms | Grace Wee  | ST Geography (Internal)  |
+| Mdm | Azizah Rabunam | |
 | Mr  | Desmond John Lee Yue Kay  |   |
-| Ms | Grace Wee  |   |
 | Mrs | Juliana Chua |  |
 | Ms | Nicolette Ng  |   |
 | Mdm | Nur Farhana Mohammed Saini  |   |
