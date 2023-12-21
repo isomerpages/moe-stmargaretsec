@@ -2,6 +2,7 @@
 title: Education and Career Guidance
 permalink: /programmes/education-and-career-guidance/
 description: ""
+variant: markdown
 ---
 Education and Career Guidance
 =============================
@@ -32,7 +33,6 @@ The school ECG programme enhances the curriculum through customised experiences,
 
 ![](/images/picture%203%20-%20ecgc%20sharing%20(3).jpg)
 ![](/images/picture%204%20-%20wajs%20(3).jpg)
-![](/images/picture%205%20-%20wajs%20(3).jfif)
 ![](/images/picture%206%20-%20wep%20(3).jpg)
 ![](/images/picture%207%20-%20pgd%20(1).jpg)
 ![](/images/picture%208%20-%20shatec%202%20(2).jpeg)
@@ -66,9 +66,10 @@ Useful information, including admission booklets where course details and cutoff
 
 *   [Polytechnic Courses](https://www.moe.gov.sg/coursefinder)
 *   [ITE Early Admissions Exercise](https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise)&nbsp;
-*   [JAE Booklet 2023](https://www.moe.gov.sg/-/media/files/post-secondary/2023-jae/2023-jae-booklet.ashx)&nbsp;
-*   [ITE Course Booklet 2023](https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2023)&nbsp;&nbsp;
+*   [JAE Booklet 2024](www.moe.gov.sg/jae)
+*  [ITE Course Booklet 2024](https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf)
 *   [Post Secondary Admissions Exercises and Programmes](https://www.moe.gov.sg/post-secondary/admissions)
+*  [Post-Secondary Pathways Under Full SBB](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html)
 
 **Support by the School for ITE EAE**  
 
