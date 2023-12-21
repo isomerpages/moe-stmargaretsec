@@ -10,7 +10,7 @@ variant: markdown
 | Mr | Jason Chew Sin Yong  | HOD Science |
 | Mrs | Foo Kar Hiang | HOD Character and Citizenship Education (CCE) |
 | Ms  | Joey Poh   | ST Character and Citizenship Education (CCE)   |
-| Mrs  | Sharon Tan Shi Hui | Asst. YH Secondary 4/5  |
+| Mrs  | Sharon Tan Shi Hui | Asst. YH Secondary 4 & 5  |
 | Mrs  | Jean Tan Lay Ching  | SH-CCE Education and Career Guidance & Partnership
 | Mrs | Keira Lim | SH Teaching and Learning with Educational Technology |
 | Mrs | Kok-Ong Lin Jin | LH Lower Secondary Science |
