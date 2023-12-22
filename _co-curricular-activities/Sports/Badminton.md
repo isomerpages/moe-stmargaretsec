@@ -3,40 +3,6 @@ title: Badminton
 permalink: /programmes/co-curricular-activities/badminton/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-CCA Schedule
-------------
-
-
-| **Training Days** | Monday | Wednesday* | Friday |
-| -------- | -------- | -------- | -------- | 
-| Training Time     | 2.45pm-5.45pm    | 2.45pm-5.45pm     | 2.45pm-5.45pm |
-| Training Venue | ISH Level 3 | ISH Level 3 | ISH Level 3
-
-*This is an additional day of training and will only be conducted during the competition season.
-
-![](/images/Badminton1.jpg)
-
-Teacher-in-charge
-------------
-Mr Alvin Loh
-
-Achievements
-------------
-
-| Year | Name of Competition | Achievement |
-| -------- | -------- | -------- |
-| 2023     | National School Games Badminton South Zone Championships  'B' Division Girls     | 4<sup>th</sup>     |
-| 2022     | National School Games Badminton South Zone Championships 'B' Division Girls     | 4<sup>th</sup>     |
-|2021 | National School Games Badminton South Zone Championships 'B' Division Girls <br><br> SSSC Sportmanship Award | 4<sup>th</sup><br><br><br><br>1 student |
-|2018 | SSSC Badminton Zonal 'C' Division Girls |  3<sup>rd</sup>
-
-
-
-
-
-Video
-------------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6L60zz-yroE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-St. Margaret's School (Secondary) vs Ang Mo Kio Secondary School at the South Zone 'B' Division Girls Badminton&nbsp;3<sup>rd</sup> / 4<sup>th</sup> placing match of the National School Games Singapore 2021
+<h2>CCA Schedule</h2><table><tbody><tr><th rowspan="1" colspan="1"><p><strong>Training Days</strong></p></th><th rowspan="1" colspan="1"><p>Monday</p></th><th rowspan="1" colspan="1"><p>Wednesday*</p></th><th rowspan="1" colspan="1"><p>Friday</p></th></tr><tr><td rowspan="1" colspan="1"><p>Training Time</p></td><td rowspan="1" colspan="1"><p>2.45pm-5.45pm</p></td><td rowspan="1" colspan="1"><p>2.45pm-5.45pm</p></td><td rowspan="1" colspan="1"><p>2.45pm-5.45pm</p></td></tr><tr><td rowspan="1" colspan="1"><p>Training Venue</p></td><td rowspan="1" colspan="1"><p>ISH Level 3</p></td><td rowspan="1" colspan="1"><p>ISH Level 3</p></td><td rowspan="1" colspan="1"><p>ISH Level 3</p></td></tr></tbody></table><p>*This is an additional day of training and will only be conducted during the competition season.</p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg"></div><h2>Teacher-in-charge</h2><p>Mr Alvin Loh</p><h2>Achievements</h2><table><tbody><tr><th rowspan="1" colspan="1"><p>Year</p></th><th rowspan="1" colspan="1"><p>Name of Competition</p></th><th rowspan="1" colspan="1"><p>Achievement</p></th></tr><tr><td rowspan="1" colspan="1"><p>2023</p></td><td rowspan="1" colspan="1"><p>National School Games Badminton South Zone Championships 'B' Division Girls</p></td><td rowspan="1" colspan="1"><p>4th</p></td></tr><tr><td rowspan="1" colspan="1"><p>2022</p></td><td rowspan="1" colspan="1"><p>National School Games Badminton South Zone Championships 'B' Division Girls</p></td><td rowspan="1" colspan="1"><p>4th</p></td></tr><tr><td rowspan="1" colspan="1"><p>2021</p></td><td rowspan="1" colspan="1"><p>National School Games Badminton South Zone Championships 'B' Division Girls <br><br>SSSC Sportmanship Award</p></td><td rowspan="1" colspan="1"><p>4th<br><br><br><br>1 student</p></td></tr><tr><td rowspan="1" colspan="1"><p>2018</p></td><td rowspan="1" colspan="1"><p>SSSC Badminton Zonal 'C' Division Girls</p></td><td rowspan="1" colspan="1"><p>3rd</p></td></tr></tbody></table><h2>Video</h2><div class="iframe-wrapper"><iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6L60zz-yroE"></iframe></div><p> St. Margaret's School (Secondary) vs Ang Mo Kio Secondary School at the South Zone 'B' Division Girls Badminton&nbsp;3rd / 4th placing match of the National School Games Singapore 2021</p>
