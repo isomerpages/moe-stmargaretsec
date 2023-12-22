@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /programmes/co-curricular-activities/modern-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- |
 | Training Days | Monday | Friday |  
-| Training Time | 2:45pm-5:45pm | 2:45pm-5:45pm | 
+| Training Time | 3.00pm-6.00pm | 3.00pm-6.00pm | 
 | Training Venues | Dance Studio<br>MPR 4 | Hall |   
 | | | |
 
@@ -19,7 +20,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Ms Grace Wee 
+Ms Koh Pooi Sze
 
 
 Achievements

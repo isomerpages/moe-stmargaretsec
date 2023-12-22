@@ -3,14 +3,15 @@ title: Fencing
 permalink: /programmes/co-curricular-activities/fencing/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 | | | |
 | --- | --- | --- | 
-| Training Days | Tuesday | Thursday |   
-| Training Time | 3:00pm-5:30pm | 3:00pm-5:30pm |  
+| Training Days | Monday | Thursday |   
+| Training Time | 3.00pm-5.30pm | 3.00pm-5.30pm |  
 | Training Venues | The Space  <br> ISH Level 1 Classroom | The Space&nbsp; <br> ISH Level 1 Classroom | &nbsp; 
 | | | |
 

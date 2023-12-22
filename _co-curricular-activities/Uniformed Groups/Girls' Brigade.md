@@ -3,14 +3,15 @@ title: Girls' Brigade
 permalink: /programmes/co-curricular-activities/girls-brigade/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 | | |
 | --- | --- | 
-| Training Days | Tuesday |  
-| Training Time | 3:00pm-6:00pm |  
+| Training Days | Friday |  
+| Training Time | 3.00pm-6.00pm |  
 | Training Venues | Parade Square<br>St. John's Chapel<br>Secondary 3 Classrooms | 
 | | |
 

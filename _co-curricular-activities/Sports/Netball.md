@@ -3,18 +3,20 @@ title: Netball
 permalink: /programmes/co-curricular-activities/netball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 
-| Training Days  | Monday* | Tuesday | Friday
+| Training Days  | Monday* | Tuesday** | Friday
 | -------- | -------- | -------- | -------- |
-| Training Time     | 2:30pm-5:30pm     | 2:30pm-5.30pm     | 2:30pm-5:30pm|
+| Training Time     | 4.00pm-6.00pm     | 3.00pm-6.00pm     | 3.00pm-6.00pm|
 | Training Venue | Netball Courts| Netball Courts | Netball Courts
 
 
-*This is an additional day of training scheduled due to competition and will only be conducted during the competition season.
+*This is an additional day of training scheduled due to competition and will only be conducted during the competition season. <br>
+** Netball training is held on Tuesdays from Jan - Apr 2024
 
 ![](/images/20230213_smss-05195.jpg)
 

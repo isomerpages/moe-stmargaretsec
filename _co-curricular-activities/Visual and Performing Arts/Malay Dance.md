@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /programmes/co-curricular-activities/malay-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | | |
 | --- | --- | --- | 
 | Training Days | Monday | Friday |  
-| Training Time | 2:45pm-5:45pm | 2:30pm-5:30pm |  
+| Training Time | 3.00pm-6.00pm | 3.00pm-6.00pm |  
 | Training Venues | Hall | Dance Studio |  
 | | | |
   

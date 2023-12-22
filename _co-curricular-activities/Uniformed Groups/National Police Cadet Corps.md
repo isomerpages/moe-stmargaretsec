@@ -3,6 +3,7 @@ title: National Police Cadet Corps
 permalink: /programmes/co-curricular-activities/national-police-cadet-corps/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Days | Thursday |   
-| Training Time | 3:00pm-5:45pm | 
+| Training Time | 3.00pm-6.00pm | 
 | Training Venues | Parade Square  <br> ISH Level 2 Classrooms |   
 | | |
   
@@ -21,7 +22,8 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Mdm Nur Aqilah 
+Mdm Nur Aqilah <br>
+Mr Leong Fangshao (Covering)
 
 
   

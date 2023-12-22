@@ -3,6 +3,7 @@ title: Bowling
 permalink: /programmes/co-curricular-activities/bowling/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 
 | Training Days  | Tuesday  | Thursday 
 | -------- | -------- | -------- | 
-| Training Time     | 3:30pm-6:00pm     | 3:30pm-6:00pm     |
+| Training Time     | 3.30pm-6.00pm     | 3.30pm-6.00pm     |
 | Training Venue | Civil Service Club (Tessensohn)
 
 ![](/images/Bowling1.jpg)

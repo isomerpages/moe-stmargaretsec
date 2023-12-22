@@ -3,13 +3,14 @@ title: Debate Club
 permalink: /programmes/co-curricular-activities/debate-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 CCA Schedule
 ------------
 
-| Training Days | Tuesday | Thursday |   
+| Training Days | Thursday | Friday |   
 | --- | --- | --- | 
-| Training Time | 3:00pm-5:45pm | 3:00pm-5:45pm |   
+| Training Time | 3.00pm-5.45pm | 3.00pm-5.45pm |   
 | Training Venues | Learning Lab  <br> Secondary 2 Classrooms | Learning Lab  <br> Secondary 2 Classrooms |   
 | | | |
 

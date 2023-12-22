@@ -3,6 +3,7 @@ title: Creative Art Club (Visual Art)
 permalink: /programmes/co-curricular-activities/creative-art-club-visual-art/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | | |
 | --- | --- |--- |
 | Training Days | Monday | Friday |
-| Training Time | 3:30pm-5:00pm |   3:30pm-5:00pm
+| Training Time | 3.00pm-5.30pm |   3.00pm-5.30pm
 | Training Venues | Art Studio <br> IT Conference Room <br> Learning Lab  |   Art Studio <br> IT Conference Room <br> Learning Lab
 | | |
 
@@ -37,4 +38,3 @@ Achievements
 | &nbsp;|    Logo Design Contest | 1 Consolation  |
 | &nbsp; | (2018年度张瘦石全国中小学书画展)  <br> 2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition | Silver Award -1 student <br> Certificate of Merit - 2 students&nbsp;|&nbsp;  
 | | | |
-
