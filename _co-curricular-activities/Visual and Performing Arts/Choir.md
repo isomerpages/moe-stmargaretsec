@@ -3,13 +3,14 @@ title: Choir
 permalink: /programmes/co-curricular-activities/choir/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
 
-| Training Days | Tuesday |  Friday |   
+| Training Days | Monday |  Friday |   
 | --- | --- | --- | 
-| Training Time | 3:00pm-5:30pm | 2:45pm-5:45pm |   
+| Training Time | 3:00pm-5:45pm | 2:45pm-5:45pm |   
 | Training Venues | ISH Level 2 Classroom | Theatrette <br> ICT Labs 4&amp;5 |
 | | | | |
 
@@ -18,7 +19,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Mrs Juliana Chua
+Mrs Juliana Kok
 
 Achievements
 ------------
