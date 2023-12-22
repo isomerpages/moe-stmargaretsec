@@ -3,14 +3,15 @@ title: English Drama
 permalink: /programmes/co-curricular-activities/english-drama/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 | | | | 
 | --- | --- | --- | 
-| Training Days | Tuesday | Thursday | 
-| Training Time | 2:30pm-5:30pm | 2:30pm-5:30pm | 
+| Training Days | Monday | Thursday | 
+| Training Time | 3.00pm-6.00pm | 3.00pm-6.00pm | 
 | Training Venues | Performing Arts Studio | IT Conference Room <br> Dance Studio |   
 | | | |
 
@@ -19,7 +20,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Mdm Suriyati Jum'ani
+Mdm Suriyati 
 
 
 Achievements
