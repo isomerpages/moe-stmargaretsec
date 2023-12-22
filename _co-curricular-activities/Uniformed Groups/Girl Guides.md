@@ -3,6 +3,7 @@ title: Girl Guides
 permalink: /programmes/co-curricular-activities/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Days | Friday | 
-| Training Time | 3:00pm-5:45pm | 
+| Training Time | 3:00pm-5:30pm | 
 | Training Venues | Parade Square  <br> ISH Level 1 Classrooms |   
 | | |
 
@@ -19,7 +20,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Ms Tan Yan Tong
+Mdm Azizah
 
   
 
