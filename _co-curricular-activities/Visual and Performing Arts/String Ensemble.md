@@ -3,14 +3,15 @@ title: String Ensemble
 permalink: /programmes/co-curricular-activities/string-ensemble/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 | | | |
 | --- | --- | --- | 
-| Training Days | Tuesday | Friday | 
-| Training Time | 3:00pm-5:30pm | 2:45pm-5:45pm |
+| Training Days | Monday | Friday | 
+| Training Time | 3:00pm-5:30pm | 3.00pm-6.00pm |
 | Training Venues | PAS <br> Music Room <br> Patience Room <br> ICT Lab 5 <br> MPR 3&amp;4 | PAS | 
 | | |
 
@@ -20,7 +21,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Mrs Teo Sook Lee 
+Ms Ng Li Mei
 
 
 Achievements
