@@ -3,6 +3,7 @@ title: Agape Club
 permalink: /programmes/co-curricular-activities/agape-club/
 description: ""
 third_nav_title: Clubs
+variant: markdown
 ---
 CCA Schedule
 ------------
@@ -10,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- |
 | Training Days | Thursday |
-| Training Time | 3:30pm-5:30pm |   
+| Training Time | 3.00pm-5.00pm |   
 | Training Venue | St. John's Chapel |   
 | | |
 
@@ -20,4 +21,4 @@ Teacher-in-charge
 ------------------
 
 
-Mrs Lucy Seet
+Mr Daniel Teng
