@@ -11,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Days | Friday |  
-| Training Time | 3:00pm-6:00pm |  
+| Training Time | 3.00pm-6.00pm |  
 | Training Venues | Parade Square<br>St. John's Chapel<br>Secondary 3 Classrooms | 
 | | |
 
