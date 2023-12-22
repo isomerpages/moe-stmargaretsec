@@ -11,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- |
 | Training Days | Friday |  
-| Training Time | 3:00pm-5:45pm |   
+| Training Time | 3.00pm-5.45pm |   
 | Training Venues | Parade Square <br> ICT Lab 2&amp;3 |   
 | | |
   
