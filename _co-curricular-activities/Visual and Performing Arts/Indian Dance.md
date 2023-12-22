@@ -3,14 +3,15 @@ title: Indian Dance
 permalink: /programmes/co-curricular-activities/indian-dance/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 -----------
 
 | | | |
 | --- | --- | --- |
-| Training Days | Tuesday | Friday |   
-| Training Time | 2:45pm-5:45pm | 2:30pm-5:30pm | 
+| Training Days | Monday | Friday |   
+| Training Time | 3.00pm-5.45pm | 3.00pm-5.45pm | 
 | Training Venues | Hall | The Space  |
 | | | |
 
