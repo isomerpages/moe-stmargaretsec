@@ -10,7 +10,7 @@ CCA Schedule
 
 | Training Days | Monday |  Friday |   
 | --- | --- | --- | 
-| Training Time | 3:00pm-5:45pm | 2:45pm-5:45pm |   
+| Training Time | 3.00pm-5.45pm | 2.45pm-5.45pm |   
 | Training Venues | ISH Level 2 Classroom | Theatrette <br> ICT Labs 4&amp;5 |
 | | | | |
 
