@@ -11,7 +11,7 @@ CCA Schedule
 | | |
 | --- | --- | 
 | Training Days | Thursday |   
-| Training Time | 3:00pm-6:00pm | 
+| Training Time | 3.00pm-6.00pm | 
 | Training Venues | Parade Square  <br> ISH Level 2 Classrooms |   
 | | |
   
