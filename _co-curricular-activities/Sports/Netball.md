@@ -11,7 +11,7 @@ CCA Schedule
 
 | Training Days  | Monday* | Tuesday** | Friday
 | -------- | -------- | -------- | -------- |
-| Training Time     | 4:00pm-6:00pm     | 3:00pm-6:00pm     | 3:00pm-6:00pm|
+| Training Time     | 4.00pm-6.00pm     | 3.00pm-6.00pm     | 3.00pm-6.00pm|
 | Training Venue | Netball Courts| Netball Courts | Netball Courts
 
 
