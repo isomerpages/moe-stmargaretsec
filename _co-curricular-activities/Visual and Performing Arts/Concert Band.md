@@ -3,14 +3,15 @@ title: Concert Band
 permalink: /programmes/co-curricular-activities/concert-band/
 description: ""
 third_nav_title: Visual and Performing Arts
+variant: markdown
 ---
 CCA Schedule
 ------------
 
 | | | |
 | --- | --- | --- |
-| Training Days | Tuesday | Friday |
-| Training Time | 2.45pm-5.45pm | 2.30pm-5.45pm |
+| Training Days | Monday | Friday |
+| Training Time | 3.00pm-6.00pm | 3.00pm-6.00pm |
 | Training Venues | Band Room <br> Sec 1 Classrooms | Band Room <br> Music Room  <br> Sec 1 Classrooms |   
 | | | |
 
