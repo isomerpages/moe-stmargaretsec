@@ -11,7 +11,7 @@ CCA Schedule
 
 | **Training Days** | Monday | Wednesday* | Friday |
 | -------- | -------- | -------- | -------- | 
-| Training Time     | 2:45pm-5:45pm    | 2:45pm-5:45pm     | 2:45pm-5:45pm |
+| Training Time     | 2.45pm-5.45pm    | 2.45pm-5.45pm     | 2.45pm-5.45pm |
 | Training Venue | ISH Level 3 | ISH Level 3 | ISH Level 3
 
 *This is an additional day of training and will only be conducted during the competition season.
