@@ -20,7 +20,7 @@ CCA Schedule
 Teacher-in-charge
 ------------------
 
-Ms Grace Wee 
+Ms Koh Pooi Sze
 
 
 Achievements
