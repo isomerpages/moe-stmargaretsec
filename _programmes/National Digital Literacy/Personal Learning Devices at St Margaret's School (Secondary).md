@@ -3,6 +3,7 @@ title: Personal Learning Devices at St Margaret's School (Secondary)
 permalink: /programmes/the-national-digital-literacy-programme-ndlp/personal-learning-device/
 description: ""
 third_nav_title: National Digital Literacy
+variant: markdown
 ---
 <img src="/images/Lenova%20500e.png" style="width:25%">
 
