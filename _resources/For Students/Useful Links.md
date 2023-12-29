@@ -3,10 +3,11 @@ title: Useful Links
 permalink: /resources/for-students/useful-links/
 description: ""
 third_nav_title: For Students
+variant: markdown
 ---
 | Website | Description |
 | --- | --- |
-| [SMS(S) Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home)&nbsp;&nbsp; | St. Margaret's School (Secondary) Student learning Site&nbsp; |
+| [STMARGS SPHERE](https://sites.google.com/moe.edu.sg/stmargssphere/home) | St. Margaret's School (Secondary) Student learning Site&nbsp; |
 | [SMS(S) OPAC](https://schoolibrary.moe.edu.sg/stmargaretssec)&nbsp;&nbsp; | St. Margaret's School (Secondary) Online Public Access Catologue for library books&nbsp; |
 | [SMS(S) CareLink.](https://go.gov.sg/SMSSCareLink.)&nbsp;&nbsp; | St. Margaret's School (Secondary) Care Link - Book an appointment to see Ms Cynthia Kong, our school counsellor.&nbsp; |
 |[SMS(S) ECG Counsellor](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/)| St. Margaret's School (Secondary) ECG Counsellor - Students/ parents may email our school ECG counsellor, Ms Ang Hui Min, to book a session for consultation.  <br> Email:&nbsp;[ang\_hui\_min@schools.gov.sg](mailto:ang_hui_min@schools.gov.sg)  <br> E-Appointment system:&nbsp;[https://go.gov.sg/smssecg](https://go.gov.sg/smssecg)
