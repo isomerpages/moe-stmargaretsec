@@ -3,6 +3,7 @@ title: Group Personal Accident Insurance for Students
 permalink: /resources/for-parents/group-personal-accident-insurance-for-students/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 Each student is covered with a Group Personal Accident (GPA) Insurance which provides coverage when she is 
 
@@ -15,4 +16,4 @@ Information on claims, FAQs and other details pertaining to the student insuranc
 **Useful information:**  
 
 1.  [Student GPA User Guide](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Resources/Parents/Student%20GPA%20User%20Guide%20--%20Parent.pdf)
-2.  [Product Fact Sheet for 2023](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Product%20Fact%20Sheet%20Year%202023%201.pdf)
+2.  [Product Fact Sheet Year 2024](/files/Product_Fact_Sheet_Year_2024.pdf)
