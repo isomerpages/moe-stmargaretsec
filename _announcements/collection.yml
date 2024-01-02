@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Monthly Letter From Principal/Monthly Letter From Principal 2024.md
       - Monthly Letter From Principal/.keep
       - Announcements.md
       - Monthly Letter From Principal 2023.md
