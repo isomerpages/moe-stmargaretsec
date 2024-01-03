@@ -1,0 +1,33 @@
+logo: /images/School Logo (2023).jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: Events
+    collection: events
+  - title: Resources
+    collection: resources
+  - title: Achievements
+    collection: achievements
+  - title: Programmes
+    url: /programmes/the-national-digital-literacy-programme-ndlp/
+    sublinks:
+      - title: National Digital Literacy
+        url: /programmes/the-national-digital-literacy-programme-ndlp/
+      - title: Learning Community
+        url: /programmes/learning-community
+      - title: Character Development
+        url: /programmes/character-development
+      - title: Aesthetics Development
+        url: /programmes/aesthetics-development
+      - title: Co-Curricular Activities
+        url: /programmes/co-curricular-activities
+      - title: Sexuality Education
+        url: /programmes/Sexuality-Education/
+      - title: Education and Career Guidance
+        url: /programmes/education-and-career-guidance\
+      - title: DoTS
+        url: https://sites.google.com/moe.edu.sg/smssdots/home
+  - title: Admissions
+    collection: admissions
+  - title: 180th Anniversary Celebrations
+    collection: 180th-anniversary-celebrations

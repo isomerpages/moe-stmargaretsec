@@ -1,0 +1,32 @@
+collections:
+  co-curricular-activities:
+    output: true
+    order:
+      - Co curricular Activities.md
+      - Sports/Badminton.md
+      - Sports/Basketball.md
+      - Sports/Bowling.md
+      - Sports/Fencing.md
+      - Sports/Floorball.md
+      - Sports/Netball.md
+      - Sports/Tennis.md
+      - Sports/.keep
+      - Uniformed Groups/Girls' Brigade.md
+      - Uniformed Groups/Girl Guides.md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/.keep
+      - Visual and Performing Arts/.keep
+      - Visual and Performing Arts/Chinese Dance.md
+      - Visual and Performing Arts/Choir.md
+      - Visual and Performing Arts/Concert Band.md
+      - Visual and Performing Arts/Creative Art Club (Visual Art).md
+      - Visual and Performing Arts/English Drama.md
+      - Visual and Performing Arts/Indian Dance.md
+      - Visual and Performing Arts/Malay Dance.md
+      - Visual and Performing Arts/Modern Dance.md
+      - Visual and Performing Arts/String Ensemble.md
+      - Clubs/Agape Club.md
+      - Clubs/Debate Club.md
+      - Clubs/smARTs Media Club.md
+      - Clubs/.keep

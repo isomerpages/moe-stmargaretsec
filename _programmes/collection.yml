@@ -1,0 +1,30 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - National Digital Literacy/.keep
+      - National Digital Literacy/The National Digital Literacy Programme
+        (NDLP).md
+      - National Digital Literacy/NDLP Vision of St Margaret's School
+        (Secondary).md
+      - National Digital Literacy/Personal Learning Devices at St Margaret's
+        School (Secondary).md
+      - National Digital Literacy/DMA Settings After School Hours.md
+      - National Digital Literacy/Important Contact Details and Helplines.md
+      - National Digital Literacy/More NDLP resources.md
+      - Learning Community.md
+      - Character Development/.keep
+      - Character Development/Character Development.md
+      - Character Development/Values in Action (VIA).md
+      - Character Development/Overseas Programme.md
+      - Character Development/Student Leadership Programme.md
+      - Character Development/Bounce Programme.md
+      - Aesthetics Development/.keep
+      - Aesthetics Development/Aesthetics Development.md
+      - Aesthetics Development/Arts Education Programme.md
+      - Aesthetics Development/GCE 'N' and 'O' Level Art Programme.md
+      - Aesthetics Development/GCE 'O' Level Drama Programme.md
+      - Aesthetics Development/Enhanced Music Programme.md
+      - Sexuality Education.md
+      - Education and Career Guidance.md
+      - Development of Talents to Serve (DoTS).md
