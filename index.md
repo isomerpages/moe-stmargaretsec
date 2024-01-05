@@ -32,7 +32,7 @@ sections:
         - title: 2024 Timetable for Term 1
           description: ""
           linktext: Click here
-          url: ""
+          url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
         - title: 2024 Secondary 1 e-Registration
           description: ""
           linktext: Click here
