@@ -24,16 +24,23 @@ sections:
         - title: SMS(S) on Facebook
           description: ""
           url: https://www.facebook.com/stmargssecsg/
-  - infobar:
-      title: 2024 Secondary 1 e-Registration
-      id: infobar
-      button: Click here
-      url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
-  - infobar:
-      title: 2024 Booklist and Uniform Infosheet
-      id: infobar
-      button: Click here
-      url: /resources/for-parents/2024booklistanduniforminfosheet/
+      variant: center
+  - textcards:
+      title: ANNOUNCEMENTS
+      id: textcards
+      cards:
+        - title: 2024 Time table for Term 1
+          description: ""
+          linktext: Click here
+          url: ""
+        - title: 2024 Secondary 1 e-Registration
+          description: ""
+          linktext: Click here
+          url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
+        - title: 2024 Booklist and Uniform Infosheet
+          description: ""
+          linktext: Click here
+          url: /resources/for-parents/2024booklistanduniforminfosheet/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
