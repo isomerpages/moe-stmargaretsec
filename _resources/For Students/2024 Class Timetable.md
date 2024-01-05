@@ -5,4 +5,4 @@ description: ""
 third_nav_title: For Students
 variant: markdown
 ---
-[2024 Timetable Term 1](/files/2024_Timetable_Term_1_Class_Confirmed_202312291517.pdf)
+[2024 Timetable Term 1](/files/Term_1_Timetable_202401041959_Class_Final.pdf)
