@@ -29,7 +29,7 @@ sections:
       title: ANNOUNCEMENTS
       id: textcards
       cards:
-        - title: 2024 Time table for Term 1
+        - title: 2024 Timetable for Term 1
           description: ""
           linktext: Click here
           url: ""
