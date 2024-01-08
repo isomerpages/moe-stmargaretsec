@@ -37,7 +37,7 @@ sections:
           description: ""
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
-        - title: 2024 Booklist and Uniform Infosheet
+        - title: 2024 Booklists and Uniform Infosheet
           description: ""
           linktext: Click here
           url: /resources/for-parents/2024booklistanduniforminfosheet/
