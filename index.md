@@ -44,7 +44,7 @@ sections:
         - title: 2024 Sec 1 CCA Registration Briefing Slides
           description: ""
           linktext: Click here
-          url: ""
+          url: https://stmargaretssec.moe.edu.sg/announcements/2024sec1ccaregistrationbriefingslides
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
