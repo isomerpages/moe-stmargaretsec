@@ -17,7 +17,7 @@ sections:
           url: /announcements/announcements/
         - title: Monthly Letter from Principal
           description: ""
-          url: /announcements/Monthly-Letter-From-Principal/
+          url: https://stmargaretssec.moe.edu.sg/announcements/year2024/
         - title: Useful Links
           description: (For Students)
           url: /resources/for-students/useful-links/
