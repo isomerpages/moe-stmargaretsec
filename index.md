@@ -41,6 +41,10 @@ sections:
           description: ""
           linktext: Click here
           url: /resources/for-parents/2024booklistanduniforminfosheet/
+        - title: 2024 Sec 1 CCA Registration Briefing Slides
+          description: ""
+          linktext: Click here
+          url: ""
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
