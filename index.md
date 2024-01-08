@@ -17,7 +17,7 @@ sections:
           url: /announcements/announcements/
         - title: Monthly Letter from Principal
           description: ""
-          url: /announcements/Monthly-Letter-From-Principal/
+          url: https://stmargaretssec.moe.edu.sg/announcements/year2024/
         - title: Useful Links
           description: (For Students)
           url: /resources/for-students/useful-links/
@@ -37,10 +37,14 @@ sections:
           description: ""
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
-        - title: 2024 Booklist and Uniform Infosheet
+        - title: 2024 Booklists and Uniform Infosheet
           description: ""
           linktext: Click here
           url: /resources/for-parents/2024booklistanduniforminfosheet/
+        - title: 2024 Sec 1 CCA Registration Briefing Slides
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/2024sec1ccaregistrationbriefingslides
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
