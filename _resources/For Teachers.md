@@ -2,6 +2,7 @@
 title: For Teachers
 permalink: /resources/for-teachers/
 description: ""
+variant: markdown
 ---
 ## MOE-related
 * [Academy of Singapore Teachers](https://academyofsingaporeteachers.moe.edu.sg/)&nbsp;<br>
@@ -36,7 +37,7 @@ description: ""
 * [St. Margaret's School (Secondary) Padlet](https://stmargaretssecondary1.padlet.org/) <br>
 * [St. Margaret's School (Secondary) Professional Development Site](https://go.gov.sg/smss-staffsite)<br>
 * [St. Margaret's School (Secondary) Secondary 2 Subject Combination Microsite](https://sites.google.com/stmargs.edu.sg/sec-2-combination-exercise/home?authuser=0) <br>
-* [St. Margaret's School (Secondary) Student Learning Site](https://sites.google.com/moe.edu.sg/smssstudentsportal/home?authuser=0)&nbsp;<br>
+* [St. Margaret's School (Secondary) Stmargs Sphere](https://sites.google.com/moe.edu.sg/stmargssphere/home)&nbsp;<br>
 * [St. Margaret's School (Secondary) YouTube](https://www.youtube.com/user/stmargssecsg) 
 
 ## ICT Tools for Teaching and Learning
