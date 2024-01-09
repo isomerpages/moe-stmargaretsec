@@ -37,10 +37,10 @@ sections:
           description: ""
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
-        - title: 2024 Booklists and Uniform Infosheet
+        - title: 2024 Booklists and Uniform Purchase
           description: ""
           linktext: Click here
-          url: /resources/for-parents/2024booklistanduniforminfosheet/
+          url: https://stmargaretssec.moe.edu.sg/resources/for-parents/2024booklistanduniformpurchase/
         - title: 2024 Sec 1 CCA Registration Briefing Slides
           description: ""
           linktext: Click here

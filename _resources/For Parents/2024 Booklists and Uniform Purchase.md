@@ -1,6 +1,6 @@
 ---
-title: 2024 Booklists and Uniform Infosheet
-permalink: /resources/for-parents/2024booklistanduniforminfosheet/
+title: 2024 Booklists and Uniform Purchase
+permalink: /resources/for-parents/2024booklistanduniformpurchase/
 variant: markdown
 description: ""
 third_nav_title: For Parents
