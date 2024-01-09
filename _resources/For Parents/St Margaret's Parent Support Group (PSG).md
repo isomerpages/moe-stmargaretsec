@@ -5,7 +5,8 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-St. Margaret’s School (Secondary) strongly believes that strong home-school partnership is essential for the holistic development of our students. Opportunities are available for parents/guardians to partner and support the school’s programmes. Parents / Guardians who are interested to partner with us are invited to email Mdm Premela Prabakaran at premela_prabakaran@moe.edu.sg
+
+![](/images/Edit_1.png)St. Margaret’s School (Secondary) strongly believes that strong home-school partnership is essential for the holistic development of our students. Opportunities are available for parents/guardians to partner and support the school’s programmes. Parents / Guardians who are interested to partner with us are invited to email Mdm Premela Prabakaran at premela_prabakaran@moe.edu.sg
 
 PSG Activities and Resources for Parents
 ----------------------------------------
