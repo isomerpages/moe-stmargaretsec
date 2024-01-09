@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: For Parents
 ---
-### 2024 Booklist and Uniform Infosheet
+### 2024 Booklist and Uniform Purchase
 
 #### **2024 Booklists**<br>
 
