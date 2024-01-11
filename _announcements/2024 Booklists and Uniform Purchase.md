@@ -4,7 +4,7 @@ permalink: /announcements/permalink/2024booklistanduniformpurchase/
 variant: markdown
 description: ""
 ---
-### 2024 Booklist and Uniform Infosheet
+### 2024 Booklist and Uniform Purchase
 
 #### **2024 Booklists**<br>
 
