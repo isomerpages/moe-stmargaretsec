@@ -33,10 +33,6 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
-        - title: 2024 Secondary 1 e-Registration
-          description: ""
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/announcements/announcements/
         - title: 2024 Booklists and Uniform Purchase
           description: ""
           linktext: Click here
@@ -45,6 +41,10 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/announcements/2024sec1ccaregistrationbriefingslides
+        - title: 2023 O Level Results Slides
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/2023olevelresultslides
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
