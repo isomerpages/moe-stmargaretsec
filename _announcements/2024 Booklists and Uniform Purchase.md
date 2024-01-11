@@ -1,10 +1,10 @@
 ---
-title: 2024 Booklists and Uniform Infosheet
-permalink: /announcements/permalink/2024booklistanduniforminfosheet/
+title: 2024 Booklists and Uniform Purchase
+permalink: /announcements/permalink/2024booklistanduniformpurchase/
 variant: markdown
 description: ""
 ---
-### 2024 Booklist and Uniform Infosheet
+### 2024 Booklist and Uniform Purchase
 
 #### **2024 Booklists**<br>
 
