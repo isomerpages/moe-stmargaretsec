@@ -45,10 +45,10 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/announcements/2023olevelresultslides/
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: 2023 N Level Result Slides
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/national-exam-results-slides/2023nlevelresultslides/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
