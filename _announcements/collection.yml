@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - 2024 Sec 1 e Registration/Part 1  Official e Registration Return.md
       - 2024 Sec 1 e Registration/.keep
       - 2024 Sec 1 e Registration/Sec 1 e Registration.md
       - 2024 Sec 1 e Registration/Sec 1 CCA Registration Briefing Slides 2024.md
