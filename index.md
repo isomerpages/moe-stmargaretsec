@@ -33,6 +33,10 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
+        - title: Purchase of Secondary 1 Books and School Uniform
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/sec-1-2024-intake/purchaseofsec1booksandschooluniform/
         - title: 2024 Sec 1 CCA Registration Briefing Slides
           description: ""
           linktext: Click here
