@@ -33,10 +33,6 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
-        - title: 2024 Booklists and Uniform Purchase
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/resources/for-parents/2024booklistanduniformpurchase/
         - title: 2024 Sec 1 CCA Registration Briefing Slides
           description: ""
           linktext: Click here
