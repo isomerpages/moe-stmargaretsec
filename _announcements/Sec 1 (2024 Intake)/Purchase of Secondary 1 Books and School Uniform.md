@@ -1,0 +1,8 @@
+---
+title: Purchase of Secondary 1 Books and School Uniform
+permalink: /announcements/sec-1-2024-intake/purchaseofsec1booksandschooluniform/
+variant: tiptap
+description: ""
+third_nav_title: Sec 1 (2024 Intake)
+---
+<p><strong>Part 2:</strong></p><h3><strong>Purchase of Secondary 1 Books and School Uniform</strong></h3><p>The purchase of books and school uniforms are to be done online and details can be obtained from the respective booklist/uniform info sheet below.</p><p>Please purchase your daughter/ward PE T-shirt only after she has been assigned the house colour.</p><p></p><h4><u>Books and Stationery</u></h4><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1-7tcKvydZnqsBNKO5JL5NYCYSRM9YlG_/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">G1 Books &amp; Stationery</a></p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1kQhtpTPb4pkweNoBD83mVz_8d4sUjUtz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">G2 Books &amp; Stationery</a></p><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1ZyEf6dV5tIQZNx_fDCVpkkzIyDHWxob8/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">G3 Books &amp; Stationery</a></p><p></p><h4><u>School Uniform</u></h4><p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1hzyWMiLYErbIJIpKt5zvO-UKggF0f7Nj/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">School Uniform Info sheet</a></p><p></p>
