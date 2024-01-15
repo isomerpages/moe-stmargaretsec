@@ -33,14 +33,26 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
+        - title: Purchase of Secondary 1 Books and School Uniform
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/sec-1-2024-intake/purchaseofsec1booksandschooluniform/
         - title: 2024 Sec 1 CCA Registration Briefing Slides
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/announcements/2024sec1ccaregistrationbriefingslides
-        - title: 2023 O Level Results Slides
+  - textcards:
+      title: 2023 National Exam Result Slides
+      id: textcards
+      cards:
+        - title: 2023 O Level Result Slides
           description: ""
           linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/announcements/2023olevelresultslides
+          url: https://stmargaretssec.moe.edu.sg/announcements/2023olevelresultslides/
+        - title: 2023 N Level Result Slides
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/announcements/national-exam-results-slides/2023nlevelresultslides/
   - infopic:
       title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
       subtitle: Channel News Asia
