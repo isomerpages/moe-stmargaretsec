@@ -2,12 +2,12 @@ collections:
   announcements:
     output: true
     order:
-      - National Exam Results Slides/2023 N Level Result Slides.md
-      - National Exam Results Slides/2023 O Level Result Slides.md
-      - National Exam Results Slides/.keep
       - Monthly Letter From Principal/.keep
       - Monthly Letter From Principal/Year 2024.md
       - Monthly Letter From Principal/Year 2023.md
       - Announcements.md
+      - National Exam Results Slides/.keep
+      - National Exam Results Slides/2023 N Level Result Slides.md
+      - National Exam Results Slides/2023 O Level Result Slides.md
       - Sec 1 e Registration (2024 Intake).md
       - 2024 Sec 1 CCA Registration Briefing Slides.md
