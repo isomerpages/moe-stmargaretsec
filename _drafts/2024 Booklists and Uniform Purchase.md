@@ -3,7 +3,6 @@ title: 2024 Booklists and Uniform Purchase
 permalink: /resources/for-parents/2024booklistanduniformpurchase/
 variant: markdown
 description: ""
-third_nav_title: For Parents
 ---
 ### 2024 Booklist and Uniform Purchase
 
