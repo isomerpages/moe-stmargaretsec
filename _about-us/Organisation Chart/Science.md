@@ -20,15 +20,13 @@ variant: markdown
 | Mr | Adrian Sim |   |
 | Mrs | Calyn Wee |   |
 | Mr  | Lawrence Tan   |   |
-| Ms | Magdalene Tan |   |
 | Ms | Norhayati Bte Maziland  |   |
-| Mr | Tan Puay Eng | |
 | Mdm | Loke Woan Jinn | |
 | Mdm | Mok Lai Koin | |
 | Mr  | Lee Kee Heng  | Laboratory Technician  |
 | Ms | Marsya Afiqah Binte Salim | Laboratory Technician  |
-| Mdm | Pushpalatha | Laboratory Technician |
-| Mdm | Suntha | Laboratory Technician |
+| Mdm | Pushpalatha | Operation Support Officer |
+| Mdm | Suntha | Operation Support Officer |
 
 
 | | |
