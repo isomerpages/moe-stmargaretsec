@@ -4,7 +4,7 @@ permalink: /resources/for-parents/st-margarets-parent-support-group-psg/
 description: ""
 variant: tiptap
 ---
-<h2>Who We Are <br>PSG Mission</h2>
+<h2>Who We Are PSG Mission</h2>
 <p>To promote a partnership between the school and parents by meeting the
 needs of the students, teachers and parents.</p>
 <p>The Parent Support Group (PSG) was formed in 1998 by a group of caring
@@ -25,8 +25,5 @@ activities and NE commemorative days.</p>
 art forms or contribute their time to helping out in PSG-supported school
 activities can contact HOD/Corporate Communications, Mdm Premela Prabakaran
 at&nbsp;<a href="mailto:premela_prabakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@moe.edu.sg</a>&nbsp;.</p>
-<blockquote>
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Website</a>
-</p>
-</blockquote>
+<p></p>
 <p></p>
