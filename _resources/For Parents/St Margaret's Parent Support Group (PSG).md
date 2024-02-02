@@ -13,7 +13,7 @@ partnership is essential for the holistic development of our students.
 Opportunities are available for parents/guardians to partner and support
 the school’s programmes. Parents / Guardians who are interested to partner
 with us are invited to email Mdm Premela Prabakaran at premela_prabakaran@moe.edu.sg
-(HOD/Corporate Communications)</p>
+(HOD/Corporate Communications).</p>
 <h2>PSG Activities and Resources for Parents</h2>
 <p><strong>Volunteering for school events / activities</strong> 
 <br>Parents who would like to&nbsp;share their creative ideas / interest in
@@ -22,9 +22,6 @@ activities can contact HOD/Corporate Communications, Mdm Premela Prabakaran
 at&nbsp;<a href="mailto:premela_prabakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@moe.edu.sg</a> 
 <br>
 </p>
-<blockquote>
-<h6><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Website</a></h6>
-</blockquote>
 <h3>Contact Us</h3>
 <table>
 <tbody>
