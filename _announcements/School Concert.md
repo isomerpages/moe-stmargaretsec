@@ -8,7 +8,7 @@ description: ""
 <h2>Join Us For Our School Concert!</h2>
 <p>Embark on a mesmerising journey into the world of artistry and talent
 of our Performing Arts groups as St. Margaret’s School (Secondary) unveils
-the<strong> '#youarebeautiful'</strong> concert on <strong>Friday, 1 March from 7.15pm to 8.30pm. </strong>
+the<strong> '#youarebeautiful'</strong> concert on <strong>Friday, 1 March from 7.15pm to 8.30pm.</strong>
 </p>
 <p>The event will be held at the St. Margaret’s School (Secondary) school
 hall.
