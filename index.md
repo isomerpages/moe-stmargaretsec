@@ -25,6 +25,12 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
+  - infopic:
+      title: Join Us For Our School Concert!
+      id: infopic
+      button: Click here to purchase your tickets!
+      url: https://stmargaretssec.moe.edu.sg/announcements/youarebeautiful
+      image: /images/concertposter_final__1_.jpg
   - textcards:
       title: ANNOUNCEMENTS
       id: textcards
@@ -53,11 +59,4 @@ sections:
           description: ""
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/announcements/national-exam-results-slides/2023nlevelresultslides/
-  - infopic:
-      title: "Be Well Buddy: Guiding Youths on the Road to Wellness"
-      subtitle: Channel News Asia
-      button: Click here
-      url: https://www.channelnewsasia.com/brandstudio/imc-youthawards/stmargaretssec?fbclid=IwAR39IXh7_bvpCPjr-s25AyR-MDoQorUDbW4D2-2fmMP8DF3TEllc1HG87ms
-      image: /images/hero-img-quote.jpg
-      alt: Image alt text
 ---
