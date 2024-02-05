@@ -28,11 +28,9 @@ sections:
   - infopic:
       title: Join Us For Our School Concert!
       id: infopic
-      description: "\n"
       button: Click here to purchase your tickets!
-      url: https://go.gov.sg/smyouarebeautiful
+      url: https://stmargaretssec.moe.edu.sg/announcements/youarebeautiful
       image: /images/concertposter_final__1_.jpg
-      alt: Image alt text
   - textcards:
       title: ANNOUNCEMENTS
       id: textcards
