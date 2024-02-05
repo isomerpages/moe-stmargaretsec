@@ -30,7 +30,8 @@ sections:
       id: infopic
       button: Click here to purchase your tickets!
       url: https://stmargaretssec.moe.edu.sg/announcements/youarebeautiful
-      image: /images/concertposter_final__1_.jpg
+      image: /images/concertposter_final_path.jpg
+      alt: School Concert
   - textcards:
       title: ANNOUNCEMENTS
       id: textcards
