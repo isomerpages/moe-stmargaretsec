@@ -25,6 +25,14 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
+  - infopic:
+      title: Join Us For Our School Concert!
+      id: infopic
+      description: "\n"
+      button: Click here to purchase your tickets!
+      url: https://go.gov.sg/smyouarebeautiful
+      image: /images/concertposter_final__1_.jpg
+      alt: Image alt text
   - textcards:
       title: ANNOUNCEMENTS
       id: textcards
