@@ -3,6 +3,7 @@ title: School Administration Team
 permalink: /about-us/organisation-chart/school-administration-team/
 description: ""
 third_nav_title: Organisation Chart
+variant: markdown
 ---
 | | Name |  |
 | --- | --- | --- |
@@ -14,6 +15,4 @@ third_nav_title: Organisation Chart
 | Ms | Sumitra Shasi Kumar  | Administrative Executive |
 | Mdm | Lim Lik Kheng | Administrative Assistant |
 | Mrs | Susan Tan  | Administrative Assistant |
-| Mr | Somasundram  | Adjunct Operations Support Officer |
 | Mdm  | Kamisah Bte Nor  | Operations Support Officer |
-| Mdm  | Sagaya Arockian | Operations Support Officer |
