@@ -26,7 +26,7 @@ sections:
           url: https://www.facebook.com/stmargssecsg/
       variant: center
   - textcards:
-      title: ANNOUNCEMENTS
+      title: Quick Links
       id: textcards
       cards:
         - title: 2024 Timetable for Term 1
