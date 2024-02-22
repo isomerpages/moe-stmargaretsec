@@ -25,15 +25,8 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
-  - infopic:
-      title: Join Us For Our School Concert!
-      id: infopic
-      button: Click here to purchase your tickets!
-      url: https://stmargaretssec.moe.edu.sg/announcements/youarebeautiful
-      image: /images/concertposter_final_path.jpg
-      alt: School Concert
   - textcards:
-      title: ANNOUNCEMENTS
+      title: Quick Links
       id: textcards
       cards:
         - title: 2024 Timetable for Term 1
