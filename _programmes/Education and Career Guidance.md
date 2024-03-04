@@ -166,7 +166,7 @@ in the School Library, 7.30 am – 5.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___O__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a> 
+<p><a href="/files/SMSS___Education_Pathways___O__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -176,7 +176,7 @@ in the School Library, 7.30 am – 5.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___NA__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a> 
+<p><a href="/files/SMSS___Education_Pathways___NA__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
