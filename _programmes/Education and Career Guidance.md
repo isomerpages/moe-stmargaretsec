@@ -81,7 +81,7 @@ related to the school programmes. Our students can refer to the&nbsp;
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%2012%20-%20interview%20training%202%20(1).jpg">
 </div>
 <h2>ECG Resources&nbsp;</h2>
-<p><strong>MySkillsFuture Portal</strong>
+<p><strong>MySkillsFuture Portal</strong> 
 <br>Students are strongly encouraged to explore the portal to access self-profiling
 tools and information on the courses.</p>
 <p>Please refer to the <a href="/files/Navigating%20MySkillsFuture%20Portal.pdf" rel="noopener noreferrer nofollow" target="_blank">Navigating MySkillsFuture Portal guide</a> to
@@ -124,7 +124,7 @@ and cutoff points are listed, can be accessed below:</p>
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">ITE Early Admissions Exercise</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="www.moe.gov.sg/jae" rel="noopener noreferrer nofollow" target="_blank">JAE Booklet 2024</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">JAE Booklet 2024</a>
 </p>
 </li>
 <li>
@@ -148,16 +148,54 @@ Ying Lee, Asst. Year Head (Secondary 4 &amp; 5) at&nbsp;<a href="mailto:lum_ying
 <p><strong>ECG Counsellor</strong>
 </p>
 <p>Students/Parents may get in touch with our ECG counsellor, Ms Ang Hui
-Min at&nbsp;<a href="mailto:ang_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_min@schools.gov.sg</a>&nbsp;or
+Min at&nbsp;<a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_min@moe.edu.sg</a>&nbsp;or
 via the booking form accessible at&nbsp;<a href="http://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/smssecg</a>.&nbsp;</p>
-<p>Consultations will be conducted on Mondays and Tuesdays at the ECG Room
+<p>Consultations will be conducted on Mondays and Thursdays at the ECG Room
 in the School Library, 7.30 am – 5.00 pm.</p>
 <h2>Details of Post Secondary Pathways</h2>
-<p>Students will find useful information and links in the summaries below:
-<br><a href="/files/SMSS___Education_Pathways___O__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
-<br><a href="/files/SMSS___Education_Pathways___NA__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
-<br><a href="/files/SMSS___Education_Pathways___NT__cao_Feb_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
+<p>Students will find useful information and links in the summaries below:</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Secondary 4 (2024)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 2 &amp; 3 (2024)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMSS___Education_Pathways___O__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a> 
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMSS___Education_Pathways___2024_Sec_2___3_O_level_cohort.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMSS___Education_Pathways___NA__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMS_S____Education_Pathways__for_2024_Sec_2___3_NA_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMSS___Education_Pathways___NT__cao_Feb_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMS_S____Education_Pathways___for_2024_Sec_2___3_NT_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Handbook for Parents/Guardians</h2>
 <p>Parents/Guardians may wish to refer to the MOE handbook entitled&nbsp;<strong><em><a href="https://www.moe.gov.sg/-/media/files/programmes/ecg/ecg-tips-for-parents.ashx?la=en&amp;hash=83A2BEF8FAA9394B79F1E4F8ED145A562BB240F8" rel="noopener noreferrer nofollow" target="_blank">'Journeying with Our Children, Supporting their Aspirations'</a></em></strong>&nbsp;for
 tips and advice on ECG and considerations at the key education stages when
