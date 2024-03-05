@@ -7,7 +7,7 @@ description: ""
 <p>St. Margaret’s School (Secondary) is inviting interested applicants to
 operate a
 <br><strong>“Muslim Cooked Food”</strong>&nbsp;stall in our school canteen.</p>
-<p><strong>Background:</strong>
+<p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
 <br>There are currently&nbsp;<strong>7 food stalls and 1 drink/fruit stall</strong>&nbsp;at
@@ -61,7 +61,7 @@ experience is preferred;</p>
 <p>Any other criteria set up by the school.</p>
 </li>
 </ul>
-<p><strong>Application Procedure:</strong>
+<p><strong>Application Procedure:</strong> 
 <br>Application form is available at our General Office (111 Farrer Road,
 Singapore 259240) or can be downloaded the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form here</a>.</p>
 <p>Interested applicants must submit the following documents:</p>
@@ -86,13 +86,13 @@ Administration Manager) by the closing date 4 April 2024, 5.00 pm. We regret
 that late applications will not be accepted.</p>
 </li>
 </ul>
-<p><strong>Interview and Food Tasting:</strong>
+<p><strong>Interview and Food Tasting:</strong> 
 <br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
 applicant’s own expense. Successful applicant will be expected to commence
 operation of the stall from 1 May 2024. Please contact the school’s Administration
 Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for any clarifications.</p>
-<p><strong>How to get there</strong>
+<p><strong>How to get there</strong> 
 <br><strong>Nearest MRT</strong>: Farrer Road MRT (CC20) – 3- minute walk
 from Exit B
 <br><strong>Bus number:</strong>&nbsp;48, 93, 153, 165, 174, 186, 855, 961
