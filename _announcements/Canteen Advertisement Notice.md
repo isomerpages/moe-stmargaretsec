@@ -6,7 +6,8 @@ description: ""
 ---
 <p>St. Margaret’s School (Secondary) is inviting interested applicants to
 operate a
-<br><strong>“Muslim Cooked Food”</strong>&nbsp;stall in our school canteen.</p>
+<br><strong>“Halal Cuisine (Rice/Noodle)”</strong>&nbsp;stall in our school
+canteen.</p>
 <p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
@@ -90,8 +91,9 @@ that late applications will not be accepted.</p>
 <br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
 applicant’s own expense. Successful applicant will be expected to commence
-operation of the stall from 1 May 2024. Please contact the school’s Administration
-Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for any clarifications.</p>
+operation of the stall from 2 May 2024 or earlier. Please contact the school’s
+Administration Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for any
+clarifications.</p>
 <p><strong>How to get there</strong> 
 <br><strong>Nearest MRT</strong>: Farrer Road MRT (CC20) – 3- minute walk
 from Exit B
