@@ -92,8 +92,8 @@ will only be conducted during the competition season.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games - South Zone Championships
-<br>- 'B' Division Girls Team Overall</p>
+<p>National School Games - South Zone Championships - 'B' Division Girls
+Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
