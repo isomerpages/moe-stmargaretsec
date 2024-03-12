@@ -65,16 +65,9 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>HOD</p>
+<p><strong>HOD</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department</p>
@@ -82,7 +75,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>YH</p>
+<p><strong>YH</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head</p>
@@ -90,7 +84,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SH</p>
+<p><strong>SH</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head</p>
@@ -98,7 +93,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ST</p>
+<p><strong>ST</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
@@ -106,7 +102,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>LH</p>
+<p><strong>LH</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Level Head</p>
