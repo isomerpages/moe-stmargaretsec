@@ -3,46 +3,238 @@ title: Girl Guides
 permalink: /programmes/co-curricular-activities/girl-guides/
 description: ""
 third_nav_title: Uniformed Groups
-variant: markdown
+variant: tiptap
 ---
-CCA Schedule
-------------
-
-| | |
-| --- | --- | 
-| Training Days | Friday | 
-| Training Time | 3.00pm-5.30pm | 
-| Training Venues | Parade Square  <br> ISH Level 1 Classrooms |   
-| | |
-
-![](/images/girlguides1.jpg)*Uniformed groups could have sessions on Saturdays for HQ events. Students will receive additional information from their CCA teachers closer to the dates of the event.
-
-Teacher-in-charge
-------------------
-
-Mdm Azizah
-
-  
-
-Achievements
-------------
-
-| Year | Name of Competition | Achievement |
-| --- | --- | --- |
-| 2022 | Puan Noor Aishah Award 2022<br>Dr Low Guat Tin Challenge  <br>Gold Award<br> Silver Award<br> Bronze Award|Gold <br><br><br>12 students <br> 13 Students <br>12 Students
-| 2021&nbsp; | The Baden Powell Award&nbsp; | 5 students&nbsp; |
-| &nbsp; | South Division Learning Day | 3 students&nbsp; |
-| 2020 | Puan Noor Aishah Award 2020&nbsp; | Gold&nbsp; |
-|   | The Baden Powell Award | 5 students |
-| &nbsp; | World Thinking Day 2020 - Tie Dye Competition&nbsp; | 3<sup>rd</sup>&nbsp; |
-| 2019 | Puan Noor Aishah Award 2019 | Gold |
-| &nbsp; | World Thinking Day Carnival&nbsp; | Best Carnival Booth |
-| &nbsp; | Camp Challenge 2018&nbsp; | &nbsp; |
-| &nbsp; | Merit Award | 4<sup>th</sup>&nbsp;Place Overall&nbsp; |
-| &nbsp; | Best Patrol Flag and Identify | 3<sup>rd</sup>&nbsp; |
-| 2018 | Puan Noor Aishah Award 2018 | Gold&nbsp; |
-| &nbsp; | Singapore South Division Competitions 2018 |  |
-| &nbsp; | Captain's Ball | 1<sup>st</sup>&nbsp; |
-| &nbsp; | Patch Design Competition | 1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp; |
-| &nbsp; | Guides Knowledge and Skill Challenge | 1<sup>st</sup>&nbsp; |
-| | | |
+<h2>CCA Schedule</h2>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Days</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm-5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Venues</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parade Square
+<br>ISH Level 1 Classrooms</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/girlguides1.jpg">
+</div>
+<p>*Uniformed groups could have sessions on Saturdays for HQ events. Students
+will receive additional information from their CCA teachers closer to the
+dates of the event.</p>
+<h2>Teacher-in-charge</h2>
+<p>Mdm Azizah</p>
+<h2>Achievements</h2>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>2022</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Low Guat Tin Challenge
+<br>Gold Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Low Guat Tin Challenge
+<br>Silver Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>13 Students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Dr Low Guat Tin Challenge
+<br>Bronze Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>12 Students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p><strong>2021&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Baden Powell Award&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 students&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Division Learning Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 students&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>2020</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2020&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Baden Powell Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day 2020 - Tie Dye Competition&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>2019</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>World Thinking Day Carnival&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Carnival Booth</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camp Challenge 2018&nbsp; Merit Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th&nbsp;Place Overall&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Camp Challenge 2018&nbsp;Best Patrol Flag and Identify</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="4" colspan="1">
+<p><strong>2018</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2018</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore South Division Competitions 2018 Captain's Ball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore South Division Competitions 2018 Patch Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st&nbsp;and 3rd&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore South Division Competitions 2018 Guides Knowledge and Skill
+Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

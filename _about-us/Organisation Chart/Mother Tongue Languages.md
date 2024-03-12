@@ -3,34 +3,208 @@ title: Mother Tongue Languages
 permalink: /about-us/organisation-chart/mother-tongue/
 description: ""
 third_nav_title: Organisation Chart
-variant: markdown
+variant: tiptap
 ---
-|  | Name |  |
-| --- | --- | --- |
-| Ms  | Liang Huiyu  |HOD Mother Tongue Languages  |
-| Mdm | Liu Xin | ST Chinese Language |
-| Ms | Soh Yee Ling Carol | Asst. YH Secondary 2 |
-| Mdm | Suryati Bte Mail | Asst. YH Secondary 1 |
-| Mrs | Chong-Yeo Chiu Peng |  |
-| Mdm | Anbarasi M S  |   |
-| Ms  | Florence Chang Hwee Miang  |   |
-| Mdm | Huang Haiying |   |
-| Ms | Koh Pooi Sze |   |
-| Mdm | Liu Fang |  |
-| Ms | Nora Bte Aziz  |  |
-| Mdm | Nur Aqilah Bte Ibrahim    |   |
-| Ms | Quek Jiat Hia   |   |
-| Ms | Sha Yijing   |   |
-| Mrs  | Subramaniam Kalaymai  |   |
-| Mdm | Wang Li |  |
-| Mdm | Elavaini Krishnamoorthy |  |
-| Mdm | Yusnita Bte Mohamed Yusoff |  |
-
-
-| | |
-|---|---|
-| HOD | Head of Department |
-|  YH | Year Head  |
-|  SH | Subject Head  |
-|  ST | Senior Teacher  |
-|  LH | Level Head  |
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp; Liang Huiyu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Chinese Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Soh Yee Ling Carol</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. YH Secondary 2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suryati Bte Mail</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Asst. YH Secondary 1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Chong-Yeo Chiu Peng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Anbarasi M S</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp; Florence&nbsp;Chang Hwee Miang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Haiying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Koh Pooi Sze</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Fang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nora Bte Aziz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Aqilah Bte Ibrahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Quek Jiat Hia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sha Yijing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp; Subramaniam Kalaymai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wang Li</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Elavaini Krishnamoorthy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yusnita Bte Mohamed Yusoff</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
