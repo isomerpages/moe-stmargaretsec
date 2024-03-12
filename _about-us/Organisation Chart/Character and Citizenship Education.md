@@ -7,12 +7,12 @@ variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Mrs | Foo Kar Hiang | HOD Character and Citizenship Education (CCE) |
-| Ms  | Joey Poh  | ST Character and Citizenship Education (CCE) |
-| Ms | Ang Hui Min  | Education and Career Guidance Counsellor |
-| Mrs  | Christine Ho  | Special Educational Needs Officer  |
-| Ms  | Cynthia Kong Mun Yee | Senior School Counsellor  |
-| Ms  | Grace Tay  | Student Welfare Officer  |
+| Mrs  Foo Kar Hiang | HOD Character and Citizenship Education (CCE) |
+| Ms   Joey Poh  | ST Character and Citizenship Education (CCE) |
+| Ms  Ang Hui Min  | Education and Career Guidance Counsellor |
+| Mrs  Christine Ho  | Special Educational Needs Officer  |
+| Ms  Cynthia Kong Mun Yee | Senior School Counsellor  |
+| Ms  Grace Tay  | Student Welfare Officer  |
 
 
   
