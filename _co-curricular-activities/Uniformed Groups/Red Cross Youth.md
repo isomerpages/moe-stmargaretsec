@@ -73,7 +73,8 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2021&nbsp;</p>
+<p><strong>2021&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Red Cross Youth Unit Excellence Award 2021&nbsp;</p>
@@ -84,7 +85,8 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2020&nbsp;</p>
+<p><strong>2020&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Red Cross Youth Unit Excellence Award 2020</p>
@@ -95,10 +97,14 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>2019</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p><strong>2019</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
