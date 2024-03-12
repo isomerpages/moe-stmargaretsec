@@ -7,13 +7,13 @@ variant: markdown
 ---
 | | Name | |
 | --- | --- | --- |
-| Mrs | Teo Sook Lee | SH Educational Technology|
-| Mrs | Keira Lim | SH Teaching and Learning with Educational Technology  |
-| Ms | Thor Ya Lin | ICT Manager  |
-| Mr   | Muhammad Syukri Bin Suhaimi   |  ICT Associate   
-| Mr  | Eric Phang Boon How | Desktop Engineer |
-| Mr | Aziizul Hakiim Bin Zulkifli | Desktop Engineer | 
-| Mdm  | Rajeswari Krishnasamy  | Librarian |
+| Mrs Teo Sook Lee | SH Educational Technology|
+| Mrs |Keira Lim | SH Teaching and Learning with Educational Technology  |
+| Ms Thor Ya Lin | ICT Manager  |
+| Mr  Muhammad Syukri Bin Suhaimi   |  ICT Associate   
+| Mr  Eric Phang Boon How | Desktop Engineer |
+| Mr Aziizul Hakiim Bin Zulkifli | Desktop Engineer | 
+| Mdm Rajeswari Krishnasamy  | Librarian |
 
 | | |
 |---|---|
