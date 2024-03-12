@@ -32,7 +32,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>e-Mail:</p>
+<p>Email:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:stmargaretss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stmargaretss@moe.edu.sg</a>
