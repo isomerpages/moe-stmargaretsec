@@ -115,7 +115,7 @@ Girls</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSSC Sportmanship Award</p>
+<p>SSSC Sportsmanship Award</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 student</p>
