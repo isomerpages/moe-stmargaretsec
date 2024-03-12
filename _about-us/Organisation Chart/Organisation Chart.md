@@ -5,8 +5,20 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<h3><strong>Principal</strong></h3>
-<h3><br><strong>Vice Principal</strong></h3>
+<h3>Principal</h3>
+<hr>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Ms Linda Lim</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
+<h3><br>Vice Principal</h3>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -29,8 +41,10 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
-<h3><strong>Head of Department (HOD)</strong></h3>
+<h4>Head of Department (HOD)</h4>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -89,14 +103,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Corporate Communications</p>
 <p><strong>Mdm Premela d/o Prabakaran</strong>
 </p>
@@ -105,16 +111,9 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<hr>
 <h4><br>School Staff Developer</h4>
 <hr>
 <table>
@@ -127,6 +126,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><br>Lead Teacher</h4>
 <hr>
 <table>
@@ -140,6 +140,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h4><br>Subject Heads</h4>
 <hr>
 <table>
@@ -207,7 +208,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><br>Level Heads</h3>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -230,7 +233,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><br>Senior Teachers</h3>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -298,7 +303,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<hr>
 <h3><br>Assistant Year Heads</h3>
+<hr>
 <table>
 <tbody>
 <tr>
@@ -339,54 +346,36 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<h3><br>School Administration Team</h3>
+<hr>
+<h4><br>School Administration Team</h4>
+<hr>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Administration Manager 1</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Administration Manager 2</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
+<p>Administration Manager 1</p>
 <p><strong>Ms Lian Chuen Ann</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Administration Manager 2</p>
 <p><strong>Ms Doreen Owyong Siew Leng</strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<p>Operations Manager</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<p>ICT Manager</p>
-</th>
-</tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Operations Manager</p>
 <p><strong>Mr Kok Hock Chung</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p>ICT Manager</p>
 <p><strong>Ms Thor Ya Lin</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<hr>
 <p></p>
