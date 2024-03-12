@@ -59,7 +59,8 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2022&nbsp;</p>
+<p><strong>2022&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Director's Award&nbsp;
