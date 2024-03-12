@@ -3,29 +3,171 @@ title: Humanities
 permalink: /about-us/organisation-chart/humanities/
 description: ""
 third_nav_title: Organisation Chart
-variant: markdown
+variant: tiptap
 ---
-| | Name | |
-| --- | --- | --- |
-| Mrs | Filzah Tay |  HOD Humanities (Ag) |
-| Ms | Esther Wong Teck Yen | School Staff Developer |
-| Mrs | Esther Lau  |LT History  |
-| Ms | Priscilla Lim  | SH Geography (Internal)  |
-| Ms | Grace Wee  | ST Geography (Internal)  |
-| Mdm | Azizah Rabunam | |
-| Mr  | Desmond John Lee Yue Kay  |   |
-| Mrs | Juliana Chua |  |
-| Ms | Nicolette Ng  |   |
-| Mdm | Nur Farhana Mohammed Saini  |   |
-| Ms | Nursahidah Bte Mohamed Ali |   |
-| Ms | Tan Yan Tong |   |
-| Mrs  | Vimi Rethinam  |   |
-| Mrs | Wendy Lai  |
-
-| | |
-|---|---|
-| HOD | Head of Department |
-|  YH | Year Head  |
-|  SH | Subject Head  |
-|  LT | Lead Teacher  |
-|  LH | Level Head  |
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Name</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Filzah Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Humanities (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Esther Wong Teck Yen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Esther Lau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LT History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Priscilla Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Geography (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST Geography (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Azizah Rabunam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr&nbsp; Desmond John Lee Yue Kay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Juliana Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicolette Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nur Farhana Mohammed Saini</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nursahidah Bte Mohamed Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Yan Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs&nbsp; Vimi Rethinam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Wendy Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
