@@ -123,7 +123,7 @@ dates of the event.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>2021</strong>
 </p>
 </td>
@@ -135,9 +135,6 @@ dates of the event.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Pioneer Brigader Brooch Award</p>
 </td>
