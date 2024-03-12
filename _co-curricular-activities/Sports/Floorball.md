@@ -3,22 +3,50 @@ title: Floorball
 permalink: /programmes/co-curricular-activities/floorball/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-CCA Schedule
-------------
-
-
-| Training Days  | Monday | Thursday 
-| -------- | -------- | -------- 
-| Training Time     | 3.00pm-6.00pm     | 3.00pm-6.00pm  
-| Training Venue | ISH Level 3 | ISH Level 3
-
-*This is an additional day of training scheduled due to competition and&nbsp;will only be&nbsp;conducted during the competition season.
-
-![](/images/Floorball2.jpg)
-
-Teacher-in-charge
------------------
-
-Mr Daniel Ling
+<h2>CCA Schedule</h2>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Training Days</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Monday</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Thursday</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm-6.00pm</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm-6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Training Venue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH Level 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISH Level 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>*This is an additional day of training scheduled due to competition and&nbsp;will
+only be&nbsp;conducted during the competition season.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball2.jpg">
+</div>
+<h2>Teacher-in-charge</h2>
+<p>Mr Daniel Ling</p>
