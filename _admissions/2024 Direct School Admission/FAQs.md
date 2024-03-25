@@ -3,6 +3,7 @@ title: FAQs
 permalink: /admissions/2023-direct-school-admission/faqs/
 description: ""
 third_nav_title: 2024 Direct School Admission
+variant: markdown
 ---
 ### **Frequently Asked Questions about the Direct School Admission Exercise**
 
