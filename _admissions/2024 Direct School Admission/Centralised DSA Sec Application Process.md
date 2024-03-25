@@ -7,4 +7,4 @@ variant: markdown
 ---
 ### **Centralised DSA-Sec Application Process**
 
-*Updating in  progress*
+*Updating is in progress*
