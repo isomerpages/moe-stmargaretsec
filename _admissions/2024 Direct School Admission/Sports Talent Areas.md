@@ -2,6 +2,7 @@
 title: Sports Talent Areas
 permalink: /admissions/2023-direct-school-admission/sportstalentareas/
 description: ""
-third_nav_title: 2023 Direct School Admission
+third_nav_title: 2024 Direct School Admission
+variant: markdown
 ---
-![](/images/sports%20talent%20area%20_page-0001.jpg)
+*Updating is in progress*
