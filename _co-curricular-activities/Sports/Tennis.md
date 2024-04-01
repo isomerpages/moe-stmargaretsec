@@ -97,7 +97,7 @@ will only be conducted during the competition season.</p>
 &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd &nbsp; &nbsp;</p>
+<p>3<sup>rd &nbsp;</sup> &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -109,7 +109,8 @@ will only be conducted during the competition season.</p>
 <p>Plate Tournament of National Inter-schools Tennis Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +122,8 @@ will only be conducted during the competition season.</p>
 <p>National Inter-schools Championships 'C' Division Plate Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
