@@ -83,7 +83,8 @@ will only be conducted during the competition season.
 <p>South Zone Netball National School Games ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -95,7 +96,8 @@ will only be conducted during the competition season.
 <p>National School Games ‘B' Division - Netball South Zone Championships</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +110,8 @@ will only be conducted during the competition season.
 Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -120,7 +123,8 @@ Team Overall</p>
 <p>National School Games 2019 South Zone Championships - 'B' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +132,8 @@ Team Overall</p>
 <p>National School Games 2019 South Zone Championships - 'C' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +145,8 @@ Team Overall</p>
 <br>- 'B' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -150,7 +156,7 @@ Team Overall</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th
+<p>4<sup>th </sup>
 <br>
 </p>
 </td>
@@ -160,7 +166,8 @@ Team Overall</p>
 <p>2018 SSSC Netball South Zone Championships - 'C' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
