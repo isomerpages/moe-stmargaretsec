@@ -86,7 +86,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships
-<br>C Division Girls - Team Overall</p>
+<br>'C' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st
@@ -97,7 +97,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Team Overall</p>
+<br>'B' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2nd</p>
@@ -106,7 +106,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>C Division Girls - Individual Epee</p>
+<br>'C' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1st</p>
@@ -115,7 +115,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Individual Epee</p>
+<br>'B' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
@@ -124,7 +124,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Individual Foil</p>
+<br>'B' Division Girls - Individual Foil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3rd</p>
