@@ -196,23 +196,31 @@ Team Overall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball Christ Church Pioneer Cup 2024 1st Position</p>
-<p>National School Games South Zone 'B' Division Girls Basketball Championships
-2023 - 3rd
-<br>
-</p>
+<p>Basketball Christ Church Pioneer Cup 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1<sup>st</sup> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games South Zone 'B' Division Girls Basketball Championships
+2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games South Zone
-<br>Championships 2023 ‘B’ Division Girls - 3rd</p>
+<br>Championships 2023 ‘B’ Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -223,12 +231,26 @@ Team Overall</p>
 <th rowspan="1" colspan="1">
 <p>Cross Country</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports) SSSC Colours Award</p>
+<p>2023 (Singapore Combined Schools Sports) SSSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Colours Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games South Zone 'B' Division Girls Cross Country Championships
-2023 - 1st</p>
+2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -239,10 +261,17 @@ Team Overall</p>
 <th rowspan="1" colspan="1">
 <p>Golf</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games 'C' Division Girls Golf Championships 2023 - 6th</p>
+<p>National School Games 'C' Division Girls Golf Championships 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -253,13 +282,25 @@ Team Overall</p>
 <th rowspan="1" colspan="1">
 <p>Judo</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports) SSSC Colours Award</p>
+<p>2023 (Singapore Combined Schools Sports) SSSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Colours Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games 'B' Division Girls Individual - (under 48kg Extra
-Lightweight Category) - 3rd (Team Overall) &amp; Individual Bronze (Joint
-3rd)</p>
+Lightweight Category) - (Team Overall)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>, Individual Bronze (Joint 3<sup>rd</sup>)</p>
 </td>
 </tr>
 </tbody>
@@ -270,13 +311,17 @@ Lightweight Category) - 3rd (Team Overall) &amp; Individual Bronze (Joint
 <th rowspan="1" colspan="1">
 <p>Netball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball National School Games 2024 South Zone Netball ‘B’ Division 3rd
-Position</p>
 <p>National School Games Netball South Zone ‘B’ Division Girls
-<br>Championships 2023 - 3rd</p>
+<br>Championships 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
 </td>
 </tr>
 </tbody>
@@ -287,11 +332,17 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Tennis</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Tennis ‘B’ Division Girls
-<br>Plate Tournament 2023 - 3rd</p>
+<p>National School Games Tennis ‘B’ Division Girls Plate Tournament 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -302,16 +353,60 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Track and Field</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports) SSSC Colours Award</p>
+<p>2023 (Singapore Combined Schools Sports) SSSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Colours Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games Tennis ‘B’ Division Girls
 <br>Track and Field Championships 2023
-<br>1st (Individual - 3000m)
-<br>1st (Individual - 1500m)
-<br>3rd (Individual - 400m hurdles)
-<br>8th (Individual - 100m hurdles)</p>
+<br>(Individual - 3000m)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Tennis ‘B’ Division Girls
+<br>Track and Field Championships 2023
+<br>(Individual - 1500m)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Tennis ‘B’ Division Girls
+<br>Track and Field Championships 2023
+<br>(Individual - 400m hurdles)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Tennis ‘B’ Division Girls
+<br>Track and Field Championships 2023
+<br>(Individual - 100m hurdles)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup> 
+</p>
 </td>
 </tr>
 </tbody>
@@ -322,13 +417,28 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Swimming</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Swimming 'C' Division Girls Swimming Championships
-2023
-<br>8th (100m backstroke)
-<br>7th (200m backstroke)</p>
+2023 (100m backstroke)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Swimming 'C' Division Girls Swimming Championships
+2023 (200m backstroke)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>7<sup>th </sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -340,17 +450,28 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Badminton</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Badminton South Zone Championships
-<br>- 'B' Division - 4th
-<br>- 'C' Division - 4th</p>
+<br>- 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Badminton South Zone Championships
+<br>- 'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -361,12 +482,28 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Basketball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Basketball South Zone Championships
-<br>- 'B' Division - 4th
-<br>- 'C' Division - 2nd</p>
+<br>- 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball South Zone Championships
+<br>- 'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -377,17 +514,28 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Bowling</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Bowling Championships
-<br>- 'B' Division - Team Overall - 5th
-<br>- 'B' Division - Individual Overall - 4th</p>
+<p>National School Games Bowling Championships 'B' Division - Individual
+Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Bowling Championships 'B' Division - Individual
+Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -398,16 +546,17 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Cross Country</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Cross Country
-<br>- 'B' Division Individual Position: 3rd and 18th</p>
+<p>National School Games Cross Country 'B' Division Individual Position</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup> and 18<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -418,21 +567,62 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Fencing</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Fencing
-<br>- 'B' Division - Team Overall - 3rd
-<br>- 'B' Division - Individual Foil - 6th&nbsp;and 8th
-<br>- 'C' Division - Team Overal - 2nd
-<br>- 'C' Division - Epee Individual - 1st&nbsp;and 8th
-<br>- 'C' Division - Foil Individual - 1st&nbsp;and 8th
-<br>- 'C' Division - Sabre Indiviudal - 3rd, 5th&nbsp;and 7th</p>
+<p>National School Games Fencing 'B' Division - Team Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Fencing 'B' Division - Individual Foil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>&nbsp;and 8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Fencing 'C' Division - Team Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Fencing 'C' Division - Epee Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Fencing 'C' Division - Foil Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Fencing 'C' Division - Sabre Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 7<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -443,16 +633,18 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Judo</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games
-<br>- 'B' Division Under 48kg - 1st</p>
+<br>- 'B' Division Under 48kg</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -463,17 +655,26 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Netball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Netball South Zone
-<br>- 'B' Division - 3rd
-<br>- 'C' Division - 4th</p>
+<p>National School Games Netball South Zone - 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd </sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Netball South Zone - 'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -484,16 +685,16 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Track and Field</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games
-<br>- 'B' Division 3,000m - 2nd&nbsp;</p>
+<p>National School Games 'B' Division 3,000m</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2<sup>nd</sup>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -505,21 +706,26 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Badminton</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Badminton South Zone Championships&nbsp;
-<br>- 'B' Division - 4th</p>
+<br>- 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSSC Sportsmanship Award - 1 student</p>
+<p>SSSC Sportsmanship Award</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1 student</p>
 </td>
 </tr>
 </tbody>
@@ -530,27 +736,46 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Bowling</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Bowling Championships</p>
+<p>National School Games Bowling Championships - ‘B’ Division Girls’ Single
+Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th </sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>- ‘B’ Division Girls’ Single Event - 4th
-<br>- 'B' Division Girls' Individual (All Event) - Ranked 9th
-<br>-&nbsp;'B' Division Girls School Overall - Ranked 3rd</p>
+<p>National School Games Bowling Championships 'B' Division Girls' Individual
+(All Event) Ranked</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9<sup>th </sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSSC Sportsmanship Award -&nbsp; 1 student&nbsp;</p>
+<p>National School Games Bowling Championships -&nbsp;'B' Division Girls
+School Overall Ranked</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SSSC Sportsmanship Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -561,17 +786,17 @@ Position</p>
 <th rowspan="1" colspan="1">
 <p>Others</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Strategic Partnership - Co-curricular Activities (SP-CCA) Track and Field
-Competitions 2021
-<br>- 'C' Division Girls - Overall Champion - 1 student</p>
+Competitions 2021 'C' Division Girls</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Overall Champion - 1 student</p>
 </td>
 </tr>
 </tbody>
