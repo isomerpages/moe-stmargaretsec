@@ -76,6 +76,18 @@ will only be conducted during the competition season.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone Netball National School Games ‘B’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
