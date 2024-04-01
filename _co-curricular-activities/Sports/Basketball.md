@@ -75,6 +75,18 @@ the competition season.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone Basketball National School Games ‘B’ Division Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2022</strong>
 </p>
 </td>
