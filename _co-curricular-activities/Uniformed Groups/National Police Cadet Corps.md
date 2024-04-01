@@ -79,7 +79,7 @@ dates of the event.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NPCC Units Overall Proficiency Award 2021&nbsp;</p>
+<p>NPCC Unit Overall Proficiency Award 2021&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold&nbsp;</p>
@@ -139,10 +139,10 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SPF - NPCC Badge</p>
+<p>SPF - NPCC Badge Best Unit Cadet Award -</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Best Unit Cadet Award - 1 student&nbsp;</p>
+<p>1 student&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +155,7 @@ dates of the event.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>NPCC Units Overall Proficiency Award 2018</p>
+<p>NPCC Unit Overall Proficiency Award 2018</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold&nbsp;</p>
