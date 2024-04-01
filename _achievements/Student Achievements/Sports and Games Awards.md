@@ -75,7 +75,7 @@ variant: tiptap
 <br>'C' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> 
+<p>1<sup>st</sup>
 </p>
 </td>
 </tr>
@@ -583,17 +583,19 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Others</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Plate Tournament of National Inter-schools Tennis Championships - 3rd
+<p>Plate Tournament of National Inter-schools Tennis Championships
 <br>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd </sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -605,22 +607,28 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Basketball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games 2019 Inter-school South Zone Basketball Championships&nbsp;
-<br>- ‘C’ Division - 4th&nbsp;placing</p>
+- ‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games&nbsp;Basketball 2019
-<br>- South Zone Girls ‘B’ Division - 3rd&nbsp;position - 12 students</p>
+<br>- South Zone Girls ‘B’ Division</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -631,22 +639,27 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Bowling</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games 2019
-<br>- ‘C’ Division - 3rd&nbsp;- 14 students</p>
+<p>National School Games 2019 - ‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Ten Pin Bowling Championship 2019&nbsp;
-<br>- ‘B’ Division Girls’ Single Event - 2nd</p>
+<p>National School Ten Pin Bowling Championship 2019&nbsp; - ‘B’ Division
+Girls’ Single Event</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -657,29 +670,88 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Fencing</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 National School Games
-<br>- ‘B’ Division Girls Overall - 4th
-<br>-&nbsp;Epee Individual Girl’s Event - Top 8
-<br>-&nbsp;‘C’ Division Girls Overall - 5th</p>
+<p>2019 National School Games ‘B’ Division Girls Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 Singapore Novices Championships
-<br>-&nbsp;Foil Team Event - 1st
-<br>-&nbsp;Foil Team Event - 3rd
-<br>- Epee Team Event - 3rd
-<br>- Sabre Team Event - 2nd
-<br>- Foil Individual Event - 3rd
-<br>- Epee Individual Event - 2nd</p>
+<p>2019 National School Games &nbsp;Epee Individual Girl’s Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2019 National School Games &nbsp;‘C’ Division Girls Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Foil Team Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Foil Team Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd  </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Epee Team Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Sabre Team Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Foil Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2019 Singapore Novices Championships Epee Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -690,22 +762,26 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Netball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games 2019 South Zone Inter-school Netball Championships
-<br>- ‘C’ Division – 3rd&nbsp;</p>
+- ‘C’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games Netball 2019&nbsp;
-<br>- South Zone ‘B’ Division - 3rd&nbsp;</p>
+<p>National School Games Netball 2019&nbsp;- South Zone ‘B’ Division</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -716,23 +792,38 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Rhythmic Gymnastics</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2019&nbsp;National School Games
-<br>- ‘B’ Division - Three Hoops Two Ball Group Event - 3rd</p>
+<br>- ‘B’ Division - Three Hoops Two Ball Group Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2019 Rhythmic Gymnastics National Championships
-<br>- Level 5A Ribbon Individual Event - 6th
-<br>-&nbsp;Level 6 Clubs Individual Event - 5th</p>
+<p>2019 Rhythmic Gymnastics National Championships Level 5A Ribbon Individual
+Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th </sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2019 Rhythmic Gymnastics National Championships Level 6 Clubs Individual
+Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -743,33 +834,76 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Others</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Schools Sports Council Colours Awards 2019
-<br>- Colours Award - 1 student
-<br>- Colours Award (Distinction) - 1 student
-<br>- Colours Award (Best Sportsboy/Sportsgirl) - Judo - 1 student
-<br>- Colours Award - Fencing - 20 students
-<br>- Colours Award - Gymnastics - 6 students
-<br>- Colours Award - Tenpin Bowling - 14 students</p>
+<p>Singapore Schools Sports Council Colours Awards 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Sports Schools Para Games 2019
-<br>- Women 100m Run CP Standing - 1st</p>
+<p>Singapore Schools Sports Council Colours Award (Distinction)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council Colours Award (Best Sportsboy/Sportsgirl)
+- Judo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council Colours Award - Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council Colours Award - Gymnastics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Schools Sports Council Colours Award - Tenpin Bowling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>14 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Sports Schools Para Games 2019 - Women 100m Run CP Standing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Judo National School Games 2019
-<br>- ‘B’ Division - Girls Under 57kg Event - 3rd</p>
+<br>- ‘B’ Division - Girls Under 57kg Event</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -781,10 +915,17 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Badminton</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 SSSC Badminton South Zone 'C' Division Girls Championships - 3rd</p>
+<p>2018 SSSC Badminton South Zone 'C' Division Girls Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -795,28 +936,33 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Basketball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Overseas Family School Invitational Under-16 Girls Basketball Tournament
-- Champions&nbsp;</p>
+<p>Overseas Family School Invitational Under-16 Girls Basketball Tournament</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 SSSC Basketball South Zone Championships 'C' Division Girls Championships
-- 4th&nbsp;</p>
+<p>2018 SSSC Basketball South Zone Championships 'C' Division Girls Championships</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 SSSC Basketball South Zone Championships 'B' Division Girls Championships
-- 3rd&nbsp;</p>
+<p>2018 SSSC Basketball South Zone Championships 'B' Division Girls Championships</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -827,29 +973,48 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Bowling</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Schools Tenpin Bowling&nbsp;Championships 2018
-<br>- 'C- Division Girls Overall - 4th</p>
+<br>- 'C' Division Girls Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Schools Tenpin Bowling&nbsp;Championships 2018
-<br>-&nbsp;Overall School - 3rd
-<br>-&nbsp;Double Event - 3rd</p>
+<br>-&nbsp;Overall School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National Age Group 2018 Girls&nbsp;Under-15 Championships&nbsp;
-<br>-&nbsp;Single Event - 1st</p>
+<p>National Schools Tenpin Bowling&nbsp;Championships 2018 -&nbsp;Double
+Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National Age Group 2018 Girls&nbsp;Under-15 Championships&nbsp;Single
+Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -860,30 +1025,98 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Fencing</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 National School Games&nbsp;
-<br>- 'C' Division Girls Epee Individual Event - 2nd
-<br>- 'C' Division Girls Epee Individual Event - 3rd
-<br>- 'C' Division Girls Overall Team - 2nd
-<br>- 'B' Division Girls Overall Team &nbsp;- 4th</p>
+<p>2018 National School Games&nbsp;'C' Division Girls Epee Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 Singapore Novices&nbsp;Championship
-<br>-&nbsp;Women Epee Foil Individual - 3rd&nbsp;position
-<br>-&nbsp;Women Foil Individual - 3rd&nbsp;position
-<br>-&nbsp;Women Foil Individual - 2nd&nbsp;position
-<br>-&nbsp;Women Sabre Team - 3rd&nbsp;position
-<br>-&nbsp;Women Epee Team - 2nd&nbsp;position
-<br>-&nbsp;Women Foil Team - 1st&nbsp;position</p>
+<p>2018 National School Games 'C' Division Girls Epee Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2018 National School Games 'C' Division Girls Overall Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 National School Games 'B' Division Girls Overall Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Epee Foil Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship - Women Foil Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd&nbsp;</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Foil Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd&nbsp;</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Sabre Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd </sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Epee Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Foil Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 </tbody>
