@@ -75,6 +75,19 @@ the competition season.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone Basketball National School Games ‘B’ Division Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2022</strong>
 </p>
 </td>
@@ -83,7 +96,8 @@ the competition season.</p>
 <br>- 'B' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +113,7 @@ the competition season.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th
+<p>4<sup>th </sup>
 <br>
 </p>
 </td>
@@ -110,7 +124,8 @@ the competition season.</p>
 - 'C' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -134,7 +149,8 @@ the competition season.</p>
 <br>- 'B' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -143,7 +159,8 @@ the competition season.</p>
 <br>- 'C' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>

@@ -86,10 +86,10 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships
-<br>C Division Girls - Team Overall</p>
+<br>'C' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st
+<p>1<sup>st </sup>
 <br>
 </p>
 </td>
@@ -97,37 +97,41 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Team Overall</p>
+<br>'B' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games National Championships -
-<br>C Division Girls - Individual Epee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1st</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Individual Epee</p>
+<br>'C' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships -
-<br>B Division Girls - Individual Foil</p>
+<br>'B' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships -
+<br>'B' Division Girls - Individual Foil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +143,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'B' Division Girls Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +152,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'B' Division Foil Individual&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6th&nbsp;and 8th</p>
+<p>6<sup>th</sup>&nbsp;and 8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +161,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'C' Division Girls Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +170,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'C' Division Epee Individual&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;and 8th</p>
+<p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +179,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'C' Division Foil Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;and 8th</p>
+<p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +188,8 @@ variant: tiptap
 <p>National School Games&nbsp;- 'C' Division Sabre Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd, 5th&nbsp;and 8th</p>
+<p>3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +219,8 @@ variant: tiptap
 <p>2019 National School Games 'B' Division Girls&nbsp;Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +228,7 @@ variant: tiptap
 <p>2019 National School Games 'C' Division Girls Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5th&nbsp;</p>
+<p>5<sup>th</sup>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +244,7 @@ variant: tiptap
 <p>2019 Singapore Novices Championships&nbsp; Foil Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;and 3rd&nbsp;&nbsp;</p>
+<p>1<sup>st</sup>&nbsp;and 3<sup>rd&nbsp;</sup>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -241,7 +252,8 @@ variant: tiptap
 <p>2019 Singapore Novices Championships&nbsp; Epee Team Event&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd&nbsp;</p>
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -249,7 +261,8 @@ variant: tiptap
 <p>2019 Singapore Novices Championships&nbsp; Sabre Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -257,7 +270,8 @@ variant: tiptap
 <p>2019 Singapore Novices Championships&nbsp; Foil Individual Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd&nbsp;</p>
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -265,7 +279,8 @@ variant: tiptap
 <p>2019 Singapore Novices Championships&nbsp; Epee Individual Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd&nbsp;</p>
+<p>2<sup>nd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +310,8 @@ variant: tiptap
 <p>2018 National School Games 'B' Division Girls Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th&nbsp;</p>
+<p>4<sup>th&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -303,7 +319,8 @@ variant: tiptap
 <p>2018 National School Games 'C' Division Girls Overall Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd&nbsp;&nbsp;</p>
+<p>2<sup>nd&nbsp;&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -311,7 +328,8 @@ variant: tiptap
 <p>2018 National School Games 'C' Division Girls Epee Individual Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd&nbsp;and 3rd&nbsp;</p>
+<p>2<sup>nd</sup>&nbsp;and 3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -319,7 +337,8 @@ variant: tiptap
 <p>2018 Singapore Novices Championships Women Epee Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;3rd&nbsp;</p>
+<p>&nbsp;3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +346,8 @@ variant: tiptap
 <p>2018 Singapore Novices Championships Women Foil Individual</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd&nbsp;and 3rd</p>
+<p>2<sup>nd</sup>&nbsp;and 3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +355,8 @@ variant: tiptap
 <p>2018 Singapore Novices Championships Women Sabre Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd&nbsp;</p>
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -343,7 +364,8 @@ variant: tiptap
 <p>2018 Singapore Novices Championships Women Epee Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd&nbsp;&nbsp;</p>
+<p>2<sup>nd&nbsp;&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -351,7 +373,8 @@ variant: tiptap
 <p>2018 Singapore Novices Championships Women Foil Team&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;</p>
+<p>1<sup>st&nbsp;</sup>
+</p>
 </td>
 </tr>
 </tbody>

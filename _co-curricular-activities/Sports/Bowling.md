@@ -78,10 +78,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships</p>
+<p>National School Games National Championships 'C' Division Girls - ‘B’
+Division Girls Single Event Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'C' Division Girls - Team Overall - 4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -90,18 +92,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games - Bowling Championships</p>
+<p>National School Games Bowling Championships - 'B' Division - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'B' Division - Team Overall - 5th</p>
+<p>5<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games - Bowling Championships</p>
+<p>National School Games Bowling Championships - 'B' Division - Individual
+Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'B' Division - Individual Overall - 4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -118,26 +123,32 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games - Bowling Championships</p>
+<p>National School Games Bowling Championships - ‘B’ Division Girls Single
+Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>‘B’ Division Girls Single Event - 4th</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>National School Games - Bowling Championships</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>'B' Division Girls Individual (All Events) - Ranked 9th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games - Bowling Championships</p>
+<p>National School Games Bowling Championships - 'B' Division Girls Individual
+(All Events) Ranked</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>'B' Division Girls School Overall - Ranked 3rd</p>
+<p>9<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Bowling Championships - 'B' Division Girls School
+Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -154,18 +165,21 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games 2019</p>
+<p>National School Games 2019 - ‘C’ Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>‘C’ Division Girls - 3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Ten Pin Bowling Championship 2019</p>
+<p>National School Ten Pin Bowling Championship 2019 - ‘B’ Division Girls
+Single Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>‘B’ Division Girls Single Event - 2nd</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>

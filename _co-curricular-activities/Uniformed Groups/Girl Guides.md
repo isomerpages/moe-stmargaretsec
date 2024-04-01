@@ -145,7 +145,8 @@ dates of the event.</p>
 <p>World Thinking Day 2020 - Tie Dye Competition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd&nbsp;</p>
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +182,8 @@ dates of the event.</p>
 <p>Camp Challenge 2018&nbsp; Merit Award</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th&nbsp;Place Overall&nbsp;</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -189,7 +191,8 @@ dates of the event.</p>
 <p>Camp Challenge 2018&nbsp;Best Patrol Flag and Identify</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd&nbsp;</p>
+<p>3<sup>rd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -215,7 +218,8 @@ dates of the event.</p>
 <p>Singapore South Division Competitions 2018 Captain's Ball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;</p>
+<p>1<sup>st&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -223,7 +227,7 @@ dates of the event.</p>
 <p>Singapore South Division Competitions 2018 Patch Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;and 3rd&nbsp;</p>
+<p>1<sup>st</sup>&nbsp;and 3<sup>rd</sup>&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -232,7 +236,8 @@ dates of the event.</p>
 Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1st&nbsp;</p>
+<p>1<sup>st&nbsp;</sup>
+</p>
 </td>
 </tr>
 </tbody>
