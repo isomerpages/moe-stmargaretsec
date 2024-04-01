@@ -199,7 +199,7 @@ Team Overall</p>
 <p>Basketball Christ Church Pioneer Cup 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> 
+<p>1<sup>st</sup>
 </p>
 </td>
 </tr>
@@ -372,7 +372,7 @@ Lightweight Category) - (Team Overall)</p>
 <br>(Individual - 3000m)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> 
+<p>1<sup>st</sup>
 </p>
 </td>
 </tr>
@@ -383,7 +383,7 @@ Lightweight Category) - (Team Overall)</p>
 <br>(Individual - 1500m)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st </sup>
+<p>1<sup>st</sup>
 </p>
 </td>
 </tr>
@@ -394,7 +394,7 @@ Lightweight Category) - (Team Overall)</p>
 <br>(Individual - 400m hurdles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd </sup>
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
@@ -405,7 +405,7 @@ Lightweight Category) - (Team Overall)</p>
 <br>(Individual - 100m hurdles)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8<sup>th</sup> 
+<p>8<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -437,7 +437,7 @@ Lightweight Category) - (Team Overall)</p>
 2023 (200m backstroke)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>7<sup>th </sup>
+<p>7<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -664,7 +664,7 @@ Overall</p>
 <p>National School Games Netball South Zone - 'B' Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd </sup>
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
@@ -746,7 +746,7 @@ Overall</p>
 Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4<sup>th </sup>
+<p>4<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -756,7 +756,7 @@ Event</p>
 (All Event) Ranked</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9<sup>th </sup>
+<p>9<sup>th</sup>
 </p>
 </td>
 </tr>
