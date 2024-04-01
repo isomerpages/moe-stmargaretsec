@@ -13,10 +13,16 @@ variant: tiptap
 <p><strong>Live On Design Competition 2023</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Design Competition School Category – Special Mention</p>
+<p>Design Competition School Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Mention</p>
 </td>
 </tr>
 </tbody>
@@ -28,10 +34,16 @@ variant: tiptap
 <p><strong>Animation and Game Making Competition 2023</strong>
 </p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Game Making Category – Bronze Award</p>
+<p>Game Making Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze Award</p>
 </td>
 </tr>
 </tbody>
@@ -42,10 +54,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -56,10 +74,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -70,10 +94,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Concert Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -84,10 +114,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>English Drama</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -98,10 +134,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -112,10 +154,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -126,10 +174,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -140,10 +194,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -155,11 +215,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Creative Art Club (Visual Art)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Visual Arts Exhibition - Certificate of Recognition
-- 2 students</p>
+<p>Singapore Youth Festival Visual Arts Exhibition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Recognition - 2 students</p>
 </td>
 </tr>
 </tbody>
@@ -171,10 +236,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -185,12 +256,26 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Creative Art Club (Visual Art)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Live on Festival 2021 - Distinction Award - 1 student
-<br>Art Prize Competition organised by The Rice Limited Company - Merit Award
-- 1 student</p>
+<p>Live on Festival 2021
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction Award - 1 student</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Art Prize Competition organised by The Rice Limited Company</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award - 1 student</p>
 </td>
 </tr>
 </tbody>
@@ -201,10 +286,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Concert Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -215,10 +306,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>English Drama</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -229,10 +326,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -243,10 +346,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -257,10 +366,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -271,10 +386,16 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -286,19 +407,34 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Creative Art Club (Visual Art)</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Visual Art Representation
-<br>- Certificate of Accomplishments - 31 students
-<br>
-<br>Safety Starts with Me Poster Competition organised by Workplace Safety
-and Health Council
-<br>- Consolation Prize - 2 students
-<br>
-<br>Road Safety for All Art Competition organised by Singapore Road Safety
-Council
-<br>- Merit Award - 2 students</p>
+<p>Singapore Youth Festival Visual Art Representation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishments - 31 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safety Starts with Me Poster Competition organised by Workplace Safety
+and Health Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation Prize - 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Road Safety for All Art Competition organised by Singapore Road Safety
+Council</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Merit Award - 2 students</p>
 </td>
 </tr>
 </tbody>
@@ -310,10 +446,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -324,10 +466,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -338,10 +486,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Symphonic Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -352,10 +506,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -366,10 +526,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -380,10 +546,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of&nbsp; Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation -</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of&nbsp; Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -394,10 +566,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation -&nbsp; Certificate of Distinction</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -408,10 +586,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>Drama</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -423,25 +607,36 @@ Council
 <th rowspan="1" colspan="1">
 <p>Creative Art Club</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2018 Art Exhibition: Artist and Citizenship
-<br>- 2 Certificates of Recognition
+<p>SYF 2018 Art Exhibition: Artist and Citizenship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- 2 Certificates of Recognition
 <br>- 1 Certificate of Recognition (Special mention)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF Logo Design Contest
-<br>- 1 Consolation</p>
+<p>SYF Logo Design Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Consolation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2018 Zhang Shou Shi National Calligraphy and Chinese Painting Exhibition
 <br>(2018年度张瘦石全国中小学书画展)
-<br>- Silver Award - 1 student
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Silver Award - 1 student
 <br>- Certificate of Merit - 2 students</p>
 </td>
 </tr>
@@ -453,10 +648,16 @@ Council
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ensemble Certificate Exam by Trinity College London - Certificate of Distinction</p>
+<p>Ensemble Certificate Exam by Trinity College London</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -468,17 +669,24 @@ Council
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SYF 2017 Celebrations Youth Got Talent Dance (Solo) Category - Audience
-Choice Award&nbsp;</p>
+<p>SYF 2017 Celebrations Youth Got Talent Dance (Solo) Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Audience Choice Award&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Dance (Indian) -&nbsp;Certificate
-of Distinction</p>
+<p>Singapore Youth Festival - Arts Presentation - Dance (Indian)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -489,11 +697,16 @@ of Distinction</p>
 <th rowspan="1" colspan="1">
 <p>Symphonic Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Band (Concert) - Certificate
-of Distinction</p>
+<p>Singapore Youth Festival - Arts Presentation - Band (Concert)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -504,11 +717,16 @@ of Distinction</p>
 <th rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Dance (Malay) &nbsp;- Certificate
-of Accomplishment</p>
+<p>Singapore Youth Festival - Arts Presentation - Dance (Malay)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -519,11 +737,16 @@ of Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Dance (Chinese) - Certificate
-of Distinction</p>
+<p>Singapore Youth Festival - Arts Presentation - Dance (Chinese)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -534,11 +757,16 @@ of Distinction</p>
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Choir - Certificate of
-Distinction</p>
+<p>Singapore Youth Festival - Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -549,11 +777,16 @@ Distinction</p>
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Instrumental Ensemble (Strings)
-- Certificate of Accomplishment</p>
+<p>Singapore Youth Festival - Arts Presentation - Instrumental Ensemble (Strings)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -564,11 +797,16 @@ Distinction</p>
 <th rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Dance (International) -
-Certificate of Accomplishment</p>
+<p>Singapore Youth Festival - Arts Presentation - Dance (International)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -579,11 +817,16 @@ Certificate of Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>Drama</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival - Arts Presentation - Drama - Certificate of
-Accomplishment</p>
+<p>Singapore Youth Festival - Arts Presentation - Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -594,16 +837,26 @@ Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>Creative Art Club</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Singapore Youth Festival (SYF) 2017 Theme Motif Design Contest - Consolation</p>
+<p>The Singapore Youth Festival (SYF) 2017 Theme Motif Design Contest</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Consolation</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Speak! Ventures Debate Championships organised by Debate Association -
 2nd amongst Top 20 Individual Speakers in Silver Division&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -615,10 +868,16 @@ Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore International Choral Festival 2016 - Silver</p>
+<p>Singapore International Choral Festival 2016</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
 </td>
 </tr>
 </tbody>
@@ -629,10 +888,16 @@ Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6th&nbsp;International Youth&nbsp;Dance&nbsp;Festival - Gold</p>
+<p>6th&nbsp;International Youth&nbsp;Dance&nbsp;Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
 </td>
 </tr>
 </tbody>
@@ -643,11 +908,16 @@ Accomplishment</p>
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Trinity College London Ensemble Grading Examination - Intermediate Ensemble
-with Certificate of Distinction&nbsp;</p>
+<p>Trinity College London Ensemble Grading Examination - Intermediate Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -658,25 +928,33 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Symphonic Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Ensemble Competition 2016</p>
+<p>Percussion Ensemble</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold, First Prize</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Percussion Ensemble - Gold, First Prize</p>
+<p>Singapore Ensemble Competition 2016 Woodwind Quintet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Woodwind Quintet - Gold&nbsp;</p>
+<p>Singapore International Band Festival (Division 2A)</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Singapore International Band Festival (Division 2A)&nbsp; - Silver Award&nbsp;</p>
+<p>Silver Award&nbsp;</p>
 </td>
 </tr>
 </tbody>
@@ -687,13 +965,14 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Creative Art Club</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Singapore Youth Festival (SYF) 2016 Art Exhibition</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>5 Certificates of Recognition</p>
 </td>
@@ -707,10 +986,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Chinese Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -721,10 +1006,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -735,10 +1026,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Drama</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -749,10 +1046,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Indian Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -763,10 +1066,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Malay Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -777,10 +1086,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Modern Dance</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -791,10 +1106,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>String Ensemble</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate of Accomplishment</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment</p>
 </td>
 </tr>
 </tbody>
@@ -805,10 +1126,16 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Symphonic Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival Central Judging – Certificate&nbsp;of Distinction</p>
+<p>Singapore Youth Festival Central Judging</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate&nbsp;of Distinction</p>
 </td>
 </tr>
 </tbody>
@@ -819,12 +1146,19 @@ with Certificate of Distinction&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Creative Art Club</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Noise Singapore (organised by The National Arts Council)
-<br>- Produced individual winning entry from Singapore
-<br>Entry also won 1st&nbsp;place in Japan Times Award&nbsp;</p>
+<br>Produced individual winning entry from Singapore Entry also won 1st&nbsp;place
+in Japan Times Award&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -832,6 +1166,9 @@ with Certificate of Distinction&nbsp;</p>
 <p>SG50&nbsp;Hawker Project
 <br>- Adopted Empress Market to showcase the painting series, 'Blast from
 the Past'</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -843,10 +1180,16 @@ the Past'</p>
 <th rowspan="1" colspan="1">
 <p>Choir</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore International Choral Festival – Silver Diploma</p>
+<p>Singapore International Choral Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Diploma</p>
 </td>
 </tr>
 </tbody>
@@ -857,10 +1200,16 @@ the Past'</p>
 <th rowspan="1" colspan="1">
 <p>Symphonic Band</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Singapore International Band Festival – Silver</p>
+<p>Singapore International Band Festival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
 </td>
 </tr>
 </tbody>
