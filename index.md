@@ -26,22 +26,6 @@ sections:
           url: https://www.facebook.com/stmargssecsg/
       variant: center
   - textcards:
-      title: Quick Links
-      id: textcards
-      cards:
-        - title: 2024 Timetable for Term 1
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/resources/for-students/2024-class-timetable/
-        - title: Purchase of Secondary 1 Books and School Uniform
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/announcements/sec-1-2024-intake/purchaseofsec1booksandschooluniform/
-        - title: 2024 Sec 1 CCA Registration Briefing Slides
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/announcements/2024sec1ccaregistrationbriefingslides
-  - textcards:
       title: 2023 National Exam Result Slides
       id: textcards
       cards:
