@@ -84,7 +84,8 @@ the competition season.</p>
 Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +98,8 @@ Girls</p>
 Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +112,8 @@ Girls</p>
 Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +133,8 @@ Girls</p>
 <p>SSSC Badminton Zonal 'C' Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
