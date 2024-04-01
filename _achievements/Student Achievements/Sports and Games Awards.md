@@ -5,6 +5,49 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
+<h2>2024</h2>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Basketball</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Zone Basketball National School Games ‘B’ Division<sub> </sub>Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Netball</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>South Zone Netball National School Games ‘B’ Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>2023</h2>
 <table>
 <tbody>
@@ -12,16 +55,68 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Fencing</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports) SSSC Colours Award
-<br>National School Games National Championships 2023
-<br>C Division Girls - Team Overall 1st
-<br>'B' Division Girls - Team Overall 2nd
-<br>'C' Division Girls - Individual Epee 1st
-<br>'B' Division Girls - Individual Epee 3rd
-<br>'B' Division Girls - Individual Foil&nbsp; 3rd</p>
+<p>2023 (Singapore Combined Schools Sports)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSSC Colours Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2023
+<br>'C' Division Girls - Team Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2023
+<br>'B' Division Girls - Team Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2023
+<br>'C' Division Girls - Individual Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2023
+<br>'B' Division Girls - Individual Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2023
+<br>'B' Division Girls - Individual Foil</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -32,12 +127,27 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Bowling</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports) SSSC Colours Award</p>
+<p>2023 (Singapore Combined Schools Sports)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SSSC Colours Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>National School Games National Championships 2023 'C' Division Girls -
-Team Overall - 4th</p>
+Team Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -48,17 +158,28 @@ Team Overall - 4th</p>
 <th rowspan="1" colspan="1">
 <p>Badminton</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games South Zone 'B' Division Girls Badminton Championships
-2023 - 4th</p>
+2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games South Zone ‘C’ Division Girls Badminton Championships
-2023 - 4th</p>
+2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -69,6 +190,9 @@ Team Overall - 4th</p>
 <th rowspan="1" colspan="1">
 <p>Basketball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -78,11 +202,17 @@ Team Overall - 4th</p>
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games South Zone
 <br>Championships 2023 ‘B’ Division Girls - 3rd</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -764,31 +894,61 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Netball</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Deloitte Pesta Sukan 2018&nbsp;
-<br>- Schools 'B' Division – 3rd&nbsp;(11 students)</p>
+<p>Deloitte Pesta Sukan 2018&nbsp;Schools 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>&nbsp;(11 students)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2018 SSSC Netball Zonal 'B' &amp; 'C' Division Girls
-<br>-&nbsp;South Zone 'C' Division - 3rd&nbsp;position
-<br>-&nbsp;South Zone 'B' Division - 4th&nbsp;position
-<br>-&nbsp;Team Managers - 4 students</p>
+<p>2018 SSSC Netball Zonal 'B' &amp; 'C' Division Girls South Zone 'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 SSSC Netball Zonal 'B' &amp; 'C' Division Girls South Zone 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2018 SSSC Netball Zonal 'B' &amp; 'C' Division Girls Team Managers</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 students</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Sneakers Netball Challenge
-<br>- 'C' Division 4th
-<br>- 'B' Division 3rd</p>
+<br>4 students 'C' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Sneakers Netball Challenge - 'B' Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -799,21 +959,58 @@ Competitions 2021
 <th rowspan="1" colspan="1">
 <p>Rhythmic Gymnastics</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National School Games Rhythmic Gymnastics Championships 2018 'B' Division
-Girls
-<br>- Level 5 Hoops Individual Event - 2nd&nbsp;
-<br>- Level 5 Hoops Individual Event - 4th
-<br>- Level 5 Clubs Individual Event - 6th
-<br>- Hoops Individual FIG Event - 5th
-<br>- 3 Hoops 2 Ball Group Event - 2nd</p>
+Girls Level 5 Hoops Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd&nbsp;</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>National School Games Rhythmic Gymnastics Championships 2018 'B' Division
+Girls Level 5 Hoops Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Rhythmic Gymnastics Championships 2018 'B' Division
+Girls Level 5 Clubs Individual Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Rhythmic Gymnastics Championships 2018 'B' Division
+Girls Hoops Individual FIG Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games Rhythmic Gymnastics Championships 2018 'B' Division
+Girls 3 Hoops 2 Ball Group Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -824,29 +1021,37 @@ Girls
 <th rowspan="1" colspan="1">
 <p>Others</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>National Inter-schools&nbsp;Championship Plate Challenge 2018 (Tennis)&nbsp;-
-‘C’ Division Tennis Team – First Runner-up&nbsp;- 12 students&nbsp;</p>
+‘C’ Division Tennis Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>First Runner-up 12 students&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NSG Cross Country&nbsp;Championships 2018 - 'C' Division Girls Individual
-- 8th&nbsp;</p>
+- &nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NSG Judo Championship 2018
-<br>'B' Division Girls
-<br>- Middle - 3rd&nbsp;</p>
+<br>'B' Division Girls Middle - &nbsp;</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
