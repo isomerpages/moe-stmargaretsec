@@ -594,7 +594,7 @@ Competitions 2021
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd </sup>
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
@@ -705,7 +705,7 @@ Girls’ Single Event</p>
 <p>2019 Singapore Novices Championships Foil Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st </sup>
+<p>1<sup>st</sup>
 </p>
 </td>
 </tr>
@@ -714,7 +714,7 @@ Girls’ Single Event</p>
 <p>2019 Singapore Novices Championships Foil Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd  </sup>
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
@@ -723,7 +723,7 @@ Girls’ Single Event</p>
 <p>2019 Singapore Novices Championships Epee Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup> 
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
@@ -732,7 +732,7 @@ Girls’ Single Event</p>
 <p>2019 Singapore Novices Championships Sabre Team Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2<sup>nd </sup>
+<p>2<sup>nd</sup>
 </p>
 </td>
 </tr>
@@ -812,7 +812,7 @@ Girls’ Single Event</p>
 Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6<sup>th </sup>
+<p>6<sup>th</sup>
 </p>
 </td>
 </tr>
@@ -1097,7 +1097,7 @@ Event</p>
 <p>2018 Singapore Novices&nbsp;Championship -&nbsp;Women Sabre Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd </sup>
+<p>3<sup>rd</sup>
 </p>
 </td>
 </tr>
