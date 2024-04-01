@@ -82,7 +82,8 @@ variant: tiptap
 Division Girls Single Event Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +95,8 @@ Division Girls Single Event Team Overall</p>
 <p>National School Games Bowling Championships - 'B' Division - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>5th</p>
+<p>5<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +105,8 @@ Division Girls Single Event Team Overall</p>
 Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +127,8 @@ Overall</p>
 Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4th</p>
+<p>4<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,7 +137,8 @@ Event</p>
 (All Events) Ranked</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9th</p>
+<p>9<sup>th</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -142,7 +147,8 @@ Event</p>
 Overall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +168,8 @@ Overall</p>
 <p>National School Games 2019 - ‘C’ Division Girls</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 <tr>
@@ -171,7 +178,8 @@ Overall</p>
 Single Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2nd</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 </tbody>
