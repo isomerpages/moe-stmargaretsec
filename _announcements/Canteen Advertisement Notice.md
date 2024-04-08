@@ -83,7 +83,7 @@ certificates of applicant and stall assistant/s.</p>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
 documents to the school’s General Office or email to&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">OWYONG_Siew_Leng@schools.gov.sg</a> (Attention:
-Administration Manager) by the closing date 4 April 2024, 5.00 pm. We regret
+Administration Manager) by the closing date 3 May 2024, 5.00 pm. We regret
 that late applications will not be accepted.</p>
 </li>
 </ul>
@@ -91,9 +91,9 @@ that late applications will not be accepted.</p>
 <br>Only shortlisted applicants will be notified for an interview and are
 required to provide food sampling for the School Canteen Committee at the
 applicant’s own expense. Successful applicant will be expected to commence
-operation of the stall from 2 May 2024 or earlier. Please contact the school’s
-Administration Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for any
-clarifications.</p>
+operation of the stall from 24 June 2024 or earlier. Please contact the
+school’s Administration Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for
+any clarifications.</p>
 <p><strong>How to get there</strong> 
 <br><strong>Nearest MRT</strong>: Farrer Road MRT (CC20) – 3- minute walk
 from Exit B
