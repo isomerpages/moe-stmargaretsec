@@ -31,7 +31,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p><strong>Animation and Game Making Competition 2023</strong>
+<p><strong>Animation and Game Making Competition  2023</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
