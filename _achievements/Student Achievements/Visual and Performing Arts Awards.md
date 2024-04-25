@@ -115,7 +115,7 @@ variant: tiptap
 <p>English Drama</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
@@ -367,7 +367,7 @@ variant: tiptap
 <p>Modern Dance</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
