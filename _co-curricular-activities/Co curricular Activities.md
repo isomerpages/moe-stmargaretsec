@@ -169,7 +169,7 @@ to Bonus Points can be obtained from the MOE's website at&nbsp; <a href="https:/
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>String Ensemble</p>
+<p>Modern Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -183,7 +183,7 @@ to Bonus Points can be obtained from the MOE's website at&nbsp; <a href="https:/
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p>String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
