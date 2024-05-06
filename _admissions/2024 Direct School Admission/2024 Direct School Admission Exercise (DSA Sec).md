@@ -166,9 +166,9 @@ hardcopy to student’s primary school)</p>
 </tbody>
 </table>
 <p></p>
-<h4>Contact Details </h4>
-<p>Please refer to our FAQ if you require further information on DSA applications
-to SMS(S).</p>
+<h4>Contact Details</h4>
+<p>Please refer to our <a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/faqs/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> if
+you require further information on DSA applications to SMS(S).</p>
 <p>For further queries, please contact:</p>
 <p>Administration Manager
 <br>Ms Doreen Owyong
