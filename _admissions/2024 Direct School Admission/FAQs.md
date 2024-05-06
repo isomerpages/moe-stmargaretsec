@@ -18,8 +18,7 @@ Sports listed in the [DSA-Sec talent areas offered by St. Margaret's School (Sec
 
 **2. What are the selection criteria?**
 
-Selection is based primarily on your merit in your area of talent.  Click on the respective areas for more details on the selection process and criteria for [Aesthetics](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise) and [Sports](https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise).
-
+Selection is based primarily on your merit in your area of talent.  Click on the respective areas for more details on the selection process and criteria for [Aesthetics](https://stmargaretssec.moe.edu.sg/admissions/2024-direct-school-admission/aestheticstalentareas/) and [Sports]
 
 **3.  How do I apply?**
     
