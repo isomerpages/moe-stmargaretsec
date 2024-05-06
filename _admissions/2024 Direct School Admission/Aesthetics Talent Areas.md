@@ -314,6 +314,7 @@ convention:</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><strong>*Please note that meeting all the criteria does not guarantee the student will be shortlisted or given an offer.</strong>
+</p>
 <h5></h5>
 <p></p>
