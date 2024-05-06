@@ -24,7 +24,7 @@ Selection is based primarily on your merit in your area of talent.  Click on th
 **3.  How do I apply?**
     
 
-Please refer to the [application process] on the main page for details.
+Please refer to the [application process](https://stmargaretssec.moe.edu.sg/admission/2024-direct-school-admission-exercise-dsa-sec/) on the main page for details.
 
 **4.  When is the closing date for submitting the application?**
     
