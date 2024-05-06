@@ -4,10 +4,7 @@ permalink: /announcements/canteenadvertisementnotice/
 variant: tiptap
 description: ""
 ---
-<p>St. Margaret’s School (Secondary) is inviting interested applicants to
-operate a
-<br><strong>“Halal Cuisine (Rice/Noodle)”</strong>&nbsp;stall in our school
-canteen.</p>
+<h3>St. Margaret’s School (Secondary) is inviting interested applicants to operate a <br><strong>“Halal Cuisine (Rice/Noodle)”</strong>&nbsp;stall in our school canteen.</h3>
 <p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
@@ -83,8 +80,8 @@ certificates of applicant and stall assistant/s.</p>
 <li>
 <p>Records of past catering/canteen experiences, if any. Please submit the
 documents to the school’s General Office or email to&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">OWYONG_Siew_Leng@schools.gov.sg</a> (Attention:
-Administration Manager) by the closing date 3 May 2024, 5.00 pm. We regret
-that late applications will not be accepted.</p>
+Administration Manager) by the closing date 3<sup>rd</sup> June 2024, 5.00
+pm. We regret that late applications will not be accepted.</p>
 </li>
 </ul>
 <p><strong>Interview and Food Tasting:</strong> 
