@@ -5,8 +5,56 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
+<h2>2024</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Winners</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safer Internet Challenge 2024 (Short Story)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Peace - Tay Rui Xue Rhian Isabelle
+<br>2 Joy - Yip Rui Qi, Sophia
+<br>3 Kindness - Gan Xuan En, Claire
+<br>4 Kindness - Allegra Lomanto
+<br>5 Devotion - Gisele Lau</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Safer Internet Challenge 2024 (Mascot Design)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Kindness - Krist Ding Rui Ying
+<br>3 Goodness - Choo Shi Han
+<br>3 Patience - Saanj Majumder
+<br>3 Patience - Natasha Sarah How En Tong
+<br>4 Kindness - Leanne Lim Ci-En
+<br>4 Kindness - Pua Rei Chloe
+<br>4 Kindness - Dhiya Ojas Doshi
+<br>4 Kindness - Emily Loi Jia Ee</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>2023</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -51,7 +99,11 @@ Secondary School)</p>
 </tbody>
 </table>
 <h2>2022</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -271,7 +323,11 @@ Research Institute @NTU (USPE) 2022 Finals&nbsp;</p>
 </tbody>
 </table>
 <h2>2021</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -450,7 +506,11 @@ Bilingual Speech Conference</p>
 </tbody>
 </table>
 <h2>2020</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
