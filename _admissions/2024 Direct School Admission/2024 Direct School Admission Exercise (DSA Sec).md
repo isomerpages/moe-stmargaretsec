@@ -78,7 +78,7 @@ admission via DSA.&nbsp;&nbsp;</p>
 activities and achievements during the interview.</p>
 <p></p>
 <p><strong>All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 4 July to Monday 5 August 2024.</strong> Please
-refer to the <strong><a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/aestheticstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Aesthetics</u></a></strong>&nbsp;and&nbsp;<strong><a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/sportstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Sports</u></a></strong> talent
+refer to the <strong><a href="https://www.stmargaretssec.moe.edu.sg/admissions/2024-direct-school-admission/aestheticstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Aesthetics</u></a></strong>&nbsp;and&nbsp;<strong><a href="https://www.stmargaretssec.moe.edu.sg/admissions/2024-direct-school-admission/sportstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Sports</u></a></strong> talent
 areas for details on the selection process and criteria.</p>
 <h4><br>General Procedure &amp; Timeline</h4>
 <table style="minWidth: 75px">
