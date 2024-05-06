@@ -42,7 +42,7 @@ If you are shortlisted, you will be notified about one week before your auditio
 **6.  What do I need to prepare for the selection auditions/trials/interviews?**
     
 
-Please refer to the Admission Criteria for Direct School Admission Exercise for more information on the respective areas.
+Please refer to the [Admission Criteria for Direct School Admission Exercise](https://stmargaretssec.moe.edu.sg/admission-criteria-for-direct-school-admission-exercise/) for more information on the respective areas.
 
   
 
