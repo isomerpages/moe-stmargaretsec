@@ -14,42 +14,6 @@ admission to St. Margaret’s School (Secondary) based on their talents are
 invited to apply through the MOE 2024 Direct School Admission Exercise
 (DSA-Sec)</p>
 <h4>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="3">
-<p>Talent Areas</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/talent%20areas.JPG">
 </div>
@@ -217,50 +181,6 @@ on DSA applications to SMS(S).&nbsp;&nbsp;</p>
 <br>Tel: 64664525
 <br>Email Address: <a href="mailto:stmargaretss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stmargaretss@moe.edu.sg</a>
 </p>
-<p></p>
-<h4>Admission Criteria for Direct School Admission Exercise</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>AESTHETICS</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p>
 <br>
