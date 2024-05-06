@@ -78,10 +78,8 @@ admission via DSA.&nbsp;&nbsp;</p>
 activities and achievements during the interview.</p>
 <p></p>
 <p><strong>All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 4 July to Monday 5 August 2024.</strong> Please
-refer to the <strong><a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/aestheticstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Aesthetics</u></a></strong>&nbsp;and&nbsp;<strong><a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise" rel="noopener noreferrer nofollow" target="_blank"><u>Sports</u></a></strong> talent
+refer to the <strong><a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/aestheticstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Aesthetics</u></a></strong>&nbsp;and&nbsp;<strong><a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/sportstalentareas/" rel="noopener noreferrer nofollow" target="_blank"><u>Sports</u></a></strong> talent
 areas for details on the selection process and criteria.</p>
-<p></p>
-<p></p>
 <h4><br>General Procedure &amp; Timeline</h4>
 <table style="minWidth: 75px">
 <colgroup>
@@ -167,9 +165,10 @@ hardcopy to student’s primary school)</p>
 </tr>
 </tbody>
 </table>
-<p>Contact Details
-<br>Please refer to our <a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/faqs/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> if
-you require further information on DSA applications to SMS(S).&nbsp;&nbsp;</p>
+<p></p>
+<h4>Contact Details </h4>
+<p>Please refer to our FAQ if you require further information on DSA applications
+to SMS(S).</p>
 <p>For further queries, please contact:</p>
 <p>Administration Manager
 <br>Ms Doreen Owyong
