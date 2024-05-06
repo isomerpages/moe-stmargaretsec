@@ -12,7 +12,7 @@ variant: markdown
 **1.  What talents are the school looking for?**
 
 St. Margaret's School (Secondary) welcomes girls who are talented in the Aesthetics and 
-Sports listed in the DSA-Sec talent areas offered by St. Margaret's School (Secondary)
+Sports listed in the [DSA-Sec talent areas offered by St. Margaret's School (Secondary)](https://stmargaretssec.moe.edu.sg/admission/2024-direct-school-admission-exercise-dsa-sec/)
 
 
 
