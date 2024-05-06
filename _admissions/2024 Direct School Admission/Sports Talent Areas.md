@@ -42,9 +42,7 @@ variant: tiptap
 <p>Member of school's sports CCA or Junior Sports Academy</p>
 </li>
 </ul>
-<p>
-<br>
-</p>
+<p></p>
 <p>&nbsp;OR</p>
 <p>&nbsp;</p>
 <ul>
@@ -56,8 +54,7 @@ for</p>
 <p>
 <br>
 </p>
-<p>OR</p>
-<p>
+<p>OR
 <br>
 </p>
 <ul>
