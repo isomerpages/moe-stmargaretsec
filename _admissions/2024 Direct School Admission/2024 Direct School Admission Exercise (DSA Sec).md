@@ -11,8 +11,8 @@ variant: tiptap
 to gain direct entry to certain secondary schools based on their talent
 in sports, CCAs and specific academic areas. Students who wish to seek
 admission to St. Margaret’s School (Secondary) based on their talents are
-invited to apply through the MOE 2024 Direct School Admission Exercise
-(DSA-Sec)</p>
+invited to apply through the<a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank"> MOE 2024 Direct School Admission Exercise (DSA-Sec)</a>
+</p>
 <h4>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/talent%20areas.JPG">
@@ -40,7 +40,6 @@ related to the talent they are selected for from Year 1 to 4/5.&nbsp;</p>
 The application is free-of-charge and will be open from 7 May 2024, 11am
 to 3 Jun 2024, 3pm.&nbsp;</p>
 <p>For more details, please refer to <strong><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>MOE DSA-Sec website</u></a></strong>.</p>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -65,20 +64,16 @@ may differ year on year.</p>
 <p>Applicants who do not have prior experience may also apply.&nbsp;</p>
 <p>The school will assess applicants based on the selection criteria, which
 may include assessing the potential of the applicants.&nbsp;</p>
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Only shortlisted applicants</strong> will be notified via email
-to undergo the selection process.&nbsp;</p>
-<p>They will be given at least one week’s notice prior to their audition/trial
-date.&nbsp;&nbsp;</p>
-<p></p>
+to undergo the selection process.&nbsp;They will be given at least one
+week’s notice prior to their audition/trial date.</p>
 <p>Shortlisted applicants are expected to adhere to the given audition/trial
 date and time. Applicants who are absent will no longer be considered for
 admission via DSA.&nbsp;&nbsp;</p>
-<p></p>
 <p>Shortlisted applicants may be required to present evidence of non-school-based
 activities and achievements during the interview.</p>
 <p></p>
@@ -173,8 +168,8 @@ hardcopy to student’s primary school)</p>
 </tbody>
 </table>
 <p>Contact Details
-<br>Please refer to our <strong>FAQ</strong> if you require further information
-on DSA applications to SMS(S).&nbsp;&nbsp;</p>
+<br>Please refer to our <a href="https://stmargaretssec.moe.edu.sg/admissions/2023-direct-school-admission/faqs/" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> if
+you require further information on DSA applications to SMS(S).&nbsp;&nbsp;</p>
 <p>For further queries, please contact:</p>
 <p>Administration Manager
 <br>Ms Doreen Owyong
