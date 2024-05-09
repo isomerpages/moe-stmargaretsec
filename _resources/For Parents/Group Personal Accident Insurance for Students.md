@@ -16,4 +16,4 @@ Information on claims, FAQs and other details pertaining to the student insuranc
 **Useful information:**  
 
 1.  [Student GPA User Guide](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Resources/Parents/Student%20GPA%20User%20Guide%20--%20Parent.pdf)
-2.  [Product Fact Sheet Year 2024](/files/Product_Fact_Sheet_Year_2024.pdf)
+2.  [Product Fact Sheet Year 2024](/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf)
