@@ -25,16 +25,17 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
-  - textcards:
-      title: 2023 National Exam Result Slides
-      id: textcards
-      cards:
-        - title: 2023 O Level Result Slides
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/announcements/2023olevelresultslides/
-        - title: 2023 N Level Result Slides
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/announcements/national-exam-results-slides/2023nlevelresultslides/
+  - announcements:
+      title: Announcements
+      id: announcements
+      announcement_items:
+        - title: Collection of School Graduation Certificates (SGC)
+          date: 15 May 2024
+          announcement: The School Graduation Certificates (SGC) for our 2023 SMS(S)
+            graduates can be collected from 27 May to 31 July 2024. Graduates
+            can collect their SGCs personally from the general office from
+            Monday to Friday, 8.30 am to 5.30 pm and are required to show their
+            identity cards for verification.
+          link_text: ""
+          link_url: ""
 ---
