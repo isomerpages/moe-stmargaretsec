@@ -25,6 +25,8 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
+      url: https://stmargaretssec.moe.edu.sg/announcements/announcements/
+      button: Collection of School Graduation Certificates (SGC)
   - announcements:
       title: Announcements
       id: announcements
