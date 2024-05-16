@@ -2,6 +2,7 @@
 title: Illustrious Members of Our St Margaret's Family
 permalink: /about-us/illustrious-members-of-our-st-margarets-family/
 description: ""
+variant: markdown
 ---
 ## Inductees to the Singapore Women’s Hall of Fame
 
@@ -23,7 +24,7 @@ description: ""
 	</a>
 	<br><br>
 	<a href="/files/DrAnamahTan-.pdf">
-		<img src="/images/Dr%20Anamah%20Tan.png" style="width:60%">
+		<img src="/images/Amanah_TanLimChoy.png" style="width:60%">
 		read more
 	</a>
 </p>
@@ -33,12 +34,12 @@ description: ""
 
 <p align="center">
 	<a href="/files/05A%20Mrs%20Chua-Lim%20Yen%20Ching.pdf">
-		<img src="/images/Mrs%20Chua-Lim%20Yen%20Ching.jpg" style="width:60%">
+		<img src="/images/Mrs_Chua_Lim_Yen_Ching.png" style="width:60%">
 		read more
 	</a>
 	<br><br>
 	<a href="/files/06C%20Renita%20Chua_update_30%20Mar%2022.pdf">
-		<img src="/images/Renita%20Chua.jpg" style="width:60%">
+		<img src="/images/Renita_Chua.png" style="width:60%">
 		read more
 	</a>
 	<br><br>
@@ -48,7 +49,7 @@ description: ""
 	</a>
 	<br><br>
 	<a href="/files/08A%20Ms%20Jane%20Ittogi.pdf">
-		<img src="/images/Jane%20Ittogi.jpg" style="width:60%">
+		<img src="/images/Jane_Ittogi.png" style="width:60%">
 		read more
 	</a>    
 	<br><br>
