@@ -7,7 +7,10 @@ variant: tiptap
 ---
 <h3>Principal</h3>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -19,7 +22,11 @@ variant: tiptap
 </table>
 <h3><br>Vice Principal</h3>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -45,7 +52,11 @@ variant: tiptap
 <p></p>
 <h4>Head of Department (HOD)</h4>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -116,7 +127,10 @@ variant: tiptap
 <hr>
 <h4><br>School Staff Developer</h4>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -129,7 +143,10 @@ variant: tiptap
 <hr>
 <h4><br>Lead Teacher</h4>
 <hr>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -143,7 +160,11 @@ variant: tiptap
 <hr>
 <h4><br>Subject Heads</h4>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -211,7 +232,11 @@ variant: tiptap
 <hr>
 <h3><br>Level Heads</h3>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -236,7 +261,13 @@ variant: tiptap
 <hr>
 <h3><br>Senior Teachers</h3>
 <hr>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -306,7 +337,11 @@ variant: tiptap
 <hr>
 <h3><br>Assistant Year Heads</h3>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -340,7 +375,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Sharon Tan</strong>
+<p><strong>Mrs Sharon Tan</strong>
 </p>
 </td>
 </tr>
@@ -349,7 +384,11 @@ variant: tiptap
 <hr>
 <h4><br>School Administration Team</h4>
 <hr>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
