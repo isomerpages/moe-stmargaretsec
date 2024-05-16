@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -22,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Wong Teck Yen</p>
+<p>Ms Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -62,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Desmond John Lee Yue Kay</p>
+<p>Mr Desmond Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -86,7 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Farhana Mohammed Saini</p>
+<p>Ms Nur Farhana Mohammed Saini</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -110,7 +114,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Vimi Rethinam</p>
+<p>Mrs&nbsp;Vimi Rethinam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,7 +130,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
