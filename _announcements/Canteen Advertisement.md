@@ -10,7 +10,7 @@ description: ""
 <p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
-<br>There are currently&nbsp;<strong>7 food stalls and 1 drink/fruit stall</strong>&nbsp;at
+<br>There are currently&nbsp;<strong>7 food stalls and 1 drink/fruit stall</strong>&nbsp;in
 our school. One of the food stalls is selling halal western food.</p>
 <p><strong>Criteria Applicants should meet the following criteria:</strong>
 </p>
