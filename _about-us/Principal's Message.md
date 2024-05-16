@@ -2,12 +2,13 @@
 title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
+variant: markdown
 ---
 <img src="/images/Principals%20Photo-white%202.jpg" style="width:40%" align="left">
 
 2023 brings new beginnings, new hopes and new opportunities. I pray and trust that we will learn and grow to be better versions of ourselves. I believe that God has much in store for us as we continue to work together with the primary school to hone our identity as St. Margaret’s School (Primary) and St. Margaret’s School (Secondary). May we continue to fix our eyes on God our Provider, believing that He will enable us to make a difference and help us to be a blessing to people around us.&nbsp;
 
-In 2023, we will continue to work on the theme we embraced in 2022 – “Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven” (Matthew 5:16). It is indeed our collective prayer that the light of God shines forth in our school and each member of our community be able to serve God, the Country and the Community as clearly expounded in our School Mission Statement.&nbsp;
+In 2023, we will continue to work on the theme we embraced in 2022 – “Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven” (Matthew 5:16). It is indeed our collective prayer that the light of God shines forth in our school and each member of our community be able to serve God, the Country and the Community as clearly expounded in our school mission statement.
 
 Let us also, as a community – staff, alumni, parents, students – work at living out our commitment to #BeWell, #BeConnected and #BeALight. As a community, we continue our endeavor to look after the wellness of each child as we help nurture her and grow her talents, potential and areas of strength. I look forward to another year where we see our students connecting with family, friends and the community, learning more about themselves and how they can serve and be a blessing.
 
