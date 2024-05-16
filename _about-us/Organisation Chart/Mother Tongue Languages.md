@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -14,7 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp; Liang Huiyu</p>
+<p>Ms&nbsp;Liang Huiyu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mother Tongue Languages</p>
@@ -30,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Soh Yee Ling Carol</p>
+<p>Ms Carol Soh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. YH Secondary 2</p>
@@ -54,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Anbarasi M S</p>
+<p>Mdm MS Anbarasi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -62,7 +66,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp; Florence&nbsp;Chang Hwee Miang</p>
+<p>Ms&nbsp;Florence&nbsp;Chang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -126,7 +130,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Subramaniam Kalaymai</p>
+<p>Mrs&nbsp;Subramaniam Kalaymai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -158,7 +162,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
