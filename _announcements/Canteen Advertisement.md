@@ -4,9 +4,7 @@ permalink: /announcements/canteenadvertisement/
 variant: tiptap
 description: ""
 ---
-<blockquote>
-<h4>St. Margaret’s School (Secondary) is inviting interested applicants to operate a Halal Cuisine (Rice/Noodle)&nbsp;stall in our school canteen.</h4>
-</blockquote>
+<h4>Advertisement for the operation of a Halal Cuisine (Rice/Noodles) canteen stall</h4>
 <p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
@@ -53,7 +51,7 @@ Licence from the Singapore Food Agency (SFA)</p>
 </li>
 <li>
 <p>Applicants with experience in running a school canteen stall or catering
-experience are preferred;</p>
+experience are preferred</p>
 </li>
 <li>
 <p>Applicants who adopt green practices are also preferred</p>
@@ -64,7 +62,7 @@ experience are preferred;</p>
 </ul>
 <p><strong>Application Procedure:</strong> 
 <br>The application form is available at our General Office (111 Farrer Road,
-Singapore 259240) or can be downloaded&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form here</a>.</p>
+Singapore 259240) or can be downloaded&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p>Interested applicants must submit the following documents:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -82,7 +80,7 @@ certificates of applicant and stall assistant/s</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences (if any). Please submit the
-documents to the school’s General Office or email them to&nbsp;<a href="owyong_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">owyong_siew_leng@schools.gov.sg</a>
+documents to the school’s General Office or email them to owyong_siew_leng@schools.gov.sg
 <br>(Attention: Administration Manager) by the closing date 3<sup>rd</sup> June
 2024, 5.00 pm.
 <br>Late applications will not be accepted.</p>
@@ -94,8 +92,8 @@ required to provide food sampling for the School Canteen Committee at the
 applicant’s own expense. The successful applicant will be expected to commence
 operation of the stall from 24 June 2024 or earlier. Please contact the
 school’s Administration Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for
-any clarifications</p>
-<p><strong>How to get there</strong> 
+any clarification.</p>
+<p><strong>How to get to St. Margaret’s School (Secondary):</strong> 
 <br><strong>Nearest MRT</strong>: Farrer Road MRT (CC20) – 3- minute walk
 from Exit B
 <br><strong>Bus services:</strong>&nbsp;48, 93, 153, 165, 174, 186, 855, 961
