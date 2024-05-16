@@ -4,7 +4,9 @@ permalink: /announcements/canteenadvertisementnotice/
 variant: tiptap
 description: ""
 ---
-<h4>St. Margaret’s School (Secondary) is inviting interested applicants to operate a <br><strong>Halal Cuisine (Rice/Noodle)</strong>&nbsp;stall in our school canteen.</h4>
+<blockquote>
+<h4>St. Margaret’s School (Secondary) is inviting interested applicants to operate a Halal Cuisine (Rice/Noodle)&nbsp;stall in our school canteen.</h4>
+</blockquote>
 <p><strong>Background:</strong> 
 <br>We are a single session secondary school with student enrolment of about
 1030 and staff strength of 130.
