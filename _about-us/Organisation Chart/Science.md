@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -38,7 +43,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Sharon Tan Shi Hui</p>
+<p>Mrs Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Asst. YH Secondary 4 &amp; 5</p>
@@ -46,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Jean Tan Lay Ching</p>
+<p>Mrs Jean Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH-CCE Education and Career Guidance &amp; Partnership</p>
@@ -182,7 +187,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
