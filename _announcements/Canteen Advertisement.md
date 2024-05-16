@@ -93,7 +93,7 @@ applicant’s own expense. The successful applicant will be expected to commence
 operation of the stall from 24 June 2024 or earlier. Please contact the
 school’s Administration Manager, Ms Doreen Owyong at&nbsp;6466 4525&nbsp;for
 any clarification.</p>
-<p><strong>How to get to St. Margaret’s School (Secondary):</strong>
+<p><strong>How to get to St. Margaret’s School (Secondary):</strong> 
 <br><strong>Nearest MRT</strong>: Farrer Road MRT (CC20) – 3- minute walk
 from Exit B
 <br><strong>Bus services:</strong>&nbsp;48, 93, 153, 165, 174, 186, 855, 961
