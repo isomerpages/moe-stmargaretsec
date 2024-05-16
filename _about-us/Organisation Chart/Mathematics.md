@@ -5,7 +5,12 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
@@ -46,7 +51,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Bernadette Zoey Lim Yanjun</p>
+<p>Ms Bernadette Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Additional Mathematics</p>
@@ -70,7 +75,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Benjamin Yeong Whye Leong</p>
+<p>Mr Benjamin Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -118,7 +123,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Sam Chee Fai Josh</p>
+<p>Mr Josh Sam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -158,7 +163,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
