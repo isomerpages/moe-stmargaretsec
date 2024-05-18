@@ -6,7 +6,11 @@ third_nav_title: Clubs
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,3 +45,38 @@ variant: tiptap
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Mr Daniel Teng</p>
+<h2>Achievements</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024 Inter-School Christian Fellowship Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st, </sup>2<sup>nd</sup> and 3<sup>rd</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
