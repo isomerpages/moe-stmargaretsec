@@ -22,6 +22,28 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12<sup>th</sup> Biomedical Quiz 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award - 1 student</p>
+<p>Bronze Award - 1 student</p>
+<p>Honorable Mention Award - 2 students</p>
+<p>Merit Award - 1 student</p>
+<p>Certificate of Participation - 10 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Youth Environmental Conference (NYEC) 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Delegate Award - 2 students</p>
+<p>Best Delegate in Action Presentation - student</p>
+<p>Certificate of Participation - 6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Safer Internet Challenge 2024 (Short Story)</p>
 </td>
 <td rowspan="1" colspan="1">
