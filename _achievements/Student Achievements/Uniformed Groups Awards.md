@@ -38,10 +38,75 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>National Police Cadet Corps (NPCC)</p>
+<p>Girls' Brigade</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigader&nbsp;Brooch Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>2023</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade Singapore Company Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade Drill Competition 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigader Brooch Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>NPCC</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
@@ -50,6 +115,22 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC badge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
 </td>
 </tr>
 </tbody>
@@ -85,94 +166,21 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Singapore Company Award 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h2>2023</h2>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Girls' Brigade</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Girls’ Brigade Singapore Company Award 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Gold</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Girls' Brigade Drill Competition 2023
-<br>
+<p><strong>Red Cross</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gold</p>
+<p><strong>Achievement</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pioneer Brigader Brooch Award 2023</p>
+<p>Youth Excellent Unit Award 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 students</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>NPCC</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SPF-NPCC badge 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 students</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>NPCC Best Unit Cadet Award 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>2 students</p>
+<p>Bronze</p>
 </td>
 </tr>
 </tbody>
