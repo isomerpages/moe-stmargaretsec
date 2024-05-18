@@ -14,30 +14,6 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Red Cross</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Achievements</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Youth Excellent Unit Award 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bronze</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p>Girls' Brigade</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -119,7 +95,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SPF-NPCC badge 2023</p>
+<p>SPF-NPCC Badge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 students</p>
@@ -127,10 +103,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>NPCC Best Unit Cadet Award 2023</p>
+<p>NPCC Best Unit Cadet Award 2023 (HQ)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet Award 2023 (School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student</p>
 </td>
 </tr>
 </tbody>
