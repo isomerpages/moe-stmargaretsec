@@ -62,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>South Zone Basketball National School Games 2024 ‘B’ Division<sub> </sub>Team</p>
+<p>South Zone Basketball National School Games 2024 ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -132,7 +132,8 @@ Team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>‘B’ Division Girls – Cadet Women’s Foil Event</p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Foil Event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup>
@@ -141,7 +142,8 @@ Team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>‘B’ Division Girls – Cadet Women’s Sabre Event</p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Sabre Event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
@@ -375,7 +377,7 @@ Team Overall</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Basketball Christ Church Pioneer Cup 2024</p>
+<p>Basketball Christ Church Pioneer Cup 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -423,7 +425,7 @@ Team Overall</p>
 <p>2023 (Singapore Combined Schools Sports) SSSC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Colours Award</p>
+<p>SSSC Colours Award</p>
 </td>
 </tr>
 <tr>
@@ -482,7 +484,7 @@ Team Overall</p>
 <p>2023 (Singapore Combined Schools Sports) SSSC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Colours Award</p>
+<p>SSSC Colours Award</p>
 </td>
 </tr>
 <tr>
@@ -491,7 +493,10 @@ Team Overall</p>
 Lightweight Category) - (Team Overall)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>, Individual Bronze (Joint 3<sup>rd</sup>)</p>
+<p>3<sup>rd</sup>
+<br>
+</p>
+<p>Individual Bronze (Joint 3<sup>rd</sup>)</p>
 </td>
 </tr>
 </tbody>
@@ -516,7 +521,8 @@ Lightweight Category) - (Team Overall)</p>
 <br>Championships 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd</p>
+<p>3<sup>rd</sup>
+</p>
 </td>
 </tr>
 </tbody>
@@ -554,7 +560,7 @@ Lightweight Category) - (Team Overall)</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Track and Field</p>
+<p>Tennis</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -565,7 +571,7 @@ Lightweight Category) - (Team Overall)</p>
 <p>2023 (Singapore Combined Schools Sports) SSSC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Colours Award</p>
+<p>SSSC Colours Award</p>
 </td>
 </tr>
 <tr>
@@ -1796,13 +1802,14 @@ Girls 3 Hoops 2 Ball Group Event</p>
 ‘C’ Division Tennis Team</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>First Runner-up 12 students&nbsp;</p>
+<p>2<sup>nd</sup>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NSG Cross Country&nbsp;Championships 2018 - 'C' Division Girls Individual
-- &nbsp;</p>
+&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8<sup>th</sup>
@@ -1812,7 +1819,7 @@ Girls 3 Hoops 2 Ball Group Event</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>NSG Judo Championship 2018
-<br>'B' Division Girls Middle - &nbsp;</p>
+<br>'B' Division Girls Middle &nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
