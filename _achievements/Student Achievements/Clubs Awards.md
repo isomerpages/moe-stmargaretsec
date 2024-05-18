@@ -5,8 +5,12 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h2>2023</h2>
-<table>
+<h2>2024</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -18,17 +22,79 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Inter-school Christian Fellowship Challenge -</p>
+<p>Inter-school Christian Fellowship Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> and 2<sup>nd</sup>
+<p>1<sup>st</sup> , 2<sup>nd </sup>and 3<sup>rd</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Debate Club</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships 2024 Silver Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8 position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Top 20 Speakers of the Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h2>2023</h2>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Agape Club</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Inter-school Christian Fellowship Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> and 2<sup>nd </sup>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>2022</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -55,7 +121,11 @@ and $250 vouchers</p>
 </tbody>
 </table>
 <h2>2021</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -82,7 +152,11 @@ and $250 vouchers</p>
 </tbody>
 </table>
 <h2>2019</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -147,7 +221,11 @@ Finals</p>
 </tbody>
 </table>
 <h2>2018</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -265,7 +343,11 @@ College
 </tbody>
 </table>
 <h2>2017</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -289,7 +371,11 @@ College
 </tbody>
 </table>
 <h2>2015</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -311,7 +397,11 @@ College
 </tbody>
 </table>
 <h2>2014</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
