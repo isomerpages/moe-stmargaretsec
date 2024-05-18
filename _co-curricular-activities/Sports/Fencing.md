@@ -97,12 +97,14 @@ variant: tiptap
 <p>National School Games National Championships 2024</p>
 <p>‘B’ Division Girls – Cadet Women’s Epee Event</p>
 <p></p>
-<p>‘B’ Division Girls – Cadet Women’s Foil Event</p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Foil Event</p>
 <p></p>
-<p>‘B’ Division Girls – Cadet Women’s Sabre Event</p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Sabre Event</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><sup> </sup>2<sup>nd </sup>
+<p>2<sup>nd</sup>
 </p>
 <p></p>
 <p></p>
@@ -110,7 +112,7 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p>1<sup>st  </sup>
+<p>1<sup>st</sup>
 </p>
 <p></p>
 <p></p>
@@ -126,7 +128,10 @@ variant: tiptap
 <p></p>
 <p></p>
 <p></p>
-<p>3<sup>rd  </sup>
+<p></p>
+<p></p>
+<p></p>
+<p>3<sup>rd</sup>
 </p>
 </td>
 <td rowspan="1" colspan="1">
