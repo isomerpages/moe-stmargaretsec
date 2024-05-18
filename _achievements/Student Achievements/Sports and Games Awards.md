@@ -17,7 +17,7 @@ variant: tiptap
 <p>National School Games Para Swimming Championships 2024</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Student - Achievement</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -25,8 +25,7 @@ variant: tiptap
 <p>50m Freestyle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Love - Moza Alyka Baihakki - <strong>Gold</strong>
-</p>
+<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -34,8 +33,7 @@ variant: tiptap
 <p>50m Backstroke</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Love - Moza Alyka Baihakki - <strong>Gold</strong>
-</p>
+<p>Gold</p>
 </td>
 </tr>
 <tr>
@@ -43,8 +41,7 @@ variant: tiptap
 <p>50m Breaststroke (including setting a new national record)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Love - Moza Alyka Baihakki - <strong>Gold</strong>
-</p>
+<p>Gold</p>
 </td>
 </tr>
 </tbody>
@@ -65,7 +62,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>South Zone Basketball National School Games ‘B’ Division<sub> </sub>Team</p>
+<p>South Zone Basketball National School Games 2024 ‘B’ Division<sub> </sub>Team</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -90,7 +87,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>South Zone Netball National School Games ‘B’ Division</p>
+<p>South Zone Netball National School Games 2024 ‘B’ Division</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
@@ -99,6 +96,121 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Fencing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Team</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024</p>
+<p>‘B’ Division Girls – Cadet Women’s Epee Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division Girls – Cadet Women’s Foil Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division Girls – Cadet Women’s Sabre Event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Artistic Gymnastics</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024</p>
+<p><em>‘</em>C’ Division Girls – Individual Apparatus (Uneven Bars) event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024 ‘C’ Division Girls –
+Individual Apparatus (Balance Beam) event</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Wushu</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024</p>
+<p>‘C’ Division Girls – Individual – Formulated 5 - Duan Spear</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h2>2023</h2>
 <table style="minWidth: 50px">
 <colgroup>
