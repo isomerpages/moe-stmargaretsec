@@ -95,13 +95,13 @@ variant: tiptap
 <p>‘B’ Division Girls – Team</p>
 <p></p>
 <p>National School Games National Championships 2024</p>
-<p>‘B’ Division Girls – Cadet Women’s Epee Event</p>
+<p>‘B’ Division Girls – Cadet Women’s Epee Event (individual)</p>
 <p></p>
 <p>National School Games National Championships 2024 ‘B’ Division Girls –
-Cadet Women’s Foil Event</p>
+Cadet Women’s Foil Event (individual)</p>
 <p></p>
 <p>National School Games National Championships 2024 ‘B’ Division Girls –
-Cadet Women’s Sabre Event</p>
+Cadet Women’s Sabre Event (individual)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup>
@@ -122,8 +122,10 @@ Cadet Women’s Sabre Event</p>
 <p></p>
 <p></p>
 <p></p>
+<p></p>
 <p>2<sup>nd</sup>
 </p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
