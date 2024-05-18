@@ -17,7 +17,7 @@ variant: tiptap
 <p>National School Games Para Swimming Championships 2024</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Achievement</p>
 </th>
 </tr>
 <tr>
@@ -493,7 +493,7 @@ Team Overall</p>
 Lightweight Category) - (Team Overall)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3<sup>rd</sup>
+<p>3<sup>rd</sup> 
 <br>
 </p>
 <p>Individual Bronze (Joint 3<sup>rd</sup>)</p>
