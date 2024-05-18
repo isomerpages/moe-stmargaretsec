@@ -169,7 +169,7 @@ Cadet Women’s Sabre Event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +182,7 @@ Cadet Women’s Sabre Event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'C' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -195,7 +195,7 @@ Cadet Women’s Sabre Event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +208,7 @@ Cadet Women’s Sabre Event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Individual Foil</p>
 </td>
 <td rowspan="1" colspan="1">
