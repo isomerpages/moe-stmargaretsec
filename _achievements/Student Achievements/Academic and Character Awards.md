@@ -44,6 +44,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Friend of Singa (Singapore Kindness Movement)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation - 6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Safer Internet Challenge 2024 (Short Story)</p>
 </td>
 <td rowspan="1" colspan="1">
