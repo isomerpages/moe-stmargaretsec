@@ -73,7 +73,7 @@ variant: tiptap
 <p>2024 Inter-School Christian Fellowship Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st, </sup>2<sup>nd</sup> and 3<sup>rd</sup>
+<p>1<sup>st</sup>, 2<sup>nd</sup> and 3<sup>rd</sup>
 </p>
 </td>
 </tr>
