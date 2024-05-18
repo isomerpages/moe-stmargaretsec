@@ -83,7 +83,7 @@ variant: tiptap
 <p>Inter-school Christian Fellowship Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st</sup> and 2<sup>nd </sup>
+<p>1<sup>st</sup> and 2<sup>nd</sup>
 </p>
 </td>
 </tr>
