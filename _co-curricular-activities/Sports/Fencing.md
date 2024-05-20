@@ -6,7 +6,12 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -58,7 +63,13 @@ variant: tiptap
 <br>
 </p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -70,6 +81,64 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 2024</p>
+<p>‘B’ Division Girls – Team</p>
+<p></p>
+<p>National School Games National Championships 2024</p>
+<p>‘B’ Division Girls – Cadet Women’s Epee Event (individual)</p>
+<p></p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Foil Event (individual)</p>
+<p></p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Sabre Event (individual)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>1<sup>st</sup>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>2<sup>nd</sup>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>3<sup>rd</sup>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
@@ -82,6 +151,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Colours Award</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -93,45 +165,60 @@ variant: tiptap
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'C' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Individual Epee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships -
+<p>National School Games National Championships
 <br>'B' Division Girls - Individual Foil</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -146,6 +233,9 @@ variant: tiptap
 <p>3<sup>rd</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -154,6 +244,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>6<sup>th</sup>&nbsp;and 8<sup>th</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -164,6 +257,9 @@ variant: tiptap
 <p>2<sup>nd</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -172,6 +268,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -182,6 +281,9 @@ variant: tiptap
 <p>1<sup>st</sup>&nbsp;and 8<sup>th</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -190,6 +292,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>, 5<sup>th</sup>&nbsp;and 8<sup>th</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -222,6 +327,9 @@ variant: tiptap
 <p>4<sup>th</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -229,6 +337,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>5<sup>th</sup>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -238,6 +349,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Top 8&nbsp;</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -245,6 +359,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>&nbsp;and 3<sup>rd&nbsp;</sup>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -255,6 +372,9 @@ variant: tiptap
 <p>3<sup>rd&nbsp;</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -263,6 +383,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -273,6 +396,9 @@ variant: tiptap
 <p>3<sup>rd&nbsp;</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -281,6 +407,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2<sup>nd&nbsp;</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -313,6 +442,9 @@ variant: tiptap
 <p>4<sup>th&nbsp;</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -321,6 +453,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>2<sup>nd&nbsp;&nbsp;</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -331,6 +466,9 @@ variant: tiptap
 <p>2<sup>nd</sup>&nbsp;and 3<sup>rd&nbsp;</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -339,6 +477,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>&nbsp;3<sup>rd&nbsp;</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -349,6 +490,9 @@ variant: tiptap
 <p>2<sup>nd</sup>&nbsp;and 3<sup>rd</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -357,6 +501,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3<sup>rd&nbsp;</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -367,6 +514,9 @@ variant: tiptap
 <p>2<sup>nd&nbsp;&nbsp;</sup>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -375,6 +525,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>1<sup>st&nbsp;</sup>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>

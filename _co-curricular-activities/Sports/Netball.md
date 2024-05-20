@@ -6,7 +6,13 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,7 +67,12 @@ will only be conducted during the competition season.
 <h2>Teacher-in-charge</h2>
 <p>Mdm Choo Wai Yun</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -80,7 +91,7 @@ will only be conducted during the competition season.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>South Zone Netball National School Games ‘B’ Division</p>
+<p>National School Games ‘B’ Division Netball South Zone Championships</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>

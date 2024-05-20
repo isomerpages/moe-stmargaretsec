@@ -22,14 +22,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>12<sup>th</sup> Biomedical Quiz 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver Award - 1 student</p>
+<p>Bronze Award - 1 student</p>
+<p>Honorable Mention Award - 2 students</p>
+<p>Merit Award - 1 student</p>
+<p>Certificate of Participation - 10 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Youth Environmental Conference (NYEC) 2024&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Best Delegate Award - 2 students</p>
+<p>Best Delegate in Action Presentation - student</p>
+<p>Certificate of Participation - 6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friend of Singa (Singapore Kindness Movement)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation - 6 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Safer Internet Challenge 2024 (Short Story)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Peace - Tay Rui Xue Rhian Isabelle
-<br>2 Joy - Yip Rui Qi, Sophia
-<br>3 Kindness - Gan Xuan En, Claire
-<br>4 Kindness - Allegra Lomanto
-<br>5 Devotion - Gisele Lau</p>
+<p>5 students</p>
 </td>
 </tr>
 <tr>
@@ -37,14 +63,7 @@ variant: tiptap
 <p>Safer Internet Challenge 2024 (Mascot Design)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Kindness - Krist Ding Rui Ying
-<br>3 Goodness - Choo Shi Han
-<br>3 Patience - Saanj Majumder
-<br>3 Patience - Natasha Sarah How En Tong
-<br>4 Kindness - Leanne Lim Ci-En
-<br>4 Kindness - Pua Rei Chloe
-<br>4 Kindness - Dhiya Ojas Doshi
-<br>4 Kindness - Emily Loi Jia Ee</p>
+<p>8 students</p>
 </td>
 </tr>
 </tbody>

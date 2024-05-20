@@ -6,7 +6,11 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +53,12 @@ dates of the event.</p>
 <h2>Teacher-in-charge</h2>
 <p>Mrs Serena Ajay</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -64,14 +73,45 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigadier Brooch Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p>The Girls' Brigade Singapore Company Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>The Girls' Brigade Drill Competition 2023</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigadier Brooch Award</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 students</p>
 </td>
 </tr>
 <tr>

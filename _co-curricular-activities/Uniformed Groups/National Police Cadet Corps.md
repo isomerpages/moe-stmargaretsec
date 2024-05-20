@@ -6,7 +6,11 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,7 +49,12 @@ dates of the event.</p>
 <p>Mdm Nur Aqilah
 <br>Mr Leong Fangshao (Covering)</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -59,8 +68,45 @@ dates of the event.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="4" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
-<p>2022&nbsp;</p>
+<p>NPCC Unit Overall Proficiency Award 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet 2023 (HQ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet 2023 (School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 student</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2022&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SPF-NPCC Badge&nbsp;
