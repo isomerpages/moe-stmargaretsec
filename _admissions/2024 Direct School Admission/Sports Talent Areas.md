@@ -87,7 +87,8 @@ for</p>
 <p>Basketball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thursday 25 July 2024</p>
+<p>Monday
+<br>29 July 2024</p>
 </td>
 </tr>
 <tr>
