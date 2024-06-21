@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/Examination Timetable.md
       - For Students/.keep
       - For Students/2024 Class Timetable.md
       - For Students/Bookshop Information.md
