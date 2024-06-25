@@ -21,7 +21,7 @@ variant: tiptap
 <p>Mrs Filzah Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Humanities (Ag)</p>
+<p>HOD Humanities</p>
 </td>
 </tr>
 <tr>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Mrs Esther Lau</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LT History</p>
+<p>LT Social Studies</p>
 </td>
 </tr>
 <tr>

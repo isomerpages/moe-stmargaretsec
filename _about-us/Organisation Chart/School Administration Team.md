@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -54,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sumitra Shasi Kumar</p>
+<p>Ms Ngau Huay Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -78,10 +82,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Kamisah Bte Nor</p>
+<p>Mdm&nbsp;Kamisah Bte Nor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jayabalan s/o Ramalingam</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officerg</p>
 </td>
 </tr>
 </tbody>
