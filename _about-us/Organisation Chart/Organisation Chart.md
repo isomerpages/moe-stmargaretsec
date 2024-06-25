@@ -11,7 +11,7 @@ variant: tiptap
 <p>Mdm Chin Yih Min - Academic
 <br>Ms Chrystine Woon - Administration</p>
 <h4>Head of Department (HOD)</h4>
-<p>Mrs Shamini Rajandran - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature and Drama</a>
+<p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature and Drama</a>
 <br>Mr Jason Chew - HOD/<a href="/about-us/organisation-chart/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
@@ -24,8 +24,8 @@ variant: tiptap
 <h4>School Staff Developer</h4>
 <p>Ms Esther Wong Teck Yen</p>
 <p></p>
-<h4>Lead Teacher</h4>
-<p>Mrs Esther Lau</p>
+<h4>Lead Teacher </h4>
+<p>Mrs Esther Lau - Social Studies</p>
 <h4><br>Subject Heads</h4>
 <p>Ms Karen Tan - SH/Student Well-Being
 <br>Mr Tan Hee Ming - SH/<a href="https://cms.isomer.gov.sg/about-us/organisation-chart/physical-education-and-co-curricular-activities" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education and Co-Curricular Activities</u></a>
@@ -35,12 +35,10 @@ variant: tiptap
 <br>Mdm Kwang Wan Yi - SH/CCE-National Education and Salt &amp; Light Programme
 <br>Ms Bernadette Lim - SH/Additional Mathematics
 <br>Mrs Priscilla Lim - SH/Geography (Internal)
-<br>Ms Cao Yu - SH/Student Leadership (Internal)</p>
+<br>Ms Cao Yu - SH/Student Leadership</p>
 <p></p>
 <h4>Level Heads</h4>
-<p>Mrs Elizabeth Yang - Lower Secondary English Language, Literature and
-Drama
-<br>Mrs Kok-Ong Lin Jin - Lower Secondary Science</p>
+<p>Mrs Kok-Ong Lin Jin - Lower Secondary Science</p>
 <h3>Senior Teachers</h3>
 <p>Mdm Liu Xin - Chinese Language
 <br>Ms Joey Poh - Character and Citizenship Education
