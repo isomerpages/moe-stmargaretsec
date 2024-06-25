@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sumitra Shasi Kumar</p>
+<p>Ms Ngau Huay Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
