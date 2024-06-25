@@ -19,7 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Shamini Rajandran</p>
+<p>Mrs Elizabath Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English Language, Literature and Drama</p>
@@ -46,15 +46,7 @@ variant: tiptap
 <p>Ms Anna Shen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ST English</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Elizabeth Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LH Lower Secondary English Language, Literature and Drama</p>
+<p>ST Literature</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +54,7 @@ variant: tiptap
 <p>Ms Cao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>(Ag) SH Student Leadership</p>
+<p>SH Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -148,6 +140,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mrs Priscilla Choi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Shamini Rajandran</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
