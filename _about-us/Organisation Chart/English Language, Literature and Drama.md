@@ -19,7 +19,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Elizabath Yang</p>
+<p>Mrs Elizabeth Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD English Language, Literature and Drama</p>
