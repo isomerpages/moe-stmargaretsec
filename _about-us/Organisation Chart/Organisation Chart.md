@@ -24,7 +24,7 @@ variant: tiptap
 <h4>School Staff Developer</h4>
 <p>Ms Esther Wong Teck Yen</p>
 <p></p>
-<h4>Lead Teacher </h4>
+<h4>Lead Teacher</h4>
 <p>Mrs Esther Lau - Social Studies</p>
 <h4><br>Subject Heads</h4>
 <p>Ms Karen Tan - SH/Student Well-Being
