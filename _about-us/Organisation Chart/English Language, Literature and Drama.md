@@ -5,20 +5,19 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="3">
+<th rowspan="1" colspan="2">
 <p>Name</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Elizabeth Yang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -26,7 +25,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Premela d/o Prabakaran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -34,7 +33,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mdm Kwang Wan Yi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -42,7 +41,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Anna Shen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +49,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Cao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +57,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p>Mdm Nazlin Bte Hamzah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LH Lower Sec EL, Lit &amp; Drama (internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Anitha d/o Sekar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +73,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Charmaine Loke</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,7 +81,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Cindy Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,7 +89,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Elyana Insyirah Esman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -90,7 +97,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Ho Yu Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +105,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Julie Anthony</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -106,7 +113,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mr Leong Fang Shao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -114,7 +121,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Lucy Seet-Hing Miaw Ngo</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +129,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Michelle Mok</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -130,15 +137,15 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Nazlin Bte Hamzah</p>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Mrs Priscilla Choi</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -152,12 +159,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Sharon Ow</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -165,7 +169,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p>Ms Tan Yan Tong</p>
 </td>
 <td rowspan="1" colspan="1">
