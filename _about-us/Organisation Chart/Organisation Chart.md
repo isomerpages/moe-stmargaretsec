@@ -38,12 +38,13 @@ variant: tiptap
 <br>Ms Cao Yu - SH/Student Leadership</p>
 <p></p>
 <h4>Level Heads</h4>
-<p>Mrs Kok-Ong Lin Jin - Lower Secondary Science</p>
+<p>Mrs Kok-Ong Lin Jin - LH/Lower Secondary Science</p>
+<p>Mdm Nazlin Bte Hamzah - LH/Lower Sec EL, Lit &amp; Drama (Internal)</p>
 <h3>Senior Teachers</h3>
 <p>Mdm Liu Xin - Chinese Language
 <br>Ms Joey Poh - Character and Citizenship Education
 <br>Mrs Lee-Ang Siew Chin - Nutrition and Food Science
-<br>Ms Anna Shen - English Language
+<br>Ms Anna Shen - Literature
 <br>Ms Katherine Li - Biology
 <br>Ms Grace Wee - Geography (Internal)
 <br>Ms Ho Wai Yu - Mathematics</p>
