@@ -22,6 +22,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation - 2 students</p>
+<p></p>
+<p>Bronze Award - 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Climate Crisis Challenge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
