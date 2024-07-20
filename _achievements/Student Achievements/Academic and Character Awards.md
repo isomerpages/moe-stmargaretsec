@@ -22,6 +22,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Live On Festival 2024 - Essay Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5 - 1 student</p>
+<p>Shortlisted winners - 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12<sup>th</sup> Biomedical Quiz 2024</p>
 </td>
 <td rowspan="1" colspan="1">
