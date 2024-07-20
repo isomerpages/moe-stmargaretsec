@@ -90,6 +90,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On Festival 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design Award - 1 student</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2022&nbsp;</strong>
 </p>
 </td>
