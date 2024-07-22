@@ -28,6 +28,14 @@ variant: tiptap
 <p>Certificate of Recognition - 1 student</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live on Festival 2024 - Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design Award - 1 student</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>2023</h2>

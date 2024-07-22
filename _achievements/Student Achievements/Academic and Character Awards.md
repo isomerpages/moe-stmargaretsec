@@ -22,6 +22,33 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>NUS Geography Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation - 2 students</p>
+<p></p>
+<p>Bronze Award - 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Climate Crisis Challenge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Champions</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Live On Festival 2024 - Essay Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 5 - 1 student</p>
+<p>Shortlisted winners - 2 students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>12<sup>th</sup> Biomedical Quiz 2024</p>
 </td>
 <td rowspan="1" colspan="1">
