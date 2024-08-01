@@ -46,7 +46,13 @@ and values.</p>
 </ul>
 <p>More information on LEAPS 2.0 and the conversion of level of Attainment
 to Bonus Points can be obtained from the MOE's website at&nbsp; <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/cca/leaps2-0</a>&nbsp;.</p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -105,7 +111,7 @@ to Bonus Points can be obtained from the MOE's website at&nbsp; <a href="https:/
 <p>National Police Cadet Corps</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>smARTs Media Club</p>
+<p>smARTS Media Club</p>
 </td>
 </tr>
 <tr>
