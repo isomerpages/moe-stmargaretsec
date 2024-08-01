@@ -18,7 +18,7 @@ variant: tiptap
 <p>Training Days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Monday*</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -48,8 +48,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*Sec 3 smARTS Media Club students might attend training until 5.30pm instead
-of 5.00pm in Term 2 2024.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/smartsmedia1.jpg">
 </div>
