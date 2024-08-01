@@ -98,7 +98,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SmARTs Media Club</p>
+<p>smARTS Media Club</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>

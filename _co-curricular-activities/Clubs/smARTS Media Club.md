@@ -1,19 +1,24 @@
 ---
-title: smARTs Media Club
+title: smARTS Media Club
 permalink: /programmes/co-curricular-activities/smartsmedia-club/
 description: ""
 third_nav_title: Clubs
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Training Days</p>
+<p>Training Days</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Monday*</p>
+<p>Monday</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -43,8 +48,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*Sec 3 SmartsMedia Club students might attend training until 5.30pm instead
-of 5.00pm in Term 2 2024.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/smartsmedia1.jpg">
 </div>
