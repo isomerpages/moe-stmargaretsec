@@ -24,6 +24,6 @@ activities and NE commemorative days.</p>
 <p>Parents who would like to&nbsp;share their creative ideas / interest in
 art forms or contribute their time to helping out in PSG-supported school
 activities can contact HOD/Corporate Communications, Mdm Premela Prabakaran
-at&nbsp;<a href="mailto:premela_prabakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@moe.edu.sg</a>&nbsp;.</p>
+at&nbsp;<a href="mailto:premela_prabakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@moe.edu.sg</a>.</p>
 <p></p>
 <p></p>
