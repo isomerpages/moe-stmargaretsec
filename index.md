@@ -28,19 +28,6 @@ sections:
   - textcards:
       title: Examination Timetable
       id: textcards
-      cards:
-        - title: 2024 Sec4E5N Preliminary Examinations Timetable
-          description: ""
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/files/2024_Sec4E5N_Preliminary_Examinations_Timetable.pdf
-        - title: 2024 Sec4NA Preliminary Examinations Timetable
-          description: ""
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/files/2024_Sec4NA_Preliminary_Examinations_Timetable.pdf
-        - title: 2024 Sec4NT Preliminary Examinations Timetable
-          description: ""
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/files/2024_Sec4NT_Preliminary_Examinations_Timetable.pdf
   - announcements:
       title: Announcements
       id: announcements
