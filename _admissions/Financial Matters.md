@@ -217,7 +217,7 @@ Please ensure that there are sufficient funds in the bank account for deduction.
 <li>
 <p>Follow the on-screen instructions&nbsp; &nbsp;
 <br>
-<br><strong>SingPost SAM Kiosks </strong>
+<br><strong>SingPost SAM Kiosks</strong>
 </p>
 </li>
 <li>
