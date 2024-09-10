@@ -93,7 +93,7 @@ variant: tiptap
 <p>Mr Jayabalan s/o Ramalingam</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Support Officerg</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 </tbody>
