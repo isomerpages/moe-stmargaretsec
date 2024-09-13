@@ -14,6 +14,70 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Tamil Language Literary</p>
+<p>Workshops/Competitions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Budding Artistes Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Achievement (3 Student)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong> Raffles Institution Tamil Literary Competitions</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Essay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup> - (2 Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> &amp; 2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poster Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup> -<sup> </sup>(2 Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quiz Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup> - (3 Students)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>National School Games Para Swimming Championships 2024</p>
 </th>
 <th rowspan="1" colspan="1">
@@ -69,6 +133,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘C’ Division National School</p>
+<p>Games Basketball League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd </sup>(15 Students)</p>
+</td>
+</tr>
 </tbody>
 </table>
 <table style="minWidth: 50px">
@@ -92,6 +165,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball Deloitte Pesta Sukan</p>
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd </sup>Runner-Up (13 Students)</p>
 </td>
 </tr>
 </tbody>
@@ -212,7 +294,32 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Bowling</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘C’ Division National School</p>
+<p>Games Bowling</p>
+<p>Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th </sup>(16 Students)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>2023</h2>
 <table style="minWidth: 50px">
 <colgroup>
