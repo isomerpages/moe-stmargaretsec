@@ -14,8 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tamil Language Literary</p>
-<p>Workshops/Competitions</p>
+<p>Tamil Language Literary Workshops/Competitions</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -31,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong> Raffles Institution Tamil Literary Competitions</strong>
+<p><strong>Raffles Institution Tamil Literary Competitions</strong>
 </p>
 </td>
 </tr>
@@ -40,7 +39,7 @@ variant: tiptap
 <p>Essay Writing Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st </sup> - (2 Students)</p>
+<p>1<sup>st </sup>- (2 Students)</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +56,7 @@ variant: tiptap
 <p>Poster Design Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st </sup> -<sup> </sup>(2 Students)</p>
+<p>1<sup>st </sup>-<sup> </sup>(2 Students)</p>
 </td>
 </tr>
 <tr>
@@ -65,7 +64,7 @@ variant: tiptap
 <p>Quiz Competition</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1<sup>st </sup> - (3 Students)</p>
+<p>1<sup>st </sup>- (3 Students)</p>
 </td>
 </tr>
 </tbody>
@@ -135,8 +134,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>‘C’ Division National School</p>
-<p>Games Basketball League 2</p>
+<p>‘C’ Division National School Games Basketball League 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd </sup>(15 Students)</p>
@@ -169,8 +167,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Netball Deloitte Pesta Sukan</p>
-<p>2024</p>
+<p>Netball Deloitte Pesta Sukan 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd </sup>Runner-Up (13 Students)</p>
@@ -204,8 +201,8 @@ Team</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships 2024</p>
-<p>‘B’ Division Girls – Cadet Women’s Epee Event</p>
+<p>National School Games National Championships 2024 ‘B’ Division Girls –
+Cadet Women’s Epee Event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -250,8 +247,8 @@ Cadet Women’s Sabre Event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships 2024</p>
-<p><em>‘</em>C’ Division Girls – Individual Apparatus (Uneven Bars) event</p>
+<p>National School Games National Championships 2024 <em>‘</em>C’ Division
+Girls – Individual Apparatus (Uneven Bars) event</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Gold</p>
@@ -284,8 +281,8 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships 2024</p>
-<p>‘C’ Division Girls – Individual – Formulated 5 - Duan Spear</p>
+<p>National School Games National Championships 2024 ‘C’ Division Girls –
+Individual – Formulated 5 - Duan Spear</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -310,9 +307,7 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>‘C’ Division National School</p>
-<p>Games Bowling</p>
-<p>Championship</p>
+<p>‘C’ Division National School Games Bowling Championship</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6<sup>th </sup>(16 Students)</p>
@@ -337,9 +332,7 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2023 (Singapore Combined Schools Sports)
-<br>
-</p>
+<p>2023 (Singapore Combined Schools Sports)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSSC Colours Award</p>
@@ -347,8 +340,8 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships 2023
-<br>'C' Division Girls - Team Overall</p>
+<p>National School Games National Championships 2023 'C' Division Girls -
+Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
@@ -357,8 +350,8 @@ Individual Apparatus (Balance Beam) event</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>National School Games National Championships 2023
-<br>'B' Division Girls - Team Overall</p>
+<p>National School Games National Championships 2023 'B' Division Girls -
+Team Overall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2<sup>nd</sup>
@@ -414,7 +407,6 @@ Individual Apparatus (Balance Beam) event</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>2023 (Singapore Combined Schools Sports)</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SSSC Colours Award</p>
