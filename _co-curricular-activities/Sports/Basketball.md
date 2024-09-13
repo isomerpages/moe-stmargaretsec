@@ -6,7 +6,13 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -60,7 +66,12 @@ the competition season.</p>
 <h2>Teacher-in-charge</h2>
 <p>Ms Nicolette Ng</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -74,7 +85,7 @@ the competition season.</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
@@ -83,6 +94,16 @@ the competition season.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>‘C’ Division National School</p>
+<p>Games Basketball League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup>
 </p>
 </td>
 </tr>
