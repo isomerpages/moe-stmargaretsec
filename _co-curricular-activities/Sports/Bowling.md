@@ -6,7 +6,12 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -49,7 +54,12 @@ variant: tiptap
 <h2>Teacher-in-charge</h2>
 <p>Mr Benjamin Yeong</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,6 +71,20 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘C’ Division National School</p>
+<p>Games Bowling</p>
+<p>Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup> (16 Students)</p>
+</td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
