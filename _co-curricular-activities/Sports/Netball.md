@@ -86,7 +86,7 @@ will only be conducted during the competition season.
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
@@ -96,6 +96,14 @@ will only be conducted during the competition season.
 <td rowspan="1" colspan="1">
 <p>3<sup>rd</sup>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball Deloitte Pesta Sukan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2<sup>nd</sup> Runner-Up (13 Students)</p>
 </td>
 </tr>
 <tr>
