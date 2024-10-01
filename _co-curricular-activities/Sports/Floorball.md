@@ -68,7 +68,7 @@ only be&nbsp;conducted during the competition season.</p>
 <p>Year</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Competition</p>
+<p>Name of Competition</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
