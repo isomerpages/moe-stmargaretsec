@@ -45,12 +45,10 @@ supporting documents are attached.</p>
 <h2>Window Periods for the Submission of the FAS Application Form</h2>
 <p>The window periods for the submission of the FAS application form are
 shown below:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fas%20application%20table.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/FAS_NEW.png">
 </div>
-<p>*S4-6 to S4-8 students should only submit their FAS application forms
-if they are continuing their studies at St. Margaret’s School (Secondary)
-at Secondary 5.</p>
 <p>New applications may still be submitted during the course of the year.
 However, the FAS will only take effect in the following month after it
 has been approved. There will be no financial assistance given for the
