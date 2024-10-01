@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tamil Language Literary Workshops/Competitions</p>
+<p>Floorball</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -22,49 +22,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOE Budding Artistes Workshop</p>
+<p>C’ Division National School Games Floorball League 1 Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Achievement (3 Student)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Raffles Institution Tamil Literary Competitions</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Essay Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>- (2 Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oratorical Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st</sup> &amp; 2<sup>nd</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Design Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>-<sup> </sup>(2 Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quiz Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>- (3 Students)</p>
+<p>Top 8</p>
 </td>
 </tr>
 </tbody>
