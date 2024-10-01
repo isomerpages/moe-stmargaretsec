@@ -14,6 +14,72 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Tamil Language Literary Workshops/Competitions</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MOE Budding Artistes Workshop</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Achievement (3 Student)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Raffles Institution Tamil Literary Competitions</strong>
+</p>
+</td>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Essay Writing Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>- (2 Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oratorical Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st</sup> &amp; 2<sup>nd</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Poster Design Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>-<sup> </sup>(2 Students)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Quiz Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1<sup>st </sup>- (3 Students)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Name of Competition</p>
 </th>
 <th rowspan="1" colspan="1">

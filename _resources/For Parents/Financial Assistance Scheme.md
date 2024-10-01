@@ -17,24 +17,31 @@ of Education. The&nbsp;criteria for eligibility is as follows:</p>
 </li>
 </ul>
 <h2>Application Process</h2>
-<p>Parents/students may obtain the application form for the Financial Assistance
-Scheme (FAS) through one of the ways as listed below:&nbsp;
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parents/students may apply for FAS using the&nbsp;MOE FAS e-application
+form (eFAS) via&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
 <br>
-<br>
-<br><strong>(a)</strong>&nbsp;&nbsp; Apply using the MOE FAS e-application
-form (eFAS) via <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>.
-<br><strong>(b)</strong>&nbsp; <a href="/files/2024%20moe%20fas%20application%20form.pdf" rel="noopener noreferrer nofollow" target="_blank">Download</a> the
-application form directly from the school website;&nbsp;
-<br><strong>(c)</strong>&nbsp;&nbsp; Obtain the application form from the
-General Office reception counter;</p>
-<p>For submission of FAS application form, parents/students have the options
-to submit via FormSG or hard-copy form:</p>
-<p><strong>(a)</strong>&nbsp;&nbsp; Complete the MOE FAS e-application form
-via FormSG; or
-<br><strong>(b)</strong>&nbsp; Drop the hardcopy form and supporting documents
-into the assigned pigeon-hole at the school’s General Office.</p>
-<p>Please ensure that the forms are duly completed and&nbsp;all required
+<br>Please ensure that the forms are duly completed and&nbsp;all required
 supporting documents are attached.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/e_FAS_QR_Code.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <h2>Window Periods for the Submission of the FAS Application Form</h2>
 <p>The window periods for the submission of the FAS application form are
 shown below:</p>

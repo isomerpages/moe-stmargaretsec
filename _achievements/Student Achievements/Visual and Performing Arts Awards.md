@@ -13,6 +13,45 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mother Tongue Essay Compilation</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students/Award Type/Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cover Design</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yuen Xue Ling - 3 Faithfulness
+<br>Lim Siang Yi Charlize - 3 Goodness</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>The SYF Youth Station Project Singing Competition Youth</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Students/Award Type/Position</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Station Live! Select Open Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Participation
+<br>Lee Alexandra Annmarie
+<br>3 Gentleness</p>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <p>Creative Art Club (Visual Art)</p>
 </th>

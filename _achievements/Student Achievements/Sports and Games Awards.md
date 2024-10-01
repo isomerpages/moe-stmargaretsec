@@ -14,7 +14,71 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Tamil Language Literary Workshops/Competitions</p>
+<p>Fencing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Fencing Singapore Cadet Cup 2024 – Direct Elimination Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foil Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Yingqi Delphine
+<br>Leng Yi Xuan Jovie
+<br>Lim Xiao Xuan Jade
+<br>Grace Liew Hui En</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Epee Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daniella Tang Weng Yan
+<br>Leng Yi Xuan Jovie
+<br>Lim Xiao Xuan Jade
+<br>Grace Liew Hui En
+<br>Kiara Tan Jing Xuan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabre Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Wen Yi
+<br>Ee Jia Yun Clarissa
+<br>Ava Chloe Ong
+<br>Kristyn Yap Yi-En (Ye Yi’En)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Placing
+<br>Daniella Tang Weng Yan</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Floorball</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
@@ -22,49 +86,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MOE Budding Artistes Workshop</p>
+<p>C’ Division National School Games Floorball League 1 Championship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Achievement (3 Student)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Raffles Institution Tamil Literary Competitions</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Essay Writing Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>- (2 Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Oratorical Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st</sup> &amp; 2<sup>nd</sup>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Poster Design Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>-<sup> </sup>(2 Students)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Quiz Competition</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1<sup>st </sup>- (3 Students)</p>
+<p>Top 8</p>
 </td>
 </tr>
 </tbody>

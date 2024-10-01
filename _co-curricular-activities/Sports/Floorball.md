@@ -6,7 +6,12 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -50,3 +55,36 @@ only be&nbsp;conducted during the competition season.</p>
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Mr Daniel Ling</p>
+<h2>Achievements</h2>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Year</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name of Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C’ Division National School Games Floorball League 1 Championship</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 8</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
