@@ -108,4 +108,4 @@ You may also approach&nbsp;the school for a hard copy of the application
 form.</p>
 </li>
 </ul>
-<p>Information is correct as of 19 October 2023.</p>
+<p>Information is correct as of September 2024</p>
