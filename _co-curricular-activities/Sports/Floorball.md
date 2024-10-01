@@ -55,7 +55,7 @@ only be&nbsp;conducted during the competition season.</p>
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Mr Daniel Ling</p>
-<p></p>
+<h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
