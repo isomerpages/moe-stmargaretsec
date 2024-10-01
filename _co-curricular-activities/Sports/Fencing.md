@@ -78,18 +78,74 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name of Competition</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Achievement</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p>Students/Award Type/Position</p>
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="6" colspan="1">
 <p><strong>2024</strong>
 </p>
+<p></p>
 </td>
+<td rowspan="1" colspan="3">
+<p>Fencing Singapore Cadet Cup 2024 – Direct Elimination Round</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Foil Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Li Yingqi Delphine
+<br>Leng Yi Xuan Jovie
+<br>Lim Xiao Xuan Jade
+<br>Grace Liew Hui En</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Epee Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daniella Tang Weng Yan
+<br>Leng Yi Xuan Jovie Lim Xiao Xuan Jade Grace Liew Hui En Kiara Tan Jing
+Xuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sabre Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Wen Yi
+<br>Ee Jia Yun Clarissa
+<br>Ava Chloe Ong
+<br>Kristyn Yap Yi-En (Ye Yi’En)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 3 Placing
+<br>Daniella Tang Weng Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>National School Games National Championships 2024</p>
 <p>‘B’ Division Girls – Team</p>
