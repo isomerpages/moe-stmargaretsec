@@ -29,10 +29,13 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Raffles Institution Tamil Literary Competitions</strong>
 </p>
 </td>
+<th rowspan="1" colspan="1">
+<p>Achievement</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
