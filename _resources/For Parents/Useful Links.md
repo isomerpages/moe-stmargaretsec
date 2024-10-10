@@ -83,7 +83,7 @@ digital learner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses" rel="noopener noreferrer nofollow" target="_blank">MOE Syllabuses</a>
+<p><a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus" rel="noopener noreferrer nofollow" target="_blank">MOE Syllabuses</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
