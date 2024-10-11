@@ -252,7 +252,7 @@ Centre (FSC)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;<a href="https://www.imh.com.sg/clinical/page.aspx?id=237" rel="noopener noreferrer nofollow" target="_blank">IMH</a>
+<p>&nbsp;<a href="https://www.imh.com.sg/Pages/default.aspx" rel="noopener noreferrer nofollow" target="_blank">IMH</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
