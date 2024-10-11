@@ -18,7 +18,7 @@ more information about MOE NDLP.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Qgf76jrMEkQ"></iframe>
 </div>
-<h2>NEU PC Plus Progamme</h2>
+<h2>NEU PC Plus Programme</h2>
 <p>In view that all secondary school students will own a Personal Learning
 Device (PLD) under MOE’s Digital Literacy Programme, secondary school students
 will no longer be eligible to apply for the NEU PC Plus programme with
