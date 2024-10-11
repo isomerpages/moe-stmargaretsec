@@ -3,6 +3,7 @@ title: Character Development
 permalink: /programmes/character-development/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 The aim of the Character Development Programme is the holistic development of our students. Character development permeates all facets of school-life and is an integral part of the planning process in many of our programmes.
 
@@ -13,7 +14,7 @@ St. Margaret's School (Secondary) is a school rich in heritage, with a history 
 
 The school has a developmental programme that trains all students in leadership and moulds selected students in their roles as Student Leaders. Through workshops, conferences and camps, leaders are trained to facilitate and lead in projects.
 
-We offer exciting [CCAs](https://stmargaretssec.moe.edu.sg/programmes/ccas) including Tennis, Netball, Fencing, Girls’ Brigade, Girl Guides, and Agape Club.
+We offer exciting [CCAs](https://www.stmargaretssec.moe.edu.sg/programmes/co-curricular-activities/) including Tennis, Netball, Fencing, Girls’ Brigade, Girl Guides, and Agape Club.
 
 St. Margaret's School (Secondary) has embarked on various Overseas Outreach Programmes involving arts and cultural exchanges as well as community service and learning opportunities. Long-term partnerships are forged with overseas institutions in various countries.  
   
@@ -23,7 +24,7 @@ A comprehensive [Education and Career Guidance Programme](https://stmargaretsse
 Other Programmes
 ----------------
 
-*   [Values In Action (VIA)](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/programmes/character-development/values-in-action-via)
-*   [Overseas Programme](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/programmes/character-development/overseas-programme)
-*   [Student Leadership Programme](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/programmes/character-development/student-leadership-programme)
-*   [Bounce Programme](https://stmargaretssec-moe-edu-sg-admin.cwp.sg/programmes/character-development/bounce-programme)
+* [Values In Action (VIA)](https://www.stmargaretssec.moe.edu.sg/programmes/character-development/values-in-action-via/)
+* [Overseas Programme](https://www.stmargaretssec.moe.edu.sg/programmes/character-development/overseas-programme/)
+* [Student Leadership Programme](https://www.stmargaretssec.moe.edu.sg/programmes/character-development/student-leadership-programme/)
+* [Bounce Programme](https://www.stmargaretssec.moe.edu.sg/programmes/character-development/bounce-programme/)
