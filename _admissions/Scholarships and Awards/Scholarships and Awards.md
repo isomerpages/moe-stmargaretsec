@@ -25,4 +25,4 @@ school conduct, CCA achievements and academic grades. Successful awardees
 will be informed by the school in end-April/May 2023. There is no need
 to apply for the scholarship.</p>
 <p>Find out more about&nbsp;<a href="https://stmargaretssec.moe.edu.sg/admission/scholarshipsandawards/edusaveawards/" rel="noopener noreferrer nofollow" target="_blank">Edusave Awards</a>&nbsp;and&nbsp;
-<a href="https://stmargaretssec-moe-edu-sg-admin.cwp.sg/admission/financial-matters/scholarships-and-awards/st-margarets-secondary-school-awards" rel="noopener noreferrer nofollow" target="_blank">St. Margaret's School (Secondary) Awards</a>.</p>
+<a href="https://stmargaretssec.moe.edu.sg/admission/scholarshipsandawards/stmargaretsschoolsecondaryawards/" rel="noopener noreferrer nofollow" target="_blank">St. Margaret's School (Secondary) Awards</a>.</p>
