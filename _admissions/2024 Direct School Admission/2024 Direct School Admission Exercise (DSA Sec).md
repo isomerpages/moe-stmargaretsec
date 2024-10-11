@@ -48,7 +48,7 @@ to 3 Jun 2024, 3pm.&nbsp;</p>
 </p>
 <p>Applicants <u>do not need</u> to submit supporting documents to complete
 their application, <strong>except for Visual Arts</strong> (please see selection
-criteria for Visual Arts).&nbsp; After submitting your <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>online application</u></a>,
+criteria for Visual Arts).&nbsp; After submitting your online application,
 you will receive confirmation of receipt of your DSA application. You may
 wish to print or download a copy of the confirmation for your future reference.</p>
 <h4>Selection Process &amp; Criteria</h4>
