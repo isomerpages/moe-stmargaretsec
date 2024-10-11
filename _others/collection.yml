@@ -1,6 +1,0 @@
-collections:
-  others:
-    output: true
-    order:
-      - Announcements.md
-      - Latest News.md

@@ -13,8 +13,7 @@ secondary school students by the end of 2021.</p>
 account to&nbsp;offset the cost&nbsp;for their Personal Learning Device.</p>
 <p>Students who are Singapore citizens from lower-income families will enjoy
 further subsidies for the purchase.&nbsp;</p>
-<p>Click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
-more information about MOE NDLP.</p>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Qgf76jrMEkQ"></iframe>
 </div>
