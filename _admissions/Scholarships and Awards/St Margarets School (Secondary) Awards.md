@@ -1,10 +1,10 @@
 ---
 title: St Margarets School (Secondary) Awards
-permalink: /admission/Scholarships-and-Awards/St-Margarets-School-Secondary-Awards/
+permalink: /admission/scholarshipsandawards/stmargaretsschoolsecondaryawards/
 description: ""
 third_nav_title: Scholarships and Awards
+variant: tiptap
 ---
-
 The following awards are presented to students who excel in various domains:
 
 *   Academic Awards for Top Students in each subject per level/stream

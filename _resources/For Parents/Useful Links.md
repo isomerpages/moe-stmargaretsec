@@ -6,7 +6,11 @@ third_nav_title: For Parents
 variant: tiptap
 ---
 <h2>MOE-related</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -43,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/programmes/cyber-wellness/" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Programme</a>&nbsp;&nbsp;</p>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness" rel="noopener noreferrer nofollow" target="_blank">MOE Cyber Wellness Programme</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Cyber Wellness education focuses on helping your child to be a responsible
@@ -79,7 +83,7 @@ digital learner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/education/syllabuses" rel="noopener noreferrer nofollow" target="_blank">MOE Syllabuses</a>
+<p><a href="https://www.moe.gov.sg/secondary/schools-offering-full-sbb/syllabus" rel="noopener noreferrer nofollow" target="_blank">MOE Syllabuses</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,7 +120,11 @@ digital learner</p>
 </tbody>
 </table>
 <h2>School-related</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -181,7 +189,11 @@ digital learner</p>
 </tbody>
 </table>
 <h2>Other Useful Sites</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
