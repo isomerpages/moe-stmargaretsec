@@ -34,7 +34,7 @@ insurance can be found&nbsp;<a href="https://www.income.com.sg/studentgpa" rel="
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="https://stmargaretssec-moe-edu-sg-admin.cwp.sg/qql/slot/u168/Resources/Parents/Student%20GPA%20User%20Guide%20--%20Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide</a>
+<p><a href="/files/Student GPA User Guide -- Parent.pdf" rel="noopener noreferrer nofollow" target="_blank">Student GPA User Guide</a>
 </p>
 </li>
 <li>
