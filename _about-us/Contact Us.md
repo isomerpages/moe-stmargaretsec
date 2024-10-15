@@ -4,7 +4,11 @@ permalink: /contact-us/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -19,7 +23,8 @@ variant: tiptap
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6466 4525</p>
+<p>64664525
+<br>87256809 (emergency contact after office hours on 14 and 15 Oct 2024)</p>
 </td>
 </tr>
 <tr>
