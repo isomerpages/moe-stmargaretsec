@@ -36,9 +36,6 @@ related to the talent they are selected for from Year 1 to 4/5.&nbsp;</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for DSA-Sec can be submitted through the online <a href="https://go.gov.sg/apply-dsa-sec" rel="noopener noreferrer nofollow" target="_blank"><u>DSA-Sec Portal</u></a>.
-The application is free-of-charge and will be open from 7 May 2024, 11am
-to 3 Jun 2024, 3pm.&nbsp;</p>
 <p>For more details, please refer to <strong><a href="https://go.gov.sg/dsa-sec-application" rel="noopener noreferrer nofollow" target="_blank"><u>MOE DSA-Sec website</u></a></strong>.</p>
 </td>
 </tr>
