@@ -101,7 +101,7 @@ ICT-related matters.</p>
 <p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">My Skills Future Portal - Secondary</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A one-stop protal that empowers you to embark on a journey on self-discovery
+<p>A one-stop portal that empowers you to embark on a journey on self-discovery
 and make informed education and career choices.&nbsp;</p>
 </td>
 </tr>
