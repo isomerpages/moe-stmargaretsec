@@ -199,7 +199,7 @@ Please ensure that there are sufficient funds in the bank account for deduction.
 </tbody>
 </table>
 <p><strong>SingPost SAM Web</strong>
-<br>Website:&nbsp;<a href="https://www.mysam.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.mysam.sg</a>
+<br>Website:&nbsp;<a href="https://mysam.singpost.com/" rel="noopener noreferrer nofollow" target="_blank">https://mysam.singpost.com/</a>
 </p>
 <ul>
 <li>
