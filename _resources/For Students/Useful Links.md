@@ -33,7 +33,7 @@ variant: tiptap
 <p><a href="https://schoolibrary.moe.edu.sg/stmargaretssec" rel="noopener noreferrer nofollow" target="_blank">SMS(S) OPAC</a>&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret's School (Secondary) Online Public Access Catologue for library
+<p>St. Margaret's School (Secondary) Online Public Access Catalogue for library
 books&nbsp;</p>
 </td>
 </tr>
