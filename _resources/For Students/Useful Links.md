@@ -48,7 +48,7 @@ Ms Cynthia Kong, our school counsellor.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://stmargaretssec-moe-edu-sg-admin.cwp.sg/" rel="noopener noreferrer nofollow" target="_blank">SMS(S) ECG Counsellor</a>
+<p><a href="https://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">SMS(S) ECG Counsellor</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
