@@ -12,9 +12,6 @@ sections:
   - hero:
       background: /images/Homepage-isomer-New.gif
       key_highlights:
-        - title: Announcements
-          description: ""
-          url: /announcements/announcements/
         - title: Monthly Letter from Principal
           description: ""
           url: https://stmargaretssec.moe.edu.sg/announcements/year2024/
