@@ -23,8 +23,7 @@ variant: tiptap
 <p>Tel:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>64664525
-<br>87256809 (emergency contact after office hours on 14 and 15 Oct 2024)</p>
+<p>64664525</p>
 </td>
 </tr>
 <tr>
