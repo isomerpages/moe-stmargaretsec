@@ -22,7 +22,8 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
-  - announcements:
-      title: Announcements
-      id: announcements
+  - infobar:
+      title: 2025 Booklists and Uniform Info Sheet
+      id: infobar
+      button: Button Text
 ---
