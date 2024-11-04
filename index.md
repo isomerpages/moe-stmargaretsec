@@ -25,4 +25,11 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      announcement_items:
+        - title: 2025 Booklists and Uniform Info Sheet
+          date: 04 November 2024
+          announcement: The 2025 Booklist and Uniform Information Sheet is now
+            available!  For more details, please click the link below
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/2025-booklist-and-stationery/
 ---
