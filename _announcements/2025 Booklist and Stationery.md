@@ -86,5 +86,6 @@ description: ""
 </tbody>
 </table>
 <h4><strong><u>Purchase of School Uniform (For Sec 2, 3, 4, 5 Students)</u></strong></h4>
-<p><a href="/files/Purchase_of_School_Uniform__Sec_2_to_5_Students_.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+<p><a href="/files/Purchase_of_School_Uniform__Sec_2_to_5_Students_.pdf" rel="noopener nofollow" target="_blank">Click</a>
+<a href="/files/Purchase_of_School_Uniform__Sec_2__to_5_Students_.pdf" rel="noopener nofollow" target="_blank"></a><a href="/files/Purchase_of_School_Uniform__Sec_2_to_5_Students_.pdf" rel="noopener nofollow" target="_blank">here</a>
 </p>
