@@ -118,7 +118,7 @@ variant: tiptap
 <h2>School-related</h2>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://go.gov.sg/smssdigitalsignagerequestform" rel="noopener noreferrer nofollow" target="_blank">St. Margaret's School (Secondary) Digital Signage System Request Form</a> 
+<p><a href="https://go.gov.sg/smssictservicesrequestform" rel="noopener noreferrer nofollow" target="_blank">St. Margaret's School (Secondary) SMS(S) ICT Services Request Form</a>
 <br>
 </p>
 </li>
