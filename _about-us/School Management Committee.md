@@ -4,7 +4,11 @@ permalink: /about-us/school-management-committee/
 description: ""
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
