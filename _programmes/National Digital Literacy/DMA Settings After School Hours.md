@@ -30,7 +30,8 @@ Ms Thor Ya Lin at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener nor
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Default Setting</p>
+<p>Default Setting
+<br>(This will apply if no Alternative setting is chosen)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Option A
