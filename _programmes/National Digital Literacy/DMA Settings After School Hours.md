@@ -128,7 +128,10 @@ hours will not be accessible during school hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The school will define the specific hours during which the device is allowed
-to access the internet.</p>
+to access the internet.
+<br>
+<br><strong>The screen time for SMS(S) Student on this setting is 6.30am to 11.00pm.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Parents/Guardians can:</p>
