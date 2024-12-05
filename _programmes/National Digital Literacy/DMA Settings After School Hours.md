@@ -122,6 +122,57 @@ personal Google account.</p>
 hours will not be accessible during school hours.</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Limit screen time</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The school will define the specific hours during which the device is allowed
+to access the internet.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/Guardians can:</p>
+<p>• modify the amount of screen time for their child/ward by submitting
+a request to the school<sup>2</sup>;</p>
+<p></p>
+<p>• turn their child's/ward’s web browsing on or off, controlling whether
+the device can access the internet; and</p>
+<p>• allow/disallow certain categories of web access.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No control over screen time.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monitor child's/ward's cyber activities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/guardians will not be able to track their child's/ward's browser
+history.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/guardians can track their child's/ward's browser history.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Parents/guardians will not be able to monitor or control their child's/ward's
+use of the device through the DMA.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Provision of Parent Account</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Yes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>No</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
