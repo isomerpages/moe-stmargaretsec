@@ -114,16 +114,12 @@ ward's learning.</p>
 <p>Parents/Guardians and/or students will be able to install additional applications
 after school hours.</p>
 <p></p>
-<p>To note:</p>
-<p>• The installation of applications would have to be done via the</p>
-<p>parent’s/student’s</p>
-<p>personal Google account.</p>
-<p>• Applications installed by</p>
-<p>parents/guardians and/or</p>
-<p>students after school</p>
-<p>hours will not be</p>
-<p>accessible during school</p>
-<p>hours.</p>
+<p><strong>To note:</strong>
+</p>
+<p>• The installation of applications would have to be done via the parent’s/student’s
+personal Google account.</p>
+<p>• Applications installed by parents/guardians and/or students after school
+hours will not be accessible during school hours.</p>
 </td>
 </tr>
 </tbody>
