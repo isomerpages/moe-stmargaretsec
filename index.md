@@ -31,6 +31,11 @@ sections:
           announcement: For more details, please click the link below.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/2025-secondary-1-admission-school-transfer/
+        - title: 2025 Booklists and Uniform Info Sheet for Sec 1 Students
+          date: 12 December 2024
+          announcement: Announcement content
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/2025-booklists-and-uniform-info-sheet-for-secondary-1/
         - title: 2025 Booklists and Uniform Info Sheet
           date: 04 November 2024
           announcement: The 2025 Booklist and Uniform Information Sheet is now
