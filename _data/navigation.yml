@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Events
     collection: events
+  - title: Announcements
+    collection: announcements
   - title: Resources
     collection: resources
   - title: Achievements
