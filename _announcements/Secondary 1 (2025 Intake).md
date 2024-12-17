@@ -32,20 +32,24 @@ week of school. Students will be able to purchase the PE t-shirts from
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Sec 1 G1 Booklist &amp; Stationery</p>
+<p><a href="/files/Sec_1_G1_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G1 Booklist &amp; Stationery</a>
+</p>
 </li>
 <li>
-<p>Sec 1 G2 Booklist &amp; Stationery</p>
+<p><a href="/files/Sec_1_G2_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G2 Booklist &amp; Stationery</a>
+</p>
 </li>
 <li>
-<p>Sec 1 G3 Booklist &amp; Stationery</p>
+<p><a href="/files/Sec_1_G3_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G3 Booklist &amp; Stationery</a>
+</p>
 </li>
 </ul>
 <p><strong><u>School Uniform</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>School Uniform Info Sheet</p>
+<p><a href="/files/Purchase_of_School_Uniform__Sec_1_Students_.pdf" rel="noopener noreferrer nofollow" target="_blank">School Uniform Info Sheet</a>
+</p>
 </li>
 </ul>
 <p></p>
