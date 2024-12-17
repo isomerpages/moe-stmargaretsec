@@ -30,8 +30,8 @@ sections:
         - title: Secondary 1 (2025 Intake)
           date: 17 December 2024
           announcement: For more details, please click on the link below.
-          link_text: ""
-          link_url: ""
+          link_text: Secondary 1 (2025 Intake)
+          link_url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
         - title: Briefing Slides for Release of N-Level Results
           date: 16 December 2024
           announcement: For more details, please click on the link below
