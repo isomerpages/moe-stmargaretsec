@@ -27,6 +27,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 1 (2025 Intake)
+          date: 17 December 2024
+          announcement: For more details, please click on the link below.
+          link_text: ""
+          link_url: ""
         - title: Briefing Slides for Release of N-Level Results
           date: 16 December 2024
           announcement: For more details, please click on the link below
