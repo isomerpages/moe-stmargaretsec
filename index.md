@@ -34,7 +34,7 @@ sections:
           link_text: Secondary 1 (2025 Intake)
           link_url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
         - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
-          date: 04 November 2024
+          date: 17 December 2024
           announcement: For more details, please click the link below.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/2025-booklist-and-stationery/
