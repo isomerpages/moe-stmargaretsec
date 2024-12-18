@@ -7,8 +7,9 @@ description: St. Margaret's School (Secondary) is a government-aided autonomous
   often regarded as the oldest existing girls' school in Southeast Asia.
 image: /images/School Logo (2023).jpg
 permalink: /
-notification: Secondary 1 (2025 Intake) information is out. You can access it by
-  navigating to the announcements section below.
+notification: Secondary 1 (2025 Intake) information is now available.  You can
+  access the Booklist and Uniform Information Sheet by navigating to the
+  Announcements section below.
 sections:
   - hero:
       background: /images/Homepage-isomer-New.gif
