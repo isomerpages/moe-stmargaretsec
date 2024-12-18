@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Secondary 1 (2025)/2025 Secondary 1 Admission (School Transfer).md
       - Secondary 1 (2025)/Secondary 1 (2025 Intake).md
       - Secondary 1 (2025)/.keep
       - Monthly Letter From Principal/.keep
