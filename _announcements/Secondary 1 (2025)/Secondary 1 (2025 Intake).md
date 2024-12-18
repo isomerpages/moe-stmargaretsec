@@ -3,6 +3,7 @@ title: Secondary 1 (2025 Intake)
 permalink: /secondary-1-2025-intake/
 variant: tiptap
 description: ""
+third_nav_title: Secondary 1 (2025)
 ---
 <h4>St. Margaret’s School (Secondary) - Secondary 1 (2025 Intake)</h4>
 <p>
