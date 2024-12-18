@@ -44,8 +44,8 @@ sections:
       cards:
         - title: Secondary 1 (2025 Intake)
           description: For more details, please click on the link below.
-          linktext: Learn more
-          url: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
         - title: 2025 Secondary 1 Admission (School Transfer)
           description: ""
           linktext: Click here
