@@ -37,12 +37,7 @@ sections:
           announcement: For more details, please click on the link below
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/briefing-slides-for-release-of-n-level-results/
-        - title: 2025 Secondary 1 Admission (School Transfer)
-          date: 12 December 2024
-          announcement: For more details, please click the link below.
-          link_text: Click here
-          link_url: https://stmargaretssec.moe.edu.sg/2025-secondary-1-admission-school-transfer/
-        - title: 2025 Booklists and Uniform Info Sheet for Sec 2,3,4 and 5 Students
+        - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
           date: 04 November 2024
           announcement: For more details, please click the link below.
           link_text: Click here
