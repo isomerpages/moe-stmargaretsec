@@ -8,8 +8,7 @@ description: St. Margaret's School (Secondary) is a government-aided autonomous
 image: /images/School Logo (2023).jpg
 permalink: /
 notification: Secondary 1 (2025 Intake) information is now available.  You can
-  access the Booklist and Uniform Information Sheet by navigating to the
-  Announcements section below.
+  access it by scrolling down to the info cards section below.
 sections:
   - hero:
       background: /images/Homepage-isomer-New.gif
@@ -28,11 +27,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Secondary 1 (2025 Intake)
-          date: 17 December 2024
-          announcement: For more details, please click on the link below.
-          link_text: Secondary 1 (2025 Intake)
-          link_url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
         - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
           date: 17 December 2024
           announcement: For more details, please click the link below.
