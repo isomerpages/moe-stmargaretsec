@@ -102,7 +102,7 @@ description: ""
 </tr>
 </tbody>
 </table>
-<h4><strong><u>Purchase of School Uniform </u></strong></h4>
+<h4><strong><u>Purchase of School Uniform</u></strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
