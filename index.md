@@ -43,4 +43,21 @@ sections:
           announcement: For more details, please click on the link below
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/briefing-slides-for-release-of-n-level-results/
+  - textcards:
+      title: Secondary 1 (2025)
+      subtitle: 2025 intake
+      id: textcards
+      cards:
+        - title: Secondary 1 (2025 Intake)
+          description: For more details, please click on the link below.
+          linktext: Learn more
+          url: ""
+        - title: 2025 Secondary 1 Admission (School Transfer)
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/2025-secondary-1-admission-school-transfer/
+        - title: Application to Transfer Out from SMS(S)
+          description: ""
+          linktext: Click here
+          url: https://stmargaretssec.moe.edu.sg/application-to-transfer-out-from-st-margaret-s-school-secondary/
 ---
