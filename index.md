@@ -33,14 +33,14 @@ sections:
           announcement: For more details, please click on the link below.
           link_text: Secondary 1 (2025 Intake)
           link_url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
-        - title: Briefing Slides for Release of N-Level Results
-          date: 16 December 2024
-          announcement: For more details, please click on the link below
-          link_text: Click here
-          link_url: https://stmargaretssec.moe.edu.sg/briefing-slides-for-release-of-n-level-results/
         - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
           date: 04 November 2024
           announcement: For more details, please click the link below.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/2025-booklist-and-stationery/
+        - title: Briefing Slides for Release of N-Level Results
+          date: 16 December 2024
+          announcement: For more details, please click on the link below
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/briefing-slides-for-release-of-n-level-results/
 ---
