@@ -41,10 +41,6 @@ sections:
           description: For more details, please click on the link below.
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
-        - title: 2025 Secondary 1 Admission (School Transfer)
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/2025-secondary-1-admission-school-transfer/
         - title: Application to Transfer Out from SMS(S)
           description: ""
           linktext: Click here
