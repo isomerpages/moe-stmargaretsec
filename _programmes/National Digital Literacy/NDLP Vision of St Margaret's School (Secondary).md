@@ -25,4 +25,4 @@ programs and competitions, students gain opportunities to practise “Find,
 Think, Apply, and Create”. This approach develops computational thinking,
 problem-solving, and logical reasoning skills. As students creatively and
 skillfully use a range of digital tools, they also learn empathy, identifying
-needs and developing solutions for real-world problems</p>
+needs and developing solutions. for real-world problems</p>
