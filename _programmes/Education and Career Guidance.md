@@ -124,11 +124,11 @@ and cutoff points are listed, can be accessed below:</p>
 <p><a href="https://www.ite.edu.sg/admissions/full-time-courses/nitec-and-3-year-higher-nitec/early-admissions-exercise" rel="noopener noreferrer nofollow" target="_blank">ITE Early Admissions Exercise</a>&nbsp;</p>
 </li>
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2024-jae/2024-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">JAE Booklet 2024</a>
+<p><a href="https://www.moe.gov.sg/-/media/files/post-secondary/2025-jae/2025-jae-courses.pdf" rel="noopener noreferrer nofollow" target="_blank">JAE Booklet 2025</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/docs/default-source/admissions-docs/full-time/publications/admission-booklet/gce-n-admission-booklet-2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2024</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time- courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2025</a>
 </p>
 </li>
 <li>
@@ -147,50 +147,53 @@ Students who have yet to indicate their interest can email&nbsp;Ms Lum
 Ying Lee, Asst. Year Head (Secondary 4 &amp; 5) at&nbsp;<a href="mailto:lum_ying_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lum_ying_lee@moe.edu.sg</a>.</p>
 <p><strong>ECG Counsellor</strong>
 </p>
-<p>Students/Parents may get in touch with our ECG counsellor, Ms Ang Hui
-Min at&nbsp;<a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_min@moe.edu.sg</a>&nbsp;or
+<p>Students/Parents may get in touch with our ECG counsellor, Ms Brenda Lee
+at&nbsp;<a href="mailto:ang_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_min@moe.edu.sg</a>&nbsp;or
 via the booking form accessible at&nbsp;<a href="http://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/smssecg</a>.&nbsp;</p>
-<p>Consultations will be conducted on Mondays and Thursdays at the ECG Room
-in the School Library, 7.30 am – 5.00 pm.</p>
+<p>Consultations will be conducted on Mondays and Tuesdays at the Student
+Services Hub located beside the School Library, 7.30 am to 5.00 pm.</p>
 <h2>Details of Post Secondary Pathways</h2>
 <p>Students will find useful information and links in the summaries below:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Secondary 4 (2024)</p>
+<p>Secondary 1 and 2 (2025)</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Secondary 2 &amp; 3 (2024)</p>
+<p>Secondary 3 to 5 (2025)</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___O__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-  school-experience.html" rel="noopener nofollow" target="_blank">Secondary school experience under Full SBB</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___2024_Sec_2___3_O_level_cohort.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___NA__cao_Nov_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/SMS_S____Education_Pathways__for_2024_Sec_2___3_NA_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
+<p><a href="/files/SMSS___Education_Pathways___2025_Sec_3___4_5_O_level_cohort.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (O)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMSS___Education_Pathways___NT__cao_Feb_2023___Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/faq.html#pfp" rel="noopener nofollow" target="_blank">Changes to Post-Secondary Admissions</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/SMS_S____Education_Pathways___for_2024_Sec_2___3_NT_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
+<p><a href="/files/SMS_S____Education_Pathways___for_2025_Sec_3___4_NA_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NA)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/SMS_S____Education_Pathways___for_2025_Sec_3___4_NT_students.pdf" rel="noopener noreferrer nofollow" target="_blank">Education Pathways (NT)</a>
 </p>
 </td>
 </tr>
