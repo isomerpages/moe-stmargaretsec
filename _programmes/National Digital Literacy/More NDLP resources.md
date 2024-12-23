@@ -12,8 +12,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (Part </a>
-<a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener nofollow" target="_blank">file</a><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">1)</a>
+<p><a href="/files/IP2___Parent_Handbook__I__2025.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook on Learning with a PLD (Part 1)</a>
 </p>
 </li>
 <li>
