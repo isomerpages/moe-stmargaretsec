@@ -32,11 +32,6 @@ sections:
           announcement: For more details, please click the link below.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/2025-booklist-and-stationery/
-        - title: Briefing Slides for Release of N-Level Results
-          date: 16 December 2024
-          announcement: For more details, please click on the link below
-          link_text: Click here
-          link_url: https://stmargaretssec.moe.edu.sg/briefing-slides-for-release-of-n-level-results/
   - textcards:
       title: Secondary 1 (2025)
       subtitle: 2025 intake
