@@ -5,4 +5,24 @@ description: ""
 third_nav_title: National Digital Literacy
 variant: tiptap
 ---
-<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/screenshot%202023-07-13%20084454.png"></div><p>St. Margaret's School (Secondary) aims to empower students to become future-ready learners who navigate the digital age, adapt to change, and contribute meaningfully to society. Our National Digital Literacy Programme nurtures critical thinking and information literacy skills. Through strategic integration of ICT, students analyze, evaluate, and synthesize information from digital sources, developing a discerning mindset. Classroom activities, enrichment programmes and competitions give students the opportunities to practice think, apply and create which help to foster computational thinking, problem-solving, and logical reasoning competencies as well as creativity and innovation in our students. By honing digital literacy skills, students effectively and responsibly use technology for learning and growth. They leverage digital tools and platforms to enhance their education, taking ownership of their learning journeys and adapting to new information and technologies. Collaboration, appreciation of diversity, and contribution to an inclusive learning environment are nurtured. Students become socially responsible citizens who engage with their communities and make meaningful contributions to society.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMSS_EdTech_Vision_and_Student_Framework__updated_v2_.png">
+</div>
+<p></p>
+<p>St. Margaret’s School (Secondary) equips students with digital competencies,
+literacy skills, and opportunities to become future-ready, other-centered
+learners with a growth mindset. Harnessing the affordance of technology,
+students learn continuously, build positive connections, and contribute
+meaningfully to society.</p>
+<p>Equipped with various digital literacy competencies, students can effectively
+use digital productivity tools and platforms to support their learning
+inside and outside the classroom, foster digital collaboration, and encourage
+self-directed learning. They will also become socially responsible citizens
+who practise cyber wellness and navigate digital spaces safely, ethically,
+and effectively.</p>
+<p>By integrating ICT into the curriculum and offering technology-based enrichment
+programs and competitions, students gain opportunities to practise “Find,
+Think, Apply, and Create”. This approach develops computational thinking,
+problem-solving, and logical reasoning skills. As students creatively and
+skillfully use a range of digital tools, they also learn empathy, identifying
+needs and developing solutions. for real-world problems</p>
