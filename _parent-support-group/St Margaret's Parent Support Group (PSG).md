@@ -19,11 +19,10 @@ in enriching our girls’ SMS(S) education experience. Some key programmes
 supported by the PSG include school learning journeys, post-examination
 activities and NE commemorative days.</p>
 <h4>PSG Activities and Resources for Parents</h4>
-<p>&nbsp;<strong>Volunteering for school events / activities</strong>
+<p><strong>Volunteering for school events / activities</strong>
 </p>
 <p>Parents who would like to&nbsp;share their creative ideas / interest in
 art forms or contribute their time to helping out in PSG-supported school
-activities can contact HOD/Corporate Communications, Mdm Premela Prabakaran
-at&nbsp;<a href="mailto:premela_prabakaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">premela_prabakaran@moe.edu.sg</a>.</p>
+activities can contact, Mrs Jean Tan at&nbsp;<a href="mailto:tan_lay_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ching@moe.edu.sg</a>.</p>
 <p></p>
 <p></p>
