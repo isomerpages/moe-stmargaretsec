@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: Monthly Letter from Principal
           description: ""
-          url: https://stmargaretssec.moe.edu.sg/announcements/year2024/
+          url: https://stmargaretssec.moe.edu.sg/year-2025/
         - title: Useful Links
           description: (For Students)
           url: /resources/for-students/useful-links/
@@ -41,8 +41,4 @@ sections:
           description: For more details, please click on the link below.
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
-        - title: Application to Transfer Out from SMS(S)
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/application-to-transfer-out-from-st-margaret-s-school-secondary/
 ---
