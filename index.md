@@ -41,8 +41,4 @@ sections:
           description: For more details, please click on the link below.
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
-        - title: Application to Transfer Out from SMS(S)
-          description: ""
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/application-to-transfer-out-from-st-margaret-s-school-secondary/
 ---
