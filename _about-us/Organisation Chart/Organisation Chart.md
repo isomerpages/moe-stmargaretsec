@@ -29,7 +29,7 @@ variant: tiptap
 <p>Mrs Esther Lau - Social Studies</p>
 <h4><br>Subject Heads</h4>
 <p>Ms Karen Tan - SH/Student Well-Being
-<br>Mr Tan Hee Ming - SH/<a href="https://www.stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education-and-co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
+<br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
 <br>Mrs Teo Sook Lee - SH/<a href="/about-us/organisation-chart/information-and-communications-technology" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (Edtech)</a>
 <br>Mrs Keira Lim - SH/Teaching and Learning with Educational Technology
 <br>Mrs Jean Tan - SH/CCE-Education and Career Guidance and Partnership
