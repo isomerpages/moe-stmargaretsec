@@ -1,6 +1,6 @@
 ---
-title: Physical Education and Co-curricular Activities
-permalink: /about-us/organisation-chart/physical-education-and-co-curricular-activities/
+title: Physical Education
+permalink: /about-us/organisation-chart/physical-education/
 description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
@@ -21,12 +21,12 @@ variant: tiptap
 <p>Mr Tan Hee Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Physical Education and Co-curricular Activities</p>
+<p>SH/Physical Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Daniel Ling Siong Kiat</p>
+<p>Mr&nbsp;Daniel Ling Siong Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Daniel Teng Charng Ther</p>
+<p>Mr&nbsp;Daniel Teng Charng Ther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Nicholas Koh Wei-Chong</p>
+<p>Mr Nicholas Koh Wei-Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +50,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Teh Wee Siong</p>
+<p>Mrs Madeline Seow Mei Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Wong Ann Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

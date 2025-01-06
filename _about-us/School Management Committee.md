@@ -17,26 +17,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Professor Lawrence Boo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chairman / Supervisor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Charis Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vice-Chairperson / Bishop's Nominee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Deborah Tengara</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Honorary Treasurer / St. John's St. Margaret's Church Representative</p>
+<p>Chairperson/Bishop's Nominee</p>
 </td>
 </tr>
 <tr>
@@ -57,14 +41,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Alice Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Diocesan Secretary of Schools</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Irene Chua</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -73,18 +49,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Soo Kwan</p>
+<p>Ms Leong Wee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Andrew's Cathedral PCC Representative</p>
+<p>Hon Treasurer /Co-opted Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Canon Barry Leong</p>
+<p>Revd Christopher Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chaplain, St. John's Chapel (SJCp)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chay Siew Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St John’s-St Margaret’s (SJSM) PCC rep</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Soo Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St. Andrew's Cathedral PCC Representative</p>
 </td>
 </tr>
 <tr>
@@ -113,7 +105,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Chung</p>
+<p>Mrs Cheryl Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Margaret's School (Primary) Parents' Representative</p>

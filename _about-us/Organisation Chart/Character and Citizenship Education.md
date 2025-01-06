@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -26,14 +30,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Character and Citizenship Education (CCE)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ang Hui Min</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Education and Career Guidance Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -60,9 +56,29 @@ variant: tiptap
 <p>Student Welfare Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Brenda Lee Ai Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education and Career Guidance Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Mok Sin Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adjt School Counsellor</p>
+</td>
+</tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">

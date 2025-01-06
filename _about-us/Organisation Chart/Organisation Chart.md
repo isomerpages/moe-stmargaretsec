@@ -19,7 +19,8 @@ variant: tiptap
 <br>Mrs Tham Chuan Chuan - HOD/<a href="/about-us/organisation-chart/aesthetics-craft-and-technology" rel="noopener noreferrer nofollow" target="_blank">Aesthetics, Craft and Technology</a>
 <br>Mr Lim Bing Hui - HOD/Student Development
 <br>Mrs Foo Kar Hiang - HOD/<a href="/about-us/organisation-chart/character-and-citizenship-education" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
-<br>Mdm Premela d/o Prabakaran - HOD/Corporate Communications</p>
+<br>
+</p>
 <p></p>
 <h4>School Staff Developer</h4>
 <p>Ms Esther Wong Teck Yen</p>
@@ -28,14 +29,15 @@ variant: tiptap
 <p>Mrs Esther Lau - Social Studies</p>
 <h4><br>Subject Heads</h4>
 <p>Ms Karen Tan - SH/Student Well-Being
-<br>Mr Tan Hee Ming - SH/<a href="https://www.stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education-and-co-curricular-activities/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education and Co-Curricular Activities</u></a>
+<br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
 <br>Mrs Teo Sook Lee - SH/<a href="/about-us/organisation-chart/information-and-communications-technology" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (Edtech)</a>
 <br>Mrs Keira Lim - SH/Teaching and Learning with Educational Technology
 <br>Mrs Jean Tan - SH/CCE-Education and Career Guidance and Partnership
-<br>Mdm Kwang Wan Yi - SH/CCE-National Education and Salt &amp; Light Programme
 <br>Ms Bernadette Lim - SH/Additional Mathematics
-<br>Mrs Priscilla Lim - SH/Geography (Internal)
-<br>Ms Cao Yu - SH/Student Leadership</p>
+<br>Mrs Priscilla Lim - SH/Geography
+<br>Ms Cao Yu - SH/Student Leadership
+<br>Mr Eugene Wong - SH/Chemistry
+<br>Ms Ang Wen Ting - SH/Student Management (Internal)</p>
 <p></p>
 <h4>Level Heads</h4>
 <p>Mrs Kok-Ong Lin Jin - LH/Lower Secondary Science
@@ -46,13 +48,13 @@ variant: tiptap
 <br>Mrs Lee-Ang Siew Chin - Nutrition and Food Science
 <br>Ms Anna Shen - Literature
 <br>Ms Katherine Li - Biology
-<br>Ms Grace Wee - Geography (Internal)
+<br>Ms Grace Wee - ST/Geography
 <br>Ms Ho Wai Yu - Mathematics</p>
 <h4><br>Assistant Year Heads</h4>
-<p>Mdm Suryati Mail - Secondary 1
-<br>Ms Carol Soh - Secondary 2
+<p>Mdm Suryati Mail - Year Head (Lower Sec)
+<br>Ms Carol Soh - AYH Secondary 1
 <br>Ms Lum Ying Lee - Secondary 3
-<br>Mrs Sharon Tan - Secondary 4 &amp; 5</p>
+<br>Mrs Sharon Tan - Year Head (Upper Sec)</p>
 <h4><br>School Administration Team</h4>
 <p>Ms Lian Chuen Ann - Administration Manager 1
 <br>Ms Doreen Owyong Siew Leng - Administration Manager 2
