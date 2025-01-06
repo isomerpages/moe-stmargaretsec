@@ -5,7 +5,11 @@ description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
@@ -33,23 +37,7 @@ variant: tiptap
 <p>Ms Karen&nbsp;Tan Meng Sie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Well-Being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Benjamin Yeong Whye Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Fairoz-Ramlah Ahmad</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Aesthetics</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +90,31 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp; Vanaja Suppiah</p>
+<p>Ms Mayer Chan Moo Nin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Sumarni Binte Selamat&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Meng Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm&nbsp;Vanaja Suppiah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nutrition and Food Science Assistant</p>
@@ -118,7 +130,11 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
