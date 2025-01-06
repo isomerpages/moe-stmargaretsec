@@ -148,7 +148,7 @@ Ying Lee, Asst. Year Head (Secondary 4 &amp; 5) at&nbsp;<a href="mailto:lum_ying
 at <a href="lee_ai_ping_brenda@moe.edu.sg" rel="noopener nofollow" target="_blank">lee_ai_ping_brenda@moe.edu.sg </a>or
 via the booking form accessible at <a href="http://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/smssecg</a>. Students are reminded
 to schedule appointments at times that do not conflict with their lessons
-or other school commitments, such as CCA. <a href="http://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/smssecg</a>.</p>
+or other school commitments, such as CCA.</p>
 <p>Consultations will be conducted on Mondays and Tuesdays at the Student
 Services Hub located beside the School Library, 7.30 am to 5.00 pm.</p>
 <h2>Details of Post Secondary Pathways</h2>
