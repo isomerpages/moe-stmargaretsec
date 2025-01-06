@@ -46,7 +46,7 @@ variant: tiptap
 <p>Mrs Sharon Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. YH Secondary 4 &amp; 5</p>
+<p>Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
@@ -94,15 +94,15 @@ variant: tiptap
 <p>Ms Ang Wen Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Student Management (Internal)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Adrian Sim</p>
+<p>Mr Eugene Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Chemistry</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Mok Lai Koin</p>
+<p>Mdm Susan Wong Toi Kuan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -147,7 +147,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Ng Song Foo</p>
+<p>Mrs Julie Quah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
