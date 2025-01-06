@@ -45,7 +45,15 @@ variant: tiptap
 <p>Mdm Suryati Bte Mail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. YH Secondary 1</p>
+<p>Year Head (Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Huang Haiying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH Chinese Language (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -75,14 +83,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms&nbsp;Florence&nbsp;Chang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Huang Haiying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -154,23 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Elavaini Krishnamoorthy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Yusnita Bte Mohamed Yusoff</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Thiilagah Rajandra</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
