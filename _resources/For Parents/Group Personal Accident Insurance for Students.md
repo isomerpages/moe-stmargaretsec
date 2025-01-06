@@ -12,11 +12,11 @@ which provides coverage when she is</p>
 <p>In school;</p>
 </li>
 <li>
-<p>Participating in the school’s activities, or any activity related to the
-school, including home-based learning &amp; blended learning, Co-Curricular
+<p>Participating in the school’s activities, or any activity related to or
+endorsed by the school, including Home-Based Learning (HBL), Co-Curricular
 Activities (“CCAs”) and sports, regardless of the time at which such activities
-are conducted and whether the activity is conducted in the school, in Singapore,
-or elsewhere;</p>
+are conducted and whether the activities are conducted in the school, in
+Singapore, or elsewhere;</p>
 </li>
 <li>
 <p>Commuting from (or to) her place of residence, including a hostel, to
@@ -38,7 +38,7 @@ insurance can be found&nbsp;<a href="https://www.income.com.sg/studentgpa" rel="
 </p>
 </li>
 <li>
-<p><a href="/files/Product_Fact_Sheet__Year_2024_May__Revised.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Fact Sheet Year 2024</a>
+<p><a href="/files/Product_Fact_Sheet__Year_2025_.pdf" rel="noopener nofollow" target="_blank">Product Fact Sheet Year 2025</a>
 </p>
 </li>
 </ol>
