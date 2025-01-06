@@ -26,22 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Premela d/o Prabakaran</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Corporate Communications</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Kwang Wan Yi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH CCE-National Education and Salt &amp; Light Programme</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Anna Shen</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,14 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Cindy Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Elyana Insyirah Esman</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,39 +74,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ho Yu Zhen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Julie Anthony</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Leong Fang Shao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Lucy Seet-Hing Miaw Ngo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Michelle Mok</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -163,6 +107,30 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Yan Tong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Janarthanan Ahalya</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Colin Chia Wei Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Wong Soo Hsin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
