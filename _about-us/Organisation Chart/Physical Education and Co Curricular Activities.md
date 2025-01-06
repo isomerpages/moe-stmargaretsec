@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Daniel Ling Siong Kiat</p>
+<p>Mr&nbsp;Daniel Ling Siong Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Daniel Teng Charng Ther</p>
+<p>Mr&nbsp;Daniel Teng Charng Ther</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Nicholas Koh Wei-Chong</p>
+<p>Mr Nicholas Koh Wei-Chong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
