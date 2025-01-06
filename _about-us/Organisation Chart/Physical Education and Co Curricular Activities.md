@@ -21,7 +21,7 @@ variant: tiptap
 <p>Mr Tan Hee Ming</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Physical Education and Co-curricular Activities</p>
+<p>SH/Physical Education</p>
 </td>
 </tr>
 <tr>
@@ -43,14 +43,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr&nbsp; Nicholas Koh Wei-Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr&nbsp; Teh Wee Siong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
