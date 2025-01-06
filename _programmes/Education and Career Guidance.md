@@ -45,9 +45,6 @@ or DSA, teacher mentorship and training in portfolio-building, course specific
 write-up and interview skills are conducted. The following lists the information
 related to the school programmes. Our students can refer to the&nbsp;
 <a href="https://sites.google.com/moe.edu.sg/smssstudentsportal/ecg" rel="noopener noreferrer nofollow" target="_blank">Student Learning Site</a>&nbsp;for more details on these programmes</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%203%20-%20ecgc%20sharing%20(3).jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%204%20-%20wajs%20(3).jpg">
