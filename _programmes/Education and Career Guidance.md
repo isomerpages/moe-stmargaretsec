@@ -148,7 +148,7 @@ Ying Lee, Asst. Year Head (Secondary 4 &amp; 5) at&nbsp;<a href="mailto:lum_ying
 <p><strong>ECG Counsellor</strong>
 </p>
 <p>Students/Parents may get in touch with our ECG counsellor, Ms Brenda Lee
-at <a href="mailto:lee_ai_ping_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ai_ping_brenda@moe.edu.sg</a>.</p>
+at <a href="http://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/smssecg</a>.</p>
 <p>Consultations will be conducted on Mondays and Tuesdays at the Student
 Services Hub located beside the School Library, 7.30 am to 5.00 pm.</p>
 <h2>Details of Post Secondary Pathways</h2>
