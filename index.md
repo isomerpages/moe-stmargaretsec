@@ -27,6 +27,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Release of 2024 GCE O-Level Results Briefing Slide
+          date: 10 January 2025
+          announcement: 2024 GCE O-Level Results Briefing Slide
+          link_text: Click here
+          link_url: https://go.gov.sg/release-of-olevel-results
         - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
           date: 17 December 2024
           announcement: For more details, please click the link below.
