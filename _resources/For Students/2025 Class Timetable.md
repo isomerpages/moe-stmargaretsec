@@ -5,6 +5,6 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<p>2024 Term 3 Timetable
-<br><a href="/files/Term_3_Timetable_202406201546_Class.pdf" rel="noopener noreferrer nofollow" target="_blank">Term 3 Timetable</a>
+<p>2025 Term 1 Timetable
+<br><a href="/files/Term_1_Timetable_20250108_Students.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
