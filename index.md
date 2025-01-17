@@ -7,8 +7,7 @@ description: St. Margaret's School (Secondary) is a government-aided autonomous
   often regarded as the oldest existing girls' school in Southeast Asia.
 image: /images/School Logo (2023).jpg
 permalink: /
-notification: Secondary 1 (2025 Intake) information is now available.  You can
-  access it by scrolling down to the info cards section below.
+notification: ""
 sections:
   - hero:
       background: /images/Homepage-isomer-New.gif
@@ -27,11 +26,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: Release of 2024 GCE O-Level Results Briefing Slide
-          date: 10 January 2025
-          announcement: 2024 GCE O-Level Results Briefing Slide
-          link_text: Click here
-          link_url: https://go.gov.sg/release-of-olevel-results
         - title: 2025 Booklists and Uniform Info Sheet for students from Secondary 1 to 5
           date: 17 December 2024
           announcement: For more details, please click the link below.
