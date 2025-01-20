@@ -25,26 +25,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Linda Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Principal, St. Margaret's School (Secondary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Ko-Tan Li Ling</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Secretary / Principal, St. Margaret's School (Primary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Irene Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Bishop's Nominee</p>
+<p>Vice Chairperson/Bishop's Nominee</p>
 </td>
 </tr>
 <tr>
@@ -52,31 +36,24 @@ variant: tiptap
 <p>Ms Leong Wee Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hon Treasurer /Co-opted Member</p>
+<p>Honorary Treasurer</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Revd Christopher Ng</p>
+<p>Mrs Ko-Tan Li Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chaplain, St. John's Chapel (SJCp)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chay Siew Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St John’s-St Margaret’s (SJSM) PCC rep</p>
+<p>Secretary / Principal
+<br>(SMS(P))</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Miss Lee Soo Kwan</p>
+<p>Ms Linda Lim Hui Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Andrew's Cathedral PCC Representative</p>
+<p>Principal (SMS(S))</p>
 </td>
 </tr>
 <tr>
@@ -84,31 +61,39 @@ variant: tiptap
 <p>Rev Bertram Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chaplain, Chapel of Christ the King (CCK)</p>
+<p>SMSP Chaplain</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Chew Siew Kheng</p>
+<p>Revd Christopher Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret's Ex-Students' Association Representative</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Jun Pang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>St. Margaret's School (Secondary) Parents' Representative</p>
+<p>SMSS Chaplain</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Teo</p>
+<p>Dr Tan Bee Geok</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret's School (Primary) Parents' Representative</p>
+<p>Diocesan Secretary for Schools</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lee Soo Kwan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St Andrew’s Cathedral (PCC Rep)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chay Siew Ping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>St John’s-St Margaret’s (PCC Rep)</p>
 </td>
 </tr>
 <tr>
@@ -116,15 +101,31 @@ variant: tiptap
 <p>Ms Lee Zhuomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
+<p>Co-opted member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Leong Wee Lee</p>
+<p>Mdm Chew Siew Kheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Co-opted Member</p>
+<p>SMESA President (SMESA Rep)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Cheryl Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PTA Chairperson (PTA Rep)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Jun Pang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>PSG Chairperson (PSG Rep)</p>
 </td>
 </tr>
 </tbody>
