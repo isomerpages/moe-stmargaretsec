@@ -28,7 +28,7 @@ variant: tiptap
 <h4>Lead Teacher</h4>
 <p>Mrs Esther Lau - Social Studies</p>
 <h4><br>Subject Heads</h4>
-<p>Ms Karen Tan - SH/Student Well-Being
+<p>Ms Karen Tan - SH/Aesthetics
 <br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
 <br>Mrs Teo Sook Lee - SH/<a href="/about-us/organisation-chart/information-and-communications-technology" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (Edtech)</a>
 <br>Mrs Keira Lim - SH/Teaching and Learning with Educational Technology
@@ -37,7 +37,8 @@ variant: tiptap
 <br>Mrs Priscilla Lim - SH/Geography
 <br>Ms Cao Yu - SH/Student Leadership
 <br>Mr Eugene Wong - SH/Chemistry
-<br>Ms Ang Wen Ting - SH/Student Management (Internal)</p>
+<br>Ms Ang Wen Ting - SH/Student Management (Internal)
+<br>Mdm Huang Haiying - SH/CL (Internal)</p>
 <p></p>
 <h4>Level Heads</h4>
 <p>Mrs Kok-Ong Lin Jin - LH/Lower Secondary Science
@@ -48,13 +49,16 @@ variant: tiptap
 <br>Mrs Lee-Ang Siew Chin - Nutrition and Food Science
 <br>Ms Anna Shen - Literature
 <br>Ms Katherine Li - Biology
-<br>Ms Grace Wee - ST/Geography
+<br>Ms Grace Wee - Geography
 <br>Ms Ho Wai Yu - Mathematics</p>
+<h4><br>Year Heads</h4>
+<p>Mdm Suryati Mail - Lower Sec
+<br>Mrs Sharon Tan - Upper Sec</p>
 <h4><br>Assistant Year Heads</h4>
-<p>Mdm Suryati Mail - Year Head (Lower Sec)
+<p>
 <br>Ms Carol Soh - AYH Secondary 1
-<br>Ms Lum Ying Lee - Secondary 3
-<br>Mrs Sharon Tan - Year Head (Upper Sec)</p>
+<br>Mrs Serena Ajay - Sec 1 (Internal)
+<br>Ms Lum Ying Lee - Secondary 3</p>
 <h4><br>School Administration Team</h4>
 <p>Ms Lian Chuen Ann - Administration Manager 1
 <br>Ms Doreen Owyong Siew Leng - Administration Manager 2
