@@ -56,7 +56,7 @@ variant: tiptap
 <br>Mrs Sharon Tan - Upper Sec</p>
 <h4><br>Assistant Year Heads</h4>
 <p>
-<br>Ms Carol Soh - AYH Secondary 1
+<br>Ms Carol Soh - Secondary 1
 <br>Mrs Serena Ajay - Sec 1 (Internal)
 <br>Ms Lum Ying Lee - Secondary 3</p>
 <h4><br>School Administration Team</h4>
