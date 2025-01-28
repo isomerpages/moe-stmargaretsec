@@ -74,15 +74,11 @@ which are of prime concern at this age.</p>
 <p>At St. Margaret’s School (Secondary), the following Sexuality Education
 lessons will be taught in 2025:</p>
 </blockquote>
-<p><a href="/files/SexEd2024__Sec1_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 1)</a>
-</p>
-<p><a href="/files/SexEd2024__Sec2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 2)</a>
-</p>
-<p><a href="/files/SexEd2024__Sec3_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 3)</a>
-</p>
-<p><a href="/files/SexEd2024__Sec4_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 4)</a>
-</p>
-<p><a href="/files/SexEd2024__Sec5_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 5)</a>
+<p><a href="/files/SexEd2025__Sec1_.pdf" rel="noopener nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 1)</a>
+<br><a href="/files/SexEd2025__Sec2_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 2)</a>
+<br><a href="/files/SexEd2025__Sec3_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 3)</a>
+<br><a href="/files/SexEd2025__Sec4_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 4)</a>
+<br><a href="/files/SexEd2025__Sec5_.pdf" rel="noopener noreferrer nofollow" target="_blank">SMS(S) Sexuality Education (Secondary 5)</a>
 </p>
 <hr>
 <p></p>
