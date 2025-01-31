@@ -31,13 +31,4 @@ sections:
           announcement: For more details, please click the link below.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/2025-booklist-and-stationery/
-  - textcards:
-      title: Secondary 1 (2025)
-      subtitle: 2025 intake
-      id: textcards
-      cards:
-        - title: Secondary 1 (2025 Intake)
-          description: For more details, please click on the link below.
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/secondary-1-2025-intake/
 ---
