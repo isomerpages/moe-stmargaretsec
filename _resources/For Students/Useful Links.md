@@ -53,9 +53,9 @@ Ms Cynthia Kong, our school counsellor.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Margaret's School (Secondary) ECG Counsellor - Students/ parents may
-email our school ECG counsellor, Ms Ang Hui Min, to book a session for
-consultation.
-<br>Email:&nbsp;<a href="mailto:ang_hui_min@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_min@schools.gov.sg</a> 
+email our school ECG counsellor, <strong>Ms Brenda Lee</strong>, to book
+a session for consultation.
+<br>Email:&nbsp;<a href="mailto:lee_ai_ping_brenda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_ai_ping_brenda@moe.edu.sg</a>
 <br>E-Appointment system:&nbsp;<a href="https://go.gov.sg/smssecg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/smssecg</a>
 </p>
 </td>
@@ -66,7 +66,7 @@ consultation.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret'sSchool (Secondary) ICT Service Hub for password reset and
+<p>St. Margaret's School (Secondary) ICT Service Hub for password reset and
 ICT-related matters.</p>
 </td>
 </tr>
