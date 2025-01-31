@@ -102,7 +102,7 @@ are the key messages.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/SED.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eTeens_overview_for_website.jpg">
 </div>
 <p></p>
 <h4>Information for Parents</h4>
