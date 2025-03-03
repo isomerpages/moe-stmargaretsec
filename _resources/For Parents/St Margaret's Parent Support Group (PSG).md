@@ -15,8 +15,8 @@ variant: tiptap
 home-school partnership is essential for the holistic development of our
 students. Opportunities are available for parents/guardians to partner
 and support the school’s programmes.&nbsp;Parents / Guardians who are interested
-to partner with us are invited to email Ms Jean Tan (<a rel="noopener noreferrer nofollow" target="_blank">tan_lay_ching@moe.edu.sg</a>)
-and Ms Huang Haiying (<a rel="noopener noreferrer nofollow" target="_blank">huang_haiying@moe.edu.sg</a>).</p>
+to partner with us are invited to email Ms Jean Tan (<a rel="noopener noreferrer nofollow" target="_blank">tan_lay_ching@moe.edu.sg</a>) and Ms
+Huang Haiying (<a rel="noopener noreferrer nofollow" target="_blank">huang_haiying@moe.edu.sg</a>).</p>
 <h2>PSG Activities and Resources for Parents</h2>
 <p><strong>Parent Support Group (PSG)</strong>
 </p>
