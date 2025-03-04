@@ -96,6 +96,14 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Geannie Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
