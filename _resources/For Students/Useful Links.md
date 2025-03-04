@@ -62,12 +62,16 @@ a session for consultation.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/6241170c01266700127a5b8e" rel="noopener noreferrer nofollow" target="_blank">SMS(S) ICT Service Hub</a>
+<p><a href="https://sites.google.com/moe.edu.sg/stmargssphere/ict-st-margarets-sec" rel="noopener noreferrer nofollow" target="_blank">SMS(S) ICT Service Hub</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>St. Margaret's School (Secondary) ICT Service Hub for password reset and
-ICT-related matters.</p>
+<p><strong>Your One-Stop Portal for ICT Support</strong>
+</p>
+<p>The <strong>ICT Service Hub</strong> at St. Margaret’s School (Secondary)
+is a dedicated platform designed to support students in their digital learning
+journey. Whether you need to reset your password, troubleshoot device issues,
+or access step-by-step guides, our hub is here to help!</p>
 </td>
 </tr>
 <tr>
