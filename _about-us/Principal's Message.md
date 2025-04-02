@@ -6,19 +6,27 @@ variant: markdown
 ---
 <img src="/images/Principals%20Photo-white%202.jpg" style="width:40%" align="left">
 
-2023 brings new beginnings, new hopes and new opportunities. I pray and trust that we will learn and grow to be better versions of ourselves. I believe that God has much in store for us as we continue to work together with the primary school to hone our identity as St. Margaret’s School (Primary) and St. Margaret’s School (Secondary). May we continue to fix our eyes on God our Provider, believing that He will enable us to make a difference and help us to be a blessing to people around us.&nbsp;
+As I reflect on our journey, I am filled with gratitude and optimism for the continuing growth of St Margaret’s School. Our theme of "#YouAreBeautiful" in 2024 continues to resonate deeply within our community, reminding us that each student is fearfully and wonderfully made, possessing unique gifts and the potential to blossom, nurture and flourish.
 
-In 2023, we will continue to work on the theme we embraced in 2022 – “Let your light shine before men; that they may see your good works, and glorify your Father who is in heaven” (Matthew 5:16). It is indeed our collective prayer that the light of God shines forth in our school and each member of our community be able to serve God, the Country and the Community as clearly expounded in our school mission statement.
+At St Margaret's, we believe that true beauty emanates from within—through character, compassion, and the courage to shine. There have been countless examples of our students embodying these qualities, whether through their academic or non-academic achievements, service to others, or the way they support one another through challenges.
 
-Let us also, as a community – staff, alumni, parents, students – work at living out our commitment to #BeWell, #BeConnected and #BeALight. As a community, we continue our endeavor to look after the wellness of each child as we help nurture her and grow her talents, potential and areas of strength. I look forward to another year where we see our students connecting with family, friends and the community, learning more about themselves and how they can serve and be a blessing.
+Our strategic focus remains the same: to nurture future-ready learners with growth mindsets, who are other-centred and dedicated members of the St Margaret's family. We continue to emphasize the importance of being well (#BeWell), fostering meaningful connections (#BeConnected), and shining as beacons of hope (#BeALight) in our community and beyond.
 
-I would also like to share that we collectively work towards nurturing our young ladies to be learners who (1) are future-ready; (2) possess a growth mindset; (3) are other-centered and (4) dedicated members of the St. Margaret’s family. With strong partnerships and a dedicated staff, let us press on in our undaunted effort to make that positive impact in the lives of our students that they can indeed grow and glow in a caring and enabling environment.&nbsp;
+As we embrace the opportunities ahead, I am reminded of the words penned by one of our students: "Through the struggles, a butterfly emerges, what you thought was a flaw turns into your superpower." Indeed, this captures the essence of our educational journey at St Margaret's—transforming challenges into stepping stones for growth.
 
-As the world emerges from the Covid-19 pandemic and we take bold and careful steps into 2023, let us be reminded that “Thus far, the Lord has helped us” (1 Samuel 7:12). God has indeed protected and seen us through the past few years and we believe that He will be our fount of blessings moving forward.
+As beacons of hope, we hope our students will show the Fruit of the Spirit—Love, Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, and Temperance. To these virtues, we add Devotion, weaving in our cherished School Motto. These qualities are not merely words; they are lived experiences in our classrooms, corridors, and beyond our school gates. When our students demonstrate patience in supporting a classmate, show kindness in community service, or express joy in celebrating others' achievements, they illuminate the path for others to follow.
 
-To God Be the Glory!&nbsp;
+In 2024, we started implementing Full Subject-Based Banding (FSBB). I am deeply encouraged by how our students have embraced this new approach to learning, demonstrating remarkable enthusiasm and adaptability. FSBB has given greater flexibility for the girls to pursue subjects at different levels based on their strengths and interests. The Sec 1 cohort also showcased their learning at the inaugural Sparks Learning Festival in October 2024. Our students' presentations and projects demonstrated not just their gleanings of the common curriculum but the resilience needed to keep learning. Their achievements reflect the potential of this educational transformation and reinforce our commitment to providing diverse learning opportunities that cater to each student's unique potential.
 
-Linda Lim  
+I would also like to express our deepest gratitude to Professor Lawrence Boo, who retired as Chairman of our School Management Committee at the end of 2024, after 32 remarkable years of undaunted service to education and to St Margaret’s. His unwavering dedication, wisdom, and passionate commitment to education have been instrumental in shaping St Margaret's into the institution it is today. Under his guidance and leadership, both St. Margaret’s School (Secondary) and St Margaret’s School (Primary) had been blessed and his legacy will continue to inspire many to come.
+
+This year, we warmly welcome Ms. Charis Tan as our new Chairperson of the School Management Committee. Her wealth of experience and vision for education aligns well with our school's mission to nurture young women of character and purpose. We look forward to her leadership as we continue to write new chapters in the St Margaret's story.
+
+As we move forward together, let us remember that each member of our St Margaret's family is beautiful, loved, and capable of making a positive difference in the world. May we continue to grow in grace and wisdom, supporting one another as we strive for excellence in all we do.
+
+To God be the Glory!
+
+Linda Lim
 
 Principal
 
