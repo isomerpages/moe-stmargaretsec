@@ -44,7 +44,7 @@ Programme and ECG Fest. To provide support to students applying for EAE
 or DSA, teacher mentorship and training in portfolio-building, course specific
 write-up and interview skills are conducted. The following lists the information
 related to the school programmes. Our students can refer to the&nbsp;
-<a href="https://sites.google.com/moe.edu.sg/smssstudentsportal/ecg" rel="noopener noreferrer nofollow" target="_blank">Student Learning Site</a>&nbsp;for more details on these programmes</p>
+<a href="https://sites.google.com/moe.edu.sg/stmargssphere/ecg" rel="noopener noreferrer nofollow" target="_blank">Student Learning Site</a>&nbsp;for more details on these programmes</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%204%20-%20wajs%20(3).jpg">
@@ -125,7 +125,7 @@ and cutoff points are listed, can be accessed below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/docs/default-source/full-time- courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2025</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=sfvrsn=dc16f5ff_15" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2025</a>
 </p>
 </li>
 <li>
@@ -169,7 +169,7 @@ Services Hub located beside the School Library, 7.30 am to 5.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-  school-experience.html" rel="noopener nofollow" target="_blank">Secondary school experience under Full SBB</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener nofollow" target="_blank">Secondary school experience under Full SBB</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
