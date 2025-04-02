@@ -10,7 +10,7 @@ As I reflect on our journey, I am filled with gratitude and optimism for the con
 
 At St Margaret's, we believe that true beauty emanates from within—through character, compassion, and the courage to shine. There have been countless examples of our students embodying these qualities, whether through their academic or non-academic achievements, service to others, or the way they support one another through challenges.
 
-Our strategic focus remains the same: to nurture future-ready learners with growth mindsets, who are other-centred and dedicated members of the St Margaret's family. We continue to emphasize the importance of being well (#BeWell), fostering meaningful connections (#BeConnected), and shining as beacons of hope (#BeALight) in our community and beyond.
+Our strategic focus remains the same: to nurture future-ready learners with growth mindsets, who are other-centered and dedicated members of the St Margaret's family. We continue to emphasize the importance of being well (#BeWell), fostering meaningful connections (#BeConnected), and shining as beacons of hope (#BeALight) in our community and beyond.
 
 As we embrace the opportunities ahead, I am reminded of the words penned by one of our students: "Through the struggles, a butterfly emerges, what you thought was a flaw turns into your superpower." Indeed, this captures the essence of our educational journey at St Margaret's—transforming challenges into stepping stones for growth.
 
