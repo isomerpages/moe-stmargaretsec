@@ -125,7 +125,7 @@ and cutoff points are listed, can be accessed below:</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.ite.edu.sg/docs/default-source/full-time- courses-doc/ite-course-booklet-2025.pdf?sfvrsn=dc16f5ff_5" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2025</a>
+<p><a href="https://www.ite.edu.sg/docs/default-source/full-time-courses-doc/ite-course-booklet-2025.pdf?sfvrsn=sfvrsn=dc16f5ff_15" rel="noopener noreferrer nofollow" target="_blank">ITE Course Booklet 2025</a>
 </p>
 </li>
 <li>
@@ -169,7 +169,7 @@ Services Hub located beside the School Library, 7.30 am to 5.00 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-  school-experience.html" rel="noopener nofollow" target="_blank">Secondary school experience under Full SBB</a>
+<p><a href="https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/secondary-school-experience.html" rel="noopener nofollow" target="_blank">Secondary school experience under Full SBB</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
