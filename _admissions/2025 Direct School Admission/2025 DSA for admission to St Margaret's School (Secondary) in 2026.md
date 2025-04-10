@@ -14,4 +14,14 @@ third_nav_title: 2025 Direct School Admission
 our students’ <a href="https://www.stmargaretssec.moe.edu.sg/achievements/student-achievements/sports-and-games-awards/" rel="noopener nofollow" target="_blank">CCA achievements</a> for
 more details.</p>
 <p></p>
+<h4>Aesthetic Talent Area</h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetic_DSA_info.png">
+</div>
+<h4>Sports Talent Area</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sports_DSA_info.png">
+</div>
+<p></p>
 <p></p>
