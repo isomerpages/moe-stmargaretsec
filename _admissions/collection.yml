@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2024 Direct School Admission/.keep
-      - 2024 Direct School Admission/FAQs.md
       - Financial Matters.md
       - PSLE Scoring.md
       - Scholarships and Awards/.keep
