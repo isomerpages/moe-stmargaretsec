@@ -2,12 +2,12 @@ logo: /images/School Logo (2023).jpg
 links:
   - title: About Us
     collection: about-us
-  - title: Events
-    collection: events
-  - title: Resources
-    collection: resources
+  - title: Admissions
+    collection: admissions
   - title: Achievements
     collection: achievements
+  - title: Events
+    collection: events
   - title: Programmes
     url: /programmes/the-national-digital-literacy-programme-ndlp/
     sublinks:
@@ -27,7 +27,7 @@ links:
         url: /programmes/education-and-career-guidance\
       - title: DoTS
         url: https://sites.google.com/moe.edu.sg/smssdots/home
-  - title: Admissions
-    collection: admissions
+  - title: Resources
+    collection: resources
   - title: 180th Anniversary Celebrations
     collection: 180th-anniversary-celebrations
