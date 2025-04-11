@@ -140,7 +140,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>13-19 Art Prize Competition organised by The Rice Limited Company (TRLC)</p>
+<p>13-19 Art Prize Competition organized by The Rice Limited Company (TRLC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
