@@ -6,7 +6,12 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -31,11 +36,11 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Training Venues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>PAS</p>
+<p>Learning Lab</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>PAS</p>
@@ -43,7 +48,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Music Room</p>
+<p>ICT Lab 4 &amp; 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -51,23 +56,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Patience Room</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>ICT Lab 5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>MPR 3&amp;4</p>
+<p>MPR 1,2,3,4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -81,7 +70,12 @@ variant: tiptap
 <h2>Teacher-in-charge</h2>
 <p>Ms Ng Li Mei</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -93,6 +87,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
