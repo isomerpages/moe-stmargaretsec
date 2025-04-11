@@ -16,17 +16,31 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Group</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Upper Sec</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Lower Sec</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>All</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Training Days</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Monday</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Thursday</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Friday*</p>
-</th>
+</td>
+<td rowspan="1" colspan="1">
+<p>Friday</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
