@@ -85,18 +85,31 @@ variant: tiptap
 <p>Singapore Youth Festival Art Exhibition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition - 1 student</p>
+<p>Certificate of Recognition (Special Mention)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>2024</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Live On Festival 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Design Award - 1 student</p>
+<p>2024 Live On Design Festival (Distinction award)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Live On Festival 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Design Competition School Category (Special Mention)</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +121,7 @@ variant: tiptap
 <p>Singapore Youth Festival Art Exhibition&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Certificate of Recognition - 2 students&nbsp;</p>
+<p>Certificate of Recognition - Students</p>
 </td>
 </tr>
 <tr>
@@ -122,7 +135,7 @@ variant: tiptap
 <p>Live On Festival 2021&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Distinction Award - 1 student&nbsp;</p>
+<p>Distinction Award &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -130,7 +143,7 @@ variant: tiptap
 <p>13-19 Art Prize Competition organised by The Rice Limited Company (TRLC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Merit Award - 1 student&nbsp;</p>
+<p>Merit Award</p>
 </td>
 </tr>
 <tr>
