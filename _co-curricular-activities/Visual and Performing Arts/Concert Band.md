@@ -6,7 +6,12 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -52,7 +57,12 @@ variant: tiptap
 <h2>Teacher-in-charge</h2>
 <p>Ms Florence Chang</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
