@@ -64,7 +64,28 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mr Alvin Loh</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Alvin Loh
+<br>Mdm Liu Xin
+<br>Mrs Rajan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
