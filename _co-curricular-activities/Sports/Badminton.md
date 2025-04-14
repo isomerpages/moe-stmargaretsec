@@ -23,7 +23,7 @@ variant: tiptap
 <p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Wednesday*</p>
+<p>Thursday</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Friday</p>
@@ -34,13 +34,13 @@ variant: tiptap
 <p>Training Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 </tr>
 <tr>
@@ -48,10 +48,10 @@ variant: tiptap
 <p>Training Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 3</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 3</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Level 3</p>
