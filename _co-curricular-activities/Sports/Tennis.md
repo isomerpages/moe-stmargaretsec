@@ -6,17 +6,23 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Group</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Group A</p>
+<p>Group B</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Group B</p>
+<p>Group A</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Group C</p>
@@ -66,15 +72,22 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>This is an additional day of training scheduled due to competition and
-will only be conducted during the competition season.</p>
+<p>Each student will be assigned to a group and each group will only be training
+once a week.
+<br>There will be a change in training schedule during competition season.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis2.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mr Adrian Sim</p>
+<p><strong>Mrs Madeline Seow</strong>
+</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
