@@ -19,10 +19,10 @@ variant: tiptap
 <p>Training Days</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Monday*</p>
+<p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesday**</p>
+<p>Thursday*</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Friday</p>
@@ -33,7 +33,7 @@ variant: tiptap
 <p>Training Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>4.00pm-6.00pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3.00pm-6.00pm</p>
@@ -60,12 +60,36 @@ variant: tiptap
 </table>
 <p>*This is an additional day of training scheduled due to competition and
 will only be conducted during the competition season.
-<br>** Netball training is held on Tuesdays from Jan - Apr 2024</p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230213_smss-05195.jpg">
 </div>
-<h2>Teacher-in-charge</h2>
-<p>Mdm Choo Wai Yun</p>
+<h2>Teachers-in-charge</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mdm Choo Wai Yun
+<br>Ms Lum Ying Lee
+<br>Mrs Calyn Wee</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
