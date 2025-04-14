@@ -107,6 +107,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton National Championships 'C' Division Girls
+League</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Qualification</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
