@@ -46,8 +46,35 @@ dates of the event.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/npcc12023.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mdm Nur Aqilah
-<br>Mr Leong Fangshao (Covering)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Aqilah Ibrahim</strong>
+</p>
+<p><strong>Mr Leong Fangshao</strong>
+</p>
+<p><strong>Ms Ang Wen Ting</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -66,6 +93,51 @@ dates of the event.</p>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC Unit Overall Proficiency Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet 2024 (HQ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Students</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet 2024 (School)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Student</p>
+</td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
