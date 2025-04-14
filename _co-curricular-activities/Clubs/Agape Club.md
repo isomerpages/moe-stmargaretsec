@@ -44,7 +44,21 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/agapeclub1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mr Daniel Teng</p>
+<p></p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Mr Daniel Teng</strong>
+<br><strong>Mrs Kok Lin Jin</strong>
+</p>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -66,11 +80,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-school Christian Fellowship Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Overall Champion</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2024 Inter-School Christian Fellowship Challenge</p>
+<p>Inter-School Christian Fellowship Challenge</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1<sup>st</sup>, 2<sup>nd</sup> and 3<sup>rd</sup>
