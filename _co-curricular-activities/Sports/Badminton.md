@@ -59,8 +59,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*This is an additional day of training and will only be conducted during
-the competition season.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
 </div>
