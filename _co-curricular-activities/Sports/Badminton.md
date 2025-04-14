@@ -23,7 +23,7 @@ variant: tiptap
 <p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Wednesday*</p>
+<p>Thursday</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Friday</p>
@@ -34,13 +34,13 @@ variant: tiptap
 <p>Training Time</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2.45pm-5.45pm</p>
+<p>3.00pm-6.00pm</p>
 </td>
 </tr>
 <tr>
@@ -48,10 +48,10 @@ variant: tiptap
 <p>Training Venue</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 3</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ISH Level 3</p>
+<p>School Hall</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ISH Level 3</p>
@@ -59,13 +59,33 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p>*This is an additional day of training and will only be conducted during
-the competition season.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mr Alvin Loh</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Alvin Loh
+<br>Mdm Liu Xin
+<br>Mrs Rajan</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -84,6 +104,19 @@ the competition season.</p>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Badminton National Championships 'C' Division Girls
+League</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 Qualification</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

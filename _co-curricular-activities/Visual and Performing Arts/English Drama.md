@@ -6,7 +6,12 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -35,11 +40,10 @@ variant: tiptap
 <p>Training Venues</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performing Arts Studio</p>
+<p>IT Conference Room</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IT Conference Room
-<br>Dance Studio</p>
+<p>Performing Arts Studio</p>
 </td>
 </tr>
 </tbody>
@@ -48,9 +52,15 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/drama12023.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mdm Suriyati</p>
+<p><strong>Mdm Suriyati</strong>
+</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
