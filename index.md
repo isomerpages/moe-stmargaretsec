@@ -25,4 +25,14 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      announcement_items:
+        - title: School Graduation Certificate (SGC) Collection
+          date: 15 April 2025
+          announcement: The School Graduation Certificates for our 2024 SMS(S) graduates
+            can be collected from 17 April to 31 July 2025. Graduates can
+            collect their SGCs personally from the general office from Monday to
+            Friday, 8.30 am to 5.30 pm. Graduates are required to bring along
+            their identity cards for verification.
+          link_text: ""
+          link_url: ""
 ---
