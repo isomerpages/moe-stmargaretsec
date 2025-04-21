@@ -52,7 +52,30 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bowling1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Mr Benjamin Yeong</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mr Nicholas Koh</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Anitha Sekar</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Chong</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -71,6 +94,33 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 'B' Division Girls - Team
+Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>6<sup>th</sup>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games National Championships 'B' Division Girls - Doubles
+Overall</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>5<sup>th</sup>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
