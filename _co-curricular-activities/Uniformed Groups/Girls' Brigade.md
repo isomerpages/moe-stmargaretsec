@@ -39,7 +39,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Parade Square
 <br>St. John's Chapel
-<br>Secondary 3 Classrooms</p>
+<br>Design Studio A &amp; B</p>
 </td>
 </tr>
 </tbody>
@@ -51,7 +51,30 @@ dates of the event.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230216_smss-06881.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p>Mrs Serena Ajay</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Priscilla Choi</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Lee Siew Chin</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
@@ -75,6 +98,28 @@ dates of the event.</p>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Girls’ Brigade Singapore Company Award 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dr Loh Guat Tin Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Pioneer Brigadier Brooch Award</p>
