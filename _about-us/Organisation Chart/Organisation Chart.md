@@ -58,7 +58,7 @@ variant: tiptap
 <p>
 <br>Ms Carol Soh - Secondary 1
 <br>Mrs Serena Ajay - Sec 1 (Internal)
-<br>Ms Lum Ying Lee - Secondary 3</p>
+<br>Ms Lum Ying Lee - Secondary 4</p>
 <h4><br>School Administration Team</h4>
 <p>Ms Lian Chuen Ann - Administration Manager 1
 <br>Ms Doreen Owyong Siew Leng - Administration Manager 2
