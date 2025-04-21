@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>SYF 2025</p>
+<p>Singapore Youth Festival Arts Presentation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
