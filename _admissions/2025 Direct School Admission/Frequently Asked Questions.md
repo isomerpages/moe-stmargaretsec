@@ -10,7 +10,7 @@ third_nav_title: 2025 Direct School Admission
 <p><strong>1.&nbsp;&nbsp; What talents are the school looking for?</strong>
 </p>
 <p>St. Margaret’s School (Secondary) welcomes girls who are talented in the
-Aesthetics and Sports listed in the <a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/2025-direct-school-admission-exercise-dsa-sec/" rel="noopener nofollow" target="_blank">DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</a>.</p>
+Aesthetics and Sports listed in the <a href="https://www.stmargaretssec.moe.edu.sg/2025-direct-school-admission-exercise-dsa-sec/" rel="noopener nofollow" target="_blank">DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</a>.</p>
 <p>&nbsp;</p>
 <p><strong>2.&nbsp;&nbsp; What are the selection criteria?</strong>
 </p>
@@ -22,7 +22,7 @@ and criteria for&nbsp;<a href="/files/2025_Direct_School_Admission_Exercise_uplo
 <p>&nbsp;</p>
 <p><strong>3.&nbsp;&nbsp; How do I apply?</strong>
 </p>
-<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/application-process/" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
+<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/application-process/" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
 details.</p>
 <p>&nbsp;</p>
 <p><strong>4.&nbsp;&nbsp; When is the closing date for submitting the application?</strong>
@@ -37,7 +37,7 @@ to 7 August 2025.</p>
 <p>&nbsp;</p>
 <p><strong>6.&nbsp;&nbsp; What do I need to prepare for the selection auditions/trials/interviews?</strong>
 </p>
-<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/selection-process-admission-criteria/" rel="noopener nofollow" target="_blank">Admission Criteria for Direct School Admission Exercise</a><strong> </strong>for
+<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/selection-process-admission-criteria/" rel="noopener nofollow" target="_blank">Admission Criteria for Direct School Admission Exercise</a><strong> </strong>for
 more information on the respective areas.</p>
 <p>&nbsp;</p>
 <p><strong>7.&nbsp;&nbsp; When will I know the outcome of the selection?</strong>
