@@ -101,7 +101,7 @@ third_nav_title: 2025 Direct School Admission
 you require further information on DSA applications to SMS(S).</p>
 <p>&nbsp;</p>
 <p>For further queries, please contact:</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Administration Manager&nbsp;</p>
 <p>Ms Doreen Owyong</p>
 <p>Tel: 6466 4525</p>
