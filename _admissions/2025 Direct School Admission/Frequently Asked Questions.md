@@ -22,7 +22,7 @@ and criteria for&nbsp;<a href="https://stmargaretssec.moe.edu.sg/resources/2018-
 <p>&nbsp;</p>
 <p><strong>3.&nbsp;&nbsp; How do I apply?</strong>
 </p>
-<p>Please refer to the&nbsp;<a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/application-process" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
+<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/application-process/" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
 details.</p>
 <p>&nbsp;</p>
 <p><strong>4.&nbsp;&nbsp; When is the closing date for submitting the application?</strong>
@@ -37,7 +37,7 @@ to 7 August 2025.</p>
 <p>&nbsp;</p>
 <p><strong>6.&nbsp;&nbsp; What do I need to prepare for the selection auditions/trials/interviews?</strong>
 </p>
-<p>Please refer to the&nbsp;<u>Admission Criteria for Direct School Admission Exercise</u><strong> </strong>for
+<p>Please refer to the&nbsp;<a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/selection-process-&amp;-admission-criteria/" rel="noopener nofollow" target="_blank">Admission Criteria for Direct School Admission Exercise</a><strong> </strong>for
 more information on the respective areas.</p>
 <p>&nbsp;</p>
 <p><strong>7.&nbsp;&nbsp; When will I know the outcome of the selection?</strong>
