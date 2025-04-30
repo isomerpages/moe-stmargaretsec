@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2025 Direct School Admission/Application Process.md
       - 2025 Direct School Admission/.keep
       - 2025 Direct School Admission/2025 DSA for admission to St Margaret's
         School (Secondary) in 2026.md
