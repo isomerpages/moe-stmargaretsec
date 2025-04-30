@@ -16,8 +16,8 @@ Aesthetics and Sports listed in the <a href="https://www.stmargaretssec.moe.edu.
 </p>
 <p>Selection is based primarily on your merit in your area of talent.&nbsp;
 Click on the respective areas for more details on the selection process
-and criteria for&nbsp;<a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a>&nbsp;and&nbsp;
-<a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise" rel="noopener noreferrer nofollow" target="_blank">Sports</a><strong>.</strong>
+and criteria for&nbsp;<a href="/files/2025_Direct_School_Admission_Exercise_upload_Aesthetic.pdf" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a> and&nbsp;
+<a href="/files/2025_Direct_School_Admission_Exercise_upload_Sports.pdf" rel="noopener noreferrer nofollow" target="_blank">Sports</a><strong>.</strong>
 </p>
 <p>&nbsp;</p>
 <p><strong>3.&nbsp;&nbsp; How do I apply?</strong>
