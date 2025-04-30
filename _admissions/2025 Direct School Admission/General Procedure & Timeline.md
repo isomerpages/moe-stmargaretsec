@@ -15,15 +15,13 @@ third_nav_title: 2025 Direct School Admission
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<h4>&nbsp;</h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>General Procedure</strong>
-</p>
+<h4><strong>General Procedure</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Timeline</strong>
-</p>
+<h4><strong>Timeline</strong></h4>
 </td>
 </tr>
 <tr>
@@ -107,5 +105,4 @@ you require further information on DSA applications to SMS(S).</p>
 <p>Administration Manager&nbsp;</p>
 <p>Ms Doreen Owyong</p>
 <p>Tel: 6466 4525</p>
-<p>Email Address: <a rel="noopener noreferrer nofollow" target="_blank">stmargaretss@moe.edu.sg</a>
-</p>
+<p>Email Address: stmargaretss@moe.edu.sg</p>
