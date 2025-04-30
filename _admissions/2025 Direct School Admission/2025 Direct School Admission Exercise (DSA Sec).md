@@ -10,7 +10,7 @@ third_nav_title: 2025 Direct School Admission
 to gain direct entry to certain secondary schools based on their talent
 in sports, CCAs and specific academic areas. Students who wish to seek
 admission to St. Margaret’s School (Secondary) based on their talents are
-invited to apply through the <strong><a href="https://beta.moe.gov.sg/dsa/" rel="noopener noreferrer nofollow" target="_blank">MOE 2025 Direct School Admission Exercise</a><u> (DSA-Sec).</u>&nbsp;</strong>
+invited to apply through the <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener nofollow" target="_blank">MOE 2025 Direct School Admission Exercise (DSA-Sec)</a><strong><u>.</u>&nbsp;</strong>
 </p>
 <p></p>
 <h3><strong>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</strong>&nbsp;</h3>
