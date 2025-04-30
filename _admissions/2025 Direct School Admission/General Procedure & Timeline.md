@@ -105,4 +105,6 @@ you require further information on DSA applications to SMS(S).</p>
 <p>Administration Manager&nbsp;</p>
 <p>Ms Doreen Owyong</p>
 <p>Tel: 6466 4525</p>
-<p>Email Address: stmargaretss@moe.edu.sg</p>
+<p>Email Address: <a href="mailto:stmargaretss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stmargaretss@moe.edu.sg</a>
+</p>
+<p></p>
