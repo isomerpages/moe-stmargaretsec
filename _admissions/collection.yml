@@ -2,6 +2,7 @@ collections:
   admissions:
     output: true
     order:
+      - 2025 Direct School Admission/General Procedure & Timeline.md
       - 2025 Direct School Admission/Selection Process & Criteria.md
       - 2025 Direct School Admission/2025 Direct School Admission Exercise (DSA
         Sec).md
