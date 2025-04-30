@@ -13,54 +13,11 @@ admission to St. Margaret’s School (Secondary) based on their talents are
 invited to apply through the <strong><a href="https://beta.moe.gov.sg/dsa/" rel="noopener noreferrer nofollow" target="_blank">MOE 2025 Direct School Admission Exercise</a><u> (DSA-Sec).</u>&nbsp;</strong>
 </p>
 <p></p>
-<h3><strong>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</strong></h3>
-<p>&nbsp;</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
-<p><strong>Talent Areas</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Aesthetics</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Sports</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
-<p>Choir</p>
-<p>Concert Band</p>
-<p>English Drama</p>
-<p>Indian Dance</p>
-<p>Malay Dance</p>
-<p>Modern Dance</p>
-<p>String Ensemble</p>
-<p>Visual Arts</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Badminton</p>
-<p>Basketball</p>
-<p>Bowling</p>
-<p>Fencing</p>
-<p>Floorball</p>
-<p>Netball</p>
-<p>Tennis</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<p>You can view the listing of our <strong><u>CCAs</u></strong> and our students’ <strong><u>CCA achievements</u></strong> for
+<h3><strong>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</strong>&nbsp;</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_DSA_info.png">
+</div>
+<p></p>
+<p>You can view the listing of our <a href="https://www.stmargaretssec.moe.edu.sg/programmes/co-curricular-activities/" rel="noopener nofollow" target="_blank">CCAs</a> and
+our students’ <a href="https://www.stmargaretssec.moe.edu.sg/achievements/student-achievements/sports-and-games-awards/" rel="noopener nofollow" target="_blank">CCA achievements</a> for
 more details.</p>
