@@ -99,8 +99,8 @@ third_nav_title: 2025 Direct School Admission
 </table>
 <p>&nbsp;</p>
 <h3><strong>Contact Details</strong></h3>
-<p>Please refer to our <strong><u>FAQ</u></strong> if you require further information
-on DSA applications to SMS(S).</p>
+<p>Please refer to our <strong><a href="/frequently-asked-questions/" rel="noopener nofollow" target="_blank">FAQ</a> </strong>If
+you require further information on DSA applications to SMS(S).</p>
 <p>&nbsp;</p>
 <p>For further queries, please contact:</p>
 <p>&nbsp;</p>
