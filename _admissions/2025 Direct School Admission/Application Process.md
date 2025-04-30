@@ -8,7 +8,7 @@ third_nav_title: 2025 Direct School Admission
 <p>For 2025, application for DSA-Sec can be submitted through the online
 DSA-Sec Portal. The application is free-of-charge and will be open from
 7 May 2025, 11.00am to 3 June 2025, 3.00pm. For more details, please refer
-to <strong>MOE website – <a rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
+to <strong>MOE website – <a href="https://www.moe.gov.sg/dsa-sec" rel="noopener noreferrer nofollow" target="_blank">www.moe.gov.sg/dsa-sec</a></strong>.</p>
 <p>&nbsp;</p>
 <p><strong>NOTE:</strong>
 </p>
