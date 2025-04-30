@@ -10,7 +10,7 @@ third_nav_title: 2025 Direct School Admission
 <p><strong>1.&nbsp;&nbsp; What talents are the school looking for?</strong>
 </p>
 <p>St. Margaret’s School (Secondary) welcomes girls who are talented in the
-Aesthetics and Sports listed in the <u>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</u>.</p>
+Aesthetics and Sports listed in the <a href="https://www.stmargaretssec.moe.edu.sg/admission/2025-direct-school-admission-exercise/2025-direct-school-admission-exercise-(dsa-sec)/" rel="noopener nofollow" target="_blank">DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</a>.</p>
 <p>&nbsp;</p>
 <p><strong>2.&nbsp;&nbsp; What are the selection criteria?</strong>
 </p>
@@ -49,5 +49,5 @@ more information on the respective areas.</p>
 </p>
 <p>Applicants not studying in MOE mainstream primary schools should apply
 for a Registration Number (RGxxxxxxx) to access the DSA-Sec Portal. Please
-refer to MOE Website at: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
+refer to MOE Website at: <a href="https://go.gov.sg/nmsdsa-sec-application" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/nmsdsa-sec-application</a>
 </p>
