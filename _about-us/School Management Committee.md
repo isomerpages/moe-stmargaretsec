@@ -17,7 +17,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Charis Tan</p>
+<p><a href="https://peterandkim.com/team/charis-tan/" rel="noopener nofollow" target="_blank">Ms Charis Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Chairperson/Bishop's Nominee</p>
