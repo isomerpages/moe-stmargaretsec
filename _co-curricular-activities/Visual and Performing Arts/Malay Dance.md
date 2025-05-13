@@ -6,7 +6,12 @@ third_nav_title: Visual and Performing Arts
 variant: tiptap
 ---
 <h2>CCA Schedule</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +54,12 @@ variant: tiptap
 <h2>Teacher-in-charge</h2>
 <p>Ms Nora Aziz</p>
 <h2>Achievements</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -61,6 +71,17 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Achievement</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Youth Festival Arts Presentation</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Distinction</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
