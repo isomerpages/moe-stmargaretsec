@@ -22,23 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>String Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Concert Band</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Distinction</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Indian Dance</p>
+<p>Chinese Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -54,7 +38,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chinese Dance</p>
+<p>Concert Band</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EL Drama</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Accomplishment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Indian Dance</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Distinction</p>
@@ -78,10 +78,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>EL Drama</p>
+<p>String Ensemble</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Accomplishment</p>
+<p>Distinction</p>
 </td>
 </tr>
 </tbody>
