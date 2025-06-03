@@ -46,7 +46,7 @@ variant: tiptap
 will receive additional information from their CCA teachers closer to the
 dates of the event.</p>
 <h2>Teacher-in-charge</h2>
-<p>Mdm Azizah</p>
+<p>Ms Tan Yan Tong</p>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
