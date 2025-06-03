@@ -39,8 +39,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/girlguides1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18___Girl_Guides.jpg">
 </div>
 <p>*Uniformed groups could have sessions on Saturdays for HQ events. Students
 will receive additional information from their CCA teachers closer to the
