@@ -75,8 +75,9 @@ variant: tiptap
 <p>Each student will be assigned to a group and each group will only be training
 once a week.
 <br>There will be a change in training schedule during competition season.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Tennis2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/27___Tennis_1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p><strong>Mrs Madeline Seow</strong>
