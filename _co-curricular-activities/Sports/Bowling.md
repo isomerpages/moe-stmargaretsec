@@ -48,8 +48,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Bowling1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/09___Bowling_2.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <table style="minWidth: 25px">
