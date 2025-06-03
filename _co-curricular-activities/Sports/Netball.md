@@ -62,8 +62,9 @@ variant: tiptap
 will only be conducted during the competition season.
 <br>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/20230213_smss-05195.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/31___Netball_1.jpg">
 </div>
 <h2>Teachers-in-charge</h2>
 <table style="minWidth: 25px">
