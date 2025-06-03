@@ -42,8 +42,9 @@ variant: tiptap
 <p>*Uniformed groups could have sessions on Saturdays for HQ events. Students
 will receive additional information from their CCA teachers closer to the
 dates of the event.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/redcross12023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/19___Red_Cross_Youth.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Mr Josh Sam</p>
