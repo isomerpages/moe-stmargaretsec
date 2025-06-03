@@ -74,8 +74,9 @@ variant: tiptap
 </table>
 <p>*This is an additional day of training and will only be conducted during
 the competition season.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Basketball2_compressed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/36___Basketball.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Ms Nicolette Ng</p>
