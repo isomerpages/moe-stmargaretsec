@@ -51,8 +51,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/band12023.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/22___Concert_Band.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Ms Florence Chang</p>
