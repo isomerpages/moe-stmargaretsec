@@ -60,8 +60,9 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Badminton1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/37___Badminton.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <table style="minWidth: 75px">
