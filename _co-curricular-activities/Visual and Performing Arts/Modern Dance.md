@@ -48,8 +48,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/moderndance1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/04___Modern_Dance_1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Ms Koh Pooi Sze</p>

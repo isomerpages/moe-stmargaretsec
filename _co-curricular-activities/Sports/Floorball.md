@@ -50,8 +50,9 @@ variant: tiptap
 </table>
 <p>*This is an additional day of training scheduled due to competition and&nbsp;will
 only be&nbsp;conducted during the competition season.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Floorball2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/29___Floorball_1.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Mr Daniel Ling</p>

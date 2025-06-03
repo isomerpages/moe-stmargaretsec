@@ -52,8 +52,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h2></h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/artclub1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/21___Art_Club.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
 <p>Ms Tan Chai Yong</p>

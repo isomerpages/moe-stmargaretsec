@@ -39,14 +39,15 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/girlguides1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/18___Girl_Guides.jpg">
 </div>
 <p>*Uniformed groups could have sessions on Saturdays for HQ events. Students
 will receive additional information from their CCA teachers closer to the
 dates of the event.</p>
 <h2>Teacher-in-charge</h2>
-<p>Mdm Azizah</p>
+<p>Ms Tan Yan Tong</p>
 <h2>Achievements</h2>
 <table style="minWidth: 75px">
 <colgroup>
