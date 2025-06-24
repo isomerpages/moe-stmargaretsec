@@ -3,12 +3,12 @@ title: Overseas Programme
 permalink: /programmes/character-development/overseas-programme/
 description: ""
 third_nav_title: Character Development
+variant: markdown
 ---
 In line with the school’s mission and vision of nurturing global citizens, St. Margaret’s School (Secondary) has developed a comprehensive Overseas Programme that encompasses different aspects of learning.
 
-Our Overseas Programme\* involves exchange programmes, community service, subject specific trips and partnerships. The ultimate goal of the programme is to educate and expose our students to the world, so as to equip them with essential skills and knowledge that would stand them in good stead in their quest for a better understanding of the different cultures and economic/political systems. Our students would be able to contribute to the global economy in terms of community service or as global citizens in the future.  
+Our Overseas Programme involves exchange programmes, community service, subject specific trips and partnerships. The ultimate goal of the programme is to educate and expose our students to the world, so as to equip them with essential skills and knowledge that would stand them in good stead in their quest for a better understanding of the different cultures and economic/political systems. Our students would be able to contribute to the global economy in terms of community service or as global citizens in the future.  
 
-_\*In view of COVID-19, the overseas programme has been temporarily suspended to ensure the safety and well-being of our students._  
 
 Objectives
 ----------
