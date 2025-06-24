@@ -82,4 +82,3 @@ The Light of the World programme aims to foster cross-cultural friendships while
 
 ![VIA- A collaborative creation ](/images/VIA2.jpg)
 <p align="center">A collaborative creation by students and teachers from St. Margaret’s and a local Cambodian school. This mural symbolises cross-cultural friendships, shared empowerment, and a lasting legacy for future generations.</p>
-
