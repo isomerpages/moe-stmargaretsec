@@ -27,20 +27,16 @@ SLP empowers students to exercise greater choice and ownership of their VIA proj
 
 Through SLP, students grow to become a community of learners who value the importance of being empathetic and giving back to society.&nbsp;
 
-VIA Form for Self-Initiated Projects
+SMS(S) Self-Initiated VIA Approval &amp; Submission
 ------------------------------------
 
-Self-initiated VIA projects that students embark on should be in line with the school and national policies. For more details, please refer to the Student Handbook.
+Students who wish to undertake self-initiated VIA (Values in Action) projects, particularly those involving external organisations, must ensure that their projects align with school and national guidelines. Please refer to the Student Handbook for more information.
 
-Students who would like to initiate their own VIA are required to fill out this form:
+Students should submit their project details before starting the project and upload the necessary documentation after project completion using this form: 
+https://go.gov.sg/2025-smss-self-initiated-via 
 
-[Self-Initiated VIA Form.pdf](https://stmargaretssec.moe.edu.sg/qql/slot/u168/Resources/VIA%20Bulletin/Self-Initiated%20VIA%20Form.pdf)&nbsp;
+Please note that a photograph or scanned copy of the official document provided by the organisation must be included as part of the submission.
 
-**Submission of External VIA Documents**  
-
-Students who are involved in external VIA projects can submit their documents via this form [form](https://forms.gle/FwoWcnpMRH5oBDVT7)
-
-A photograph or scanned copy of the official document provided by the organisation must also be submitted.
 
 Target Group
 ------------
@@ -69,10 +65,21 @@ Videos
 
 <iframe width="590" height="331" src="https://www.youtube.com/embed/LddxRnfe3S0" title="WeCare @ North West - Service Weeks 2020 - Interview with Ms Kwang WanYi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-<p align="center">WeCare @ North West - Service Weeks 2020 - Interview Ms Kwang Wan Yi (Subject Head National Education and Values in Action)  </p>
+<p align="center">WeCare @ North West - Service Weeks 2020: 
+	Interview Ms Kwang Wan Yi (Subject Head National Education and Values in Action)  </p>
+	
+## Internationalisation Trips (LIGHT of the World)
 
-<iframe width="598" height="335" src="https://www.youtube.com/embed/sA3VGAR8wR0" title="Laos VIP Trip 4 - 9 Nov 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+The Light of the World programme aims to foster cross-cultural friendships while helping students develop leadership and communication skills through meaningful Values-in-Action (VIA) projects. By travelling overseas, students are exposed to diverse learning experiences beyond their comfort zones, encouraging personal growth and a deeper sense of purpose in serving others. These trips also offer valuable opportunities for students to bond with their peers and strengthen their ability to collaborate effectively as a team.
 
-<p align="center">Laos VIA Trip 4 - 9 Nov 2019</p>
 
-\*In view of the ongoing pandemic, the overseas VIA programme has been temporarily suspended to ensure the safety and well-being of our students.
+
+![Students came together to pack essential food items for the local villagers in Cambodia](/images/VIA.jpg)
+<p align="center">Students came together to pack essential food items for the local villagers in Cambodia — a heartwarming display of community support.</p>
+
+![VIA Leaving a lasting mark ](/images/VIA1.jpg)
+<p align="center">Leaving a lasting mark — students in front of the mural they had designed and painted for the Cambodian school community.</p>
+
+![VIA- A collaborative creation ](/images/VIA2.jpg)
+<p align="center">A collaborative creation by students and teachers from St. Margaret’s and a local Cambodian school. This mural symbolises cross-cultural friendships, shared empowerment, and a lasting legacy for future generations.</p>
+
