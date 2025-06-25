@@ -52,9 +52,8 @@ virtual concert and Family Activity Box specially for everyone.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/L5d-ITtL8pg?si=oz1N5vCoq9Nf1_PH"></iframe>
 </div>
-<p>Watch a montage of how St. Margaret&amp;#39;s School (Primary) and St.
-Margaret's School (Secondary) celebrated the 180th Anniversary throughout
-the year.</p>
+<p>Watch a montage of how St. Margaret's School (Primary) and St. Margaret's
+School (Secondary) celebrated the 180th Anniversary throughout the year.</p>
 <p></p>
 <h4>SMS(S) Strategic Thrusts Video (2024)</h4>
 <div class="iframe-wrapper">
