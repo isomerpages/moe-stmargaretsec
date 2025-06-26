@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h2>NIE Caring Teaching Award</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -34,7 +38,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Management and Leadership in Schools Programme (July 2019) by National Institute of Education (NIE)</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -65,7 +73,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Outstanding History Teacher&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -86,7 +98,11 @@ variant: tiptap
 </tbody>
 </table>
 <h2>Innergy (Schools) Awards</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -127,7 +143,11 @@ Commendation, 2017&nbsp;</p>
 </tbody>
 </table>
 <h2>The LEAP Award&nbsp;</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -153,10 +173,30 @@ Commendation, 2017&nbsp;</p>
 <p>Certificate of Commendation, 2020&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Sharon Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist, 2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicolette Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Finalist, 2024</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>National Day Honours</h2>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -386,12 +426,56 @@ Commendation, 2017&nbsp;</p>
 <p>Long Service Medal, 2023&nbsp;</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chin Yih Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Public Administration Medal (Bronze), 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lum Ying Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commendation Medal, 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Siew Lan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal, 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Liu Xin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Long Service Medal, 2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>MOE Excellence in Service Award (MSEA)</h2>
 <p><strong>Platinum Award:</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -411,16 +495,20 @@ Commendation, 2017&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Thor Ya Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2024</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Star Award:</strong>&nbsp;&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -465,7 +553,11 @@ Commendation, 2017&nbsp;</p>
 </tbody>
 </table>
 <p><strong>Gold Award:</strong>&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -587,10 +679,46 @@ Commendation, 2017&nbsp;</p>
 <p>2023</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Kamisah Binte Nor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Kong Mun Yee Cynthia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Kah Hui Grace</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <p><strong>Silver Award:</strong>&nbsp;</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -686,6 +814,22 @@ Commendation, 2017&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2023</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kok Hock Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Marsya Afiqah Salim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2024</p>
 </td>
 </tr>
 </tbody>
