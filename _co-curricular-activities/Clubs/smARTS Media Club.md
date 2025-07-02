@@ -53,4 +53,4 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/33___smARTS_Media_Club.jpg">
 </div>
 <h2>Teacher-in-charge</h2>
-<p>Ms Nazlin Hamzah</p>
+<p>Ms Nur Irnawaty</p>
