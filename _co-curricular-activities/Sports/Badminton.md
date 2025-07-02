@@ -74,9 +74,10 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mr Alvin Loh
+<p>
 <br>Mdm Liu Xin
-<br>Mrs Rajan</p>
+<br>
+</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
