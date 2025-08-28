@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/End of Year Examinations 2025.md
       - For Students/Preliminary Examination Schedule.md
       - For Students/.keep
       - For Students/2025 Class Timetable.md
