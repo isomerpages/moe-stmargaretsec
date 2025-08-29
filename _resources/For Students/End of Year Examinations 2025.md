@@ -46,7 +46,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/2025_S3NT_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">S3NA EYE Schedule</a></strong>
+<p><strong><a href="/files/2025_S3NT_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">S3NT EYE Schedule</a></strong>
 </p>
 </td>
 </tr>
