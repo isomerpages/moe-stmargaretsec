@@ -39,7 +39,8 @@ books&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/SMSSCareLink." rel="noopener noreferrer nofollow" target="_blank">SMS(S) CareLink.</a>&nbsp;&nbsp;</p>
+<p><a href="https://form.gov.sg/635384f3a471e00012ef30ef" rel="noopener noreferrer nofollow" target="_blank">SMS(S) CareLink</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Margaret's School (Secondary) Care Link - Book an appointment to see
