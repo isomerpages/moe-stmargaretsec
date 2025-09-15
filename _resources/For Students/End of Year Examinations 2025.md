@@ -18,7 +18,7 @@ third_nav_title: For Students
 <p>Sec 1</p>
 </th>
 <th rowspan="1" colspan="3">
-<p><a href="/files/2025_S1_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">S1 EYE Schedule</a>
+<p><a href="/files/2025_S1_EYE_Schedule__Update_.pdf" rel="noopener nofollow" target="_blank">S1 EYE Schedule</a>
 </p>
 </th>
 </tr>
@@ -28,7 +28,7 @@ third_nav_title: For Students
 </p>
 </td>
 <td rowspan="1" colspan="3">
-<p><strong><a href="/files/2025_S2_EYE_Schedule.pdf" rel="noopener nofollow" target="_blank">S2 EYE Schedule</a></strong>
+<p><strong><a href="/files/2025_S2_EYE_Schedule__Update_.pdf" rel="noopener nofollow" target="_blank">S2 EYE Schedule</a></strong>
 </p>
 </td>
 </tr>
