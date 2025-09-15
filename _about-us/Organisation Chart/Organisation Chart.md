@@ -31,7 +31,6 @@ variant: tiptap
 <p>Ms Karen Tan - SH/Aesthetics
 <br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
 <br>Mrs Teo Sook Lee - SH/<a href="/about-us/organisation-chart/information-and-communications-technology" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (Edtech)</a>
-<br>Mrs Keira Lim - SH/Teaching and Learning with Educational Technology
 <br>Mrs Jean Tan - SH/CCE-Education and Career Guidance and Partnership
 <br>Ms Bernadette Lim - SH/Additional Mathematics
 <br>Mrs Priscilla Lim - SH/Geography
