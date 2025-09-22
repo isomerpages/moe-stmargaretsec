@@ -16,6 +16,7 @@ variant: tiptap
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 <br>Mrs Filzah Tay - HOD/<a href="/about-us/organisation-chart/humanities" rel="noopener noreferrer nofollow" target="_blank">Humanities</a>
+<br>Mrs Teo Sook Lee - HOD/ICT
 <br>Mrs Tham Chuan Chuan - HOD/<a href="/about-us/organisation-chart/aesthetics-craft-and-technology" rel="noopener noreferrer nofollow" target="_blank">Aesthetics, Craft and Technology</a>
 <br>Mr Lim Bing Hui - HOD/Student Development
 <br>Mrs Foo Kar Hiang - HOD/<a href="/about-us/organisation-chart/character-and-citizenship-education" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
@@ -30,10 +31,10 @@ variant: tiptap
 <h4><br>Subject Heads</h4>
 <p>Ms Karen Tan - SH/Aesthetics
 <br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
-<br>Mrs Teo Sook Lee - SH/<a href="/about-us/organisation-chart/information-and-communications-technology" rel="noopener noreferrer nofollow" target="_blank">Educational Technology (Edtech)</a>
 <br>Mrs Jean Tan - SH/CCE-Education and Career Guidance and Partnership
 <br>Ms Bernadette Lim - SH/Additional Mathematics
 <br>Mrs Priscilla Lim - SH/Geography
+<br>Mdm Nazlin Bte Hamzah - SH/English Language &amp; Literature
 <br>Ms Cao Yu - SH/Student Leadership
 <br>Mr Eugene Wong - SH/Chemistry
 <br>Ms Ang Wen Ting - SH/Student Management (Internal)
@@ -56,7 +57,7 @@ variant: tiptap
 <h4><br>Assistant Year Heads</h4>
 <p>
 <br>Ms Carol Soh - Secondary 1
-<br>Mrs Serena Ajay - Sec 1 (Internal)
+<br>Mrs Serena Ajay - Secondary 1 (Internal)
 <br>Ms Lum Ying Lee - Secondary 4 &amp; 5</p>
 <h4><br>School Administration Team</h4>
 <p>Ms Lian Chuen Ann - Administration Manager 1
