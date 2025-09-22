@@ -62,12 +62,12 @@ variant: tiptap
 <p>Mrs Serena Ajay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH</p>
+<p>AYH/Secondary One (Internal)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Alvin Loh Yong Jie</p>
+<p>Mdm Chen Cui Xia</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -132,14 +132,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mdm Toh Siew Lan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mdm Teng Siok Ting</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
