@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mdm Suryati Bte Mail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 </tr>
 <tr>
