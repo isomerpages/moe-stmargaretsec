@@ -26,7 +26,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp; Joey Poh</p>
+<p>Ms&nbsp;Joey Poh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Character and Citizenship Education (CCE)</p>
@@ -37,7 +37,7 @@ variant: tiptap
 <p>Mrs&nbsp; Christine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer</p>
+<p>Senior Special Educational Needs Officer</p>
 </td>
 </tr>
 <tr>
@@ -46,14 +46,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms&nbsp; Grace Tay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
 </td>
 </tr>
 <tr>
@@ -70,6 +62,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjt School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Thandar Soe</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Feng Yi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms&nbsp; Grace Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
 </td>
 </tr>
 </tbody>
