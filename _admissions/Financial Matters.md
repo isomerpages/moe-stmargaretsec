@@ -339,7 +339,7 @@ by cash/cheque/cashier’s order.</p>
 </li>
 </ul>
 <p>For enquiries on the payment of School Fees (MOE Bill) and School Bill,
-please contact Ms Jane Loh or Ms Sumitra Shasi Kumar at 6466 4525.</p>
+please contact Ms Jane Loh at 6466 4525.</p>
 <h2>Registration for PayNow</h2>
 <p>With the increasing digitalisation of government services, MOE would like
 to encourage all parents to register their children’s bank account with
