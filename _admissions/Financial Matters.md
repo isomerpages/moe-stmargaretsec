@@ -4,7 +4,7 @@ permalink: /financial-matters/
 variant: tiptap
 description: ""
 ---
-<h2>School Fees For Academic Year 2023</h2>
+<h2>School Fees For Academic Year 2025</h2>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
