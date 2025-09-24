@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Cao Yu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Student Leadership</p>
+<p>SH/Student Leadership</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mdm Nazlin Bte Hamzah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH Lower Sec EL, Lit &amp; Drama (internal)</p>
+<p>SH/English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>
@@ -90,6 +90,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Michelle Chung</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Shamini Rajandran</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,6 +131,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Colin Chia Wei Chun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Elisya Chung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

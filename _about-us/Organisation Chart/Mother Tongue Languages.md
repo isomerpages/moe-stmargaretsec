@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Carol Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Asst. YH Secondary 2</p>
+<p>AYH/Secondary 1</p>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@ variant: tiptap
 <p>Mdm Suryati Bte Mail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
+<p>Year Head (Lower Secondary)</p>
 </td>
 </tr>
 <tr>

@@ -35,6 +35,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p>Mrs Teo Sook Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p>Ms Joey Poh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -71,14 +79,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>LH&nbsp;Lower Secondary Science</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Teo Sook Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Educational Technology</p>
 </td>
 </tr>
 <tr>
