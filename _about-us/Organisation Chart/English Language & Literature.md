@@ -1,6 +1,6 @@
 ---
-title: English Language, Literature and Drama
-permalink: /about-us/organisation-chart/english-language-literature-and-drama/
+title: English Language & Literature
+permalink: /about-us/organisation-chart/english-language-literature/
 description: ""
 third_nav_title: Organisation Chart
 variant: tiptap
@@ -21,7 +21,7 @@ variant: tiptap
 <p>Mrs Elizabeth Yang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD English Language, Literature and Drama</p>
+<p>HOD English Language &amp; Literature</p>
 </td>
 </tr>
 <tr>

@@ -11,7 +11,7 @@ variant: tiptap
 <p>Mdm Chin Yih Min - Academic
 <br>Ms Chrystine Woon - Administration</p>
 <h4>Head of Department (HOD)</h4>
-<p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature and Drama</a>
+<p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
 <br>Mr Jason Chew - HOD/<a href="/about-us/organisation-chart/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
@@ -33,7 +33,7 @@ variant: tiptap
 <br>Mr Tan Hee Ming - SH/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/physical-education/" rel="noopener noreferrer nofollow" target="_blank"><u>Physical Education</u></a>
 <br>Mrs Jean Tan - SH/CCE-Education and Career Guidance and Partnership
 <br>Ms Bernadette Lim - SH/Additional Mathematics
-<br>Mrs Priscilla Lim - SH/Geography
+<br>Ms Priscilla Lim - SH/Geography
 <br>Mdm Nazlin Bte Hamzah - SH/English Language &amp; Literature
 <br>Ms Cao Yu - SH/Student Leadership
 <br>Mr Eugene Wong - SH/Chemistry
