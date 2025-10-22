@@ -239,7 +239,7 @@ assistance from the respective groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>[<a href="https://lakeside.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lakeside Family Services</a>](https://lakeside.org.sg/)</p>
+<p><a href="https://lakeside.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Lakeside Family Services</a> (https://lakeside.org.sg/)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Ministry of Social and&nbsp;Family&nbsp;Services has appointed&nbsp;Lakeside&nbsp;Family&nbsp;Services
