@@ -223,7 +223,7 @@ digital learner</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank">MENDAKI</a> 
+<p><a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank">MENDAKI</a>
 </p>
 </td>
 <td rowspan="4" colspan="1">
@@ -242,13 +242,13 @@ assistance from the respective groups.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a> 
+<p><a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a> 
+<p><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a>
 </p>
 </td>
 </tr>
