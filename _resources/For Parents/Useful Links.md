@@ -224,17 +224,32 @@ digital learner</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.mendaki.org.sg/" rel="noopener noreferrer nofollow" target="_blank">MENDAKI</a> 
-<br><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a> 
-<br><a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a> 
-<br><a href="https://www.eurasians.sg/" rel="noopener noreferrer nofollow" target="_blank">EA</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="4" colspan="1">
 <p>The Self-Help Groups Centre (SHGs Centre) is a collaboration of the four
 Self-Help Groups: the Chinese Development Assistance Council (CDAC), Eurasian
 Association (EA), Singapore Indian Development Association (SINDA) and
 Yayasan MENDAKI (MENDAKI). You may wish to explore tuition support or other
 assistance from the respective groups.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.eurasians.sg/" rel="noopener noreferrer nofollow" target="_blank">EA</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.sinda.org.sg/" rel="noopener noreferrer nofollow" target="_blank">SINDA</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.cdac.org.sg/en/" rel="noopener noreferrer nofollow" target="_blank">CDAC</a> 
+</p>
 </td>
 </tr>
 <tr>
