@@ -25,4 +25,10 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+      announcement_items:
+        - title: 2026 Booklists and Uniform Info Sheet
+          date: 24 October 2025
+          announcement: Booklist and Stationery for students from Secondary 2 to 5
+          link_text: Click here
+          link_url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
 ---
