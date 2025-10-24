@@ -37,7 +37,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3E_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3E Booklist &amp; Stationery</a>
+<p><a href="/files/Sec_3_G3_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G3 Booklist &amp; Stationery</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -55,7 +55,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3NA_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NA Booklist &amp; Stationery</a>
+<p><a href="/files/Sec_3_G2_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G2 Booklist &amp; Stationery</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,7 +72,7 @@ description: ""
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Sec_3NT_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3NT Booklist &amp; Stationery</a>
+<p><a href="/files/Sec_3_G1_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 G1 Booklist &amp; Stationery</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
