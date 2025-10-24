@@ -52,24 +52,6 @@ variant: tiptap
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>&nbsp;Use of PLD in teaching and learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head Teaching and Learning with Edtech&nbsp;
-<br><a href="mailto:keira_htay@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Keira Lim <br>keira_htay@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
