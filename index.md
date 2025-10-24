@@ -26,7 +26,7 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 Booklists and Uniform Info Sheet
+        - title: 2026 Booklists and Uniform Info Sheet (Secondary 2 - 5)
           date: 24 October 2025
           announcement: Booklist and Stationery for students from Secondary 2 to 5
           link_text: Click here
