@@ -26,6 +26,11 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: End of Term 2025 Principal's Letter
+          date: 27 October 2025
+          announcement: Click on the link below
+          link_text: ""
+          link_url: ""
         - title: 2026 Booklists and Uniform Info Sheet (Secondary 2 - 5)
           date: 24 October 2025
           announcement: Booklist and Stationery for students from Secondary 2 to 5
