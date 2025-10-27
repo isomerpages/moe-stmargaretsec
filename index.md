@@ -29,11 +29,11 @@ sections:
         - title: End of Term 2025 Principal's Letter
           date: 27 October 2025
           announcement: Click on the link below
-          link_text: ""
-          link_url: ""
+          link_text: Principal's Letter End of Term 2025
+          link_url: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.stmargaretssec.moe.edu.sg/files/Principal_s_Letter_End_of_Term_2025.pdf
         - title: 2026 Booklists and Uniform Info Sheet (Secondary 2 - 5)
           date: 24 October 2025
-          announcement: Booklist and Stationery for students from Secondary 2 to 5
-          link_text: Click here
+          announcement: Click on the link below
+          link_text: 2026 Booklist and Uniform Info Sheet (Sec 2 - 5)
           link_url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
 ---
