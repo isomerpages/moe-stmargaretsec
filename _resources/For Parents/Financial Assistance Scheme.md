@@ -11,7 +11,7 @@ third_nav_title: For Parents
 <p>&nbsp;</p>
 <p><strong>Application Process</strong>
 </p>
-<p>Parents may submit an online application using this link: <a rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
+<p>Parents may submit an online application using this link: <a href="https://go.gov.sg/moe-efasggas" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/moe-efasggas</u></a>
 </p>
 <p></p>
 <p>Students who were on the FAS in 2025 will need to submit a new application
@@ -35,5 +35,5 @@ per month</p>
 <p><strong>Revised Provisions (From January 2026)</strong>
 </p>
 <p>Please click here for the revised provisions:</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
+<p><a href="https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/news/press-releases/20251016-moe-financial-assistance-schemes-to-benefit-an-additional-31000-students</a>
 </p>
