@@ -120,7 +120,6 @@ variant: tiptap
 <li>
 <p><a href="https://go.gov.sg/smssictservicesrequestform" rel="noopener noreferrer nofollow" target="_blank">St. Margaret's School (Secondary) SMS(S) ICT Services Request Form</a>
 </p>
-<p></p>
 </li>
 <li>
 <p><a href="https://pair.gov.sg/share/asst/assistant_7e49c785-5481-4424-9c30-87ad8e716383" rel="noopener nofollow" target="_blank">ICT Techbuddy Pip!</a>
