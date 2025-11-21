@@ -5,7 +5,182 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h2>2024</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Competition</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Badminton</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>South Zone ‘B’ Division Competition</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarterfinalists</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games ‘C’ Division Competitions</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Placed in Tier 2 League</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Basketball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games Basketball National ‘C’ Division Girls’ Championship
+League 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AES Basketball Challenge</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Fencing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division Women’s Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team 1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Women’s Category</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team 1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>C Division Women’s Category – Epee Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Women’s Category
+<br>– Epee Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place, 2nd place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>B Division Women’s Category -- Foil Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cadet’s Cup
+<br>– Epee Individual</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1st place</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Netball</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Daisy Tan Carnival</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>‘B’ Division 2nd Runners-Up</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tennis</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games B Division Girls Tennis Championship (Plate)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2nd place</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -340,7 +515,12 @@ Individual – Formulated 5 - Duan Spear</p>
 </tr>
 </tbody>
 </table>
-<h2>2023</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -780,7 +960,12 @@ Lightweight Category) - (Team Overall)</p>
 </tr>
 </tbody>
 </table>
-<h2>2022</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1068,7 +1253,12 @@ Overall</p>
 </tr>
 </tbody>
 </table>
-<h2>2021</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1182,7 +1372,12 @@ Competitions 2021 'C' Division Girls</p>
 </tr>
 </tbody>
 </table>
-<h2>2020</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1210,7 +1405,12 @@ Competitions 2021 'C' Division Girls</p>
 </tr>
 </tbody>
 </table>
-<h2>2019</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2019</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1542,7 +1742,12 @@ Event</p>
 </tr>
 </tbody>
 </table>
-<h2>2018</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1952,4 +2157,11 @@ Girls 3 Hoops 2 Ball Group Event</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<h2></h2>
+<h2></h2>
+<h2></h2>
 <p></p>
