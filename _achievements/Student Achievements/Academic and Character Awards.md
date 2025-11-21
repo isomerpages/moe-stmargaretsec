@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h2>2024</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -161,7 +164,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2023</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -210,7 +218,12 @@ Secondary School)</p>
 </tr>
 </tbody>
 </table>
-<h2>2022</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -434,7 +447,12 @@ Research Institute @NTU (USPE) 2022 Finals&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h2>2021</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -617,7 +635,12 @@ Bilingual Speech Conference</p>
 </tr>
 </tbody>
 </table>
-<h2>2020</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -775,4 +798,8 @@ Chong&nbsp;Institution</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
