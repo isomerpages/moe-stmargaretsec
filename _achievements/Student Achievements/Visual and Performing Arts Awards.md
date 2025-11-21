@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Student Achievements
 variant: tiptap
 ---
-<h2>2025</h2>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -86,7 +89,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2024</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2024</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,7 +166,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2023</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2023</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -401,7 +414,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2022</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2022</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -426,7 +444,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2021</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2021</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -629,7 +652,12 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h2>2020</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2020</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -672,7 +700,12 @@ Council</p>
 </tr>
 </tbody>
 </table>
-<h2>2019</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2019</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -865,7 +898,12 @@ Council</p>
 </tr>
 </tbody>
 </table>
-<h2>2018</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2018</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -935,7 +973,12 @@ Council</p>
 </tr>
 </tbody>
 </table>
-<h2>2017</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2017</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1170,7 +1213,12 @@ Council</p>
 </tr>
 </tbody>
 </table>
-<h2>2016</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2016</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1308,7 +1356,12 @@ Council</p>
 </tr>
 </tbody>
 </table>
-<h2>2015</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2015</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1538,7 +1591,12 @@ the Past'</p>
 </tr>
 </tbody>
 </table>
-<h2>2014</h2>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2014</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1587,4 +1645,9 @@ the Past'</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+</div>
+</details>
+</div>
+<h2></h2>
 <p></p>
