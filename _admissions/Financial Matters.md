@@ -153,66 +153,82 @@ code on the latest bill so that your payment will be updated promptly.</p>
 <td rowspan="1" colspan="1">
 <p><strong>AXS Payment channels</strong>
 <br>
-<br><strong><u>AXS Mobile App</u></strong>
 </p>
-<ol data-tight="true" class="tight">
+<p>AXS Web
+<br>
+</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Download the <a href="https://www.axs.com.sg/axs-mstation/" rel="noopener noreferrer" target="_blank"><u>AXS Mobile App</u></a> from
-App Store or Google Play.</p>
+<p>Visit <a href="http://e-station.axs.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://e-station.axs.com.sg</a> 
+</p>
 </li>
 <li>
-<p>Select 'eServices' icon.</p>
+<p>Select 'eServices' icon</p>
 </li>
 <li>
-<p>Select ‘Education or Government’, followed by 'Ministry of Education'.</p>
+<p>Select ‘Education or Government’, followed by 'Ministry of Education'</p>
 </li>
 <li>
-<p>Select 'MOE - Student Bill'.</p>
+<p>Select ‘MOE-Student Bill’</p>
 </li>
 <li>
-<p>Follow the on-screen instructions.</p>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</li>
-</ol>
-<p><strong><u>AXS web</u></strong>
-</p>
-<ol data-tight="true" class="tight">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AXS Kiosks</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Visit <a href="https://www.axs.com.sg/axs-mstation/" rel="noopener noreferrer nofollow" target="_blank"><u>https://e-station.axs.com.sg</u></a>.</p>
-</li>
-<li>
-<p>Select 'eServices' icon.</p>
+<p>Locate your nearest AXS kiosk at <a href="https://www.axs.com.sg/axs-station-locations" rel="noopener noreferrer nofollow" target="_blank">https://www.axs.com.sg/axs-station-locations</a>.</p>
 </li>
 <li>
-<p>Select ‘Education or Government’, followed by 'Ministry of Education'.</p>
+<p>At the kiosk, Select 'Education'</p>
 </li>
 <li>
-<p>Select 'MOE - Student Bill'.</p>
+<p>Select ‘Ministry of Education’</p>
 </li>
 <li>
-<p>Follow the on-screen instructions.</p>
+<p>Select ‘Student Bill’</p>
+</li>
+<li>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-</li>
-</ol>
-<p><strong><u>AXS kiosk</u></strong>
-</p>
-<ol data-tight="true" class="tight">
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AXS Mobile App</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>Locate your nearest AXS kiosk at <a href="https://www.axs.com.sg/axs-mstation/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.axs.com.sg/axs-station-locations</u></a>.</p>
-</li>
-<li>
-<p>At the kiosk, Select 'Education' or 'Government'.</p>
+<p>Download AXS mobile app from AppStore or Google Play</p>
 </li>
 <li>
-<p>Select 'Ministry of Education'.</p>
+<p>Create an account using your mobile number Log in using your mobile number
+and PIN number.</p>
 </li>
 <li>
-<p>Select 'MOE - Student Bill'.</p>
+<p>Select ‘eServices’ icon</p>
 </li>
 <li>
-<p>Follow the on-screen instructions.</p>
+<p>Select ‘Education or Government’, followed by 'Ministry of Education'</p>
 </li>
-</ol>
+<li>
+<p>Select ‘MOE-Student Bill’</p>
+</li>
+<li>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
