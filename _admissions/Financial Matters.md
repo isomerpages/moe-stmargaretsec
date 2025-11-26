@@ -36,8 +36,7 @@ for the Edusave Standing&nbsp;Order form or write to&nbsp;<a href="mailto:loh_yo
 <td rowspan="1" colspan="1">
 <p><strong>Interbank GIRO</strong> 
 <br>
-<br>Details : Account holders from the following banks can sign up for the
-GIRO scheme with MOE through eGIRO:</p>
+<br>Details :</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -47,44 +46,49 @@ GIRO scheme with MOE through eGIRO:</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bank of China (BOC)&nbsp;</p>
+<p>Account holders from the following banks can sign up for the GIRO scheme
+with MOE through eGIRO*:</p>
 </li>
 <li>
-<p>DBS Bank or POSB&nbsp;</p>
+<p>Bank of China (BOC)</p>
 </li>
 <li>
-<p>Maybank &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Oversea-Chinese Banking Corporation Limited (OCBC)&nbsp;</p>
-</li>
-<li>
-<p>Standard Chartered Bank (SCB)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>Citibank · DBS Bank or POSB</p>
 </li>
 <li>
 <p>Hongkong and Shanghai Banking Corporation Limited (HSBC)</p>
 </li>
 <li>
-<p>United Overseas Bank (UOB)</p>
-</li>
-</ul>
-<p>Other bank account holders will need to complete a GIRO application form
-and submit the original signed form to the school. There is no need to
-submit a new application if students are already on GIRO.</p>
-<p>
-<br>GIRO deductions are made on the 26th of every month from February to December.</p>
-<p>If the 26th is a weekend or public holiday, the deduction will happen
-on the next working day.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>There is no deduction in January</strong> as the fees for January
-and February are combined into one bill for deduction in February.</p>
+<p>Industrial and Commercial Bank of China (ICBC)^</p>
 </li>
 <li>
-<p><strong>There will still be deductions in November and December</strong> as
-the fees payable are calculated on an annual basis and spread out over
-a period of 12 months, including school holidays.
+<p>MariBank</p>
+</li>
+<li>
+<p>Maybank</p>
+</li>
+<li>
+<p>Oversea-Chinese Banking Corporation Limited (OCBC)</p>
+</li>
+<li>
+<p>Standard Chartered Bank (SCB)</p>
+</li>
+<li>
+<p>United Overseas Bank (UOB)
+<br>^ICBC customers must use their 11-digit account number for GIRO setup
+<br>
+<br>Other bank account holders will need to complete a hardcopy GIRO application
+form and submit the original signed form to the school. There is no need
+to submit a new application if students are already on GIRO. Deductions
+will be made on the 26th day of each month (February – December).
+<br>
+<br>If the 26th day of the month is a weekend or public holiday, the deduction
+will happen on the next working day. The fees for January and February
+are combined into one bill for deduction in February, hence there will
+not be any deduction in January. Please ensure that there are sufficient
+funds in the bank account for deduction.
+<br><em>* Parents/Guardians pay apply for eGIRO at </em>
+<br>MOE website (<a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>)
 <br>
 <br>
 </p>
@@ -254,8 +258,18 @@ App Store or Google Play.</p>
 <li>
 <p>Students are to make sure that they obtain a receipt for payment of fees
 by cash/cheque/cashier’s order.</p>
+<p></p>
 </li>
 </ul>
+<p>Singapore Citizen students can choose to pay the monthly miscellaneous
+fees and the school autonomous fees from their Edusave account.</p>
+<p></p>
+<p>Parents/guardians who wish to use the Edusave account of their daughters
+to pay for the fees can apply via an Edusave Standing Order form accessible
+at <a href="https://go.gov.sg/storderfm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/storderfm</a>.</p>
+<p></p>
+<p>For further enquiries, please contact at email: <a href="mailto:admin_stmargaretss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_stmargaretss@moe.edu.sg</a>
+</p>
 <p>For enquiries on the payment of School Fees (MOE Bill) and School Bill,
 please contact Ms Jane Loh at 6466 4525.</p>
 <h2>Registration for PayNow</h2>
