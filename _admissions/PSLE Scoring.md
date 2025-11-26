@@ -24,7 +24,7 @@ when considering what would be a good fit for your child’s overall learning
 needs. For example, the schools' distinctive programmes, Co-Curricular
 Activities, ethos and culture, as well as home-school distance. For a more
 holistic understanding of our school, please visit the St. Margaret’s Secondary
-School Schoolfinder <a href="https://www.moe.gov.sg/schoolfinder/schooldetail?schoolname=st-margarets-secondary-school" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
+School Schoolfinder <a href="https://www.moe.gov.sg/schoolfinder?journey=Secondary%20school" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
 <h2>Explainer Videos</h2>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Z2neOdzIJd0"></iframe>
