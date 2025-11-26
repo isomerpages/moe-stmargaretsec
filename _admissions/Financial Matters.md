@@ -36,8 +36,7 @@ for the Edusave Standing&nbsp;Order form or write to&nbsp;<a href="mailto:loh_yo
 <td rowspan="1" colspan="1">
 <p><strong>Interbank GIRO</strong> 
 <br>
-<br>Details : Account holders from the following banks can sign up for the
-GIRO scheme with MOE through eGIRO:</p>
+<br>Details :</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -47,117 +46,52 @@ GIRO scheme with MOE through eGIRO:</p>
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p>Bank of China (BOC)&nbsp;</p>
+<p>Account holders from the following banks can sign up for the GIRO scheme
+with MOE through eGIRO*:</p>
 </li>
 <li>
-<p>DBS Bank or POSB&nbsp;</p>
+<p>Bank of China (BOC)</p>
 </li>
 <li>
-<p>Maybank &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-</li>
-<li>
-<p>Oversea-Chinese Banking Corporation Limited (OCBC)&nbsp;</p>
-</li>
-<li>
-<p>Standard Chartered Bank (SCB)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
+<p>Citibank · DBS Bank or POSB</p>
 </li>
 <li>
 <p>Hongkong and Shanghai Banking Corporation Limited (HSBC)</p>
 </li>
 <li>
-<p>United Overseas Bank (UOB)</p>
+<p>Industrial and Commercial Bank of China (ICBC)^</p>
 </li>
-</ul>
-<p>Other bank account holders will need to complete a GIRO application form
-and submit the original signed form to the school. There is no need to
-submit a new application if students are already on GIRO.</p>
-<p>
-<br>Deductions will be made on the 26th of each month (February – December).
-If the 26th is a weekend or public holiday, the deduction will happen on
-the next working day. There is no deduction in January as the fees for
-January and February are combined into one bill for deduction in February.
-Please ensure that there are sufficient funds in the bank account for deduction.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Payment Mode</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SingPost SAM Wed, Kiosk or Mobile App
+<li>
+<p>MariBank</p>
+</li>
+<li>
+<p>Maybank</p>
+</li>
+<li>
+<p>Oversea-Chinese Banking Corporation Limited (OCBC)</p>
+</li>
+<li>
+<p>Standard Chartered Bank (SCB)</p>
+</li>
+<li>
+<p>United Overseas Bank (UOB)
+<br>^ICBC customers must use their 11-digit account number for GIRO setup
 <br>
-<br>Details:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>SingPost SAM Web</strong>
-<br>Website:&nbsp;<a href="https://mysam.singpost.com/" rel="noopener noreferrer nofollow" target="_blank">https://mysam.singpost.com/</a>
-</p>
-<ul>
-<li>
-<p>Create and log in to your SAM account&nbsp;</p>
-</li>
-<li>
-<p>Select ‘Payments’&nbsp;</p>
-</li>
-<li>
-<p>Select ‘Ministry of Education’ under ‘Education’&nbsp;</p>
-</li>
-<li>
-<p>Select ‘Student Bill’&nbsp;</p>
-</li>
-<li>
-<p>Follow the on-screen instructions&nbsp; &nbsp;
+<br>Other bank account holders will need to complete a hardcopy GIRO application
+form and submit the original signed form to the school. There is no need
+to submit a new application if students are already on GIRO. Deductions
+will be made on the 26th day of each month (February – December).
 <br>
-<br><strong>SingPost SAM Kiosks</strong>
-</p>
-</li>
-<li>
-<p>At the kiosk, Select ‘Payments’</p>
-</li>
-<li>
-<p>Select ‘Ministry of Education’ under ‘Education’</p>
-</li>
-<li>
-<p>Select ‘Student Bill’&nbsp;</p>
-</li>
-<li>
-<p>Follow the on-screen instructions&nbsp; &nbsp;
+<br>If the 26th day of the month is a weekend or public holiday, the deduction
+will happen on the next working day. The fees for January and February
+are combined into one bill for deduction in February, hence there will
+not be any deduction in January. Please ensure that there are sufficient
+funds in the bank account for deduction.
+<br><em>* Parents/Guardians pay apply for eGIRO at </em>
+<br>MOE website (<a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/fees/egiro</a>)
 <br>
-<br><strong>Singpost Mobile App&nbsp;</strong>
+<br>
 </p>
-</li>
-<li>
-<p>Download SingPost mobile app from AppStore or Google Play&nbsp;</p>
-</li>
-<li>
-<p>Create an account using your mobile number&nbsp;</p>
-</li>
-<li>
-<p>Select ‘Pay with SAM’ icon&nbsp;</p>
-</li>
-<li>
-<p>Log in with your 6-digit account PIN</p>
-</li>
-<li>
-<p>Select ‘Education’, followed by ‘Ministry of Education’</p>
-</li>
-<li>
-<p>Select ‘MOE-Student Bill’ Follow the on-screen instructions</p>
 </li>
 </ul>
 <table style="minWidth: 50px">
@@ -167,26 +101,16 @@ Please ensure that there are sufficient funds in the bank account for deduction.
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Payment Mode</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SGQR Code</strong> 
 <br>
-<br>Details:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Scan the QR code on the bill and pay using any of the listed mobile applications</p>
+<br>Details:Scan the QR code on the bill and pay using any of the listed mobile
+applications</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Launch your preferred payment app from those shown in the bill -</p>
@@ -204,6 +128,114 @@ Please ensure that there are sufficient funds in the bank account for deduction.
 </ul>
 <p>Please note: The SGQR code is unique to each bill. Always use the SGQR
 code on the latest bill so that your payment will be updated promptly.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Payment Mode</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AXS Payment channels</strong>
+<br>
+</p>
+<p>AXS Web
+<br>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit <a href="http://e-station.axs.com.sg" rel="noopener noreferrer nofollow" target="_blank">http://e-station.axs.com.sg</a> 
+</p>
+</li>
+<li>
+<p>Select 'eServices' icon</p>
+</li>
+<li>
+<p>Select ‘Education or Government’, followed by 'Ministry of Education'</p>
+</li>
+<li>
+<p>Select ‘MOE-Student Bill’</p>
+</li>
+<li>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AXS Kiosks</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Locate your nearest AXS kiosk at <a href="https://www.axs.com.sg/axs-station-locations" rel="noopener noreferrer nofollow" target="_blank">https://www.axs.com.sg/axs-station-locations</a>.</p>
+</li>
+<li>
+<p>At the kiosk, Select 'Education'</p>
+</li>
+<li>
+<p>Select ‘Ministry of Education’</p>
+</li>
+<li>
+<p>Select ‘Student Bill’</p>
+</li>
+<li>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AXS Mobile App</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download AXS mobile app from AppStore or Google Play</p>
+</li>
+<li>
+<p>Create an account using your mobile number Log in using your mobile number
+and PIN number.</p>
+</li>
+<li>
+<p>Select ‘eServices’ icon</p>
+</li>
+<li>
+<p>Select ‘Education or Government’, followed by 'Ministry of Education'</p>
+</li>
+<li>
+<p>Select ‘MOE-Student Bill’</p>
+</li>
+<li>
+<p>Follow the on-screen instructions</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -242,8 +274,18 @@ code on the latest bill so that your payment will be updated promptly.</p>
 <li>
 <p>Students are to make sure that they obtain a receipt for payment of fees
 by cash/cheque/cashier’s order.</p>
+<p></p>
 </li>
 </ul>
+<p>Singapore Citizen students can choose to pay the monthly miscellaneous
+fees and the school autonomous fees from their Edusave account.</p>
+<p></p>
+<p>Parents/guardians who wish to use the Edusave account of their daughters
+to pay for the fees can apply via an Edusave Standing Order form accessible
+at <a href="https://go.gov.sg/storderfm" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/storderfm</a>.</p>
+<p></p>
+<p>For further enquiries, please contact at email: <a href="mailto:admin_stmargaretss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">admin_stmargaretss@moe.edu.sg</a>
+</p>
 <p>For enquiries on the payment of School Fees (MOE Bill) and School Bill,
 please contact Ms Jane Loh at 6466 4525.</p>
 <h2>Registration for PayNow</h2>
