@@ -9,6 +9,7 @@ variant: tiptap
 <p>Ms Linda Lim</p>
 <h4>Vice Principal</h4>
 <p>Mdm Chin Yih Min - Academic
+<br>Mr Glynn Tan Tze Jwee - Academic
 <br>Ms Chrystine Woon - Administration</p>
 <h4>Head of Department (HOD)</h4>
 <p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
@@ -16,7 +17,7 @@ variant: tiptap
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 <br>Mrs Filzah Tay - HOD/<a href="/about-us/organisation-chart/humanities" rel="noopener noreferrer nofollow" target="_blank">Humanities</a>
-<br>Mrs Teo Sook Lee - HOD/ICT (Internal)
+<br>Mrs Teo Sook Lee - HOD/ICT
 <br>Mrs Tham Chuan Chuan - HOD/<a href="/about-us/organisation-chart/aesthetics-craft-and-technology" rel="noopener noreferrer nofollow" target="_blank">Aesthetics, Craft and Technology</a>
 <br>Mr Lim Bing Hui - HOD/Student Development
 <br>Mrs Foo Kar Hiang - HOD/<a href="/about-us/organisation-chart/character-and-citizenship-education" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
