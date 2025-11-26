@@ -5,107 +5,13 @@ variant: tiptap
 description: ""
 ---
 <h2>School Fees For Academic Year 2025</h2>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Nationality</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>School Fees(S$)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Miscellaneous (S$)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Autonomous School Fee (S$)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Total Payable (S$)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore Citizen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>28</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Singapore (PR)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>500</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>523</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IS (ASEAN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>910</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>933</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>IS (Non-ASEAN)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1770</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1793</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>The annual school fees payable are spread over 12 months of the academic
 year. Students who are&nbsp;admitted on or before 5th February will have
 to pay fees from January. Those who withdraw on&nbsp;or after 5th October
 will have to pay fees for October, November and December. The preferred
 mode of payment is GIRO.</p>
+<p>Click here: <a href="https://www.moe.gov.sg/financial-matters/fees" rel="noopener nofollow" target="_blank">Financial Matters on MOE Website</a>
+</p>
 <p>Singapore Citizen students can choose to pay the second-tier miscellaneous
 fees and the school&nbsp;autonomous fees from their Edusave account.</p>
 <p>Please approach the school's General Office to speak with Ms Jane Loh
