@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mrs Teo Sook Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Internal)</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
@@ -63,14 +63,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>SH-CCE Education and Career Guidance &amp; Partnership</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mrs Keira Lim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>SH Teaching and Learning with Educational Technology</p>
 </td>
 </tr>
 <tr>
@@ -108,14 +100,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mrs Calyn Wee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p>Mr Lawrence Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

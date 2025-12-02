@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Christine Ho</p>
+<p>Mrs&nbsp;Christine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Special Educational Needs Officer</p>
