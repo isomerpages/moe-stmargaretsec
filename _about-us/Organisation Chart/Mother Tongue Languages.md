@@ -58,14 +58,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Bhuvana Rajamanickam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Chong-Yeo Chiu Peng</p>
 </td>
 <td rowspan="1" colspan="1">
