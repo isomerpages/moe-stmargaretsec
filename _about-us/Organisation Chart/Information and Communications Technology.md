@@ -21,7 +21,7 @@ variant: tiptap
 <p>Mrs Teo Sook Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT (Internal)</p>
+<p>HOD ICT</p>
 </td>
 </tr>
 <tr>
