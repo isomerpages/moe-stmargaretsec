@@ -90,15 +90,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jayabalan s/o Ramalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Geannie Lim</p>
+<p>Mr Ash</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
