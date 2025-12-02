@@ -42,14 +42,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jane Loh Yoke Cheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Management Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mdm Mae See Toh Wai Theng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -62,6 +54,30 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Carol Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administrative Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jane Loh Yoke Cheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sakinah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -90,15 +106,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jayabalan s/o Ramalingam</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Geannie Lim</p>
+<p>Mr Muhd Ashraff Farhan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

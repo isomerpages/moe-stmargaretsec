@@ -12,12 +12,12 @@ variant: tiptap
 <br>Mr Glynn Tan Tze Jwee - Academic
 <br>Ms Chrystine Woon - Administration</p>
 <h4>Head of Department (HOD)</h4>
-<p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
+<p>Mrs Elizabeth Yang - HOD/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/english-language-literature/" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
 <br>Mr Jason Chew - HOD/<a href="/about-us/organisation-chart/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
 <br>Mrs Filzah Tay - HOD/<a href="/about-us/organisation-chart/humanities" rel="noopener noreferrer nofollow" target="_blank">Humanities</a>
-<br>Mrs Teo Sook Lee - HOD/ICT
+<br>Mrs Teo Sook Lee - HOD/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/information-and-communications-technology/" rel="noopener nofollow" target="_blank">ICT</a>
 <br>Mrs Tham Chuan Chuan - HOD/<a href="/about-us/organisation-chart/aesthetics-craft-and-technology" rel="noopener noreferrer nofollow" target="_blank">Aesthetics, Craft and Technology</a>
 <br>Mr Lim Bing Hui - HOD/Student Development
 <br>Mrs Foo Kar Hiang - HOD/<a href="/about-us/organisation-chart/character-and-citizenship-education" rel="noopener noreferrer nofollow" target="_blank">Character and Citizenship Education</a>
