@@ -12,7 +12,7 @@ variant: tiptap
 <br>Mr Glynn Tan Tze Jwee - Academic
 <br>Ms Chrystine Woon - Administration</p>
 <h4>Head of Department (HOD)</h4>
-<p>Mrs Elizabeth Yang - HOD/<a href="/about-us/organisation-chart/english-language-literature-and-drama" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
+<p>Mrs Elizabeth Yang - HOD/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/english-language-literature/" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
 <br>Mr Jason Chew - HOD/<a href="/about-us/organisation-chart/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>
 <br>Mrs Tan Sok Mun - HOD/<a href="/about-us/organisation-chart/mathematics" rel="noopener noreferrer nofollow" target="_blank">Mathematics</a>
 <br>Ms Liang Huiyu - HOD/<a href="/about-us/organisation-chart/mother-tongue" rel="noopener noreferrer nofollow" target="_blank">Mother Tongue Languages</a>
