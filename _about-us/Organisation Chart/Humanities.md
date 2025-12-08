@@ -26,22 +26,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Esther Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Esther Lau</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>LT Social Studies</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Priscilla Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,14 +107,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Lee Beet Hiong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Augustine Goh Sing Tong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
