@@ -61,7 +61,7 @@ experience is preferred;</p>
 <p><strong><u>Application Procedure</u></strong>
 </p>
 <p>Application form is available at our General Office (111 Farrer Road,
-Singapore 259240) or can be downloaded from&nbsp;<a href="/files/Application_for_Canteen_Stall___FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+Singapore 259240) or can be downloaded from&nbsp;<a href="/files/Application_for_Canteen_Stall___FormBF7.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form.</a>
 </p>
 <p>Interested applicants must submit the following documents:</p>
 <ul data-tight="true" class="tight">
