@@ -34,8 +34,8 @@ sections:
         - title: Canteen Stall Advertisement
           date: 09 December 2025
           announcement: Click on the link below
-          link_text: ""
-          link_url: ""
+          link_text: Canteen Stall Advertisement
+          link_url: https://stmargaretssec.moe.edu.sg/canteen-stall-advertisement/
         - title: End of Term 2025 Principal's Letter
           date: 27 October 2025
           announcement: Click on the link below
