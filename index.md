@@ -27,7 +27,7 @@ sections:
       id: announcements
       announcement_items:
         - title: 2026 Secondary 1 Admission (School Transfer)
-          date: 08 December 2025
+          date: 09 December 2025
           announcement: Click on the link below
           link_text: Secondary 1 Admission 2026 (School Transfer)
           link_url: https://stmargaretssec.moe.edu.sg/2026-secondary-1-admission-school-transfer/
