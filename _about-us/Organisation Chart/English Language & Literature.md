@@ -66,14 +66,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Elyana Insyirah Esman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Leong Fang Shao</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,14 +75,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Priscilla Choi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Michelle Chung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
