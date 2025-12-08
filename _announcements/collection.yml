@@ -2,6 +2,7 @@ collections:
   announcements:
     output: true
     order:
+      - Canteen Stall Advertisement.md
       - Monthly Letter From Principal/Year 2025.md
       - Monthly Letter From Principal/.keep
       - Monthly Letter From Principal/Year 2024.md
