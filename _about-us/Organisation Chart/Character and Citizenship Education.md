@@ -42,14 +42,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp; Cynthia Kong Mun Yee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Brenda Lee Ai Ping</p>
 </td>
 <td rowspan="1" colspan="1">
