@@ -39,7 +39,7 @@ hours.</p>
 <p>Be healthy and fit to handle the demands of the job.</p>
 </li>
 <li>
-<p>Both applicant &amp;amp; stall assistant(s) must have passed the WSQ Basic
+<p>Both applicant &amp; stall assistant(s) must have passed the WSQ Basic
 Food Hygiene Course conducted by any of the accredited training providers
 appointed by WDA (Workforce Development Agency).</p>
 </li>
@@ -76,7 +76,7 @@ Singapore 259240) or can be downloaded from&nbsp;<a href="/files/Application_for
 certificates of applicant and stall assistant/s.</p>
 </li>
 <li>
-<p>Photocopy of the Identification Card (front &amp;amp; back).</p>
+<p>Photocopy of the Identification Card (front &amp; back).</p>
 </li>
 <li>
 <p>Records of past catering/canteen experiences, if any.</p>
