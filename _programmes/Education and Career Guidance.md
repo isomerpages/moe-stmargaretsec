@@ -52,44 +52,69 @@ aim to enable students to make informed education and career choices, and
 empower them for lifelong learning. The focus of ECG at the Secondary level
 is to allow students to develop self-awareness, explore possible career
 pathways and discover various education options.&nbsp;</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Level</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>ECG Key Phases</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>1</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Engage - Who am I? (Awareness)</strong>
+<br>• Introduction to the MySkillsFuture Portal, DOTs and CCAs that promote
+holistic skill development for growth and opportunities.
+<br>• Build students' self-awareness and understanding of post-secondary options.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Equip - Where do I want to go? (Exploration)</strong>
+<br>• Build awareness on experiences that contribute to holistic skill development
+and building of portfolio.
+<br>• Guidance on selecting subject combinations that align with their post-secondary
+options and aspirations.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>3</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Explore - How do I get there? (Clarification)</strong>
+<br>• Offer further experiences that contribute to holistic skill development
+and building of portfolio.
+<br>• Build students’ confidence in navigating education pathways.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>4 &amp; 5</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Explore - How do I get there? (Clarification)</strong>
+<br>• Refine students’ skills and preparing for tertiary admissions via DSA,
+EAE, and other relevant pathways.
+<br>• Deepen students’ confidence in navigating education pathways.</p>
 </td>
 </tr>
 </tbody>
