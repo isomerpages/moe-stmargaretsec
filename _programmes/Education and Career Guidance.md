@@ -128,9 +128,9 @@ specific write-up and interview skills are conducted.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%2012%20-%20interview%20training%202%20(1).jpg">
 </div>
 <h2>ECG Resources&nbsp;</h2>
-<p><strong>For Students &amp; Parents Reference </strong>
+<p><strong>For Students &amp; Parents Reference</strong>
 </p>
-<p>Students/ Parents may refer to the <a href="https://sites.google.com/moe.edu.sg/stmargssphere/ecg?authuser=0" rel="noopener nofollow" target="_blank"> St. Margaret’s School (Secondary) Student Learning Site</a> for
+<p>Students/ Parents may refer to the <a href="https://sites.google.com/moe.edu.sg/stmargssphere/ecg?authuser=0" rel="noopener nofollow" target="_blank">St. Margaret’s School (Secondary) Student Learning Site</a> for
 information that supports students’ education and career exploration</p>
 <p><strong>ECG Counsellor</strong>
 </p>
