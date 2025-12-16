@@ -25,27 +25,9 @@ and</p>
 engage their parents and other career influencers such as teachers, trusted
 adults and&nbsp; &nbsp; &nbsp; &nbsp;
 <br>industry partners.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/picture%201%20-%20nurse%20day%202019%20(4).JPG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG1.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%202%20-%20experience%20shatec%20(1).jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p>In St. Margaret’s, ECG lessons conducted within the CCE curriculum and
 school experiences, complemented by the MySkillsFuture Student Portal,
 aim to enable students to make informed education and career choices, and
@@ -124,33 +106,20 @@ including the Work Exploration Programme, Work Attachment/ Job Shadowing
 Programme and ECG Festival. To provide support to students applying for
 EAE or DSA, teacher mentorship and training in portfolio-building, course
 specific write-up and interview skills are conducted.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/picture%204%20-%20wajs%20(3).jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/picture%207%20-%20pgd%20(1).jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG2.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%206%20-%20wep%20(3).jpg">
 </div>
 <p></p>
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%209%20-%20lj%20to%20barclays%201%20(1).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG3.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%2010%20-%20lj%20to%20barclays%202%20(2).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%2011%20-%20interview%20training%201%20(1).jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/picture%2012%20-%20interview%20training%202%20(1).jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ECG4.png">
 </div>
 <h2>ECG Resources&nbsp;</h2>
 <p><strong>For Students &amp; Parents Reference</strong>
