@@ -2,7 +2,7 @@
 title: Education and Career Guidance
 permalink: /programmes/education-and-career-guidance/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h1>Education and Career Guidance</h1>
 <p>Education and Career Guidance (ECG) develops each student's self-identity
