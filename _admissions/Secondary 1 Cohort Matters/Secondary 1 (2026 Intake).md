@@ -34,7 +34,7 @@ obtained from the respective booklist/uniform info sheets below.</p>
 </p>
 </li>
 <li>
-<p><a href="https://drive.google.com/file/d/1hlVc1qk8vvdQgC-SxrSt69uw6LwTapVb/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G2 Booklist &amp; Stationery </a>
+<p><a href="https://drive.google.com/file/d/1hlVc1qk8vvdQgC-SxrSt69uw6LwTapVb/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G2 Booklist &amp; Stationery</a>
 </p>
 </li>
 <li>
