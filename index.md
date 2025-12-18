@@ -46,7 +46,20 @@ sections:
           announcement: Click on the link below
           link_text: 2026 Booklist and Uniform Info Sheet (Sec 2 - 5)
           link_url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
-  - resources:
+  - textcards:
       title: Announcements & News
-      id: resources
+      id: textcards
+      cards:
+        - title: 2026 Secondary 1 (School Transfer)
+          description: Click on the link below
+          linktext: Click here
+          url: https://www.stmargaretssec.moe.edu.sg/2026-secondary-1-admission-school-transfer/
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
