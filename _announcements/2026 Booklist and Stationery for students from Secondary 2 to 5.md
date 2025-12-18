@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 ---
 <h4><strong><u>2026 Booklist and Stationery</u></strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -14,6 +15,10 @@ description: ""
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>Secondary 1</strong>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><strong>Secondary 2</strong>
 </p>
@@ -33,6 +38,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1SLv7BE1OJ8VeV4UnFcbjk0S8BDS7WTM5/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G3 Booklist &amp; Stationery</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Sec_2_G3_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G3 Booklist &amp; Stationery</a>
 </p>
 </td>
@@ -51,6 +60,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/1hlVc1qk8vvdQgC-SxrSt69uw6LwTapVb/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G2 Booklist &amp; Stationery</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Sec_2_G2_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G2 Booklist &amp; Stationery</a>
 </p>
 </td>
@@ -67,6 +80,10 @@ description: ""
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://drive.google.com/file/d/19ANZsdkwVScENckd6FJXeqVd-zPsVEl2/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">Sec 1 G1 Booklist &amp; Stationery</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Sec_2_G1_Booklist___Stationery.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 G1 Booklist &amp; Stationery</a>
 </p>
@@ -93,13 +110,13 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>For Secondary 2 to 5 Students</strong>
+<p><strong>For Secondary 1  to 5 Students</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Purchase_of_School_Uniform__Sec_2__to_5_Students_.pdf" rel="noopener nofollow" target="_blank">School Uniform Info Sheet for Sec 2 to 5</a>
+<p><a href="/files/Purchase_of_School_Uniform__Sec_2__to_5_Students_.pdf" rel="noopener nofollow" target="_blank">School Uniform Info Sheet for Sec 1 to 5</a>
 </p>
 </td>
 </tr>
