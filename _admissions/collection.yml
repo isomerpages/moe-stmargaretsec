@@ -2,8 +2,8 @@ collections:
   admissions:
     output: true
     order:
-      - 2026 Secondary 1 Intake/2026 Secondary 1 (School Transfer).md
       - 2026 Secondary 1 Intake/.keep
+      - 2026 Secondary 1 Intake/2026 Secondary 1 (School Transfer).md
       - 2025 Direct School Admission/.keep
       - 2025 Direct School Admission/2025 Direct School Admission Exercise (DSA
         Sec).md
@@ -11,10 +11,10 @@ collections:
       - 2025 Direct School Admission/Selection Process & Admission Criteria.md
       - 2025 Direct School Admission/General Procedure & Timeline.md
       - 2025 Direct School Admission/Frequently Asked Questions.md
-      - Financial Matters.md
-      - PSLE Scoring.md
       - Scholarships and Awards/.keep
       - Scholarships and Awards/Scholarships and Awards.md
       - Scholarships and Awards/Edusave Awards.md
       - Scholarships and Awards/St Margarets School (Secondary) Awards.md
+      - Financial Matters.md
       - Info site for P6 Parents and Students.md
+      - PSLE Scoring.md
