@@ -34,10 +34,10 @@ sections:
           description: Click on the link below
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
-        - title: Canteen Stall Advertisement
+        - title: 2025 Release of N Level Results Slides
           description: Click on the link below
           linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/canteen-stall-advertisement/
+          url: https://for.edu.sg/2025releasenlevelresult
         - title: End of Term 2025 Principal's Letter
           description: Click on the link below
           linktext: Click here
