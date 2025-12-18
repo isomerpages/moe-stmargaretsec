@@ -9,10 +9,8 @@ third_nav_title: Secondary 1 Cohort Matters
 <p>Dear Parents/Guardians of 2026 Secondary 1 Students,</p>
 <p>We are delighted to extend a warm welcome to you and your daughter/ward
 to St. Margaret's School (Secondary).</p>
-<p>All information pertaining to 2026 Sec 1 is available here and on the
-<a href="https://sites.google.com/moe.edu.sg/smsssecondary1site" rel="noopener noreferrer nofollow" target="_blank">Sec 1 site</a>.
-<br><em>(Link will only be available 19/12/2025 at 7am)</em>
-</p>
+<p>All information pertaining to 2026 Sec 1 is available <a href="/files/2026_SMS_S__Sec_1_Handbook_final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> and
+on the <a href="https://sites.google.com/moe.edu.sg/smsssecondary1site" rel="noopener noreferrer nofollow" target="_blank">Sec 1 site</a>.</p>
 <p>For students who are eligible to offer Higher Mother Tongue Language and/or
 subject(s) at a More Demanding Level (MDL), the letter(s) of offer will
 be sent to you via Parents Gateway (PG) by 22 December 2025.</p>
@@ -45,7 +43,6 @@ obtained from the respective booklist/uniform info sheets below.</p>
 </p>
 </li>
 </ul>
-<p></p>
 <p><u>School Uniform:</u>
 </p>
 <ul data-tight="true" class="tight">
