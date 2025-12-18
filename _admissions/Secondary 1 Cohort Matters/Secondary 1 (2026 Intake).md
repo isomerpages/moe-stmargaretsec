@@ -11,7 +11,7 @@ third_nav_title: Secondary 1 Cohort Matters
 to St. Margaret's School (Secondary).</p>
 <p>All information pertaining to 2026 Sec 1 is available here and on the
 <a href="https://sites.google.com/moe.edu.sg/smsssecondary1site" rel="noopener noreferrer nofollow" target="_blank">Sec 1 site</a>.
-<br><em>(Link will only be available tomorrow at 7am)</em>
+<br><em>(Link will only be available 19/12/2025 at 7am)</em>
 </p>
 <p>For students who are eligible to offer Higher Mother Tongue Language and/or
 subject(s) at a More Demanding Level (MDL), the letter(s) of offer will
