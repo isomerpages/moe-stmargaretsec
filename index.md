@@ -26,10 +26,14 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: 2026 Secondary 1 (School Transfer)
+        - title: Secondary 1 Cohort Matters
           description: Click on the link below
           linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/2026-secondary-1-admission-school-transfer/
+          url: https://stmargaretssec.moe.edu.sg/secondary-1-2026-intake/
+        - title: 2026 Booklists & Uniform Info (Secondary 1 - 5)
+          description: Click on the link below
+          linktext: Click here
+          url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
         - title: Canteen Stall Advertisement
           description: Click on the link below
           linktext: Click here
@@ -38,8 +42,4 @@ sections:
           description: Click on the link below
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/files/Principal_s_Letter_End_of_Term_2025.pdf
-        - title: 2026 Booklists & Uniform Info (Secondary 1 - 5)
-          description: Click on the link below
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
 ---
