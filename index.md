@@ -38,7 +38,7 @@ sections:
           description: Click on the link below
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/files/Principal_s_Letter_End_of_Term_2025.pdf
-        - title: 2026 Booklists & Uniform Info (Secondary 2 - 5)
+        - title: 2026 Booklists & Uniform Info (Secondary 1 - 5)
           description: Click on the link below
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
