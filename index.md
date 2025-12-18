@@ -46,4 +46,7 @@ sections:
           announcement: Click on the link below
           link_text: 2026 Booklist and Uniform Info Sheet (Sec 2 - 5)
           link_url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
+  - resources:
+      title: Announcements & News
+      id: resources
 ---
