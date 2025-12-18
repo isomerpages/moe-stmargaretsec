@@ -22,32 +22,8 @@ sections:
           description: ""
           url: https://www.facebook.com/stmargssecsg/
       variant: center
-  - announcements:
-      title: Announcements
-      id: announcements
-      announcement_items:
-        - title: 2026 Secondary 1 Admission (School Transfer)
-          date: 09 December 2025
-          announcement: Click on the link below
-          link_text: Secondary 1 Admission 2026 (School Transfer)
-          link_url: https://stmargaretssec.moe.edu.sg/2026-secondary-1-admission-school-transfer/
-        - title: Canteen Stall Advertisement
-          date: 09 December 2025
-          announcement: Click on the link below
-          link_text: Canteen Stall Advertisement
-          link_url: https://stmargaretssec.moe.edu.sg/canteen-stall-advertisement/
-        - title: End of Term 2025 Principal's Letter
-          date: 27 October 2025
-          announcement: Click on the link below
-          link_text: Principal's Letter End of Term 2025
-          link_url: https://www.stmargaretssec.moe.edu.sg/files/Principal_s_Letter_End_of_Term_2025.pdf
-        - title: 2026 Booklists and Uniform Info Sheet (Secondary 2 - 5)
-          date: 24 October 2025
-          announcement: Click on the link below
-          link_text: 2026 Booklist and Uniform Info Sheet (Sec 2 - 5)
-          link_url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
   - textcards:
-      title: Announcements & News
+      title: Announcements
       id: textcards
       cards:
         - title: 2026 Secondary 1 (School Transfer)
@@ -62,8 +38,8 @@ sections:
           description: Click on the link below
           linktext: Click here
           url: https://www.stmargaretssec.moe.edu.sg/files/Principal_s_Letter_End_of_Term_2025.pdf
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: 2026 Booklists & Uniform Info (Secondary 2 - 5)
+          description: Click on the link below
+          linktext: Click here
+          url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
 ---
