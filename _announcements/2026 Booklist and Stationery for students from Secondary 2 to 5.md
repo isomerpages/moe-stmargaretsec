@@ -110,7 +110,7 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>For Secondary 1  to 5 Students</strong>
+<p><strong>For Secondary 1 to 5 Students</strong>
 </p>
 </td>
 </tr>
