@@ -110,13 +110,25 @@ description: ""
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>For Secondary 1 to 5 Students</strong>
+<p><strong>For Secondary 1 Students</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Purchase_of_School_Uniform__Sec_2__to_5_Students_.pdf" rel="noopener nofollow" target="_blank">School Uniform Info Sheet for Sec 1 to 5</a>
+<p><a href="/files/Purchase_of_School_Uniform_2026__Sec_1_Students_.pdf" rel="noopener nofollow" target="_blank">School Uniform Info Sheet for Sec 1</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>For Secondary 2 to 5 Students</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Purchase_of_School_Uniform__Sec_2__to_5_Students_.pdf" rel="noopener nofollow" target="_blank">School Uniform Info Sheet for Sec 2 to 5</a>
 </p>
 </td>
 </tr>
