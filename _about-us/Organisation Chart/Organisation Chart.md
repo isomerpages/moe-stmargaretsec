@@ -10,7 +10,10 @@ variant: tiptap
 <h4>Vice Principal</h4>
 <p>Mdm Chin Yih Min - Academic
 <br>Mr Glynn Tan Tze Jwee - Academic
-<br>Ms Chrystine Woon - Administration</p>
+<br>Ms Jazlyn Chua - Academic
+<br>Ms Chrystine Woon - Administration
+<br>
+</p>
 <h4>Head of Department (HOD)</h4>
 <p>Mrs Elizabeth Yang - HOD/<a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/english-language-literature/" rel="noopener noreferrer nofollow" target="_blank">English Language, Literature</a>
 <br>Mr Jason Chew - HOD/<a href="/about-us/organisation-chart/science" rel="noopener noreferrer nofollow" target="_blank">Science</a>
