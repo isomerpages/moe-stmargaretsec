@@ -2,10 +2,10 @@ collections:
   admissions:
     output: true
     order:
+      - Secondary 1 Cohort Matters/.keep
+      - Secondary 1 Cohort Matters/Secondary 1 (2026 Intake).md
       - Secondary 1 Cohort Matters/2026 Booklists and Uniform Info Sheet for
         Secondary 1.md
-      - Secondary 1 Cohort Matters/Secondary 1 (2026 Intake).md
-      - Secondary 1 Cohort Matters/.keep
       - Secondary 1 Cohort Matters/2026 Secondary 1 (School Transfer).md
       - 2025 Direct School Admission/.keep
       - 2025 Direct School Admission/2025 Direct School Admission Exercise (DSA
