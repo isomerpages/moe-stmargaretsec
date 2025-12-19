@@ -11,7 +11,7 @@ schools, receive information and perform a range of administrative functions
 including giving consent for school trips.</p>
 <p>The school uses PG&nbsp;<strong>fully</strong>&nbsp;for all engagements
 with parents. Hard copies of consent forms and other means of communication
-will only be provided for a student if none of the parents is eligible
+will only be provided for a student if none of the parents are eligible
 for SingPass.&nbsp;</p>
 <p>All&nbsp;Singapore Citizens / Permanent Residents / Employment Pass holders
 and some eligible&nbsp;Work Permit holders are able to register for SingPass.
