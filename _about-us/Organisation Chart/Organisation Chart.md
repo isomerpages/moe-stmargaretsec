@@ -46,7 +46,8 @@ variant: tiptap
 <p></p>
 <h4>Level Heads</h4>
 <p>Mrs Kok-Ong Lin Jin - LH/Lower Secondary Science
-<br>Mdm Nazlin Bte Hamzah - LH/Lower Sec EL, Lit &amp; Drama (Internal)</p>
+<br>
+</p>
 <h3>Senior Teachers</h3>
 <p>Mdm Liu Xin - Chinese Language
 <br>Ms Joey Poh - Character and Citizenship Education
