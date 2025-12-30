@@ -111,10 +111,15 @@ digital learner</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">Parent Kit Website</a>
+<br>(i) <a href="https://www.moe.gov.sg/-/media/files/parent-kit/parent-kit---raising-a-digitally-smart-child.pdf" rel="noopener nofollow" target="_blank">the Raising A Digitally Smart Child</a>
+<br>(ii) <a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">Parenting with moe IG</a>
+<br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Parent Kit</p>
+<p>Parent Kit
+<br>
+</p>
 </td>
 </tr>
 </tbody>
