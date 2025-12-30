@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mrs Teo Sook Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
+<p>HOD Educational Technology</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +86,7 @@ variant: tiptap
 <p>Ms Ang Wen Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management (Internal)</p>
+<p>SH/Student Management</p>
 </td>
 </tr>
 <tr>
