@@ -112,6 +112,14 @@ variant: tiptap
 <p>Operations Support Officer</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Jasmine Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Support Officer</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
