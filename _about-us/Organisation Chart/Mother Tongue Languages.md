@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Carol Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH/Secondary 1</p>
+<p>AYH</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@ variant: tiptap
 <p>Mdm Huang Haiying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH Chinese Language (Internal)</p>
+<p>SH Chinese Language</p>
 </td>
 </tr>
 <tr>
