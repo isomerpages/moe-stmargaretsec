@@ -4,30 +4,52 @@ permalink: /about-us/principals-message/
 description: ""
 variant: markdown
 ---
-<img src="/images/Principals%20Photo-white%202.jpg" style="width:40%" align="left">
+#### **Principal’s Foreword 2026**
+<img src="/images/Ms_Linda_Lim_2026.jpg" style="width:50%" align="left"> 
 
-As I reflect on our journey, I am filled with gratitude and optimism for the continuing growth of St Margaret’s School. Our theme of "#YouAreBeautiful" in 2024 continues to resonate deeply within our community, reminding us that each student is fearfully and wonderfully made, possessing unique gifts and the potential to blossom, nurture and flourish.
 
-At St Margaret's, we believe that true beauty emanates from within—through character, compassion, and the courage to shine. There have been countless examples of our students embodying these qualities, whether through their academic or non-academic achievements, service to others, or the way they support one another through challenges.
+Each new year marks a fresh chapter and a renewed invitation to reflect on how far we have come and to look forward with expectant hearts to a new start. Our theme for this year, “Growing in Grace,” reminds us that growth is not only measured in achievements, but in the depth of character, compassion, and resilience.
 
-Our strategic focus remains the same: to nurture future-ready learners with growth mindsets, who are other-centered and dedicated members of the St Margaret's family. We continue to emphasize the importance of being well (#BeWell), fostering meaningful connections (#BeConnected), and shining as beacons of hope (#BeALight) in our community and beyond.
+This promise is echoed in Isaiah 43:19:  
+_“See, I am doing a new thing! Now it springs up; do you not perceive it?”_ As a school, we hold fast to this assurance—that God continues His good work amongst us, guiding every step as we work toward a future filled with purpose and possibility.
 
-As we embrace the opportunities ahead, I am reminded of the words penned by one of our students: "Through the struggles, a butterfly emerges, what you thought was a flaw turns into your superpower." Indeed, this captures the essence of our educational journey at St Margaret's—transforming challenges into stepping stones for growth.
+##### **From the Fruit of the Spirit to a Season of GRACE**
 
-As beacons of hope, we hope our students will show the Fruit of the Spirit—Love, Joy, Peace, Patience, Kindness, Goodness, Faithfulness, Gentleness, and Temperance. To these virtues, we add Devotion, weaving in our cherished School Motto. These qualities are not merely words; they are lived experiences in our classrooms, corridors, and beyond our school gates. When our students demonstrate patience in supporting a classmate, show kindness in community service, or express joy in celebrating others' achievements, they illuminate the path for others to follow.
+Over the years, we have focused our efforts to understand and appreciate what it means to live guided by our school motto of Charity, Patience, Devotion. We also learn through our school tagline of #BeWell, #BeConnected, #BeALight. In 2025, learning about the **Fruit of the Spirit** helped shape our hearts and minds to cultivate love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and temperance. These virtues remain deeply embedded in who we are. In 2026, we build on this foundation by placing a renewed emphasis on **_GRACE (and LIGHT_**), aligning closely with our school’s core values. GRACE will guide us to grow with the following focus:
 
-In 2024, we started implementing Full Subject-Based Banding (FSBB). I am deeply encouraged by how our students have embraced this new approach to learning, demonstrating remarkable enthusiasm and adaptability. FSBB has given greater flexibility for the girls to pursue subjects at different levels based on their strengths and interests. The Sec 1 cohort also showcased their learning at the inaugural Sparks Learning Festival in October 2024. Our students' presentations and projects demonstrated not just their gleanings of the common curriculum but the resilience needed to keep learning. Their achievements reflect the potential of this educational transformation and reinforce our commitment to providing diverse learning opportunities that cater to each student's unique potential.
+**1\. Gratitude (Learning Continuously)**
 
-I would also like to express our deepest gratitude to Professor Lawrence Boo, who retired as Chairman of our School Management Committee at the end of 2024, after 32 remarkable years of undaunted service to education and to St Margaret’s. His unwavering dedication, wisdom, and passionate commitment to education have been instrumental in shaping St Margaret's into the institution it is today. Under his guidance and leadership, both St. Margaret’s School (Secondary) and St Margaret’s School (Primary) had been blessed and his legacy will continue to inspire many to come.
+**2\. Resilience (Being Resilient and Tenacious)**
 
-This year, we warmly welcome Ms. Charis Tan as our new Chairperson of the School Management Committee. Her wealth of experience and vision for education aligns well with our school's mission to nurture young women of character and purpose. We look forward to her leadership as we continue to write new chapters in the St Margaret's story.
+**3\. Authenticity (Upholding Integrity)**
 
-As we move forward together, let us remember that each member of our St Margaret's family is beautiful, loved, and capable of making a positive difference in the world. May we continue to grow in grace and wisdom, supporting one another as we strive for excellence in all we do.
+**4\. Care (Showing Care and Being Gracious)**
 
-To God be the Glory!
+**5\. Empowered (Taking Pride and Being Humble)**
+
+#### **Celebrating Our Growth**
+
+We enter 2026 with gratitude and pride for what our school community has accomplished in the past years. In **Term 4 of 2025**, the school received a very affirming **Customised Validation Report** and I am humbled by this. It affirmed our steadfast commitment to quality teaching, holistic development, and fostering a caring school culture.
+
+The report commended the school on having
+
+* **strong teacher-student relationships**
+* **robust programmes in student well-being and character development**
+* **effective learning experiences grounded in clarity, support, and high expectations**
+
+These affirmations reflect the expertise, love, patience and devotion of our educators, as well as our students’ commitment to growth and learning. This is also testament to the trust of and partnership with our stakeholders and parents. It is a milestone that strengthens our resolve to pursue excellence in growth and character, with humility and gratitude. Reflecting on the report’s findings encourages us to live out our values more intentionally, creating a community where every action is anchored in compassion, respect, and a desire to uplift one another.
+
+We step into this new season with confidence—trusting that we will continue to grow in grace. As a community, our desire is also to grow in unity, wisdom, and purpose. &nbsp;We will continue to focus on
+
+* **exploring innovative and effective pedagogies**
+* **strengthening student voice and leadership pathways**
+* **deepening partnerships and collaboration with the community**
+* **enhancing support systems that promote well-being and holistic growth**
+
+May God’s grace envelope and lead us forward into all that He is preparing for us.
+
+Together, let us embrace **Growing in Grace**—honouring our past, celebrating the present, and stepping boldly into the new.
 
 Linda Lim
 
 Principal
-
-St. Margaret’s School (Secondary)
