@@ -37,7 +37,7 @@ variant: tiptap
 <p>Ms Carol Soh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH</p>
+<p>AYH Secondary 2</p>
 </td>
 </tr>
 <tr>
@@ -147,6 +147,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Thiilagah Rajandra</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Koh Hui Sze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
