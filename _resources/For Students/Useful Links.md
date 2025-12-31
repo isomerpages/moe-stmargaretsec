@@ -44,7 +44,7 @@ books&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>St. Margaret's School (Secondary) Care Link - Book an appointment to see
-Ms Cynthia Kong and Ms Thandar Soe our school counsellor.&nbsp;
+Ms Thandar Soe our school counsellor.&nbsp;
 <br>
 <br>Book an appointment to see our school counsellors.</p>
 <p>E-Appointment system: <a href="https://go.gov.sg/smss-counselling" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/smss-counselling</u><br></a>
