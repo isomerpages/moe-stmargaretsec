@@ -34,6 +34,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Jean Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE (Education and Career Guidance &amp; Partnership)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Priscilla Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs&nbsp;Christine Ho</p>
 </td>
 <td rowspan="1" colspan="1">
