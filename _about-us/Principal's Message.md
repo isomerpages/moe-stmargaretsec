@@ -47,4 +47,3 @@ Together, let us embrace **Growing in Grace**—honouring our past, celebrating 
 Linda Lim<br>
 Principal
     </div>
-
