@@ -19,7 +19,7 @@ compassion, and resilience.</p>
 a school, we hold fast to this assurance—that God continues His good work
 amongst us, guiding every step as we work toward a future filled with purpose
 and possibility.</p>
-<p><strong>From the Fruit of the Spirit to a Season of GRACE</strong>
+<p><strong><u>From the Fruit of the Spirit to a Season of GRACE</u></strong>
 </p>
 <p>Over the years, we have focused our efforts to understand and appreciate
 what it means to live guided by our school motto of Charity, Patience,
@@ -41,7 +41,7 @@ grow with the following focus:</p>
 </p>
 <p><strong>5. Empowered (Taking Pride and Being Humble)</strong>
 </p>
-<p><strong>Celebrating Our Growth</strong>
+<p><strong><u>Celebrating Our Growth</u></strong>
 </p>
 <p>We enter 2026 with gratitude and pride for what our school community has
 accomplished in the past years. In <strong>Term 4 of 2025</strong>, the
