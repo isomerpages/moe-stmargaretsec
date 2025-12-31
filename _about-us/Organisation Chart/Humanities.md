@@ -29,7 +29,7 @@ variant: tiptap
 <p>Ms Priscilla Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Geography</p>
+<p>SH/CCE</p>
 </td>
 </tr>
 <tr>
@@ -38,6 +38,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/Geography</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nicolette Ng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AYH/Secondary 3 (Internal)</p>
 </td>
 </tr>
 <tr>
@@ -59,14 +67,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Francina Ranjitha Fernando</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nicolette Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,6 +107,22 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Esther Lee Beet Hiong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Pradeep Radhakrishnan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Augustine Goh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
