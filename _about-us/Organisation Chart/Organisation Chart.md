@@ -10,7 +10,7 @@ variant: tiptap
 <h4>Vice Principal</h4>
 <p>Mdm Chin Yih Min - Academic
 <br>Mr Glynn Tan Tze Jwee - Academic
-<br>Ms Jazlyn Chua - Academic
+<br>Miss Jazlyn Chua - Academic
 <br>Ms Chrystine Woon - Administration
 <br>
 </p>
@@ -36,7 +36,7 @@ variant: tiptap
 <br>Ms Bernadette Lim - SH/Additional Mathematics
 <br>Ms Priscilla Lim - SH/Character and Citizenship Education
 <br>Mdm Nazlin Bte Hamzah - SH/English Language &amp; Literature
-<br>Ms Cao Yu - SH/Student Leadership
+<br>Miss Cao Yu - SH/Student Leadership
 <br>Mr Eugene Wong - SH/Chemistry
 <br>Ms Ang Wen Ting - SH/Student Management
 <br>Mdm Huang Haiying - SH/CL
@@ -44,7 +44,7 @@ variant: tiptap
 <br>Mrs Madeline Seow - SH/CCA (Internal)</p>
 <p></p>
 <h4>Level Heads</h4>
-<p>Mrs Kok-Ong Lin Jin - LH/Lower Secondary Science
+<p>Ms Ong Lin Jin - LH/Lower Secondary Science
 <br>
 </p>
 <h3>Senior Teachers</h3>
