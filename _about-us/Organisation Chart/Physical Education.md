@@ -26,6 +26,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Madeline Seow Mei Ying</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/CCA (Internal)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr&nbsp;Daniel Ling Siong Kiat</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,14 +51,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Nicholas Koh Wei-Chong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Madeline Seow Mei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
