@@ -62,7 +62,7 @@ variant: tiptap
 <p>Mrs Serena Ajay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>AYH Secondary 1</p>
+<p>AYH Secondary 2</p>
 </td>
 </tr>
 <tr>
@@ -156,6 +156,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p>Mdm Chen Cui Xia</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>Mrs Soh Sok Hoon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
