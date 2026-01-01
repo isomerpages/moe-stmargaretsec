@@ -46,7 +46,7 @@ variant: tiptap
 <br>Procurement Matters</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department ICT
+<p>Head of Department EdTech
 <br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Teo Sook Lee</a>
 <br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_lee@moe.edu.sg</a>
 </p>
