@@ -38,7 +38,7 @@ variant: tiptap
 <p>Mrs Teo Sook Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Educational Technology</p>
+<p>HOD EdTech</p>
 </td>
 </tr>
 <tr>
