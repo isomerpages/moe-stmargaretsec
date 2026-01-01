@@ -5,9 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Ms_Linda_Lim_2026.jpg">
-</div>
 <h4><strong>Principal’s Foreword 2026</strong></h4>
 <p>Each new year marks a fresh chapter and a renewed invitation to reflect
 on how far we have come and to look forward with expectant hearts to a
@@ -98,3 +95,8 @@ for us.</p>
 past, celebrating the present, and stepping boldly into the new.</p>
 <p>Linda Lim</p>
 <p>Principal</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Linda_Lim.jpg">
+</div>
+<p></p>
