@@ -15,6 +15,9 @@ sections:
         - title: Monthly Letter from Principal
           description: ""
           url: https://stmargaretssec.moe.edu.sg/year-2026/
+        - title: Class Timetable
+          description: ""
+          url: https://stmargaretssec.moe.edu.sg/class-timetable/
         - title: Useful Links
           description: (For Students)
           url: /resources/for-students/useful-links/
