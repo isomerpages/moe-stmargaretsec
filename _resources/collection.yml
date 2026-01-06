@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - For Students/Class Timetable.md
       - For Students/.keep
       - For Students/Bookshop Information.md
       - For Students/School Rules.md
