@@ -138,17 +138,6 @@ provided by the organisation must be included as part of the submission.</p>
 </tr>
 </tbody>
 </table>
-<h2>VIA Photo Albums&nbsp;</h2>
-<div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPosJc27clkspxjqvm5RKbJhJx-LdOryy8HBv6tveIgwpxwPnkCQOF27Sux3euHNB1VFBzgwsS9QAK/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p><strong>National Day Care Packs 2020</strong>
-</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="100%" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vScbnJ3ko_wRQdMgh9xZjh0uYeNQq9hxfOBj6AKEbL3-bFXZFsbaJaiqjqB-0IjrbJWqz38DXBPhbK-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
-<p><strong>VIA Activities 2020</strong>
-</p>
 <h2>Videos</h2>
 <div class="iframe-wrapper">
 <iframe height="331" width="590" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/LddxRnfe3S0"></iframe>
