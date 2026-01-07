@@ -84,7 +84,7 @@ certificates of applicant and stall assistant/s.</p>
 </ul>
 <p>Please submit the documents to the school’s General Office or email to&nbsp;
 <a href="mailto:owyong_siew_leng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">owyong_siew_leng@schools.gov.sg</a>(Attention: Administration Manager)
-by the closing date 7 January 2026, 5.00 pm. We regret that late applications
+by the closing date 6 February 2026, 5.00 pm. We regret that late applications
 will not be accepted.</p>
 <p><strong><u>Interview and Food Tasting</u></strong>
 </p>
@@ -96,7 +96,7 @@ applicant’s own expense.</p>
 </li>
 <li>
 <p>Successful applicant will be expected to commence operation of the stall
-on 2 February 2026.</p>
+in March 2026.</p>
 </li>
 <li>
 <p>Please contact the school’s Administration Manager, Ms Doreen Owyong at&nbsp;64664525&nbsp;for
