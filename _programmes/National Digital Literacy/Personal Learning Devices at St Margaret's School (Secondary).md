@@ -9,7 +9,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Green__Pink__Vintage_Retro_Typographic_Movie_Night_Poster.png">
 </div>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -214,6 +213,15 @@ Pencil Touch enabled</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Graphite Grey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Insurance Warranty</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Years</p>
 </td>
 </tr>
 <tr>
