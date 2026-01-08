@@ -17,11 +17,13 @@ variant: tiptap
 </li>
 <li>
 <p><a href="/files/IP3___Parent_Handbook__II__2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent Handbook (II)</a>
+</p>
+<p></p>
+<p>
+<br>
+<br>For purchase of add-on accessories, please email Mr Syukri at <a href="muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">muhammad_syukri_suhaimi@moe.edu.sg</a>
 <br>
 <br>
-<br>For purchase of add-on accessories, please refer to the link below.
-<br>
-<br><a href="https://www.google.com/url?q=https%3A%2F%2Fwww.asiapac.com.sg%2Fpld-lenovo%2Faccount%2Flogin&amp;sa=D" rel="noopener nofollow" target="_blank">Click here</a>
 <br>
 </p>
 </li>
