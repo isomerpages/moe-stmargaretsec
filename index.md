@@ -40,7 +40,7 @@ sections:
         - title: 2025 O Level Results Briefing Slides
           description: Click on the link below
           linktext: Click here
-          url: S
+          url: https://stmargaretssec.moe.edu.sg/release-of-2025-o-level-results-briefing-slides/
         - title: Canteen Stall Advertisement
           description: Click on the link below
           linktext: Click here
