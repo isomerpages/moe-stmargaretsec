@@ -119,7 +119,7 @@ Parents Gateway. For those without access to Parents Gateway, a hard copy
 will be distributed via your daughter/ward by the end of Term 1 Week 5.
 The form is also downloadable <a href="/files/website_sed_opt_out_form_2026_Annex_A2.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.
 A hardcopy of the form, duly completed and signed, is to be submitted to
-the school office by 20/02/2025.</p>
+the school office by 09/02/2026.</p>
 <p>12.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents of Secondary Three students</strong> who
 wish to opt their children out of the <strong><em>eTeens</em> programme</strong> need
 to complete an opt-out form. This form can be completed and submitted via
