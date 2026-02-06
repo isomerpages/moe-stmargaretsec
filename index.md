@@ -41,8 +41,4 @@ sections:
           description: Click on the link below
           linktext: Click here
           url: https://stmargaretssec.moe.edu.sg/release-of-2025-o-level-results-briefing-slides/
-        - title: Canteen Stall Advertisement
-          description: Click on the link below
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/canteen-stall-advertisement/
 ---
