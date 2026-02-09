@@ -17,4 +17,99 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 </p>
 </li>
 </ol>
+<h4>DMA Setting</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Default Options</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Option A</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Option B</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0630 - 1830</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0630 - 1830</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>After School Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1830 - 0630</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sleep Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Holiday Profile</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Applicable</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
