@@ -62,7 +62,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <p>1830 - 2300</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Based on Parents After school hour up to Sleep hour selection:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1830 - 0630</p>
@@ -76,7 +76,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <p>2300 - 0630</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Based on Parents Sleep hour selection:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
@@ -144,7 +144,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <br>2300 - 2359</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Based on Parents Selection:</p>
+<p>Based on Parents Sleep hour selection:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
