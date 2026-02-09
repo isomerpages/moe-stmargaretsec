@@ -17,7 +17,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 </p>
 </li>
 </ol>
-<h4>DMA Setting</h4>
+<h4>DMA Setting for School Period</h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -45,7 +45,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <p>School Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>0630 - 1830</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>0630 - 1830</p>
@@ -59,7 +59,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <p>After School Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1830 - 2300</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -70,24 +70,10 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Sleep Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2300 - 0630</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -96,15 +82,69 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 <p>Not Applicable</p>
 </td>
 </tr>
+</tbody>
+</table>
+<h4>DMA Setting for School Holiday Period</h4>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Default Options</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Option A</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Option B</p>
+</th>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>School Holiday Profile</p>
+<p>School Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Not Applicable</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Not Applicable</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Not Applicable</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>After School Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0630 - 2300</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whole Day</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Whole Day</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sleep Hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>0000 - 0630
+<br>2300 - 2359</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Based on Parents Selection:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Not Applicable</p>
