@@ -33,10 +33,15 @@ variant: tiptap
 <li>
 <p><a href="/files/ChromeOS_DMA_Parent_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Option B Guide</a>
 </p>
-<p></p>
 </li>
 </ul>
-<h4></h4>
+<h4>Indication of After-School DMA Parent Options</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://form.gov.sg/67a40c77dcc3e09f3ac0933a" rel="noopener nofollow" target="_blank">After school DMA Parent Option</a>
+</p>
+</li>
+</ul>
 <h4>Ad-hoc purchases</h4>
 <p>For any ad-hoc purchases of add-on Chromebook accessories, please email
 Mr Syukri at <a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syukri_suhaimi@moe.edu.sg</a>.
