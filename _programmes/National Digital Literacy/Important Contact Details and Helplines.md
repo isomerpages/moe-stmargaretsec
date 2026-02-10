@@ -21,7 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edusave Balance</p>
+<p><strong>Edusave Balance Enquiries</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6260 0777</p>
@@ -29,7 +30,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Financial assistance available</p>
+<p><strong>Financial Assistance Matters</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrations Manager
@@ -42,13 +44,27 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PLD Specifications
-<br>Procurement Matters</p>
+<p><strong>PLD Specifications &amp; Procurement Matters</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department EdTech
 <br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Teo Sook Lee</a>
 <br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_lee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>DMA Matters, Ad-Hoc Purchases &amp; Device Support</strong>
+</p>
+<p>For matters relating to DMA settings, ad-hoc purchases of add-on Chromebook
+accessories, device warranty, and repairs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Associate
+<br><a href="Muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Syukri</a>
+<br><a href="Muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Muhammad_syukri_suhaimi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
