@@ -34,12 +34,13 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administrations Manager
-<br><a href="mailto:lian_chuen_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Lian Chuen Ann <br>lian_chuen_ann@schools.gov.sg</a>&nbsp;
+<p><u>Administrations Manager </u>
+<br>Ms Lian Chuean Ann
+<br>Email: Lian_chuen_ann@schools.gov.sg
 <br>
-<br>Administrative Executive
-<br><a href="mailto:see_toh_wai_theng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Mae See Toh Wai Theng <br>see_toh_wai_theng@moe.edu.sg</a>
-</p>
+<br><u>Administrative Executive</u> 
+<br>Ms Mae See Toh Wai Theng
+<br>Email: See_toh_wai_theng@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -48,10 +49,9 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department EdTech
-<br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mrs Teo Sook Lee</a>
-<br><a href="wong_sook_lee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_sook_lee@moe.edu.sg</a>
-</p>
+<p><u>Head of Department EdTech </u>
+<br>Mrs Teo Sook Lee
+<br>Email: Wong_sook_lee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +62,9 @@ variant: tiptap
 accessories, device warranty, and repairs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate
-<br><a href="Muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Syukri</a>
-<br><a href="Muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener nofollow" target="_blank">Muhammad_syukri_suhaimi@moe.edu.sg</a>
-</p>
+<p><u>ICT Associate</u> 
+<br>Mr Syukri
+<br>Email: Muhammad_syukri_suhaimi@moe.edu.sg</p>
 </td>
 </tr>
 </tbody>
