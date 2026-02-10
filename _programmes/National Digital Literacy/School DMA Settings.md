@@ -15,7 +15,7 @@ these different time periods.</p>
 </li>
 <li>
 <p>For more information on DMA, please contact the school’s ICT Associate,
-Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syukri_suhaimi@moe.edu.sg</a>
+Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syukri_suhaimi@moe.edu.sg</a>
 <br>
 </p>
 </li>
@@ -87,7 +87,7 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 </td>
 <td rowspan="1" colspan="1">
 <p>2300 - 0630
-<br><em>(Adheres to school  Sleep hour rules)</em>
+<br><em>(Adheres to school Sleep hour rules)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
