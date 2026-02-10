@@ -21,7 +21,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Edusave Balance</p>
+<p><strong>Edusave Balance Enquiries</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>6260 0777</p>
