@@ -8,7 +8,10 @@ variant: tiptap
 <ol data-tight="true" class="tight">
 <li>
 <p>The table below outlines the Device Management Application (DMA) settings
-for both School Period and School Holiday Period.</p>
+during School Hours, After School Hours, and School Holidays. It provides
+an overview of how device access and restrictions are configured across
+these different time periods.</p>
+<p></p>
 </li>
 <li>
 <p>For more information on DMA, please contact the school’s ICT Associate,
@@ -56,8 +59,8 @@ Mr Syukri at&nbsp;<a href="mailto:thor_ya_lin@moe.edu.sg" rel="noopener noreferr
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>Follows school-set rules to ensure your child’s/ward’s focus during learning
-hours.</p>
+<p><em>Follows school-set rules to ensure your child’s/ward’s focus during learning hours.</em>
+</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +87,7 @@ hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2300 - 0630
-<br><em>(Adheres to school school Sleep hour rules)</em>
+<br><em>(Adheres to school  Sleep hour rules)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
