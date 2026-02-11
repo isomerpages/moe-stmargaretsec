@@ -11,7 +11,6 @@ variant: tiptap
 <p>Mdm Chin Yih Min - Academic
 <br>Mr Glynn Tan Tze Jwee - Academic
 <br>Miss Jazlyn Chua - Academic
-<br>Ms Chrystine Woon - Administration
 <br>
 </p>
 <h4>Head of Department (HOD)</h4>
