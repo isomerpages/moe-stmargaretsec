@@ -187,7 +187,7 @@ Girls</p>
 </table>
 <h2>Video</h2>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6L60zz-yroE"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6L60zz-yroE"></iframe>
 </div>
 <p>St. Margaret's School (Secondary) vs Ang Mo Kio Secondary School at the
 South Zone 'B' Division Girls Badminton&nbsp;3rd / 4th placing match of
