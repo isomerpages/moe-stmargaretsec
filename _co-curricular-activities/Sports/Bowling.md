@@ -18,7 +18,7 @@ variant: tiptap
 <p>Training Days</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Tuesday</p>
+<p>Monday</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Thursday</p>
@@ -43,7 +43,7 @@ variant: tiptap
 <p>Civil Service Club (Tessensohn)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Civil Service Club (Tessensohn)</p>
 </td>
 </tr>
 </tbody>
