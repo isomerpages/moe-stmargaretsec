@@ -68,7 +68,7 @@ Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noope
 <p>After School Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1830 - 2300<em><br>(Adheres to school after school hour rules)</em>
+<p>1830 - 2230<em><br>(Adheres to school after school hour rules)</em>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,7 +86,7 @@ Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noope
 <p>Sleep Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2300 - 0630
+<p>2230 - 0630
 <br><em>(Adheres to school Sleep hour rules)</em>
 </p>
 </td>
@@ -145,7 +145,7 @@ Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noope
 <p>After School Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0630 - 2300</p>
+<p>0630 - 2230</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Whole Day</p>
@@ -159,8 +159,7 @@ Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noope
 <p>Sleep Hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>0000 - 0630
-<br>2300 - 2359</p>
+<p>2230 - 0630</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Based on parents’ Sleep hour selection</p>
