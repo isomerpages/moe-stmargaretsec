@@ -29,16 +29,8 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: Secondary 1 Cohort Matters
-          description: Click on the link below
+        - title: 2026 DSA Exercise for 2027
+          description: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
           linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/secondary-1-2026-intake/
-        - title: 2026 Booklists & Uniform Info (Secondary 1 - 5)
-          description: Click on the link below
-          linktext: Click here
-          url: https://www.stmargaretssec.moe.edu.sg/2026-booklist-and-stationery/
-        - title: 2025 O Level Results Briefing Slides
-          description: Click on the link below
-          linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/release-of-2025-o-level-results-briefing-slides/
+          url: https://stmargaretssec.moe.edu.sg/2026-direct-school-admission-exercise/
 ---
