@@ -14,7 +14,7 @@ these different time periods.</p>
 <p></p>
 </li>
 <li>
-<p>For more information on DMA, please contact the school’s ICT Associate,
+<p>For more information on DMA, please contact the school’s ICT Manager,
 Mr Syukri at&nbsp;<a href="mailto:muhammad_syukri_suhaimi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_syukri_suhaimi@moe.edu.sg</a>
 <br>
 </p>
