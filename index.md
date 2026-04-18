@@ -32,5 +32,5 @@ sections:
         - title: 2026 DSA Exercise for 2027
           description: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
           linktext: Click here
-          url: https://stmargaretssec.moe.edu.sg/2026-direct-school-admission-exercise/
+          url: https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/
 ---
