@@ -30,8 +30,9 @@ admission via DSA.&nbsp;&nbsp;</p>
 <p>Shortlisted applicants may be required to present evidence of non-school-based
 activities and achievements during the interview.</p>
 <p><strong>All auditions / trials /&nbsp;interviews will be conducted in-person from Thursday 9 July 2026 to Thursday 6 August 2026.</strong> Please
-refer to the <strong><a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise" rel="noopener noreferrer nofollow" target="_blank">Aesthetics</a></strong>&nbsp;and&nbsp;<strong><a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/admission-criteria-for-direct-school-admission-exercise" rel="noopener noreferrer nofollow" target="_blank">Sports</a></strong> talent
-areas for details on the selection process and criteria.</p>
+refer to the
+<br><a href="https://stmargaretssec.moe.edu.sg/admission-criteria-for-direct-school-admission-exercise/" rel="noopener nofollow" target="_blank">Aesthetics </a>and&nbsp;
+<a href="https://stmargaretssec.moe.edu.sg/admission-criteria-for-direct-school-admission-exercise/" rel="noopener nofollow" target="_blank">Sports</a>talent areas for details on the selection process and criteria.</p>
 <h4><strong>General Procedure &amp; Timeline</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
