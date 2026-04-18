@@ -2,6 +2,14 @@ collections:
   admissions:
     output: true
     order:
+      - 2026 Direct School Admission/2026 Direct School Admission Exercise.md
+      - 2026 Direct School Admission/.keep
+      - 2026 Direct School Admission/For admission to St Margaret’s School
+        (Secondary) in 2027.md
+      - 2026 Direct School Admission/Application Process.md
+      - 2026 Direct School Admission/Admission Criteria for Direct School
+        Admission Exercise.md
+      - 2026 Direct School Admission/FAQs.md
       - Secondary 1 Cohort Matters/.keep
       - Secondary 1 Cohort Matters/Secondary 1 (2026 Intake).md
       - Secondary 1 Cohort Matters/2026 Booklists and Uniform Info Sheet for
