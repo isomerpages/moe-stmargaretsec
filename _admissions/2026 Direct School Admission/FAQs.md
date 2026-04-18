@@ -20,7 +20,7 @@ and criteria for&nbsp;<a href="https://stmargaretssec.moe.edu.sg/admission-crite
 </p>
 <p><strong>3.&nbsp;&nbsp; How do I apply?</strong>
 </p>
-<p>Please refer to the&nbsp;<a href="https://stmargaretssec.moe.edu.sg/resources/2018-direct-school-admission-exercise-dsa-sec/application-process" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
+<p>Please refer to the&nbsp;<a href="https://stmargaretssec.moe.edu.sg/application-process/" rel="noopener noreferrer nofollow" target="_blank">application process</a>&nbsp;for
 details.</p>
 <p><strong>4.&nbsp;&nbsp; When is the closing date for submitting the application?</strong>
 </p>
