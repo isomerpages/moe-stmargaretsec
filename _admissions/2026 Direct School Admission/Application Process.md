@@ -125,8 +125,8 @@ areas for details on the selection process and criteria.</p>
 </tbody>
 </table>
 <h4><strong>Contact Details</strong></h4>
-<p>Please refer to our <strong><u>FAQ</u></strong> if you require further information
-on DSA applications to SMS(S).</p>
+<p>Please refer to our <a href="https://stmargaretssec.moe.edu.sg/faqs/" rel="noopener nofollow" target="_blank">FAQ </a>if
+you require further information on DSA applications to SMS(S).</p>
 <p>For further queries, please contact:
 <br>Administration Manager&nbsp;
 <br>Ms Doreen Owyong
