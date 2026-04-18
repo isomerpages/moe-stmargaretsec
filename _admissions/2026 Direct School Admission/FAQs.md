@@ -9,7 +9,8 @@ third_nav_title: 2026 Direct School Admission
 <p><strong>1.&nbsp;&nbsp; What talents are the school looking for?</strong>
 </p>
 <p>St. Margaret’s School (Secondary) welcomes girls who are talented in the
-Aesthetics and Sports listed in the <u>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</u>.</p>
+Aesthetics and Sports listed in the <a href="https://stmargaretssec.moe.edu.sg/2026-direct-school-admission-exercise/" rel="noopener nofollow" target="_blank">DSA-Sec talent areas offered by St. Margaret’s School (Secondary).</a>
+</p>
 <p><strong>2.&nbsp;&nbsp; What are the selection criteria?</strong>
 </p>
 <p>Selection is based primarily on your merit in your area of talent.&nbsp;
