@@ -32,7 +32,7 @@ your audition/trial, which will be held between 9 July 2026 to 6 August
 2026.</p>
 <p><strong>6.&nbsp;&nbsp; What do I need to prepare for the selection auditions/trials/interviews?</strong>
 </p>
-<p>Please refer to the table on <a href="https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/" rel="noopener nofollow" target="_blank">Admission Criteria for Direct School Admission Exercise</a><strong> </strong>for
+<p>Please refer to the table on <a href="https://www.stmargaretssec.moe.edu.sg/admission-criteria-for-direct-school-admission-exercise/" rel="noopener nofollow" target="_blank">Admission Criteria for Direct School Admission Exercise</a><strong> </strong>for
 more information on the respective areas.</p>
 <p><strong>7.&nbsp;&nbsp; When will I know the outcome of the selection?</strong>
 </p>
