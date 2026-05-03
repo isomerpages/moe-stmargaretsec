@@ -62,7 +62,7 @@ variant: tiptap
 accessories, device warranty, and repairs</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>ICT Associate</u> 
+<p><u>ICT Manager</u> 
 <br>Mr Syukri
 <br>Email: Muhammad_syukri_suhaimi@moe.edu.sg</p>
 </td>
