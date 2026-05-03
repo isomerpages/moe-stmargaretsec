@@ -37,7 +37,7 @@ variant: tiptap
 <p>Mr&nbsp; Muhammad Syukri Bin Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
