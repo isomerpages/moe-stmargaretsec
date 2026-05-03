@@ -49,7 +49,7 @@ variant: markdown
 	</a>
 	<br><br>
 	<a href="/files/08A%20Ms%20Jane%20Ittogi.pdf">
-		<img src="/images/Jane_Ittogi.png" style="width:60%">
+		<img src="/images/Jane.png" style="width:60%">
 		read more
 	</a>    
 	<br><br>
