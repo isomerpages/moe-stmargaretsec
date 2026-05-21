@@ -29,11 +29,6 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
-        - title: 2026 DSA Exercise for 2027
-          date: 24 April 2026
-          announcement: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
-          link_text: Click here
-          link_url: https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/
         - title: School Graduation Certificate (SGC) Collection
           date: 21 May 2026
           announcement: The 2025 SMS(S) School Graduation Certificates (SGC) are available
@@ -42,4 +37,9 @@ sections:
             and present their identity card for verification.
           link_text: ""
           link_url: ""
+        - title: 2026 DSA Exercise for 2027
+          date: 24 April 2026
+          announcement: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/
 ---
