@@ -36,7 +36,6 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
-      subtitle: Add a list of announcements with dates
       announcement_items:
         - title: 2026 DSA Exercise for 2027
           date: 24 April 2026
