@@ -36,7 +36,6 @@ variant: tiptap
 <br>Ms Priscilla Lim - SH/Character and Citizenship Education
 <br>Mdm Nazlin Bte Hamzah - SH/English Language &amp; Literature
 <br>Miss Cao Yu - SH/Student Leadership
-<br>Mr Eugene Wong - SH/Chemistry
 <br>Ms Ang Wen Ting - SH/Student Management
 <br>Mdm Huang Haiying - SH/CL
 <br>Mrs Ng Li Mei - SH/Knowledge Management (Internal)
