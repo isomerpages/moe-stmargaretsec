@@ -7,6 +7,84 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>2026</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Table</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Agape Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-School Christian Fellowship Challenge 2026 – 2nd Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dunman High Debate Open – 4th Position, 2nd Best Speaker, 9th Best Speaker</p>
+<p>National Schools Debating Challenge 2026 – 3rd Best Speaker (Silver Division)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Agape Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Inter-School Christian Fellowship Challenge 2025 – 1st Position, 3rd Position,
+and 4th Position</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Debate Club</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships 2025 Silver Division
+– Top 20 Speakers of the Division (2 Recipients)</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">

@@ -7,6 +7,116 @@ variant: tiptap
 ---
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
+<summary>2026</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigadier Brooch Award 2026 – 6 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Results Pending</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Results Pending</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award 2026 – Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2025</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>CCA</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Achievements</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girls' Brigade</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls’ Brigade Singapore Company Award 2025 – Gold Award</p>
+<p>Drill Competition 2025 – Gold Award</p>
+<p>Pioneer Brigadier Brooch Award 2025 – 4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Girl Guides</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Puan Noor Aishah Award 2025 – Gold Award</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NPCC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award 2025 – Distinction Award</p>
+<p>SPF-NPCC Badge 2025 – 3 Recipients</p>
+<p>NPCC Best Unit Cadet 2025 (HQ) – 2 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Red Cross Youth</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Excellent Unit Award 2025 – Gold Award</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+<details class="isomer-details">
 <summary>2024</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <table style="minWidth: 50px">

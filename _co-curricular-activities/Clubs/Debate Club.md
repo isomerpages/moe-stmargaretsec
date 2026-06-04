@@ -87,8 +87,49 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dunman High Debate Open</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4th Position, 2nd Best Speaker, 9th Best Speaker</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National Schools Debating Challenge 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3rd Best Speaker (Silver Division)</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore Secondary Schools Debating Championships 2025 Silver Division</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Top 20 Speakers of the Division (2 Recipients)</p>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="5" colspan="1">
-<p>2019</p>
+<p><strong>2019</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Singapore Secondary Schools Debating Championships</p>
@@ -139,7 +180,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>2018</p>
+<p><strong>2018</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Hwa Chong British Parliamentary Debates 2018</p>

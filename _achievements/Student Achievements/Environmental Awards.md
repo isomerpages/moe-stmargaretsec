@@ -10,7 +10,11 @@ variant: tiptap
 who has received the HSBC/NYAA Youth Environmental Award in recognition
 of her outstanding contributions, achievements and commitment towards environmental
 protection and nature conservation in Singapore.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -26,14 +30,6 @@ protection and nature conservation in Singapore.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Merit Award</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
