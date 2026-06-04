@@ -101,6 +101,32 @@ will only be conducted during the competition season.
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games South Zone B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Quarter-Final Round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games C Division Girls League 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3<sup>rd</sup>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>2024</strong>
 </p>
