@@ -2336,12 +2336,6 @@ Girls 3 Hoops 2 Ball Group Event</p>
 <p></p>
 </div>
 </details>
-<details class="isomer-details">
-<summary></summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
 </div>
 <h4>Non School-Based CCAs</h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
