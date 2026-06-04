@@ -100,6 +100,18 @@ the competition season.</p>
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games B, C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary Round</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p><strong>2024</strong>
 </p>
