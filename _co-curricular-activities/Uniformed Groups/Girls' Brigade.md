@@ -97,6 +97,53 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Preliminary Round</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Girls’ Brigade Singapore Company Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Drill Competition 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Pioneer Brigadier Brooch Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
