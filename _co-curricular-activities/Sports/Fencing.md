@@ -84,6 +84,39 @@ variant: tiptap
 </th>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games B Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team 1st Position</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>National School Games C Division Girls</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Team 1st Position
+<br>1st Placing in Individual Foil</p>
+<p>1st Placing in Individual Epee</p>
+<p>2nd Placing in Individual Epee</p>
+<p>3rd Placing in Individual Epee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="6" colspan="1">
 <p><strong>2024</strong>
 </p>
