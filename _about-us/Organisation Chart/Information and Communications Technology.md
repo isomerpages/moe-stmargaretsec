@@ -34,7 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Muhammad Syukri Bin Suhaimi</p>
+<p>Mr&nbsp;Muhammad Syukri Bin Suhaimi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
