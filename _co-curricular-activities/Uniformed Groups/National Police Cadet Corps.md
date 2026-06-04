@@ -97,6 +97,29 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2025</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Unit Overall Proficiency Award 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Distinction</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SPF-NPCC Badge 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2024</strong>
 </p>
 </td>
@@ -115,7 +138,7 @@ dates of the event.</p>
 <p>SPF-NPCC Badge 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Students</p>
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +149,7 @@ dates of the event.</p>
 <p>NPCC Best Unit Cadet 2024 (HQ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Students</p>
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +160,7 @@ dates of the event.</p>
 <p>NPCC Best Unit Cadet 2024 (School)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Student</p>
+<p>1 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +180,7 @@ dates of the event.</p>
 <p>SPF-NPCC Badge 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 students</p>
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -165,7 +188,7 @@ dates of the event.</p>
 <p>NPCC Best Unit Cadet 2023 (HQ)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 students</p>
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -173,7 +196,7 @@ dates of the event.</p>
 <p>NPCC Best Unit Cadet 2023 (School)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student</p>
+<p>1 Recipient</p>
 </td>
 </tr>
 <tr>
@@ -186,7 +209,7 @@ dates of the event.</p>
 <br>NPCC Unit Overall Proficiency Award 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student&nbsp;
+<p>1 Recipient&nbsp;
 <br>Distinction</p>
 </td>
 </tr>
@@ -209,7 +232,7 @@ dates of the event.</p>
 <p>SPF - NPCC Badge&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 students&nbsp;</p>
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
@@ -217,7 +240,7 @@ dates of the event.</p>
 <p>Best Unit Cadet Award&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student&nbsp;</p>
+<p>1 Recipient&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -229,7 +252,7 @@ dates of the event.</p>
 <p>SPF - NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student</p>
+<p>1 Recipient</p>
 </td>
 </tr>
 <tr>
@@ -261,7 +284,7 @@ dates of the event.</p>
 <p>SPF - NPCC Badge Best Unit Cadet Award -</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student&nbsp;</p>
+<p>1 Recipient</p>
 </td>
 </tr>
 <tr>
@@ -285,7 +308,7 @@ dates of the event.</p>
 <p>SPF - NPCC Badge</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student</p>
+<p>1 Recipient</p>
 </td>
 </tr>
 <tr>
@@ -293,7 +316,7 @@ dates of the event.</p>
 <p>Best Unit Cadet Award&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 student&nbsp;</p>
+<p>1 Recipient</p>
 </td>
 </tr>
 </tbody>
