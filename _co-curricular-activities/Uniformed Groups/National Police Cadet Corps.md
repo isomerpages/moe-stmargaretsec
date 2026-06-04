@@ -97,6 +97,18 @@ dates of the event.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2026</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2025</strong>
 </p>
 </td>
@@ -116,6 +128,17 @@ dates of the event.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 Recipients</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NPCC Best Unit Cadet 2025 (HQ)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 Recipients</p>
 </td>
 </tr>
 <tr>
