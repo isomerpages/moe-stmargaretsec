@@ -24,5 +24,3 @@ activities and NE commemorative days.</p>
 <p>Parents who would like to&nbsp;share their creative ideas / interest in
 art forms or contribute their time to helping out in PSG-supported school
 activities can contact, Mrs Jean Tan at&nbsp;<a href="mailto:tan_lay_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lay_ching@moe.edu.sg</a>.</p>
-<p></p>
-<p></p>
