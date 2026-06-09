@@ -33,7 +33,12 @@ It is a symbolic representation of our students’ dedication to uphold the
 school value of being resilient as they seek to thrive in difficult circumstances.
 #BeWell</p>
 <h2>Student Artists</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
