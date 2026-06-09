@@ -12,8 +12,6 @@ legacy of love and service to the community will be told through the tale
 of Father Charis and his two daughters, Arlene and Zanna.</p>
 <p>This is our first time putting this together and we really hope that you
 will enjoy it with your loved ones.</p>
-<p>Link to interactive activities:&nbsp;<a href="https://go.gov.sg/letitshine180" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/letitshine180</a>
-</p>
 <p>The life of Mrs. Maria Dyer’s:&nbsp;<a href="https://youtu.be/zJER3tDWrxY" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/zJER3tDWrxY</a>
 </p>
 <p>Our corporate video of exciting Programmes in SMS(S):&nbsp;<a href="https://youtu.be/8tCsjrj5Ujk" rel="noopener noreferrer nofollow" target="_blank">https://youtu.be/8tCsjrj5Ujk</a>
