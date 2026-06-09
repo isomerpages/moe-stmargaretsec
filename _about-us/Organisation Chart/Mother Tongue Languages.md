@@ -90,14 +90,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Fang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nora Bte Aziz</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -147,14 +139,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Thiilagah Rajandra</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Koh Hui Sze</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
