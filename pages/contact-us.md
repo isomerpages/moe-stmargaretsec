@@ -17,7 +17,8 @@ locations:
 contacts:
   - content:
       - phone: +65 6466 4525
-      - email: ""
+      - email: stmargaretss@moe.edu.sg
       - other: ""
     title: General Enquiries & Feedback
+feedback: ""
 ---
