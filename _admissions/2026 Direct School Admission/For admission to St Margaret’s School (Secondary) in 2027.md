@@ -14,7 +14,7 @@ invited to apply through the <a href="https://www.moe.gov.sg/secondary/dsa" rel=
 </p>
 <h4><strong>DSA-Sec talent areas offered by St. Margaret’s School (Secondary)</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DSA_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ICT__Card___7_.png">
 </div>
 <p>You can view the listing of our <a href="https://www.stmargaretssec.moe.edu.sg/programmes/co-curricular-activities/" rel="noopener nofollow" target="_blank">CCAs</a> and
 our students’ <a href="https://www.stmargaretssec.moe.edu.sg/achievements/student-achievements/visual-and-performing-arts-awards/" rel="noopener nofollow" target="_blank">CCA achievements</a> for
