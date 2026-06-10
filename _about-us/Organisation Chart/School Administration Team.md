@@ -13,12 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Name</p>
+<h4>School Administration Team</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lian Chuen Ann</p>
+<p><strong>Ms Lian Chuen Ann</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 1</p>
@@ -26,7 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Doreen Owyong Siew Leng</p>
+<p><strong>Ms Doreen Owyong Siew Leng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Manager 2</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kok Hock Chung</p>
+<p><strong>Mr Kok Hock Chung</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -42,7 +45,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Mae See Toh Wai Theng</p>
+<p><strong>Ms Thor Ya Lin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Syukri Bin Suhaimi</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm Mae See Toh Wai Theng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -50,7 +72,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ngau Huay Ling</p>
+<p><strong>Ms Ngau Huay Ling</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -58,7 +81,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carol Goh Hwee Keng</p>
+<p><strong>Ms Carol Goh Hwee Keng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Executive</p>
@@ -66,7 +90,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jane Loh Yoke Cheng</p>
+<p><strong>Ms Jane Loh Yoke Cheng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -74,7 +99,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sakinah Bte Baharudin</p>
+<p><strong>Ms Sakinah Bte Baharudin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
@@ -82,7 +108,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Lik Kheng</p>
+<p><strong>Mdm Lim Lik Kheng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Assistant</p>
@@ -90,7 +117,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Susan Tan</p>
+<p><strong>Mrs&nbsp;Susan Tan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Administrative Assistant</p>
@@ -98,7 +126,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Kamisah Bte Nor</p>
+<p><strong>Mdm&nbsp;Kamisah Bte Nor</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -106,7 +135,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Muhd Ashraff Farhan</p>
+<p><strong>Mr Muhd Ashraff Farhan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -114,10 +144,66 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jasmine Chua</p>
+<p><strong>Ms Jasmine Chua</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>Legends</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>HOD</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>YH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>SH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>ST</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>LH</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Level Head</p>
 </td>
 </tr>
 </tbody>

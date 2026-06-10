@@ -13,12 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Name</p>
+<h4>Aesthetics, Craft and Technology</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Tham Chuan Chuan</p>
+<p><strong>Mrs Tham Chuan Chuan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Aesthetics, Craft and Technology</p>
@@ -26,7 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp; Lee-Ang Siew Chin</p>
+<p><strong>Mrs&nbsp; Lee-Ang Siew Chin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Nutrition and Food Science</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Karen&nbsp;Tan Meng Sie</p>
+<p><strong>Ms Karen&nbsp;Tan Meng Sie</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Aesthetics</p>
@@ -42,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Gemma Poon Pei Shan</p>
+<p><strong>Mrs Gemma Poon Pei Shan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +54,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Irnawaty Bte Isnan</p>
+<p><strong>Ms Nur Irnawaty Bte Isnan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,7 +63,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Noryani Bte Sa'aban</p>
+<p><strong>Mdm Siti Noryani Bte Sa'aban</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,7 +72,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suriyati Bte Jum'ani</p>
+<p><strong>Mdm Suriyati Bte Jum'ani</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,7 +81,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mayer Chan Moo Nin</p>
+<p><strong>Ms Mayer Chan Moo Nin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,7 +90,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Bok Sim</p>
+<p><strong>Mr Tan Bok Sim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,7 +99,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Gan Yee Seng</p>
+<p><strong>Mr Gan Yee Seng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -98,7 +108,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Vanaja Suppiah</p>
+<p><strong>Mdm&nbsp;Vanaja Suppiah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nutrition and Food Science Assistant</p>
@@ -106,7 +117,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Zulkipli Ahmad</p>
+<p><strong>Mr&nbsp;Zulkipli Ahmad</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Design and Technology - Workshop Instructor</p>
@@ -114,6 +126,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

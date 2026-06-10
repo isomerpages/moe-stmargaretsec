@@ -13,12 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Name</p>
+<h4>Physical Education</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Hee Ming</p>
+<p><strong>Mr Tan Hee Ming</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Physical Education</p>
@@ -26,7 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Madeline Seow Mei Ying</p>
+<p><strong>Mrs Madeline Seow Mei Ying</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/CCA (Internal)</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Daniel Ling Siong Kiat</p>
+<p><strong>Mr&nbsp;Daniel Ling Siong Kiat</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Daniel Teng Charng Ther</p>
+<p><strong>Mr&nbsp;Daniel Teng Charng Ther</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -50,7 +54,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Nicholas Koh Wei-Chong</p>
+<p><strong>Mr Nicholas Koh Wei-Chong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -58,7 +63,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Wong Ann Siong</p>
+<p><strong>Mr Patrick Wong Ann Siong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,6 +72,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
