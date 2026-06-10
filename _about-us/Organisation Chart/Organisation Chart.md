@@ -370,7 +370,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Ng Li Mei</p>
+<p><strong>Mrs Ng Li Mei</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Knowledge Management (Internal)</p>
@@ -381,7 +382,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Madeline Seow</p>
+<p><strong>Mrs Madeline Seow</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>CCA (Internal)</p>
@@ -404,7 +406,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Lin Jin</p>
+<p><strong>Ms Ong Lin Jin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lower Secondary Science</p>
@@ -499,7 +502,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Grace Wee </strong>
+<p><strong>Ms Grace Wee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -534,7 +537,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mdm Suryati Mail </strong>
+<p><strong>Mdm Suryati Mail</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -546,7 +549,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Sharon Tan </strong>
+<p><strong>Mrs Sharon Tan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
