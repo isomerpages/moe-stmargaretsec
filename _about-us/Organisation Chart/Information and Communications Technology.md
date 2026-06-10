@@ -13,12 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Name</p>
+<h4>Information and Communications Technology</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Teo Sook Lee</p>
+<p><strong>Mrs Teo Sook Lee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Educational Technology</p>
@@ -26,7 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Thor Ya Lin</p>
+<p><strong>Ms Thor Ya Lin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp;Muhammad Syukri Bin Suhaimi</p>
+<p><strong>Mr&nbsp;Muhammad Syukri Bin Suhaimi</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Manager</p>
@@ -42,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr&nbsp; Eric Phang Boon How</p>
+<p><strong>Mr&nbsp; Eric Phang Boon How</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -50,7 +54,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Aziizul Hakiim Bin Zulkifli</p>
+<p><strong>Mr Aziizul Hakiim Bin Zulkifli</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
@@ -58,7 +63,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm&nbsp;Rajeswari Krishnasamy</p>
+<p><strong>Mdm&nbsp;Rajeswari Krishnasamy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Librarian</p>
@@ -66,6 +72,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
