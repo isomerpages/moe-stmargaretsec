@@ -13,12 +13,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p>Name</p>
+<h4>Mother Tongue Languages</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Liang Huiyu</p>
+<p><strong>Ms&nbsp;Liang Huiyu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mother Tongue Languages</p>
@@ -26,7 +27,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Liu Xin</p>
+<p><strong>Mdm Liu Xin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Chinese Language</p>
@@ -34,7 +36,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Carol Soh</p>
+<p><strong>Ms Carol Soh</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH Secondary 2</p>
@@ -42,7 +45,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Suryati Bte Mail</p>
+<p><strong>Mdm Suryati Bte Mail</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Secondary)</p>
@@ -50,7 +54,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Huang Haiying</p>
+<p><strong>Mdm Huang Haiying</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Chinese Language</p>
@@ -58,7 +63,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Chong-Yeo Chiu Peng</p>
+<p><strong>Mrs Chong-Yeo Chiu Peng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -66,7 +72,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm M S Anbarasi</p>
+<p><strong>Mdm M S Anbarasi</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -74,7 +81,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms&nbsp;Florence&nbsp;Chang</p>
+<p><strong>Ms&nbsp;Florence&nbsp;Chang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -82,7 +90,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Pooi Sze</p>
+<p><strong>Ms Koh Pooi Sze</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -90,7 +99,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nora Bte Aziz</p>
+<p><strong>Ms Nora Bte Aziz</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -98,7 +108,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nur Aqilah Bte Ibrahim</p>
+<p><strong>Mdm Nur Aqilah Bte Ibrahim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -106,7 +117,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Quek Jiat Hia</p>
+<p><strong>Ms Quek Jiat Hia</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -114,7 +126,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sha Yijing</p>
+<p><strong>Ms Sha Yijing</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -122,7 +135,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs&nbsp;Subramaniam Kalaymai</p>
+<p><strong>Mrs&nbsp;Subramaniam Kalaymai</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -130,7 +144,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Wang Li</p>
+<p><strong>Mdm Wang Li</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -138,7 +153,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Thiilagah Rajandra</p>
+<p><strong>Mrs Thiilagah Rajandra</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -146,6 +162,8 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
