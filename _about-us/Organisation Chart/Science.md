@@ -14,12 +14,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Name</p>
+<h4>Science</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Jason Chew Sin Yong</p>
+<p><strong>Mr Jason Chew Sin Yong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Science</p>
@@ -27,7 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Foo Kar Hiang</p>
+<p><strong>Mrs Foo Kar Hiang</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Character and Citizenship Education (CCE)</p>
@@ -35,7 +37,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Teo Sook Lee</p>
+<p><strong>Mrs Teo Sook Lee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD EdTech</p>
@@ -43,7 +46,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Joey Poh</p>
+<p><strong>Ms Joey Poh</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Character and Citizenship Education (CCE)</p>
@@ -51,7 +55,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Sharon Tan</p>
+<p><strong>Mrs Sharon Tan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec)</p>
@@ -59,7 +64,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Jean Tan</p>
+<p><strong>Mrs Jean Tan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH-CCE Education and Career Guidance &amp; Partnership</p>
@@ -67,7 +73,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Kok-Ong Lin Jin</p>
+<p><strong>Mrs Kok-Ong Lin Jin</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH&nbsp;Lower Secondary Science</p>
@@ -75,7 +82,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Katherine Li</p>
+<p><strong>Ms Katherine Li</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Biology</p>
@@ -83,7 +91,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Ang Wen Ting</p>
+<p><strong>Ms Ang Wen Ting</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Management</p>
@@ -91,7 +100,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Calyn Wee</p>
+<p><strong>Mrs Calyn Wee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,7 +109,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Norhayati Bte Maziland</p>
+<p><strong>Ms Norhayati Bte Maziland</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,7 +118,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Loke Woan Jinn</p>
+<p><strong>Mdm Loke Woan Jinn</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -115,7 +127,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Susan Wong Toi Kuan</p>
+<p><strong>Mdm Susan Wong Toi Kuan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +136,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Julie Quah</p>
+<p><strong>Mrs Julie Quah</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,7 +145,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Kek Ai Kiew</p>
+<p><strong>Mdm Kek Ai Kiew</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +154,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Lee Kee Heng</p>
+<p><strong>Mr Lee Kee Heng</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laboratory Technician</p>
@@ -147,7 +163,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Marsya Afiqah Binte Salim</p>
+<p><strong>Ms Marsya Afiqah Binte Salim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Laboratory Technician</p>
@@ -155,7 +172,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Pushpalatha</p>
+<p><strong>Mdm Pushpalatha</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
@@ -163,7 +181,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Suntha</p>
+<p><strong>Mdm Suntha</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operation Support Officer</p>
@@ -171,6 +190,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
