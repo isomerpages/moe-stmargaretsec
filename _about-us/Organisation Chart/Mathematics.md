@@ -14,12 +14,13 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="3">
-<p>Name</p>
+<h4>Mathematics</h4>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Tan Sok Mun</p>
+<p><strong>Mrs Tan Sok Mun</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Mathematics</p>
@@ -27,7 +28,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Lim Bing Hui</p>
+<p><strong>Mr Lim Bing Hui</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD Student Development</p>
@@ -35,7 +37,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Ho Wai Yu</p>
+<p><strong>Ms Ho Wai Yu</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST Mathematics</p>
@@ -43,7 +46,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Lum Ying Lee</p>
+<p><strong>Ms Lum Ying Lee</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH Secondary 3</p>
@@ -51,7 +55,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Bernadette Lim</p>
+<p><strong>Ms Bernadette Lim</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH Additional Mathematics</p>
@@ -59,7 +64,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Serena Ajay</p>
+<p><strong>Mrs Serena Ajay</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>AYH Secondary 2</p>
@@ -67,7 +73,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Chen Cui Xia</p>
+<p><strong>Mdm Chen Cui Xia</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -75,7 +82,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Adeline Liew</p>
+<p><strong>Mrs Adeline Liew</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -83,7 +91,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Choo Wai Yun</p>
+<p><strong>Mdm Choo Wai Yun</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -91,7 +100,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Ho Yu Zhen</p>
+<p><strong>Mrs Ho Yu Zhen</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -99,7 +109,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mrs Ng Li Mei</p>
+<p><strong>Mrs Ng Li Mei</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -107,7 +118,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr Josh Sam</p>
+<p><strong>Mr Josh Sam</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -115,7 +127,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Ms Tan Chai Yong</p>
+<p><strong>Ms Tan Chai Yong</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -123,7 +136,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Toh Siew Lan</p>
+<p><strong>Mdm Toh Siew Lan</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -131,7 +145,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Yeo Shu Ling</p>
+<p><strong>Mdm Yeo Shu Ling</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -139,7 +154,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mr John Lim Soo Kian</p>
+<p><strong>Mr John Lim Soo Kian</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -147,7 +163,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Mdm Chen Cui Xia</p>
+<p><strong>Mdm Chen Cui Xia</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -155,6 +172,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<p>
+<br>Legends</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
