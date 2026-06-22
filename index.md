@@ -29,6 +29,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 4 & 5 Prelim Schedule
+          date: 22 June 2026
+          announcement: Please refer to the attached schedule for the dates and timings of
+            the Secondary 4 and 5 Preliminary Examinations.
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/secondary-4-5-prelim-exams-schedule-2026/
         - title: School Graduation Certificate (SGC) Collection
           date: 21 May 2026
           announcement: The 2025 SMS(S) School Graduation Certificates (SGC) are available
@@ -42,4 +48,9 @@ sections:
           announcement: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/
+        - title: Release of 2025 O Level Results Briefing Slides
+          date: 02 March 2026
+          announcement: To view the briefing slides please click on the link below
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/release-of-2025-o-level-results-briefing-slides/
 ---
