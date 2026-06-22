@@ -48,4 +48,9 @@ sections:
           announcement: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/for-admission-to-st-margaret-s-school-secondary-in-2027/
+        - title: 2025 GCE O Level
+          date: 02 March 2026
+          announcement: Announcement content
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/release-of-2025-o-level-results-briefing-slides/
 ---
