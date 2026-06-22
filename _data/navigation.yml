@@ -6,6 +6,11 @@ links:
     collection: admissions
   - title: Achievements
     collection: achievements
+  - title: Announcements
+    url: https://www.stmargaretssec.moe.edu.sg/year-2026/
+    sublinks:
+      - title: Sec 4 & 5 Prelim Schedule 2026
+        url: https://www.stmargaretssec.moe.edu.sg/secondary-4-5-prelim-exams-schedule-2026/
   - title: Events
     collection: events
   - title: Programmes
@@ -31,8 +36,3 @@ links:
     collection: resources
   - title: 180th Anniversary Celebrations
     collection: 180th-anniversary-celebrations
-  - title: Announcements
-    url: https://www.stmargaretssec.moe.edu.sg/year-2026/
-    sublinks:
-      - title: Sec 4 & 5 Prelim Schedule 2026
-        url: https://www.stmargaretssec.moe.edu.sg/secondary-4-5-prelim-exams-schedule-2026/
