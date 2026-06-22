@@ -29,6 +29,12 @@ sections:
       title: Announcements
       id: announcements
       announcement_items:
+        - title: Secondary 4 & 5 Prelim Schedule
+          date: 22 June 2026
+          announcement: Please refer to the attached schedule for the dates and timings of
+            the Secondary 4 and 5 Preliminary Examinations.
+          link_text: Click here
+          link_url: https://stmargaretssec.moe.edu.sg/secondary-4-5-prelim-exams-schedule-2026/
         - title: School Graduation Certificate (SGC) Collection
           date: 21 May 2026
           announcement: The 2025 SMS(S) School Graduation Certificates (SGC) are available
