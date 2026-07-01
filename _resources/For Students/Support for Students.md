@@ -29,7 +29,7 @@ facilities that they&nbsp;can make use of:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Drop-Inn Too</strong> 
-<br>Students may have a chat with our school counsellor, Ms Cynthia Kong.&nbsp;
+<br>Students may have a chat with our school counsellor.
 <br>
 <br>They may also send a request to speak to the counsellor via&nbsp;[https://go.gov.sg/smsscarecontact].
 <br>
