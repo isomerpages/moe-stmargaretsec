@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<h4>Character and Citizenship Education </h4>
+<h4>Character and Citizenship Education</h4>
 </th>
 </tr>
 <tr>
@@ -63,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Brenda Lee Ai Ping</strong>
+<p><strong>Ms Brenda Lee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -77,6 +77,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Adjt School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Rachel Ng</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -99,11 +108,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms&nbsp; Grace Tay</strong>
+<p><strong>Ms Tan Jia Hui</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Welfare Officer</p>
+<p>Roving Senior Student Welfare Officer</p>
 </td>
 </tr>
 </tbody>

@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Karen&nbsp;Tan Meng Sie</strong>
+<p><strong>Ms Karen&nbsp;Tan </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,11 +45,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Gemma Poon Pei Shan</strong>
+<p><strong>Ms Evelyn Surjaatmadja</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Music Teacher</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art Teacher</p>
 </td>
 </tr>
 <tr>
@@ -67,7 +67,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Art Teacher</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FCE &amp; NFS Teacher</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +85,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>FCE Teacher</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>D&amp;T Teacher</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>D&amp;T Teacher</p>
 </td>
 </tr>
 <tr>
