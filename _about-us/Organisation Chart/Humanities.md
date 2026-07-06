@@ -54,16 +54,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Desmond Lee</strong>
+<p><strong>Ms Cao Yu</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Student Leadership</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Juliana Chua</strong>
+<p><strong>Mr Desmond Lee</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,7 +117,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Ms Esther Lee Beet Hiong</strong>
+<p><strong>Ms Esther Lee </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -127,6 +127,33 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mr Augustine Goh</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Elisya Tung</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mdm. Wong Soo Hsin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Miss Yeap Yi Xuan</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
