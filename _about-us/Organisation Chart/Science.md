@@ -41,7 +41,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD EdTech</p>
+<p>HOD Educational Technology</p>
 </td>
 </tr>
 <tr>
@@ -118,6 +118,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p><strong>Ms Kek Ai Kiew</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <p><strong>Mdm Loke Woan Jinn</strong>
 </p>
 </td>
@@ -158,7 +167,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laboratory Technician</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -167,7 +176,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laboratory Technician</p>
+<p>STEM Instructor (Laboratory)</p>
 </td>
 </tr>
 <tr>
@@ -181,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p><strong>Mdm Suntha</strong>
+<p><strong>Mr. Devakumar Ramasamy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
