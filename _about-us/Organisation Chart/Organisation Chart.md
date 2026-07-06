@@ -166,7 +166,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/information-and-communications-technology/" rel="noopener nofollow" target="_blank">EdTech</a>
+<p><a href="https://stmargaretssec.moe.edu.sg/about-us/organisation-chart/information-and-communications-technology/" rel="noopener nofollow" target="_blank">Education Technology</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -667,6 +667,18 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Ms Thor Ya Lin</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Muhammad Syukri Bin Suhaimi</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
