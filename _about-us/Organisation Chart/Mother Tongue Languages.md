@@ -135,7 +135,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs&nbsp;Subramaniam Kalaymai</strong>
+<p><strong>Mrs Vijaya Lakshimi Rajaratanam&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -154,6 +154,15 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Mrs Thiilagah Rajandra</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Ms Yuan Xiaoyu&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
