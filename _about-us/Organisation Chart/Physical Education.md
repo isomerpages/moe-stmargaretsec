@@ -27,7 +27,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mrs Madeline Seow Mei Ying</strong>
+<p><strong>Mr Lim Bing Hui</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Student Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mrs Madeline Seow </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -36,7 +45,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;Daniel Ling Siong Kiat</strong>
+<p><strong>Mr&nbsp;Daniel Ling</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -45,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr&nbsp;Daniel Teng Charng Ther</strong>
+<p><strong>Mr&nbsp;Daniel Teng </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,7 +63,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Nicholas Koh Wei-Chong</strong>
+<p><strong>Mr. Gerard Lim</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -63,7 +72,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Patrick Wong Ann Siong</strong>
+<p><strong>Mr Nicholas Koh </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mr Patrick Wong </strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
