@@ -35,14 +35,6 @@ sections:
             the Secondary 4 and 5 Preliminary Examinations.
           link_text: Click here
           link_url: https://stmargaretssec.moe.edu.sg/secondary-4-5-prelim-exams-schedule-2026/
-        - title: School Graduation Certificate (SGC) Collection
-          date: 21 May 2026
-          announcement: The 2025 SMS(S) School Graduation Certificates (SGC) are available
-            for collection from 1 June to 31 July 2026 at the General Office,
-            Monday to Friday, 8.30am–5.30pm. Graduates must collect in person
-            and present their identity card for verification.
-          link_text: ""
-          link_url: ""
         - title: 2026 DSA Exercise for 2027
           date: 24 April 2026
           announcement: DSA Exercise for admission to St. Margaret’s School (Sec) in 2027
